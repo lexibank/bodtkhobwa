@@ -1,0 +1,4485 @@
+# Wordlist
+
+# DATA
+ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
+#
+1	Khispi	1sg	ga	ga		
+2	Duhumbi	1sg	ga	ga		
+3	Khoina	1sg	guː	guː		
+4	Jerigaon	1sg	guː	guː		
+5	Khoitam	1sg	guː	guː		
+6	Rahung	1sg	guː	guː		
+7	Rupa	1sg	guː	guː		
+8	Shergaon	1sg	guː	guː		
+#
+9	Khispi	2pl.excl	na-lu	na-lu		
+10	Duhumbi	2pl.excl	na-r	na-r		
+14	Rahung	2pl.excl	na-ryː	na-ryː		
+15	Rupa	2pl.excl	naː-bluŋ	naː-bluŋ		
+16	Shergaon	2pl.excl	naː-bluŋ	naː-bluŋ		
+#
+17	Khispi	2pl.incl	nal-tʰe	nal-tʰe		
+18	Duhumbi	2pl.incl	nar-tʰeˀ	nar-tʰeˀ		
+19	Khoina	2pl.incl	na-tʰik	na-tʰik		
+20	Jerigaon	2pl.incl	na-tʰik	na-tʰik		
+21	Khoitam	2pl.incl	na-tʰɛk	na-tʰɛk		
+22	Rahung	2pl.incl	na-tʰɛk	na-tʰɛk		
+23	Rupa	2pl.incl	naː-tʰik	naː-tʰik		
+24	Shergaon	2pl.incl	naː-tʰik	naː-tʰik		
+#
+25	Khispi	2sg	naŋ	naŋ		
+26	Duhumbi	2sg	naŋ	naŋ		
+27	Khoina	2sg	naŋ	naŋ		
+28	Jerigaon	2sg	naŋ	naŋ		
+29	Khoitam	2sg	naŋ	naŋ		
+30	Rahung	2sg	naŋ	naŋ		
+31	Rupa	2sg	naŋ	naŋ		
+32	Shergaon	2sg	naŋ	naŋ		
+#
+33	Khispi	3sg	wuj	wuj		
+34	Duhumbi	3sg	wɔj	wɔj		
+35	Khoina	3sg	laŋ-waː	laŋ-waː		
+36	Jerigaon	3sg	waː	waː		
+37	Khoitam	3sg	waː-ʥi	waː-ʥi		
+38	Rahung	3sg	hɛˀ ~ ɛˀ	hɛˀ 	 ɛˀ	Variants
+39	Rupa	3sg	waː	waː		
+40	Shergaon	3sg	waː	waː		
+#
+603	Khoina	Bugun	ʂə-luŋ	ʂə-luŋ		
+606	Rahung	Bugun	su-luŋ	su-luŋ		
+607	Rupa	Bugun	sə-luŋ	sə-luŋ		
+608	Shergaon	Bugun	su-luŋ	su-luŋ		
+#
+2041	Khispi	Indo-Aryan person	bi-ʨʰa	bi-ʨʰa		
+2042	Duhumbi	Indo-Aryan person	bi-ʨʰa	bi-ʨʰa		
+2043	Khoina	Indo-Aryan person	də-ʨʰuː	də-ʨʰuː		
+2045	Khoitam	Indo-Aryan person	ʨʰə-ʨʰuː	ʨʰə-ʨʰuː		
+2046	Rahung	Indo-Aryan person	ʨʰə-ʨʰuː	ʨʰə-ʨʰuː		
+2047	Rupa	Indo-Aryan person	nə-ʨʰuː ~ də-ʨʰuː	nə-ʨʰuː 	 də-ʨʰuː	Variants
+2048	Shergaon	Indo-Aryan person	də-ʨʰuː	də-ʨʰuː		
+#
+2091	Khoina	Jerigaon people	də-ʨĩː-ʥi	də-ʨĩː-ʥi		
+2092	Jerigaon	Jerigaon people	kʰ-ʨĩː-ʥi	kʰ-ʨĩː-ʥi		
+2095	Rupa	Jerigaon people	di-ʨʰi-ʥi	di-ʨʰi-ʥi		
+#
+2113	Khispi	Khoitam people	kʰus-tam-bi	kʰus-tam-bi		
+2115	Khoina	Khoitam people	gə-tam-ʥi	gə-tam-ʥi		
+2116	Jerigaon	Khoitam people	kʰ-tam-ʥi	kʰ-tam-ʥi		
+2119	Rupa	Khoitam people	gə-tam-ʥi	gə-tam-ʥi		
+2120	Shergaon	Khoitam people	ka-tam-ʥi	ka-tam-ʥi		
+#
+2499	Khoina	Miji people	kʰu-nɔ̃ː	kʰu-nɔ̃ː		
+2500	Jerigaon	Miji people	kʰu-nɔ̃ː-ʥi	kʰu-nɔ̃ː-ʥi		
+2502	Rahung	Miji people	kʰu-nũː(ŋ)	kʰu-nũː		
+2503	Rupa	Miji people	kʰu-nũː	kʰu-nũː		
+2504	Shergaon	Miji people	kʰu-nɔ̃ː	kʰu-nɔ̃ː		
+#
+2537	Khispi	Monpa	mɔn-pa	mɔn-pa		
+2538	Duhumbi	Monpa	mɔn-pa	mɔn-pa		
+2539	Khoina	Monpa	ʥə-mɐ̃ː	ʥə-mɐ̃ː		
+2542	Rahung	Monpa	mɔn-pa	mɔn-pa		
+2543	Rupa	Monpa	ʥə-mɔ̃ː	ʥə-mɔ̃ː		
+2544	Shergaon	Monpa	ʥɔ-mɔ̃ː	ʥɔ-mɔ̃ː		
+#
+2657	Khispi	Namshu people	nam-ɕu-pa	nam-ɕu-pa		
+2658	Duhumbi	Namshu people	nam-ɕu-pa	nam-ɕu-pa		
+2659	Khoina	Namshu people	na-ʦʰɔː-ʥi	na-ʦʰɔː-ʥi		
+2660	Jerigaon	Namshu people	nə-ʨo-ʤi	nə-ʨo-ʤi		
+2662	Rahung	Namshu people	pʰ-ʨʰoː-ʥi	pʰ-ʨʰoː-ʥi		
+#
+3073	Khispi	Puroik	bi-ɕ-taŋ	bi-ɕ-taŋ		
+3074	Duhumbi	Puroik	bi-s-taŋ	bi-s-taŋ		
+3075	Khoina	Puroik	ɕ-taŋ	ɕ-taŋ		
+3079	Rupa	Puroik	s-taŋ	s-taŋ		
+#
+3137	Khispi	Rahung, people of	la-pʰuŋ-bi	la-pʰuŋ-bi		
+3139	Khoina	Rahung, people of	rə-pʰiŋ-ʥi	rə-pʰiŋ-ʥi		
+3140	Jerigaon	Rahung, people of	rə-pʰiŋ-ʥi	rə-pʰiŋ-ʥi		
+3143	Rupa	Rahung, people of	rə-pʰyŋ-ʥi	rə-pʰyŋ-ʥi		
+3144	Shergaon	Rahung, people of	ru-pʰuŋ-ʥi	ru-pʰuŋ-ʥi		
+#
+3491	Khoina	Sherdukpen	tʰɔː-mø-ʥi	tʰɔː-mø-ʥi		
+3492	Jerigaon	Sherdukpen	tʰɔ̃ŋ-ʥi  ~ tʰuwã-ʤi	tʰɔ̃ŋ-ʥi  	 tʰuwã-ʤi	Variants
+3494	Rahung	Sherdukpen	tʰə-mø-ʥi	tʰə-mø-ʥi		
+3495	Rupa	Sherdukpen	møˀ	møˀ		
+3496	Shergaon	Sherdukpen	meˀ	meˀ		
+#
+3497	Khispi	Shergaon, people of	ɕɛl-pi	ɕɛl-pi		
+3499	Khoina	Shergaon, people of	ʂɛ̃ː(n)-ʥi	ʂɛ̃ː-ʥi		
+3500	Jerigaon	Shergaon, people of	sɛ̃ː(n)-ʥi	sɛ̃ː-ʥi		
+3502	Rahung	Shergaon, people of	sɛ̃ː(n)-ʥi	sɛ̃ː-ʥi		
+3503	Rupa	Shergaon, people of	sɛ̃ː(n)-ʥi	sɛ̃ː-ʥi		
+#
+4145	Khispi	Thembang people	tʰje-maŋ-bi	tʰje-maŋ-bi		
+4146	Duhumbi	Thembang people	tʰɛm-baŋ-pa	tʰɛm-baŋ-pa		
+4147	Khoina	Thembang people	tʰɛm-baŋ-ʥi	tʰɛm-baŋ-ʥi		
+4148	Jerigaon	Thembang people	thebang-ʤi	thebang-ʤi		
+4150	Rahung	Thembang people	tʰam-baŋ-ʥi	tʰam-baŋ-ʥi		
+#
+41	Khispi	ablative	-lɔ	-lɔ		
+42	Duhumbi	ablative	-lɔ̰ˀ	-lɔ̰ˀ		
+43	Khoina	ablative	-lɔ	-lɔ		
+44	Jerigaon	ablative	-lɔ	-lɔ		
+45	Khoitam	ablative	-lɔ	-lɔ		
+46	Rahung	ablative	-rɔ	-rɔ		
+47	Rupa	ablative	-lɔ	-lɔ		
+48	Shergaon	ablative	-lɔ	-lɔ		
+#
+49	Khispi	above, top	ʨʰaŋ	ʨʰaŋ		
+50	Duhumbi	above, top	ʨʰaŋ	ʨʰaŋ		
+51	Khoina	above, top	a-ʦʰɔ̃ː(ŋ)	a-ʦʰɔ̃ː		
+52	Jerigaon	above, top	a-ʨʰɔ̃ː(ŋ)	a-ʨʰɔ̃ː		
+53	Khoitam	above, top	a-ʨʰũː(ŋ)	a-ʨʰũː		
+#
+57	Khispi	achieve, obtain	man	man		
+58	Duhumbi	achieve, obtain	man	man		
+59	Khoina	achieve, obtain	mɐ̃ː	mɐ̃ː		
+61	Khoitam	achieve, obtain	mɔ̃ː	mɔ̃ː		
+62	Rahung	achieve, obtain	mɔ̃ː	mɔ̃ː		
+63	Rupa	achieve, obtain	mɔ̃ː	mɔ̃ː		
+#
+65	Khispi	aconite	si	si		
+66	Duhumbi	aconite	si	si		
+67	Khoina	aconite	saː	saː		
+68	Jerigaon	aconite	sɛː	sɛː		
+69	Khoitam	aconite	sɛ	sɛ		
+70	Rahung	aconite	sɛˀ	sɛˀ		
+71	Rupa	aconite	saː	saː		
+72	Shergaon	aconite	saː	saː		
+#
+73	Khispi	after	la-kʰuŋ	la-kʰuŋ		
+74	Duhumbi	after	la-kʰuŋ	la-kʰuŋ		
+75	Khoina	after	la-kʰyŋ	la-kʰyŋ		
+78	Rahung	after	la-kʰyŋ	la-kʰyŋ		
+79	Rupa	after	də-kʰyŋ	də-kʰyŋ		
+#
+83	Khoina	afternoon	na-jɔ-tǿn	na-jɔ-tǿn		
+84	Jerigaon	afternoon	ny-jɔ-tɛn	ny-jɔ-tɛn		
+85	Khoitam	afternoon	ny-jɔ	ny-jɔ		
+86	Rahung	afternoon	ny-jo	ny-jo		
+87	Rupa	afternoon	ɲaw	ɲaw		
+88	Shergaon	afternoon	ɲaw	ɲaw		
+#
+89	Khispi	agent	-ɔ	-ɔ		
+90	Duhumbi	agent	-ɔ̰ˀ	-ɔ̰ˀ		
+93	Khoitam	agent	-ɔ	-ɔ		
+94	Rahung	agent	-ɔ	-ɔ		
+95	Rupa	agent	-ɔ̃	-ɔ̃		
+#
+97	Khispi	alive, healthy	ɔ-haŋ	ɔ-haŋ		
+98	Duhumbi	alive, healthy	u-kʰaŋ	u-kʰaŋ		
+101	Khoitam	alive, healthy	a-haŋ	a-haŋ		
+102	Rahung	alive, healthy	a-haŋ	a-haŋ		
+103	Rupa	alive, healthy	a-haŋ-ba	a-haŋ-ba		
+104	Shergaon	alive, healthy	a-haŋ	a-haŋ		
+#
+107	Khoina	all	a-tʰɔn-ʥi	a-tʰɔn-ʥi		
+109	Khoitam	all	a-tʰɔm	a-tʰɔm		
+110	Rahung	all	a-tʰɔm	a-tʰɔm		
+111	Rupa	all	a-tʰɔm	a-tʰɔm		
+112	Shergaon	all	a-tʰɔm	a-tʰɔm		
+#
+113	Khispi	allative	-ta	-ta		
+114	Duhumbi	allative	-ta	-ta		
+116	Jerigaon	allative	-tɛn	-tɛn		
+117	Khoitam	allative	-tan	-tan		
+118	Rahung	allative	-tɛn	-tɛn		
+119	Rupa	allative	-tɔː	-tɔː		
+120	Shergaon	allative	-tɔː	-tɔː		
+#
+122	Duhumbi	amaranth	mɛs-kɔŋ	mɛs-kɔŋ		
+124	Jerigaon	amaranth	mə-kuŋ	mə-kuŋ		
+#
+129	Khispi	angry (vi)	(ki) ʦʰik	ʦʰik		
+130	Duhumbi	angry (vi)	(ki) ʦʰik	ʦʰik		
+131	Khoina	angry (vi)	lyŋ ʐyk	lyŋ ʐyk		
+132	Jerigaon	angry (vi)	lyŋ zyk	lyŋ zyk		
+133	Khoitam	angry (vi)	liŋ zyk	liŋ zyk		
+134	Rahung	angry (vi)	liŋ zik	liŋ zik		
+135	Rupa	angry (vi)	zə-lik	zə-lik		
+136	Shergaon	angry (vi)	zə-lik	zə-lik		
+#
+137	Khispi	ant	(kʰe-) ʨʰɔk	ʨʰɔk		
+138	Duhumbi	ant	(kʰin-) ʨʰɔk	ʨʰɔk		
+139	Khoina	ant	ʂan-dʐɔk	ʂan-dʐɔk		
+140	Jerigaon	ant	san-ʥɔk	san-ʥɔk		
+141	Khoitam	ant	saŋ-ʥɔk	saŋ-ʥɔk		
+142	Rahung	ant	saŋ-ʥɔk	saŋ-ʥɔk		
+143	Rupa	ant	San-ɟɔk ~ san-ʥɔk	San-ɟɔk 	 san-ʥɔk	Variants
+144	Shergaon	ant	san-ʥɔk	san-ʥɔk		
+#
+145	Khispi	arrive	pʰɛt	pʰɛt		
+146	Duhumbi	arrive	pʰɛt	pʰɛt		
+147	Khoina	arrive	pʰɛt	pʰɛt		
+148	Jerigaon	arrive	pʰɛʔ	pʰɛʔ		
+149	Khoitam	arrive	pʰɛt	pʰɛt		
+150	Rahung	arrive	pʰɛt	pʰɛt		
+#
+153	Khispi	arrow	mik	mik		
+154	Duhumbi	arrow	mik	mik		
+156	Jerigaon	arrow	mik	mik		
+157	Khoitam	arrow	mik	mik		
+158	Rahung	arrow	mik-ri	mik-ri		
+159	Rupa	arrow	mik	mik		
+160	Shergaon	arrow	mit	mit		
+#
+162	Duhumbi	ascend	ʥaŋ(-luŋ)	ʥaŋ		
+163	Khoina	ascend	ʥaŋ	ʥaŋ		
+164	Jerigaon	ascend	(kʰa-)ʥaŋ (aŋ)	ʥaŋ		
+166	Rahung	ascend	(kʰan-)ʥaŋ (ɔŋ)	ʥaŋ		
+#
+169	Khispi	ash	ʨʰu-pʰa	ʨʰu-pʰa		
+170	Duhumbi	ash	ʨʰu-pʰaˀ	ʨʰu-pʰaˀ		
+171	Khoina	ash	ʥɐ-pʰlu	ʥɐ-pʰlu		
+172	Jerigaon	ash	ʨʰa-pʰlu	ʨʰa-pʰlu		
+173	Khoitam	ash	ʨʰa-pʰlu	ʨʰa-pʰlu		
+174	Rahung	ash	ʨʰa-pʰru ~ ʨʰa-pʰlu	ʨʰa-pʰru 	 ʨʰa-pʰlu	Variants
+175	Rupa	ash	ʨʰa-pʰlu	ʨʰa-pʰlu		
+176	Shergaon	ash	ʨʰa-plu	ʨʰa-plu		
+#
+177	Khispi	ask	ʥik	ʥik		
+178	Duhumbi	ask	ʥik	ʥik		
+179	Khoina	ask	ʐik	ʐik		
+181	Khoitam	ask	zik	zik		
+182	Rahung	ask	zik	zik		
+183	Rupa	ask	zik	zik		
+#
+185	Khispi	associative	-tʰɔŋ	-tʰɔŋ		
+186	Duhumbi	associative	-tʰɔŋ	-tʰɔŋ		
+187	Khoina	associative	-tʰyŋ	-tʰyŋ		
+189	Khoitam	associative	-tʰɔŋ	-tʰɔŋ		
+190	Rahung	associative	-tʰɔŋ	-tʰɔŋ		
+191	Rupa	associative	-tʰɔ̃ː(ŋ)	-tʰɔ̃ː		
+192	Shergaon	associative	-tʰɔŋ	-tʰɔŋ		
+#
+193	Khispi	attic	ʑak ~ ʑap	ʑak 	 ʑap	Variants
+194	Duhumbi	attic	jap	jap		
+195	Khoina	attic	ʐɔː	ʐɔː		
+197	Khoitam	attic	zoː	zoː		
+198	Rahung	attic	zoː	zoː		
+199	Rupa	attic	zoː	zoː		
+200	Shergaon	attic	zoː	zoː		
+#
+201	Khispi	axe	pʰa	pʰa		
+202	Duhumbi	axe	pʰa	pʰa		
+203	Khoina	axe	pʰu-luˀ	pʰu-luˀ		
+204	Jerigaon	axe	pʰluˀ	pʰluˀ		
+205	Khoitam	axe	pʰluˀ	pʰluˀ		
+206	Rahung	axe	pʰruˀ	pʰruˀ		
+207	Rupa	axe	pʰluˀ	pʰluˀ		
+208	Shergaon	axe	pʰluˀ	pʰluˀ		
+#
+211	Khoina	back (n)	na-guŋ	na-guŋ		
+212	Jerigaon	back (n)	na-kuŋ	na-kuŋ		
+213	Khoitam	back (n)	(a-)kyː	kyː		
+214	Rahung	back (n)	kyː	kyː		
+215	Rupa	back (n)	ɲa-kʰuŋ ~ ɲa-guŋ	ɲa-kʰuŋ 	 ɲa-guŋ	Variants
+216	Shergaon	back (n)	ɲa-kʰuŋ	ɲa-kʰuŋ		
+#
+217	Khispi	back (wards)	kʰiɕ ~ kʰis	kʰiɕ 	 kʰis	Variants
+221	Khoitam	back (wards)	li-kʰeː	li-kʰeː		
+222	Rahung	back (wards)	la-kʰeː	la-kʰeː		
+223	Rupa	back (wards)	lə-kʰeː	lə-kʰeː		
+#
+225	Khispi	bad1	u-ʑan	u-ʑan		
+226	Duhumbi	bad1	u-ʑan	u-ʑan		
+227	Khoina	bad1	a-ʐɐ̃ː (-dy)	a-ʐɐ̃ː		
+229	Khoitam	bad1	a-zɔ̃ː	a-zɔ̃ː		
+230	Rahung	bad1	a-zɔ̃ː	a-zɔ̃ː		
+231	Rupa	bad1	a-zɔ̃ː	a-zɔ̃ː		
+#
+235	Khoina	bad2	a-nu	a-nu		
+236	Jerigaon	bad2	a-nu	a-nu		
+237	Khoitam	bad2	a-nu	a-nu		
+238	Rahung	bad2	a-nu	a-nu		
+239	Rupa	bad2	a-ɲu	a-ɲu		
+#
+241	Khispi	bamboo	mej	mej		
+242	Duhumbi	bamboo	mɛj	mɛj		
+243	Khoina	bamboo	maː	maː		
+244	Jerigaon	bamboo	mɛˀ	mɛˀ		
+245	Khoitam	bamboo	mɛˀ	mɛˀ		
+246	Rahung	bamboo	mɛˀ	mɛˀ		
+247	Rupa	bamboo	maˀ	maˀ		
+248	Shergaon	bamboo	ma	ma		
+#
+251	Khoina	banana	ma-suŋ	ma-suŋ		
+252	Jerigaon	banana	mə-suŋ	mə-suŋ		
+253	Khoitam	banana	mə-suŋ	mə-suŋ		
+254	Rahung	banana	pʰ-suŋ	pʰ-suŋ		
+255	Rupa	banana	mə-suŋ ~ bə-suŋ	mə-suŋ 	 bə-suŋ	Variants
+256	Shergaon	banana	mə-suŋ	mə-suŋ		
+#
+257	Khispi	barley	pʰɔk	pʰɔk		
+258	Duhumbi	barley	pʰɔk	pʰɔk		
+259	Khoina	barley	pʰuk (dakløː)	pʰuk		
+260	Jerigaon	barley	pʰuk	pʰuk		
+261	Khoitam	barley	pʰuk	pʰuk		
+262	Rahung	barley	pʰuk	pʰuk		
+263	Rupa	barley	pʰuk	pʰuk		
+264	Shergaon	barley	pʰuk	pʰuk		
+#
+265	Khispi	bastard	daw-la	daw-la		
+266	Duhumbi	bastard	dow-la	dow-la		
+267	Khoina	bastard	də-pʰlɐːʰ	də-pʰlɐːʰ		
+268	Jerigaon	bastard	du-flɐːʰ	du-flɐːʰ		
+269	Khoitam	bastard	du-pʰlɔːʰ ~ du-pʰlaːʰ	du-pʰlɔːʰ 	 du-pʰlaːʰ	Variants
+270	Rahung	bastard	da-pʰlɔːʰ	da-pʰlɔːʰ		
+271	Rupa	bastard	də-pʰlɔːʰ	də-pʰlɔːʰ		
+272	Shergaon	bastard	də-pʰlɔː	də-pʰlɔː		
+#
+273	Khispi	bat	pʰa-baŋ	pʰa-baŋ		
+274	Duhumbi	bat	pʰa-waŋ ~ pʰɔŋ-kʰaŋ	pʰa-waŋ 	 pʰɔŋ-kʰaŋ	Variants
+275	Khoina	bat	ʥə-pʰlɔ̃ː	ʥə-pʰlɔ̃ː		
+276	Jerigaon	bat	ʨʰa-pʰɔ̃ː	ʨʰa-pʰɔ̃ː		
+277	Khoitam	bat	pʰɔː-waŋ	pʰɔː-waŋ		
+278	Rahung	bat	ʨʰam-pʰɔm	ʨʰam-pʰɔm		
+279	Rupa	bat	ʨʰam-pʰlaː ~ ʦʰam-pʰlɔ̃ː ~ pʰaː-baŋ ~ pʰaː-waŋ	ʨʰam-pʰlaː 	 ʦʰam-pʰlɔ̃ː  pʰaː-baŋ  pʰaː-waŋ	Variants
+280	Shergaon	bat	paŋ-paŋ	paŋ-paŋ		
+#
+281	Khispi	beans	pʰo-bin	pʰo-bin		
+283	Khoina	beans	pʰɔŋ-ba	pʰɔŋ-ba		
+284	Jerigaon	beans	pʰɔŋ-ba	pʰɔŋ-ba		
+285	Khoitam	beans	pʰɔm-bɛ	pʰɔm-bɛ		
+286	Rahung	beans	pʰam-bɛ	pʰam-bɛ		
+287	Rupa	beans	pʰam-pʰla	pʰam-pʰla		
+#
+289	Khispi	bear	ɕa-tʰɔm	ɕa-tʰɔm		
+290	Duhumbi	bear	ɕa-tʰɔm	ɕa-tʰɔm		
+291	Khoina	bear	ɕ-tʰuŋ	ɕ-tʰuŋ		
+292	Jerigaon	bear	s-tʰuŋ	s-tʰuŋ		
+293	Khoitam	bear	s-tʰuŋ ~ s-tuŋ	s-tʰuŋ 	 s-tuŋ	Variants
+294	Rahung	bear	s-tuŋ	s-tuŋ		
+295	Rupa	bear	s-tuŋ	s-tuŋ		
+296	Shergaon	bear	s-tuŋ	s-tuŋ		
+#
+297	Khispi	beat, hit	mak	mak		
+298	Duhumbi	beat, hit	mak	mak		
+299	Khoina	beat, hit	wɐk	wɐk		
+300	Jerigaon	beat, hit	wak	wak		
+302	Rahung	beat, hit	mak	mak		
+303	Rupa	beat, hit	mak	mak		
+#
+305	Khispi	beautiful	u-liɕ-ta	u-liɕ-ta		
+306	Duhumbi	beautiful	u-lis	u-lis		
+310	Rahung	beautiful	a-leː-du	a-leː-du		
+311	Rupa	beautiful	a-leː-du	a-leː-du		
+#
+313	Khispi	bee	ʨʰi-kʰus a-ma	ʨʰi-kʰus a-ma		
+314	Duhumbi	bee	ʨʰi-kʰus a-ma	ʨʰi-kʰus a-ma		
+315	Khoina	bee	ʨʰə-xø-mɐː	ʨʰə-xø-mɐː		
+316	Jerigaon	bee	ʨʰə-kʰø-muː	ʨʰə-kʰø-muː		
+318	Rahung	bee	ʨʰaŋ-kʰø-əm	ʨʰaŋ-kʰø-əm		
+319	Rupa	bee	ʨʰə-kʰø-mɔː	ʨʰə-kʰø-mɔː		
+320	Shergaon	bee	ʨʰə-kʰe-mɔː	ʨʰə-kʰe-mɔː		
+#
+321	Khispi	beer filter	tʰɔk	tʰɔk		
+322	Duhumbi	beer filter	tʰɔk	tʰɔk		
+323	Khoina	beer filter	tʰɔk	tʰɔk		
+324	Jerigaon	beer filter	tʰɔk	tʰɔk		
+325	Khoitam	beer filter	tʰɔk	tʰɔk		
+326	Rahung	beer filter	tʰɔk(-broː)	tʰɔk		
+327	Rupa	beer filter	tʰɔk	tʰɔk		
+328	Shergaon	beer filter	(kʰi-)tʰɔk	tʰɔk		
+#
+329	Khispi	beer strainer	kʰas-ki	kʰas-ki		
+330	Duhumbi	beer strainer	kʰas-ki	kʰas-ki		
+332	Jerigaon	beer strainer	ka-ʨɛˀ	ka-ʨɛˀ		
+333	Khoitam	beer strainer	(byŋ) kʰa-ʨi	kʰa-ʨi		
+#
+337	Khispi	behind	la-kʰun	la-kʰun		
+338	Duhumbi	behind	la-kʰun	la-kʰun		
+342	Rahung	behind	la-kʰeː	la-kʰeː		
+343	Rupa	behind	də-kʰeː	də-kʰeː		
+#
+345	Khispi	belly, abdomen	hi-niŋ	hi-niŋ		
+346	Duhumbi	belly, abdomen	hi-liŋ	hi-liŋ		
+347	Khoina	belly, abdomen	sə-rĩː	sə-rĩː		
+348	Jerigaon	belly, abdomen	sə-rĩː	sə-rĩː		
+349	Khoitam	belly, abdomen	pʰə-riŋ	pʰə-riŋ		
+350	Rahung	belly, abdomen	sə-ɾiŋ	sə-ɾiŋ		
+351	Rupa	belly, abdomen	sə-riŋ	sə-riŋ		
+352	Shergaon	belly, abdomen	sə-riŋ	sə-riŋ		
+#
+353	Khispi	belt	bu-kʰak	bu-kʰak		
+354	Duhumbi	belt	bu-kʰak	bu-kʰak		
+355	Khoina	belt	bu-kʰɐk	bu-kʰɐk		
+356	Jerigaon	belt	mə-kʰak	mə-kʰak		
+357	Khoitam	belt	mə-kʰak	mə-kʰak		
+358	Rahung	belt	mə-kʰak	mə-kʰak		
+359	Rupa	belt	mə-kʰak	mə-kʰak		
+360	Shergaon	belt	mə-kʰak	mə-kʰak		
+#
+361	Khispi	big	ɔ-dɔk	ɔ-dɔk		
+362	Duhumbi	big	ɔ-dɔk	ɔ-dɔk		
+363	Khoina	big	a-dɔk	a-dɔk		
+364	Jerigaon	big	a-dɔk	a-dɔk		
+365	Khoitam	big	a-dɔk	a-dɔk		
+366	Rahung	big	a-dɔk	a-dɔk		
+367	Rupa	big	a-dɔk	a-dɔk		
+368	Shergaon	big	a-dɔk	a-dɔk		
+#
+369	Khispi	bind (v)	dɔŋ	dɔŋ		
+370	Duhumbi	bind (v)	dɔŋ	dɔŋ		
+371	Khoina	bind (v)	ruŋ	ruŋ		
+#
+377	Khispi	bird	hwa	hwa		
+378	Duhumbi	bird	hwa	hwa		
+379	Khoina	bird	fuː	fuː		
+380	Jerigaon	bird	huː	huː		
+381	Khoitam	bird	huː	huː		
+382	Rahung	bird	huː	huː		
+383	Rupa	bird	huː	huː		
+384	Shergaon	bird	huː	huː		
+#
+385	Khispi	bite	zɛk	zɛk		
+386	Duhumbi	bite	zjɛk	zjɛk		
+389	Khoitam	bite	zɛk	zɛk		
+390	Rahung	bite	zɛk	zɛk		
+391	Rupa	bite	zɛk	zɛk		
+392	Shergaon	bite	zɛk	zɛk		
+#
+393	Khispi	bitter (vi)	ʨʰak	ʨʰak		
+394	Duhumbi	bitter (vi)	ʨʰak	ʨʰak		
+395	Khoina	bitter (vi)	a-ʨʰɐk	a-ʨʰɐk		
+396	Jerigaon	bitter (vi)	ʨʰak	ʨʰak		
+397	Khoitam	bitter (vi)	ʨʰak	ʨʰak		
+398	Rahung	bitter (vi)	ʨʰak	ʨʰak		
+399	Rupa	bitter (vi)	cʰak ~ ʨʰak	cʰak 	 ʨʰak	Variants
+400	Shergaon	bitter (vi)	a-ʨʰak	a-ʨʰak		
+#
+401	Khispi	black	u-ʨʰam	u-ʨʰam		
+402	Duhumbi	black	u-ʨʰam	u-ʨʰam		
+403	Khoina	black	a-tʂʰũː	a-tʂʰũː		
+404	Jerigaon	black	a-ʨʰɔ̃ː	a-ʨʰɔ̃ː		
+405	Khoitam	black	a-ʨʰũː	a-ʨʰũː		
+406	Rahung	black	a-ʨʰũː	a-ʨʰũː		
+407	Rupa	black	a-ʨʰũː	a-ʨʰũː		
+408	Shergaon	black	a-ʨʰɔ̃ː	a-ʨʰɔ̃ː		
+#
+409	Khispi	blood	huj	huj		
+410	Duhumbi	blood	hɔj	hɔj		
+411	Khoina	blood	xaː	xaː		
+412	Jerigaon	blood	hɛːʰ	hɛːʰ		
+413	Khoitam	blood	hɛːʰ	hɛːʰ		
+414	Rahung	blood	hɛːʰ	hɛːʰ		
+415	Rupa	blood	haːʰ	haːʰ		
+416	Shergaon	blood	haː	haː		
+#
+417	Khispi	blow	hut	hut		
+418	Duhumbi	blow	hut	hut		
+419	Khoina	blow	wik	wik		
+420	Jerigaon	blow	wik	wik		
+421	Khoitam	blow	mik	mik		
+422	Rahung	blow	mik	mik		
+423	Rupa	blow	mik	mik		
+424	Shergaon	blow	mit	mit		
+#
+427	Khoina	blow (wind)	fɔː	fɔː		
+429	Khoitam	blow (wind)	fyː	fyː		
+430	Rahung	blow (wind)	hyː	hyː		
+#
+433	Khispi	boar, wild	ɕa-kʰɛn	ɕa-kʰɛn		
+434	Duhumbi	boar, wild	ɕa-kʰɛn	ɕa-kʰɛn		
+435	Khoina	boar, wild	ʂ-tʂʰɛn	ʂ-tʂʰɛn		
+436	Jerigaon	boar, wild	s-ɛn	s-ɛn		
+437	Khoitam	boar, wild	s-kan ~ s-kʰan	s-kan 	 s-kʰan	Variants
+438	Rahung	boar, wild	s-kʰan ~ s-kɛn	s-kʰan 	 s-kɛn	Variants
+439	Rupa	boar, wild	s-kan	s-kan		
+440	Shergaon	boar, wild	s-kan	s-kan		
+#
+441	Khispi	boil  (water)	ʨʰɔw	ʨʰɔw		
+442	Duhumbi	boil  (water)	ʨʰɔw	ʨʰɔw		
+444	Jerigaon	boil  (water)	ʨʰɔ	ʨʰɔ		
+445	Khoitam	boil  (water)	ʨʰɔ	ʨʰɔ		
+446	Rahung	boil  (water)	ʨʰo	ʨʰo		
+447	Rupa	boil  (water)	ʦʰaw ~ ʨʰaw	ʦʰaw 	 ʨʰaw	Variants
+448	Shergaon	boil  (water)	ʨʰaw	ʨʰaw		
+#
+449	Khispi	boil (n)	kʰaŋ-pa ~ kʰlaŋ-pa	kʰaŋ-pa 	 kʰlaŋ-pa	Variants
+450	Duhumbi	boil (n)	kʰraŋ-pa	kʰraŋ-pa		
+451	Khoina	boil (n)	gə-kʰaŋ	gə-kʰaŋ		
+453	Khoitam	boil (n)	kʰa-kʰaŋ	kʰa-kʰaŋ		
+454	Rahung	boil (n)	kʰaŋ-kʰaŋ	kʰaŋ-kʰaŋ		
+455	Rupa	boil (n)	kʰaŋ-kʰaŋ	kʰaŋ-kʰaŋ		
+#
+457	Khispi	bone	ɕa-kʰus	ɕa-kʰus		
+458	Duhumbi	bone	ɕa-kʰus	ɕa-kʰus		
+459	Khoina	bone	a-xyk	a-xyk		
+460	Jerigaon	bone	i-hik	i-hik		
+461	Khoitam	bone	sə-kik ~ s-kik	sə-kik 	 s-kik	Variants
+462	Rahung	bone	s-kik	s-kik		
+463	Rupa	bone	s-kik	s-kik		
+464	Shergaon	bone	s-kit	s-kit		
+#
+465	Khispi	borrow1	luj	luj		
+466	Duhumbi	borrow1	lɔj	lɔj		
+469	Khoitam	borrow1	lɛːʰ	lɛːʰ		
+471	Rupa	borrow1	laː	laː		
+#
+473	Khispi	borrow2	kʰi	kʰi		
+474	Duhumbi	borrow2	kʰi	kʰi		
+475	Khoina	borrow2	ʨʰiː	ʨʰiː		
+476	Jerigaon	borrow2	ʨʰiː	ʨʰiː		
+477	Khoitam	borrow2	ʨʰiː	ʨʰiː		
+479	Rupa	borrow2	kʰiː ~ ʨʰiː	kʰiː 	 ʨʰiː	Variants
+480	Shergaon	borrow2	kʰiː	kʰiː		
+#
+481	Khispi	bow	li	li		
+482	Duhumbi	bow	li	li		
+483	Khoina	bow	li	li		
+484	Jerigaon	bow	li	li		
+485	Khoitam	bow	ri	ri		
+486	Rahung	bow	ri	ri		
+487	Rupa	bow	li	li		
+488	Shergaon	bow	li	li		
+#
+489	Khispi	brain	ɕa-ɲu	ɕa-ɲu		
+490	Duhumbi	brain	ɕa-ɲu	ɕa-ɲu		
+491	Khoina	brain	(mə-tʰɛ̃n) sə-nyː	sə-nyː		
+492	Jerigaon	brain	(kʰruk) a-nyː	a-nyː		
+493	Khoitam	brain	(kʰruk) a-nyː	a-nyː		
+494	Rahung	brain	(kʰruk) a-nyː	a-nyː		
+495	Rupa	brain	a-ɲyː	a-ɲyː		
+496	Shergaon	brain	a-ɲiː	a-ɲiː		
+#
+499	Khoina	branch	a-pʰaŋ	a-pʰaŋ		
+500	Jerigaon	branch	a-pʰaŋ	a-pʰaŋ		
+501	Khoitam	branch	a-pʰaŋ	a-pʰaŋ		
+502	Rahung	branch	a-pʰaŋ	a-pʰaŋ		
+503	Rupa	branch	a-pʰaŋ	a-pʰaŋ		
+504	Shergaon	branch	a-pʰaŋ	a-pʰaŋ		
+#
+505	Khispi	break	gɛt	gɛt		
+506	Duhumbi	break	gɛt	gɛt		
+507	Khoina	break	ʥɛ̰ʔ	ʥɛ̰ʔ		
+508	Jerigaon	break	ʨʰɛ̰ʔ	ʨʰɛ̰ʔ		
+509	Khoitam	break	ʥɛ̰ʔ ~ ʨʰɛ̰ʔ	ʥɛ̰ʔ 	 ʨʰɛ̰ʔ	Variants
+510	Rahung	break	ʥɛ̰ʔ	ʥɛ̰ʔ		
+511	Rupa	break	gat	gat		
+#
+513	Khispi	breast, milk	ɲiŋ ~ ɲuŋ	ɲiŋ 	 ɲuŋ	Variants
+514	Duhumbi	breast, milk	ɲiŋ ~ ɲuŋ	ɲiŋ 	 ɲuŋ	Variants
+515	Khoina	breast, milk	nyŋ	nyŋ		
+516	Jerigaon	breast, milk	nyŋ	nyŋ		
+517	Khoitam	breast, milk	nyŋ	nyŋ		
+518	Rahung	breast, milk	nyŋ	nyŋ		
+519	Rupa	breast, milk	ɲyŋ	ɲyŋ		
+520	Shergaon	breast, milk	ɲuŋ	ɲuŋ		
+#
+521	Khispi	breath	buk	buk		
+522	Duhumbi	breath	buk	buk		
+523	Khoina	breath	byk	byk		
+524	Jerigaon	breath	byk	byk		
+525	Khoitam	breath	byk	byk		
+526	Rahung	breath	byk	byk		
+527	Rupa	breath	byk	byk		
+528	Shergaon	breath	buk	buk		
+#
+529	Khispi	bridge	tʰɔn	tʰɔn		
+530	Duhumbi	bridge	tʰɔn	tʰɔn		
+531	Khoina	bridge	tʰøː	tʰøː		
+532	Jerigaon	bridge	tʰøː	tʰøː		
+533	Khoitam	bridge	tʰĩː	tʰĩː		
+534	Rahung	bridge	tʰyː	tʰyː		
+535	Rupa	bridge	tʰøː	tʰøː		
+536	Shergaon	bridge	toː(-zam)	toː		
+#
+538	Duhumbi	bridge, hanging	ɕam	ɕam		
+539	Khoina	bridge, hanging	sɔ̃ː	sɔ̃ː		
+541	Khoitam	bridge, hanging	sũː(ŋ)	sũː		
+543	Rupa	bridge, hanging	sũː	sũː		
+#
+545	Khispi	bring	tʰun	tʰun		
+547	Khoina	bring	ʨʰuː	ʨʰuː		
+548	Jerigaon	bring	ʨʰuː	ʨʰuː		
+549	Khoitam	bring	ʨʰuː	ʨʰuː		
+550	Rahung	bring	ʨʰuː	ʨʰuː		
+551	Rupa	bring	ʨʰu	ʨʰu		
+#
+553	Khispi	brother (elder)	a-da	a-da		
+554	Duhumbi	brother (elder)	a-daˀ	a-daˀ		
+555	Khoina	brother (elder)	a-ja	a-ja		
+556	Jerigaon	brother (elder)	a-jɛˀ	a-jɛˀ		
+557	Khoitam	brother (elder)	gə-bɛˀ ~ a-bɛˀ	gə-bɛˀ 	 a-bɛˀ	Variants
+558	Rahung	brother (elder)	a-bɛˀ	a-bɛˀ		
+559	Rupa	brother (elder)	a-bu	a-bu		
+560	Shergaon	brother (elder)	a-bu	a-bu		
+#
+569	Khispi	brother, younger	ɔ-nɔw	ɔ-nɔw		
+570	Duhumbi	brother, younger	ɔ-nɔw	ɔ-nɔw		
+572	Jerigaon	brother, younger	a-nuː	a-nuː		
+573	Khoitam	brother, younger	a-nuː	a-nuː		
+574	Rahung	brother, younger	a-nuː	a-nuː		
+575	Rupa	brother, younger	a-nuː	a-nuː		
+576	Shergaon	brother, younger	a-nuː	a-nuː		
+#
+561	Khispi	brother-in-law	a-lej ~ a-li	a-lej 	 a-li	Variants
+562	Duhumbi	brother-in-law	a-lɛj	a-lɛj		
+563	Khoina	brother-in-law	a-raː	a-raː		
+564	Jerigaon	brother-in-law	a-rɛː	a-rɛː		
+565	Khoitam	brother-in-law	a-rɛː	a-rɛː		
+566	Rahung	brother-in-law	a-rɛː	a-rɛː		
+567	Rupa	brother-in-law	a-raː	a-raː		
+568	Shergaon	brother-in-law	a-raː	a-raː		
+#
+577	Khispi	buckwheat, bitter	jɛs-ma	jɛs-ma		
+578	Duhumbi	buckwheat, bitter	ʑa-ma ~ bra-ma	ʑa-ma 	 bra-ma	Variants
+579	Khoina	buckwheat, bitter	dza-m	dza-m		
+580	Jerigaon	buckwheat, bitter	ʥə-muː	ʥə-muː		
+581	Khoitam	buckwheat, bitter	ʥu-m	ʥu-m		
+582	Rahung	buckwheat, bitter	ʥə-muː	ʥə-muː		
+583	Rupa	buckwheat, bitter	dzə-muː	dzə-muː		
+584	Shergaon	buckwheat, bitter	ʥə-muː	ʥə-muː		
+#
+585	Khispi	buckwheat, sweet	gun-ʦun	gun-ʦun		
+586	Duhumbi	buckwheat, sweet	gun-ʦun	gun-ʦun		
+587	Khoina	buckwheat, sweet	ʣam gə-ʦiŋ	ʣam gə-ʦiŋ		
+588	Jerigaon	buckwheat, sweet	kʰ-ʨiŋ	kʰ-ʨiŋ		
+589	Khoitam	buckwheat, sweet	kʰiŋ-ʨiŋ	kʰiŋ-ʨiŋ		
+590	Rahung	buckwheat, sweet	kʰan-ʨiŋ	kʰan-ʨiŋ		
+591	Rupa	buckwheat, sweet	gə-ʦin	gə-ʦin		
+592	Shergaon	buckwheat, sweet	gə-ʨin	gə-ʨin		
+#
+595	Khoina	buffalo	ʂə-dʐeː	ʂə-dʐeː		
+596	Jerigaon	buffalo	sə-ʥeː	sə-ʥeː		
+597	Khoitam	buffalo	ʥə-zeː ~ zə-zeː	ʥə-zeː 	 zə-zeː	Variants
+598	Rahung	buffalo	zeː	zeː		
+599	Rupa	buffalo	zə-gyː(ŋ) ~ zə-geː	zə-gyː 	 zə-geː	Variants
+600	Shergaon	buffalo	zə-geː	zə-geː		
+#
+609	Khispi	burn (vi)	haj	haj		
+610	Duhumbi	burn (vi)	haj	haj		
+611	Khoina	burn (vi)	ha	ha		
+612	Jerigaon	burn (vi)	hɛ	hɛ		
+613	Khoitam	burn (vi)	hɛ	hɛ		
+614	Rahung	burn (vi)	hɛ	hɛ		
+615	Rupa	burn (vi)	ha	ha		
+616	Shergaon	burn (vi)	ha	ha		
+#
+617	Khispi	burn, roast (vt)	di	di		
+618	Duhumbi	burn, roast (vt)	di	di		
+619	Khoina	burn, roast (vt)	riː	riː		
+621	Khoitam	burn, roast (vt)	riː	riː		
+623	Rupa	burn, roast (vt)	riː	riː		
+#
+625	Khispi	butter	mal	mal		
+626	Duhumbi	butter	mar	mar		
+627	Khoina	butter	mãː	mãː		
+628	Jerigaon	butter	mãː	mãː		
+629	Khoitam	butter	mɔ̃ː	mɔ̃ː		
+630	Rahung	butter	mɔ̃ː	mɔ̃ː		
+631	Rupa	butter	mɔ̃ː	mɔ̃ː		
+632	Shergaon	butter	mɔ̃ː	mɔ̃ː		
+#
+634	Duhumbi	butterfly	(pɛm-)pi-liŋ	pi-liŋ		
+635	Khoina	butterfly	ʦʰam-pʰlɔ̃ː	ʦʰam-pʰlɔ̃ː		
+636	Jerigaon	butterfly	ʨʰam-blɔ̃ː ~ ʨʰam-pʰlɔ̃ː	ʨʰam-blɔ̃ː 	 ʨʰam-pʰlɔ̃ː	Variants
+637	Khoitam	butterfly	ʨʰam-pʰlɔː	ʨʰam-pʰlɔː		
+638	Rahung	butterfly	ʨʰam-pʰɔr	ʨʰam-pʰɔr		
+639	Rupa	butterfly	ʦam-pyŋ ~ ʨam-pyŋ ~ ʨam-pliŋ	ʦam-pyŋ 	 ʨam-pyŋ  ʨam-pliŋ	Variants
+640	Shergaon	butterfly	ʨʰam-pliŋ	ʨʰam-pliŋ		
+#
+641	Khispi	buy	ɕej	ɕej		
+642	Duhumbi	buy	ɕɛj	ɕɛj		
+643	Khoina	buy	ʦʰaː	ʦʰaː		
+644	Jerigaon	buy	ʨʰɛː ~ ʨʰaː	ʨʰɛː 	 ʨʰaː	Variants
+645	Khoitam	buy	ʨʰɛː	ʨʰɛː		
+646	Rahung	buy	ʨʰɛː	ʨʰɛː		
+647	Rupa	buy	ʨʰaː ~ ʦʰaː	ʨʰaː 	 ʦʰaː	Variants
+648	Shergaon	buy	ʨʰaː	ʨʰaː		
+#
+649	Khispi	call for	kʰal	kʰal		
+650	Duhumbi	call for	kʰaɹ	kʰaɹ		
+651	Khoina	call for	kʰɛ(n)	kʰɛ		
+652	Jerigaon	call for	kʰɛ(n)	kʰɛ		
+653	Khoitam	call for	kʰan	kʰan		
+654	Rahung	call for	kʰan ~ kʰɛ(n)	kʰan 	 kʰɛ	Variants
+655	Rupa	call for	kʰan	kʰan		
+656	Shergaon	call for	kʰan	kʰan		
+#
+657	Khispi	cane	kʰi	kʰi		
+658	Duhumbi	cane	kʰi	kʰi		
+659	Khoina	cane	ʨʰi	ʨʰi		
+660	Jerigaon	cane	ʨʰi	ʨʰi		
+661	Khoitam	cane	ʨʰi	ʨʰi		
+662	Rahung	cane	ʨʰi	ʨʰi		
+663	Rupa	cane	kʰi	kʰi		
+664	Shergaon	cane	kʰi	kʰi		
+#
+665	Khispi	cap, hat	kʰɔ-tʰuŋ ~ kʰɔ-tʰɔŋ	kʰɔ-tʰuŋ 	 kʰɔ-tʰɔŋ	Variants
+666	Duhumbi	cap, hat	kʰɔ-tʰɔŋ	kʰɔ-tʰɔŋ		
+667	Khoina	cap, hat	gə-tʰuŋ	gə-tʰuŋ		
+668	Jerigaon	cap, hat	kʰ-tʰuŋ	kʰ-tʰuŋ		
+669	Khoitam	cap, hat	kʰ-tʰuŋ	kʰ-tʰuŋ		
+670	Rahung	cap, hat	kʰan-tʰuŋ	kʰan-tʰuŋ		
+671	Rupa	cap, hat	gə-tʰuŋ	gə-tʰuŋ		
+672	Shergaon	cap, hat	kʰ-tʰuŋ	kʰ-tʰuŋ		
+#
+673	Khispi	carry	bu	bu		
+674	Duhumbi	carry	bu	bu		
+675	Khoina	carry	byː	byː		
+676	Jerigaon	carry	byː	byː		
+677	Khoitam	carry	byː	byː		
+678	Rahung	carry	byː	byː		
+679	Rupa	carry	byː	byː		
+680	Shergaon	carry	biː	biː		
+#
+681	Khispi	cat	ɲaŋ-bu	ɲaŋ-bu		
+682	Duhumbi	cat	ɲaŋ-bu	ɲaŋ-bu		
+683	Khoina	cat	nam-byː	nam-byː		
+684	Jerigaon	cat	nam-byː	nam-byː		
+685	Khoitam	cat	nam-byː	nam-byː		
+686	Rahung	cat	nam-byː	nam-byː		
+687	Rupa	cat	ɲam-byː	ɲam-byː		
+688	Shergaon	cat	ɲam-biː	ɲam-biː		
+#
+689	Khispi	cattle, cow	ɕa	ɕa		
+690	Duhumbi	cattle, cow	ɕa	ɕa		
+691	Khoina	cattle, cow	ʂuː	ʂuː		
+692	Jerigaon	cattle, cow	huː	huː		
+693	Khoitam	cattle, cow	huː	huː		
+694	Rahung	cattle, cow	huː	huː		
+695	Rupa	cattle, cow	s-puː	s-puː		
+696	Shergaon	cattle, cow	s-puː	s-puː		
+#
+697	Khispi	cave	kʰip	kʰip		
+698	Duhumbi	cave	kʰip	kʰip		
+699	Khoina	cave	tʂʰeˀ	tʂʰeˀ		
+700	Jerigaon	cave	ʨʰeˀ	ʨʰeˀ		
+701	Khoitam	cave	ʨʰeˀ	ʨʰeˀ		
+702	Rahung	cave	ʨʰeˀ	ʨʰeˀ		
+703	Rupa	cave	kʰeˀ	kʰeˀ		
+704	Shergaon	cave	kʰeː	kʰeː		
+#
+705	Khispi	charcoal	bɛŋ-kʰan	bɛŋ-kʰan		
+707	Khoina	charcoal	bə-kʰɐ̃ː	bə-kʰɐ̃ː		
+708	Jerigaon	charcoal	ba-kʰə-muː  ~ ba-møː	ba-kʰə-muː  	 ba-møː	Variants
+709	Khoitam	charcoal	ba-kʰɔ̃ː	ba-kʰɔ̃ː		
+710	Rahung	charcoal	mə-kʰɔ̃ː	mə-kʰɔ̃ː		
+711	Rupa	charcoal	ba-kʰɔ̃ː	ba-kʰɔ̃ː		
+712	Shergaon	charcoal	ba-kʰɔ̃ː	ba-kʰɔ̃ː		
+#
+714	Duhumbi	chest	mɔw	mɔw		
+715	Khoina	chest	ma-wɔ	ma-wɔ		
+717	Khoitam	chest	mu-wɔ	mu-wɔ		
+718	Rahung	chest	mow  ~ mo	mow  	 mo	Variants
+719	Rupa	chest	mə-jaw ~ mwo	mə-jaw 	 mwo	Variants
+#
+721	Khispi	chew	ka	ka		
+722	Duhumbi	chew	ka	ka		
+723	Khoina	chew	kaˀ	kaˀ		
+724	Jerigaon	chew	kaˀ	kaˀ		
+725	Khoitam	chew	ka	ka		
+726	Rahung	chew	ka	ka		
+727	Rupa	chew	ku ~ kuː	ku 	 kuː	Variants
+#
+729	Khispi	chicken	hwa-kʰi	hwa-kʰi		
+730	Duhumbi	chicken	hɔː-ki ~ hu-ki	hɔː-ki 	 hu-ki	Variants
+731	Khoina	chicken	bə-ʨʰaː	bə-ʨʰaː		
+732	Jerigaon	chicken	pʰ-ʨʰɛː	pʰ-ʨʰɛː		
+733	Khoitam	chicken	Pʰ-ʨʰɛː	Pʰ-ʨʰɛː		
+734	Rahung	chicken	pʰ-ʨʰɛː	pʰ-ʨʰɛː		
+735	Rupa	chicken	bə-cʰaː ~ bə-ʨʰaː	bə-cʰaː 	 bə-ʨʰaː	Variants
+736	Shergaon	chicken	pʰ-ʨʰaː	pʰ-ʨʰaː		
+#
+738	Duhumbi	child	a-nu	a-nu		
+739	Khoina	child	a-nyː	a-nyː		
+740	Jerigaon	child	a-nyː	a-nyː		
+741	Khoitam	child	a-nyː	a-nyː		
+742	Rahung	child	a-nyː	a-nyː		
+743	Rupa	child	nə-nyː	nə-nyː		
+744	Shergaon	child	nə-nu	nə-nu		
+#
+745	Khispi	chili	maŋ	maŋ		
+746	Duhumbi	chili	maŋ	maŋ		
+747	Khoina	chili	mɔ̃ː	mɔ̃ː		
+748	Jerigaon	chili	mɔ̃ː	mɔ̃ː		
+749	Khoitam	chili	mũː	mũː		
+750	Rahung	chili	mɔŋ	mɔŋ		
+751	Rupa	chili	mɔŋ	mɔŋ		
+752	Shergaon	chili	mɔŋ	mɔŋ		
+#
+753	Khispi	chin	hin-kul ~ hin-kuɹ	hin-kul 	 hin-kuɹ	Variants
+755	Khoina	chin	ny-ju-kʰuː	ny-ju-kʰuː		
+756	Jerigaon	chin	ny-jɔ-kʰuː	ny-jɔ-kʰuː		
+757	Khoitam	chin	nə-wu	nə-wu		
+758	Rahung	chin	ma-wu	ma-wu		
+#
+763	Khoina	civet or spotted wild cat	saŋ-gə-du	saŋ-gə-du		
+764	Jerigaon	civet or spotted wild cat	saŋ-gə-du	saŋ-gə-du		
+765	Khoitam	civet or spotted wild cat	ʦiŋ-gə-duˀ	ʦiŋ-gə-duˀ		
+766	Rahung	civet or spotted wild cat	saŋ-du	saŋ-du		
+767	Rupa	civet or spotted wild cat	saŋ-gə-tu	saŋ-gə-tu		
+768	Shergaon	civet or spotted wild cat	saŋ-kə-tu	saŋ-kə-tu		
+#
+771	Khoina	civet, palm	s-nøn	s-nøn		
+773	Khoitam	civet, palm	su-nɔm	su-nɔm		
+776	Shergaon	civet, palm	sə-ɲɔm	sə-ɲɔm		
+#
+777	Khispi	clean	u-ʦaŋ	u-ʦaŋ		
+778	Duhumbi	clean	u-ʦaŋ	u-ʦaŋ		
+779	Khoina	clean	a-san	a-san		
+782	Rahung	clean	a-sam	a-sam		
+783	Rupa	clean	a-sam	a-sam		
+#
+785	Khispi	cliff, ravine	ɕap ~ ɕak	ɕap 	 ɕak	Variants
+786	Duhumbi	cliff, ravine	ɕak	ɕak		
+787	Khoina	cliff, ravine	ʦʰɐk	ʦʰɐk		
+788	Jerigaon	cliff, ravine	ʨʰak	ʨʰak		
+789	Khoitam	cliff, ravine	ʨʰak	ʨʰak		
+790	Rahung	cliff, ravine	ʨʰak	ʨʰak		
+791	Rupa	cliff, ravine	ʦʰak ~ ʨʰak	ʦʰak 	 ʨʰak	Variants
+792	Shergaon	cliff, ravine	ʨʰak	ʨʰak		
+#
+795	Khoina	clitoris	da-pɛː	da-pɛː		
+797	Khoitam	clitoris	peː	peː		
+798	Rahung	clitoris	peː	peː		
+799	Rupa	clitoris	ʨɔp-beː ~ ʨɔ-peː	ʨɔp-beː 	 ʨɔ-peː	Variants
+800	Shergaon	clitoris	ʨɔp-beː	ʨɔp-beː		
+#
+801	Khispi	clothing	wat	wat		
+802	Duhumbi	clothing	wat	wat		
+803	Khoina	clothing	jɐ	jɐ		
+804	Jerigaon	clothing	jɐˀ	jɐˀ		
+805	Khoitam	clothing	jɔˀ	jɔˀ		
+806	Rahung	clothing	jɔˀ	jɔˀ		
+807	Rupa	clothing	jɔˀ	jɔˀ		
+808	Shergaon	clothing	jɔ	jɔ		
+#
+809	Khispi	cloud, mist, fog	tɔŋ-ti ~ tɔŋ-tej	tɔŋ-ti 	 tɔŋ-tej	Variants
+811	Khoina	cloud, mist, fog	ʂ-tyː	ʂ-tyː		
+812	Jerigaon	cloud, mist, fog	s-tyː	s-tyː		
+813	Khoitam	cloud, mist, fog	syŋ-tyː	syŋ-tyː		
+814	Rahung	cloud, mist, fog	syn-tyː	syn-tyː		
+815	Rupa	cloud, mist, fog	ʦə-tyː ~ s-tyː	ʦə-tyː 	 s-tyː	Variants
+816	Shergaon	cloud, mist, fog	sin-tiː ~ sin-tyː	sin-tiː 	 sin-tyː	Variants
+#
+817	Khispi	cockroach	ʨʰik-duŋ	ʨʰik-duŋ		
+821	Khoitam	cockroach	(pʰyː) ʨʰu-luŋ	ʨʰu-luŋ		
+822	Rahung	cockroach	(ba-)ʨʰu-ɹuŋ	ʨʰu-ɹuŋ		
+823	Rupa	cockroach	(bə-)ʨʰu-luŋ	ʨʰu-luŋ		
+824	Shergaon	cockroach	(bu-)ʨʰu-luŋ	ʨʰu-luŋ		
+#
+825	Khispi	cold	ɔ-ʦɛn	ɔ-ʦɛn		
+826	Duhumbi	cold	ɔ-ʦɛn	ɔ-ʦɛn		
+827	Khoina	cold	a-ʦɛn	a-ʦɛn		
+828	Jerigaon	cold	a-ʨɛn	a-ʨɛn		
+829	Khoitam	cold	a-ʨan	a-ʨan		
+830	Rahung	cold	a-ʨɛn	a-ʨɛn		
+831	Rupa	cold	a-ʨʰan	a-ʨʰan		
+#
+833	Khispi	cold (vi)	lam	lam		
+834	Duhumbi	cold (vi)	lam	lam		
+835	Khoina	cold (vi)	ran	ran		
+836	Jerigaon	cold (vi)	ran	ran		
+837	Khoitam	cold (vi)	ram	ram		
+838	Rahung	cold (vi)	ram	ram		
+839	Rupa	cold (vi)	rɛŋ	rɛŋ		
+#
+841	Khispi	comb	tas	tas		
+842	Duhumbi	comb	tas	tas		
+843	Khoina	comb	nɐ̃	nɐ̃		
+844	Jerigaon	comb	nɐ̃	nɐ̃		
+845	Khoitam	comb	nɔ̃	nɔ̃		
+846	Rahung	comb	nɔ̃	nɔ̃		
+847	Rupa	comb	nɔ̃	nɔ̃		
+848	Shergaon	comb	nɔ̃	nɔ̃		
+#
+849	Khispi	come	un	un		
+850	Duhumbi	come	lɔn	lɔn		
+851	Khoina	come	u	u		
+852	Jerigaon	come	u	u		
+853	Khoitam	come	un	un		
+854	Rahung	come	un	un		
+#
+857	Khispi	comparative degree	-ɕɔk	-ɕɔk		
+858	Duhumbi	comparative degree	-ɕɔk	-ɕɔk		
+860	Jerigaon	comparative degree	-sɔk	-sɔk		
+861	Khoitam	comparative degree	-sɔk	-sɔk		
+862	Rahung	comparative degree	-sɔk	-sɔk		
+#
+865	Khispi	cook1	dɔŋ	dɔŋ		
+866	Duhumbi	cook1	dɔŋ	dɔŋ		
+870	Rahung	cook1	ruŋ	ruŋ		
+871	Rupa	cook1	ruŋ	ruŋ		
+#
+875	Khoina	cook2	tʰyŋ	tʰyŋ		
+876	Jerigaon	cook2	tʰyŋ	tʰyŋ		
+879	Rupa	cook2	tʰuŋ	tʰuŋ		
+880	Shergaon	cook2	tʰuŋ	tʰuŋ		
+#
+881	Khispi	copula, existential	be	be		
+882	Duhumbi	copula, existential	beˀ	beˀ		
+883	Khoina	copula, existential	bɛˀ	bɛˀ		
+884	Jerigaon	copula, existential	bɛˀ	bɛˀ		
+885	Khoitam	copula, existential	bɛˀ	bɛˀ		
+886	Rahung	copula, existential	bɛˀ	bɛˀ		
+887	Rupa	copula, existential	ba	ba		
+888	Shergaon	copula, existential	ba	ba		
+#
+889	Khispi	copula, negative	ba-ju	ba-ju		
+890	Duhumbi	copula, negative	bɔ-ju	bɔ-ju		
+891	Khoina	copula, negative	by-yː	by-yː		
+892	Jerigaon	copula, negative	by-yː	by-yː		
+893	Khoitam	copula, negative	by-yː	by-yː		
+895	Rupa	copula, negative	by-yː ~ bi-iː	by-yː 	 bi-iː	Variants
+896	Shergaon	copula, negative	bi-iː	bi-iː		
+#
+897	Khispi	corpse	lu ~ lɔː	lu 	 lɔː	Variants
+898	Duhumbi	corpse	rɔː	rɔː		
+899	Khoina	corpse	(i-i-)rɔː	rɔː		
+900	Jerigaon	corpse	rɔː	rɔː		
+901	Khoitam	corpse	rɔː	rɔː		
+902	Rahung	corpse	roː	roː		
+903	Rupa	corpse	raw	raw		
+904	Shergaon	corpse	raw	raw		
+#
+906	Duhumbi	cotton	kam-bɛj bu	kam-bɛj bu		
+907	Khoina	cotton	xɐm-pʰɐ	xɐm-pʰɐ		
+908	Jerigaon	cotton	hɐm-pʰɐ	hɐm-pʰɐ		
+909	Khoitam	cotton	ham-pʰlɔ	ham-pʰlɔ		
+910	Rahung	cotton	haŋ-pʰ-gɔ ~ haŋ-kʰu-bɔ̃	haŋ-pʰ-gɔ 	 haŋ-kʰu-bɔ̃	Variants
+911	Rupa	cotton	hɐŋ-pʰwɔ ~ kam-bɛj	hɐŋ-pʰwɔ 	 kam-bɛj	Variants
+912	Shergaon	cotton	kam-ba	kam-ba		
+#
+913	Khispi	cough (vi)	ʦʰu	ʦʰu		
+914	Duhumbi	cough (vi)	ʦʰu	ʦʰu		
+915	Khoina	cough (vi)	ʦʰyː	ʦʰyː		
+917	Khoitam	cough (vi)	ʨʰyː	ʨʰyː		
+918	Rahung	cough (vi)	ʨʰyː	ʨʰyː		
+919	Rupa	cough (vi)	ʨʰyː	ʨʰyː		
+#
+921	Khispi	count	gaŋ	gaŋ		
+922	Duhumbi	count	graŋ	graŋ		
+923	Khoina	count	dʐajk	dʐajk		
+924	Jerigaon	count	ʥɛk	ʥɛk		
+925	Khoitam	count	ʥɛk	ʥɛk		
+926	Rahung	count	ʥɛk	ʥɛk		
+927	Rupa	count	gɛk	gɛk		
+928	Shergaon	count	gɛk	gɛk		
+#
+930	Duhumbi	cover (v)	tʰjɛŋ	tʰjɛŋ		
+935	Rupa	cover (v)	tʰɛŋ	tʰɛŋ		
+#
+937	Khispi	creeper, vine	(mɛn-)tʰak	tʰak		
+938	Duhumbi	creeper, vine	(mɛn-)tʰak	tʰak		
+939	Khoina	creeper, vine	tʰɐk-kʰyː	tʰɐk-kʰyː		
+940	Jerigaon	creeper, vine	tʰak-kʰyː	tʰak-kʰyː		
+941	Khoitam	creeper, vine	tʰak-kʰyː	tʰak-kʰyː		
+942	Rahung	creeper, vine	tʰak-kʰyː	tʰak-kʰyː		
+944	Shergaon	creeper, vine	tʰak-kʰiː	tʰak-kʰiː		
+#
+945	Khispi	crow	haŋ-ŋa	haŋ-ŋa		
+947	Khoina	crow	fɔ-ɔ̃ː	fɔ-ɔ̃ː		
+948	Jerigaon	crow	hɔ-ɔ̃ː	hɔ-ɔ̃ː		
+949	Khoitam	crow	hu-ɔ̃ː	hu-ɔ̃ː		
+950	Rahung	crow	hɔ-ɔ̃ː	hɔ-ɔ̃ː		
+951	Rupa	crow	bə-hɔk	bə-hɔk		
+#
+953	Khispi	cry	kʰip	kʰip		
+954	Duhumbi	cry	kʰip	kʰip		
+955	Khoina	cry	tʂʰeˀ	tʂʰeˀ		
+956	Jerigaon	cry	ʨʰeˀ	ʨʰeˀ		
+957	Khoitam	cry	ʨʰeˀ	ʨʰeˀ		
+958	Rahung	cry	ʨʰeˀ	ʨʰeˀ		
+959	Rupa	cry	kʰeˀ	kʰeˀ		
+960	Shergaon	cry	kʰeː	kʰeː		
+#
+961	Khispi	cucumber	mɛm-bɔŋ	mɛm-bɔŋ		
+962	Duhumbi	cucumber	mɛm-pʰɔŋ	mɛm-pʰɔŋ		
+963	Khoina	cucumber	ma-buŋ	ma-buŋ		
+964	Jerigaon	cucumber	ma-buŋ	ma-buŋ		
+965	Khoitam	cucumber	ma-buŋ	ma-buŋ		
+966	Rahung	cucumber	ma-buŋ	ma-buŋ		
+967	Rupa	cucumber	mə-/bə-buŋ	mə-/bə-buŋ		
+968	Shergaon	cucumber	mə-buŋ	mə-buŋ		
+#
+970	Duhumbi	curcuma sp.	bɔs	bɔs		
+971	Khoina	curcuma sp.	bøˀ	bøˀ		
+973	Khoitam	curcuma sp.	beˀ	beˀ		
+974	Rahung	curcuma sp.	bøˀ	bøˀ		
+#
+977	Khispi	cure (vi)	ʥamp	ʥamp		
+978	Duhumbi	cure (vi)	ʥamp	ʥamp		
+979	Khoina	cure (vi)	ʥa	ʥa		
+981	Khoitam	cure (vi)	ʥap	ʥap		
+982	Rahung	cure (vi)	ʥap	ʥap		
+#
+986	Duhumbi	cut	ʨʰat	ʨʰat		
+987	Khoina	cut	ʦat	ʦat		
+988	Jerigaon	cut	ʨɛk	ʨɛk		
+989	Khoitam	cut	ʨɛk	ʨɛk		
+990	Rahung	cut	ʨɛk	ʨɛk		
+991	Rupa	cut	ʦɛk ~ ʨɛk	ʦɛk 	 ʨɛk	Variants
+992	Shergaon	cut	ʨɛk	ʨɛk		
+#
+995	Khoina	dance	ʂuː	ʂuː		
+996	Jerigaon	dance	suː	suː		
+997	Khoitam	dance	suː	suː		
+998	Rahung	dance	suː	suː		
+999	Rupa	dance	suː	suː		
+1000	Shergaon	dance	suː	suː		
+#
+1001	Khispi	daughter	da-mu	da-mu		
+1002	Duhumbi	daughter	da-mu	da-mu		
+1003	Khoina	daughter	(a-) də-myː	də-myː		
+1004	Jerigaon	daughter	də-myː	də-myː		
+1005	Khoitam	daughter	də-myː	də-myː		
+1006	Rahung	daughter	də-myː	də-myː		
+1007	Rupa	daughter	də-myː	də-myː		
+1008	Shergaon	daughter	di-miː	di-miː		
+#
+1009	Khispi	daughter-in-law	u-ʨʰam	u-ʨʰam		
+1010	Duhumbi	daughter-in-law	u-ʨʰam	u-ʨʰam		
+1011	Khoina	daughter-in-law	a-tɕʰan	a-tɕʰan		
+1013	Khoitam	daughter-in-law	a-ʨʰam	a-ʨʰam		
+1014	Rahung	daughter-in-law	a-ʨʰam	a-ʨʰam		
+1015	Rupa	daughter-in-law	a-ʨʰam	a-ʨʰam		
+#
+1018	Duhumbi	day after tomorrow	lɔw-la	lɔw-la		
+1019	Khoina	day after tomorrow	lə-luː	lə-luː		
+1020	Jerigaon	day after tomorrow	len-lu	len-lu		
+1021	Khoitam	day after tomorrow	luŋ-luː	luŋ-luː		
+1022	Rahung	day after tomorrow	luŋ-luː	luŋ-luː		
+1023	Rupa	day after tomorrow	li-luː	li-luː		
+1024	Shergaon	day after tomorrow	ly-luː	ly-luː		
+#
+1025	Khispi	day after two days	lɔw-ki	lɔw-ki		
+1026	Duhumbi	day after two days	lɔw-kiˀ	lɔw-kiˀ		
+1027	Khoina	day after two days	lə-ʨik	lə-ʨik		
+1028	Jerigaon	day after two days	len-ʨik	len-ʨik		
+1029	Khoitam	day after two days	liŋ-ʨik	liŋ-ʨik		
+1030	Rahung	day after two days	nin-ʨik	nin-ʨik		
+1031	Rupa	day after two days	liŋ-kit	liŋ-kit		
+1032	Shergaon	day after two days	liŋ-kʰit	liŋ-kʰit		
+#
+1034	Duhumbi	day before two days	dɛj-kiˀ-ni	dɛj-kiˀ-ni		
+1035	Khoina	day before two days	di-ʧik-ri	di-ʧik-ri		
+1036	Jerigaon	day before two days	si-ʨik-hi	si-ʨik-hi		
+1039	Rupa	day before two days	di-kʰit-ni	di-kʰit-ni		
+1040	Shergaon	day before two days	tʰi-kʰik-ni	tʰi-kʰik-ni		
+#
+1041	Khispi	day before yesterday	dɔ-kʰɔ-ni	dɔ-kʰɔ-ni		
+1042	Duhumbi	day before yesterday	dɔ-kʰɔ-ni	dɔ-kʰɔ-ni		
+1043	Khoina	day before yesterday	tʰ-kʰɔk-niː	tʰ-kʰɔk-niː		
+1044	Jerigaon	day before yesterday	to-kʰo-hi	to-kʰo-hi		
+1045	Khoitam	day before yesterday	kʰɔk-niː	kʰɔk-niː		
+1046	Rahung	day before yesterday	kʰɔk-nə-hɔ	kʰɔk-nə-hɔ		
+1047	Rupa	day before yesterday	do-kʰok-ni	do-kʰok-ni		
+1048	Shergaon	day before yesterday	tʰo-kʰok-ni	tʰo-kʰok-ni		
+#
+1049	Khispi	deaf	bɛŋ-zar	bɛŋ-zar		
+1050	Duhumbi	deaf	bjɛŋ-ka	bjɛŋ-ka		
+1053	Khoitam	deaf	(kʰɔm-)pʰaŋ	pʰaŋ		
+1055	Rupa	deaf	bɛŋ-ŋɔ	bɛŋ-ŋɔ		
+#
+1059	Khoina	deep	a-dʐyː	a-dʐyː		
+1060	Jerigaon	deep	a-ʥə-ryː	a-ʥə-ryː		
+1061	Khoitam	deep	a-ʥə-ryː	a-ʥə-ryː		
+1062	Rahung	deep	ʥə-ryː	ʥə-ryː		
+1063	Rupa	deep	a-gyː	a-gyː		
+1064	Shergaon	deep	a-giː	a-giː		
+#
+1065	Khispi	deer, barking	(ʥaŋ-)ɕi-ki	ɕi-ki		
+1066	Duhumbi	deer, barking	(ʥaŋ-)ɕi-ki	ɕi-ki		
+1067	Khoina	deer, barking	ʂ-tʂʰiː	ʂ-tʂʰiː		
+1068	Jerigaon	deer, barking	siː	siː		
+1069	Khoitam	deer, barking	sə-kiː ~ s-kiː	sə-kiː 	 s-kiː	Variants
+1070	Rahung	deer, barking	s-kiː ~ sə-kiː ~ sə-kʰiː	s-kiː 	 sə-kiː  sə-kʰiː	Variants
+1071	Rupa	deer, barking	skiː  ~ sə-kiː	skiː  	 sə-kiː	Variants
+1072	Shergaon	deer, barking	sə-kiː	sə-kiː		
+#
+1073	Khispi	deer, sambar	ɕa-ʥuŋ	ɕa-ʥuŋ		
+1075	Khoina	deer, sambar	sy-ʣyk	sy-ʣyk		
+1077	Khoitam	deer, sambar	ʥə-zyk	ʥə-zyk		
+1079	Rupa	deer, sambar	zyk	zyk		
+#
+1082	Duhumbi	defeat (vi)	pʰam	pʰam		
+1085	Khoitam	defeat (vi)	pʰũː(ŋ)	pʰũː		
+1086	Rahung	defeat (vi)	pʰũː(ŋ)	pʰũː		
+#
+1089	Khispi	deity, ghost	la ~ ɬa	la 	 ɬa	Variants
+1090	Duhumbi	deity, ghost	la ~ ɬa	la 	 ɬa	Variants
+1091	Khoina	deity, ghost	mə-hɔː	mə-hɔː		
+1093	Khoitam	deity, ghost	mə-lɔː	mə-lɔː		
+1094	Rahung	deity, ghost	mə-loː	mə-loː		
+1095	Rupa	deity, ghost	loː	loː		
+#
+1097	Khispi	descend	ju	ju		
+1098	Duhumbi	descend	ju	ju		
+1099	Khoina	descend	jyː	jyː		
+1101	Khoitam	descend	jyː	jyː		
+1102	Rahung	descend	jyː	jyː		
+1103	Rupa	descend	jyː	jyː		
+#
+1105	Khispi	die	i	i		
+1106	Duhumbi	die	i	i		
+1107	Khoina	die	iː	iː		
+1108	Jerigaon	die	iː	iː		
+1109	Khoitam	die	iː	iː		
+1110	Rahung	die	iː	iː		
+1111	Rupa	die	iː	iː		
+1112	Shergaon	die	iː	iː		
+#
+1113	Khispi	dig	jɔk	jɔk		
+1114	Duhumbi	dig	jɔk	jɔk		
+1116	Jerigaon	dig	jɔk	jɔk		
+1118	Rahung	dig	jɔk	jɔk		
+1119	Rupa	dig	wɔk	wɔk		
+#
+1123	Khoina	dirty	a-ʐɛʔ	a-ʐɛʔ		
+1124	Jerigaon	dirty	a-zɛʔ	a-zɛʔ		
+1125	Khoitam	dirty	a-zɛʔ	a-zɛʔ		
+1126	Rahung	dirty	a-zɛʔ	a-zɛʔ		
+1127	Rupa	dirty	zat-mi	zat-mi		
+1128	Shergaon	dirty	zap-tɛŋ	zap-tɛŋ		
+#
+1131	Khoina	disease	(ku-)ruŋ	ruŋ		
+1132	Jerigaon	disease	nuŋ	nuŋ		
+1133	Khoitam	disease	nuŋ	nuŋ		
+1134	Rahung	disease	nuŋ	nuŋ		
+1135	Rupa	disease	nuŋ	nuŋ		
+#
+1137	Khispi	do	li	li		
+1138	Duhumbi	do	le	le		
+1139	Khoina	do	ra	ra		
+1140	Jerigaon	do	ra ~ rɛ	ra 	 rɛ	Variants
+1141	Khoitam	do	rɛ	rɛ		
+1142	Rahung	do	ra ~ rɛ	ra 	 rɛ	Variants
+1143	Rupa	do	ra	ra		
+1144	Shergaon	do	ra	ra		
+#
+1145	Khispi	dog	wa-tʰi	wa-tʰi		
+1146	Duhumbi	dog	wa-tʰi	wa-tʰi		
+1147	Khoina	dog	bə-tʰaː	bə-tʰaː		
+1148	Jerigaon	dog	pʰ-tʰɛː	pʰ-tʰɛː		
+1149	Khoitam	dog	pʰ-tʰɛː	pʰ-tʰɛː		
+1150	Rahung	dog	pʰ-tʰɛː	pʰ-tʰɛː		
+1151	Rupa	dog	bə-tʰaː	bə-tʰaː		
+1152	Shergaon	dog	pʰ-tʰaː	pʰ-tʰaː		
+#
+1155	Khoina	dog, wild	(də-)ʦʰɔ̃ː	ʦʰɔ̃ː		
+1156	Jerigaon	dog, wild	sɔː	sɔː		
+1158	Rahung	dog, wild	ʦə-sɔm	ʦə-sɔm		
+1159	Rupa	dog, wild	saw	saw		
+1160	Shergaon	dog, wild	saw	saw		
+#
+1161	Khispi	door	ku	ku		
+1162	Duhumbi	door	kɔː	kɔː		
+1163	Khoina	door	kɔː	kɔː		
+1164	Jerigaon	door	kɔː	kɔː		
+1165	Khoitam	door	kɔː	kɔː		
+1166	Rahung	door	koː	koː		
+1167	Rupa	door	kaw	kaw		
+1168	Shergaon	door	kaw	kaw		
+#
+1169	Khispi	down	be ~ bja	be 	 bja	Variants
+1170	Duhumbi	down	be	be		
+1171	Khoina	down	buː(-rɔ)	buː		
+1172	Jerigaon	down	buː(-tɛn)	buː		
+1173	Khoitam	down	buː(-lɔ)	buː		
+1175	Rupa	down	buː(-tɔ)	buː		
+1176	Shergaon	down	buː(-tɔ)	buː		
+#
+1177	Khispi	down (visible)	kʰaj ~ kʰja	kʰaj 	 kʰja	Variants
+1178	Duhumbi	down (visible)	kʰe ~ kʰja	kʰe 	 kʰja	Variants
+1181	Khoitam	down (visible)	kʰwa(-ʥi)	kʰwa		
+1182	Rahung	down (visible)	kʰa	kʰa		
+#
+1187	Khoina	dragon, thunder, lightning	nə-ʦʰaː	nə-ʦʰaː		
+1190	Rahung	dragon, thunder, lightning	nam-ʨʰə-rɛː	nam-ʨʰə-rɛː		
+#
+1193	Khispi	dream (n)	bɛŋ(-kʰan)	bɛŋ		
+1194	Duhumbi	dream (n)	bjɛŋ(-kʰan)	bjɛŋ		
+1195	Khoina	dream (n)	bɛn	bɛn		
+1196	Jerigaon	dream (n)	bɛn	bɛn		
+1197	Khoitam	dream (n)	ban	ban		
+1198	Rahung	dream (n)	ban ~ bɛn	ban 	 bɛn	Variants
+1199	Rupa	dream (n)	ban	ban		
+1200	Shergaon	dream (n)	ban	ban		
+#
+1201	Khispi	drink	ɲiŋ ~ ɲuŋ	ɲiŋ 	 ɲuŋ	Variants
+1202	Duhumbi	drink	ɲiŋ ~ ɲuŋ	ɲiŋ 	 ɲuŋ	Variants
+1203	Khoina	drink	lyŋ	lyŋ		
+1204	Jerigaon	drink	liŋ	liŋ		
+1205	Khoitam	drink	liŋ	liŋ		
+1206	Rahung	drink	liŋ	liŋ		
+1207	Rupa	drink	liŋ	liŋ		
+1208	Shergaon	drink	iŋ	iŋ		
+#
+1209	Khispi	dry (adj.)	wal ~ ɔ-wal	wal 	 ɔ-wal	Variants
+1210	Duhumbi	dry (adj.)	wa-aɹ	wa-aɹ		
+1211	Khoina	dry (adj.)	ɔ-ɐ͂ː	ɔ-ɐ͂ː		
+1212	Jerigaon	dry (adj.)	yk-ɐ̃ː	yk-ɐ̃ː		
+1213	Khoitam	dry (adj.)	yk-ɔ̃ː	yk-ɔ̃ː		
+1214	Rahung	dry (adj.)	ɔ-ɔ̃ː	ɔ-ɔ̃ː		
+1215	Rupa	dry (adj.)	ɔ-ɔ̃ː	ɔ-ɔ̃ː		
+1216	Shergaon	dry (adj.)	ɔ-ɔ̃ː	ɔ-ɔ̃ː		
+#
+1217	Khispi	dry, dry up (v.i.)	al	al		
+1218	Duhumbi	dry, dry up (v.i.)	ar	ar		
+1220	Jerigaon	dry, dry up (v.i.)	ɐ̃ː	ɐ̃ː		
+1223	Rupa	dry, dry up (v.i.)	ɔ̃ː	ɔ̃ː		
+#
+1225	Khispi	dual	-ziŋ	-ziŋ		
+1226	Duhumbi	dual	-ziŋ	-ziŋ		
+1230	Rahung	dual	-zik	-zik		
+1231	Rupa	dual	-ziŋ	-ziŋ		
+1232	Shergaon	dual	-ziŋ	-ziŋ		
+#
+1233	Khispi	eagle, buzzard	ha-ʦum	ha-ʦum		
+1234	Duhumbi	eagle, buzzard	hu-ʦum	hu-ʦum		
+1237	Khoitam	eagle, buzzard	pə-ʨyŋ	pə-ʨyŋ		
+1238	Rahung	eagle, buzzard	bə-ʨyŋ ~ pʰ-ʨyŋ	bə-ʨyŋ 	 pʰ-ʨyŋ	Variants
+1239	Rupa	eagle, buzzard	bə-ʨiŋ	bə-ʨiŋ		
+#
+1241	Khispi	ear	kʰu-tʰuŋ	kʰu-tʰuŋ		
+1242	Duhumbi	ear	kʰu-tʰuŋ	kʰu-tʰuŋ		
+1243	Khoina	ear	ga-tʰyŋ	ga-tʰyŋ		
+1244	Jerigaon	ear	kʰ-tʰyŋ-lɛ	kʰ-tʰyŋ-lɛ		
+1245	Khoitam	ear	kʰ-tʰyŋ	kʰ-tʰyŋ		
+1246	Rahung	ear	kʰ-tʰyŋ	kʰ-tʰyŋ		
+1247	Rupa	ear	gə-tʰyŋ	gə-tʰyŋ		
+1248	Shergaon	ear	kʰə-tʰuŋ-lap	kʰə-tʰuŋ-lap		
+#
+1249	Khispi	earthworm	(ɕala) pʰu-tʰin	pʰu-tʰin		
+1251	Khoina	earthworm	tʰa-kʰ-laː	tʰa-kʰ-laː		
+1252	Jerigaon	earthworm	tʰlak-kʰlaː ~ də-kʰlak-kʰlaː	tʰlak-kʰlaː 	 də-kʰlak-kʰlaː	Variants
+1253	Khoitam	earthworm	pʰ-tʰaŋ-hɔ̃ː ~ pi-taŋ-hɔ̃ː	pʰ-tʰaŋ-hɔ̃ː 	 pi-taŋ-hɔ̃ː	Variants
+1254	Rahung	earthworm	tɔ̃-hɔ̃ː	tɔ̃-hɔ̃ː		
+1255	Rupa	earthworm	pʰy dɔ̃(ŋ)hɔ̃ː	pʰy dɔ̃hɔ̃ː		
+#
+1257	Khispi	eat	ʨʰa	ʨʰa		
+1258	Duhumbi	eat	ʨʰa	ʨʰa		
+1259	Khoina	eat	ʦʰu	ʦʰu		
+1260	Jerigaon	eat	ʨʰu	ʨʰu		
+1261	Khoitam	eat	ʨʰu	ʨʰu		
+1262	Rahung	eat	ʨʰu	ʨʰu		
+1263	Rupa	eat	ʦʰu ~ ʨʰu	ʦʰu 	 ʨʰu	Variants
+1264	Shergaon	eat	ʨʰu	ʨʰu		
+#
+1265	Khispi	egg	ɔ-gɔŋ	ɔ-gɔŋ		
+1266	Duhumbi	egg	hɔj-ʥɔŋ	hɔj-ʥɔŋ		
+1267	Khoina	egg	a-juŋ	a-juŋ		
+1268	Jerigaon	egg	a-juŋ	a-juŋ		
+1269	Khoitam	egg	a-juŋ	a-juŋ		
+1270	Rahung	egg	a-juŋ	a-juŋ		
+1271	Rupa	egg	a-juŋ	a-juŋ		
+#
+1273	Khispi	eggplant	ban-tʰu	ban-tʰu		
+1274	Duhumbi	eggplant	ban-tʰɔw	ban-tʰɔw		
+1275	Khoina	eggplant	ma-tʰɔː	ma-tʰɔː		
+1276	Jerigaon	eggplant	mə-tʰɔː	mə-tʰɔː		
+1277	Khoitam	eggplant	mə-tʰoː	mə-tʰoː		
+1278	Rahung	eggplant	pʰ-tʰoː	pʰ-tʰoː		
+1279	Rupa	eggplant	man-tʰoː	man-tʰoː		
+1280	Shergaon	eggplant	ban-tʰoː	ban-tʰoː		
+#
+1281	Khispi	eight	sar-gɛː	sar-gɛː		
+1282	Duhumbi	eight	sar-gɛˀ	sar-gɛˀ		
+1283	Khoina	eight	sar-gɛʔ ~ sar-ʥɛʔ	sar-gɛʔ 	 sar-ʥɛʔ	Variants
+1284	Jerigaon	eight	sar-gɛʔ	sar-gɛʔ		
+1285	Khoitam	eight	sar-ʥɛʔ	sar-ʥɛʔ		
+1286	Rahung	eight	sar-ʥɛʔ	sar-ʥɛʔ		
+1287	Rupa	eight	sar-ɟat ~ sar-ʥat	sar-ɟat 	 sar-ʥat	Variants
+1288	Shergaon	eight	sar-ɟat	sar-ɟat		
+#
+1290	Duhumbi	elbow	ki-lik-pa	ki-lik-pa		
+1291	Khoina	elbow	ji ʦə-ry	ji ʦə-ry		
+1292	Jerigaon	elbow	ik ʨə-ry	ik ʨə-ry		
+1293	Khoitam	elbow	ik kə-li	ik kə-li		
+1294	Rahung	elbow	ik kə-ri	ik kə-ri		
+1295	Rupa	elbow	ik kə-li	ik kə-li		
+1296	Shergaon	elbow	ik kə-li	ik kə-li		
+#
+1299	Khoina	elephant	ʂu-ʂiŋ-tʰɔŋ	ʂu-ʂiŋ-tʰɔŋ		
+1300	Jerigaon	elephant	su-sɛn-tʰɔŋ	su-sɛn-tʰɔŋ		
+1301	Khoitam	elephant	su-san-tʰɔŋ	su-san-tʰɔŋ		
+1302	Rahung	elephant	su-san-tʰɔŋ	su-san-tʰɔŋ		
+1303	Rupa	elephant	s-tɔŋ	s-tɔŋ		
+1304	Shergaon	elephant	s-tɔŋ	s-tɔŋ		
+#
+1307	Khoina	empty	a-ruk	a-ruk		
+1308	Jerigaon	empty	a-ruk	a-ruk		
+1309	Khoitam	empty	a-ruk	a-ruk		
+1310	Rahung	empty	a-ruk	a-ruk		
+1311	Rupa	empty	a-ruk	a-ruk		
+1312	Shergaon	empty	a-ruk	a-ruk		
+#
+1315	Khoina	excrement	jaː	jaː		
+1316	Jerigaon	excrement	jɛː ~ jaː	jɛː 	 jaː	Variants
+1317	Khoitam	excrement	jɛː	jɛː		
+1318	Rahung	excrement	jɛː	jɛː		
+1319	Rupa	excrement	jaː	jaː		
+1320	Shergaon	excrement	jaː	jaː		
+#
+1321	Khispi	excrete	ʨʰat	ʨʰat		
+1322	Duhumbi	excrete	ʨʰɛt	ʨʰɛt		
+1323	Khoina	excrete	tʂʰɐ̃	tʂʰɐ̃		
+1324	Jerigaon	excrete	ʨʰɐ̃	ʨʰɐ̃		
+1326	Rahung	excrete	ʨʰɔ̃	ʨʰɔ̃		
+1327	Rupa	excrete	ʨʰɔ̃	ʨʰɔ̃		
+1328	Shergaon	excrete	ʨʰɔ̃	ʨʰɔ̃		
+#
+1329	Khispi	exit	ɕɛt	ɕɛt		
+1330	Duhumbi	exit	ɕɛt	ɕɛt		
+1331	Khoina	exit	ʂɛʔ	ʂɛʔ		
+1332	Jerigaon	exit	sɛʔ	sɛʔ		
+1333	Khoitam	exit	sɛt	sɛt		
+1334	Rahung	exit	sɛt	sɛt		
+1335	Rupa	exit	sat	sat		
+1336	Shergaon	exit	sat	sat		
+#
+1337	Khispi	eye	kʰu-mɔː	kʰu-mɔː		
+1338	Duhumbi	eye	kʰu-m	kʰu-m		
+1339	Khoina	eye	ga-byː	ga-byː		
+1340	Jerigaon	eye	kʰa-byː	kʰa-byː		
+1341	Khoitam	eye	kʰa-byː	kʰa-byː		
+1342	Rahung	eye	kʰam-byː ~ kʰa-byː	kʰam-byː 	 kʰa-byː	Variants
+1343	Rupa	eye	kʰa-byː ~ kʰə-byː	kʰa-byː 	 kʰə-byː	Variants
+1344	Shergaon	eye	kʰi-biː	kʰi-biː		
+#
+1346	Duhumbi	face1	zuk	zuk		
+1347	Khoina	face1	zyk	zyk		
+1349	Khoitam	face1	zyk	zyk		
+1350	Rahung	face1	zyk	zyk		
+1351	Rupa	face1	zyk	zyk		
+#
+1353	Khispi	face2	muj	muj		
+1354	Duhumbi	face2	mɛj	mɛj		
+1355	Khoina	face2	miː	miː		
+1356	Jerigaon	face2	miː	miː		
+1357	Khoitam	face2	miː	miː		
+1358	Rahung	face2	miː	miː		
+1359	Rupa	face2	myː	myː		
+#
+1361	Khispi	falcon	hwa-ʨɔŋ-ki	hwa-ʨɔŋ-ki		
+1362	Duhumbi	falcon	hwa-ʨɔŋ-ki	hwa-ʨɔŋ-ki		
+1363	Khoina	falcon	ʣa-kyː	ʣa-kyː		
+1364	Jerigaon	falcon	ʨaŋ-kə-luŋ	ʨaŋ-kə-luŋ		
+#
+1369	Khispi	fall1	ɕa	ɕa		
+1370	Duhumbi	fall1	ɕa	ɕa		
+1374	Rahung	fall1	ʨʰuː	ʨʰuː		
+1375	Rupa	fall1	ʦʰuː  ~ ʨʰuː	ʦʰuː  	 ʨʰuː	Variants
+#
+1380	Jerigaon	fall2	hiŋ	hiŋ		
+1381	Khoitam	fall2	hiŋ	hiŋ		
+1382	Rahung	fall2	hyŋ	hyŋ		
+1383	Rupa	fall2	hĩː	hĩː		
+1384	Shergaon	fall2	hĩː	hĩː		
+#
+1387	Khoina	far	a-tʂʰɐ̃ː	a-tʂʰɐ̃ː		
+1388	Jerigaon	far	a-ʨʰɐ̃ː	a-ʨʰɐ̃ː		
+1389	Khoitam	far	a-ʨʰɔ̃ː	a-ʨʰɔ̃ː		
+1390	Rahung	far	a-ʨʰɔ̃ː	a-ʨʰɔ̃ː		
+1391	Rupa	far	a-ʨʰɔ̃ː	a-ʨʰɔ̃ː		
+1392	Shergaon	far	a-ʨʰɔ̃ː	a-ʨʰɔ̃ː		
+#
+1394	Duhumbi	fast	ʥɔk-pu	ʥɔk-pu		
+1395	Khoina	fast	a-ʥɔk	a-ʥɔk		
+1396	Jerigaon	fast	a-ʥɔk	a-ʥɔk		
+1397	Khoitam	fast	a-ʥɔk	a-ʥɔk		
+1398	Rahung	fast	a-ʥɔk	a-ʥɔk		
+1399	Rupa	fast	a-dzuk ~ a-dzɔk	a-dzuk 	 a-dzɔk	Variants
+1400	Shergaon	fast	a-ʥɔk	a-ʥɔk		
+#
+1401	Khispi	fat (n)	ɔ-ju ~ u-ju	ɔ-ju 	 u-ju	Variants
+1402	Duhumbi	fat (n)	ɔ-jɔw	ɔ-jɔw		
+1403	Khoina	fat (n)	a-jɔː	a-jɔː		
+1404	Jerigaon	fat (n)	a-jɔː	a-jɔː		
+1405	Khoitam	fat (n)	a-joː	a-joː		
+1406	Rahung	fat (n)	a-joː	a-joː		
+1407	Rupa	fat (n)	a-joː	a-joː		
+1408	Shergaon	fat (n)	a-joː	a-joː		
+#
+1409	Khispi	father	a-ba	a-ba		
+1410	Duhumbi	father	a-pa	a-pa		
+1411	Khoina	father	a-bɔː	a-bɔː		
+1412	Jerigaon	father	a-bɔː	a-bɔː		
+1413	Khoitam	father	a-bɔː	a-bɔː		
+1414	Rahung	father	a-boː	a-boː		
+1415	Rupa	father	a-boː ~ a-poː ~ bɔ-ja	a-boː 	 a-poː  bɔ-ja	Variants
+#
+1419	Khoina	fear (vi)	fuŋ	fuŋ		
+1420	Jerigaon	fear (vi)	huŋ	huŋ		
+1421	Khoitam	fear (vi)	huŋ	huŋ		
+1422	Rahung	fear (vi)	huŋ	huŋ		
+1423	Rupa	fear (vi)	huŋ	huŋ		
+1424	Shergaon	fear (vi)	huŋ	huŋ		
+#
+1425	Khispi	female	u-ma ~ a-ma	u-ma 	 a-ma	Variants
+1426	Duhumbi	female	u-ma	u-ma		
+1427	Khoina	female	am ~ a-muː	am 	 a-muː	Variants
+1428	Jerigaon	female	a-muː	a-muː		
+1429	Khoitam	female	a-muː	a-muː		
+1430	Rahung	female	a-muː	a-muː		
+1431	Rupa	female	a-muː	a-muː		
+1432	Shergaon	female	a-muː	a-muː		
+#
+1433	Khispi	fence	gɔŋ	gɔŋ		
+1434	Duhumbi	fence	gɔŋ	gɔŋ		
+1437	Khoitam	fence	guŋ	guŋ		
+1438	Rahung	fence	guŋ	guŋ		
+#
+1441	Khispi	fern, fiddlehead	daŋ-sum	daŋ-sum		
+1442	Duhumbi	fern, fiddlehead	daŋ-sum	daŋ-sum		
+1443	Khoina	fern, fiddlehead	daŋ-søn	daŋ-søn		
+1444	Jerigaon	fern, fiddlehead	daŋ-søn	daŋ-søn		
+1445	Khoitam	fern, fiddlehead	daŋ-sɔm	daŋ-sɔm		
+1446	Rahung	fern, fiddlehead	daŋ-søm	daŋ-søm		
+1447	Rupa	fern, fiddlehead	daŋ-sɔm ~ daŋ-sum	daŋ-sɔm 	 daŋ-sum	Variants
+1448	Shergaon	fern, fiddlehead	daŋ-sum	daŋ-sum		
+#
+1449	Khispi	fetch	la	la		
+1450	Duhumbi	fetch	la	la		
+1453	Khoitam	fetch	luː	luː		
+1454	Rahung	fetch	loː	loː		
+1455	Rupa	fetch	luː ~ ruː	luː 	 ruː	Variants
+1456	Shergaon	fetch	luː	luː		
+#
+1459	Khoina	few, little	a-ʨʰaː	a-ʨʰaː		
+1460	Jerigaon	few, little	a-ʨʰɛː	a-ʨʰɛː		
+1461	Khoitam	few, little	a-ʨʰɛː	a-ʨʰɛː		
+1462	Rahung	few, little	a-ʨʰɛː	a-ʨʰɛː		
+#
+1465	Khispi	field	lɛk	lɛk		
+1466	Duhumbi	field	ljɛk	ljɛk		
+1467	Khoina	field	rajk	rajk		
+1468	Jerigaon	field	rɛˀ	rɛˀ		
+1469	Khoitam	field	rɛk(-zĩː)	rɛk		
+1470	Rahung	field	rɛk	rɛk		
+1471	Rupa	field	rɛk ~ rɛk(-saŋ)	rɛk 	 rɛk	Variants
+1472	Shergaon	field	rɛk(-saŋ)	rɛk		
+#
+1473	Khispi	finger	hut ɕa-da	hut ɕa-da		
+1474	Duhumbi	finger	hut bra-ma	hut bra-ma		
+1475	Khoina	finger	ik a-du	ik a-du		
+1476	Jerigaon	finger	ik a-du	ik a-du		
+1477	Khoitam	finger	ik brɔm	ik brɔm		
+1478	Rahung	finger	ik prø-muŋ ~ ik-brɔm	ik prø-muŋ 	 ik-brɔm	Variants
+1479	Rupa	finger	ik ʦʰik ~ ik-ʨʰik ~ ik-ʨʰĩː	ik ʦʰik 	 ik-ʨʰik  ik-ʨʰĩː	Variants
+#
+1481	Khispi	fire	bej	bej		
+1482	Duhumbi	fire	bɛj	bɛj		
+1483	Khoina	fire	baː	baː		
+1484	Jerigaon	fire	bɛˀ	bɛˀ		
+1485	Khoitam	fire	bɛˀ	bɛˀ		
+1486	Rahung	fire	bɛˀ	bɛˀ		
+1487	Rupa	fire	baˀ	baˀ		
+1488	Shergaon	fire	ba	ba		
+#
+1489	Khispi	fire prefix	bu-	bu-		
+1490	Duhumbi	fire prefix	bu-	bu-		
+1491	Khoina	fire prefix	ba-	ba-		
+1492	Jerigaon	fire prefix	ba-	ba-		
+1493	Khoitam	fire prefix	ba-	ba-		
+1494	Rahung	fire prefix	ba-	ba-		
+1495	Rupa	fire prefix	ba-	ba-		
+1496	Shergaon	fire prefix	ba-	ba-		
+#
+1497	Khispi	fish	ŋa	ŋa		
+1498	Duhumbi	fish	ŋa	ŋa		
+1499	Khoina	fish	nu	nu		
+1500	Jerigaon	fish	nu	nu		
+1501	Khoitam	fish	nu(ŋ)	nu		
+1502	Rahung	fish	nu(ŋ)	nu		
+1503	Rupa	fish	ɲu ~ ɲuŋ	ɲu 	 ɲuŋ	Variants
+1504	Shergaon	fish	ɲu	ɲu		
+#
+1505	Khispi	five	kʰa	kʰa		
+1506	Duhumbi	five	kʰa	kʰa		
+1507	Khoina	five	kʰuː	kʰuː		
+1508	Jerigaon	five	kʰuː	kʰuː		
+1509	Khoitam	five	kʰuː	kʰuː		
+1510	Rahung	five	kʰuː	kʰuː		
+1511	Rupa	five	kʰuː	kʰuː		
+1512	Shergaon	five	kʰuː	kʰuː		
+#
+1514	Duhumbi	flame	(bɛj) ɬap	ɬap		
+1517	Khoitam	flame	(bɛ-) lap ~ (ba-) lap	lap 	  lap	Variants
+1519	Rupa	flame	(ba) a-lap ~ (ba-) lap	a-lap 	  lap	Variants
+#
+1521	Khispi	flee	jɛt	jɛt		
+1522	Duhumbi	flee	jɛt	jɛt		
+1525	Khoitam	flee	jɛt	jɛt		
+1526	Rahung	flee	jɛt	jɛt		
+1527	Rupa	flee	jat	jat		
+1528	Shergaon	flee	jat	jat		
+#
+1532	Jerigaon	float	raː (-tʰɔn)	raː		
+1533	Khoitam	float	rɛː (-tʰĩː)	rɛː		
+1534	Rahung	float	rɛː (-tʰyː)	rɛː		
+#
+1537	Khispi	flour	pʰuj	pʰuj		
+1538	Duhumbi	flour	pʰɔj	pʰɔj		
+1539	Khoina	flour	nə-faː	nə-faː		
+1540	Jerigaon	flour	nə-hɛːʰ	nə-hɛːʰ		
+1541	Khoitam	flour	nə-pʰɛːʰ	nə-pʰɛːʰ		
+1542	Rahung	flour	mə-hɛːʰ	mə-hɛːʰ		
+1543	Rupa	flour	nə-pʰaː	nə-pʰaː		
+1544	Shergaon	flour	nə-pʰaː	nə-pʰaː		
+#
+1546	Duhumbi	flow	wa	wa		
+1547	Khoina	flow	xyj(ŋ)	xyj		
+1548	Jerigaon	flow	hyŋ	hyŋ		
+1549	Khoitam	flow	hyŋ	hyŋ		
+1551	Rupa	flow	haw	haw		
+1552	Shergaon	flow	haw	haw		
+#
+1555	Khoina	fly (n)	bə-ʨiŋ-ʨɔŋ ~ bə-ʨiŋ-pʰuŋ	bə-ʨiŋ-ʨɔŋ 	 bə-ʨiŋ-pʰuŋ	Variants
+1556	Jerigaon	fly (n)	pʰə-ʨiŋ-ʨɔŋ ~mə-ʨiŋ-ʨɔŋ	pʰə-ʨiŋ-ʨɔŋ 	mə-ʨiŋ-ʨɔŋ	Variants
+1557	Khoitam	fly (n)	pʰ-ʦiː ~ pʰ-ʨiː	pʰ-ʦiː 	 pʰ-ʨiː	Variants
+1558	Rahung	fly (n)	ʨa-pim	ʨa-pim		
+1559	Rupa	fly (n)	bə-ʨiŋ	bə-ʨiŋ		
+1560	Shergaon	fly (n)	bə-ʨiŋ	bə-ʨiŋ		
+#
+1561	Khispi	fly (vi)	ɕɛl	ɕɛl		
+1562	Duhumbi	fly (vi)	ɕɛɹ	ɕɛɹ		
+1563	Khoina	fly (vi)	ʦʰɛn	ʦʰɛn		
+1564	Jerigaon	fly (vi)	ʨʰɛn	ʨʰɛn		
+1565	Khoitam	fly (vi)	ʨʰan	ʨʰan		
+1566	Rahung	fly (vi)	ʨʰɛm	ʨʰɛm		
+1567	Rupa	fly (vi)	ʨʰan ~ ʦʰan	ʨʰan 	 ʦʰan	Variants
+1568	Shergaon	fly (vi)	ʨʰan	ʨʰan		
+#
+1569	Khispi	fodder	ʦi	ʦi		
+1570	Duhumbi	fodder	ʦi	ʦi		
+1571	Khoina	fodder	də-ʦʰik	də-ʦʰik		
+1573	Khoitam	fodder	ʨiː	ʨiː		
+1574	Rahung	fodder	ʨiː	ʨiː		
+1575	Rupa	fodder	də-sɛː ~ siː	də-sɛː 	 siː	Variants
+#
+1577	Khispi	food	hɔj	hɔj		
+1579	Khoina	food	haː	haː		
+1580	Jerigaon	food	hɛ̃̄ː	hɛ̃̄ː		
+1581	Khoitam	food	hɛ̃ˊˀ	hɛ̃ˊˀ		
+1582	Rahung	food	hɛˀ	hɛˀ		
+1583	Rupa	food	haˀ ~ haː	haˀ 	 haː	Variants
+1584	Shergaon	food	haː	haː		
+#
+1587	Khoina	forehead	ma-kɔː	ma-kɔː		
+1588	Jerigaon	forehead	mu-kɔː	mu-kɔː		
+1589	Khoitam	forehead	mu-kɔː	mu-kɔː		
+1590	Rahung	forehead	mə-koː	mə-koː		
+1591	Rupa	forehead	mə-kaw	mə-kaw		
+1592	Shergaon	forehead	mə-kaw	mə-kaw		
+#
+1595	Khoina	forest1	ri-ʂɛˀ	ri-ʂɛˀ		
+1596	Jerigaon	forest1	rə-sɛˀ	rə-sɛˀ		
+1597	Khoitam	forest1	a-sak	a-sak		
+1598	Rahung	forest1	a-seˀ	a-seˀ		
+1599	Rupa	forest1	ɟaŋ-seˀ ~ ʥaŋ-seˀ	ɟaŋ-seˀ 	 ʥaŋ-seˀ	Variants
+1600	Shergaon	forest1	ʥaŋ-se	ʥaŋ-se		
+#
+1601	Khispi	forest2	ʥaŋ	ʥaŋ		
+1602	Duhumbi	forest2	ʥaŋ	ʥaŋ		
+1607	Rupa	forest2	ɟaŋ-seˀ	ɟaŋ-seˀ		
+1608	Shergaon	forest2	ʥaŋ-se	ʥaŋ-se		
+#
+1609	Khispi	forget	(ganʥi) pʰak	pʰak		
+1611	Khoina	forget	pʰlɐk	pʰlɐk		
+1612	Jerigaon	forget	pʰlak	pʰlak		
+1613	Khoitam	forget	pʰlak	pʰlak		
+1614	Rahung	forget	pʰrak	pʰrak		
+1615	Rupa	forget	pʰlak	pʰlak		
+1616	Shergaon	forget	pʰlak	pʰlak		
+#
+1617	Khispi	four	p-ɕi	p-ɕi		
+1618	Duhumbi	four	p-ɕi	p-ɕi		
+1619	Khoina	four	p-ʂiː	p-ʂiː		
+1620	Jerigaon	four	p-siː	p-siː		
+1621	Khoitam	four	p-siː	p-siː		
+1622	Rahung	four	p-siː	p-siː		
+1623	Rupa	four	bə-siː	bə-siː		
+1624	Shergaon	four	p-ɕi	p-ɕi		
+#
+1625	Khispi	friend	lɔk	lɔk		
+1626	Duhumbi	friend	lɔk	lɔk		
+1627	Khoina	friend	rɔk	rɔk		
+1628	Jerigaon	friend	kʰ-rɔ̃ː ~ kʰu-rɔ̃ː	kʰ-rɔ̃ː 	 kʰu-rɔ̃ː	Variants
+1629	Khoitam	friend	kʰə-nũː	kʰə-nũː		
+1630	Rahung	friend	kʰə-nũː	kʰə-nũː		
+1631	Rupa	friend	rɔk	rɔk		
+1632	Shergaon	friend	rɔk	rɔk		
+#
+1633	Khispi	frog	duŋ-ta	duŋ-ta		
+1634	Duhumbi	frog	duŋ-taˀ ~ dum-ta	duŋ-taˀ 	 dum-ta	Variants
+1635	Khoina	frog	rə-tu	rə-tu		
+1636	Jerigaon	frog	rɛk-tu	rɛk-tu		
+1637	Khoitam	frog	rik-tu	rik-tu		
+1638	Rahung	frog	rik-tu	rik-tu		
+1639	Rupa	frog	riː-gə-tu	riː-gə-tu		
+#
+1641	Khispi	frost	nam-ba	nam-ba		
+1645	Khoitam	frost	nam-bluː	nam-bluː		
+1646	Rahung	frost	nam-bruː	nam-bruː		
+1647	Rupa	frost	nam-bluː	nam-bluː		
+1648	Shergaon	frost	nam-bluː	nam-bluː		
+#
+1653	Khoitam	fruit	mə-laŋ	mə-laŋ		
+1654	Rahung	fruit	mə-laŋ	mə-laŋ		
+1655	Rupa	fruit	mə-laŋ	mə-laŋ		
+1656	Shergaon	fruit	mə-laŋ	mə-laŋ		
+#
+1659	Khoina	frying pan	kʰə-jaː	kʰə-jaː		
+1661	Khoitam	frying pan	kʰ-jɛː	kʰ-jɛː		
+1662	Rahung	frying pan	kʰi-jɛː	kʰi-jɛː		
+1663	Rupa	frying pan	kʰ-jaː	kʰ-jaː		
+#
+1665	Khispi	full	pɕiŋ- ~ ɕiŋ-ba	pɕiŋ- 	 ɕiŋ-ba	Variants
+1666	Duhumbi	full	pɕiŋ-ba	pɕiŋ-ba		
+1667	Khoina	full	a-pʰiŋ	a-pʰiŋ		
+1668	Jerigaon	full	a-pʰiŋ	a-pʰiŋ		
+1669	Khoitam	full	a-pʰiŋ	a-pʰiŋ		
+1670	Rahung	full	a-pʰiŋ	a-pʰiŋ		
+1671	Rupa	full	pʰiŋ-ba	pʰiŋ-ba		
+1672	Shergaon	full	pʰiŋ	pʰiŋ		
+#
+1673	Khispi	gall, bile	ɕa-ɕi	ɕa-ɕi		
+1675	Khoina	gall, bile	a-ʦʰiʰ	a-ʦʰiʰ		
+1676	Jerigaon	gall, bile	a-ʨʰiʰ	a-ʨʰiʰ		
+1677	Khoitam	gall, bile	a-ʨʰiʰ	a-ʨʰiʰ		
+1678	Rahung	gall, bile	a-ʨʰiʰ	a-ʨʰiʰ		
+1679	Rupa	gall, bile	a-ʨʰiʰ	a-ʨʰiʰ		
+1680	Shergaon	gall, bile	a-ʨʰi	a-ʨʰi		
+#
+1681	Khispi	garden	suɹ-ʨʰuɹ	suɹ-ʨʰuɹ		
+1682	Duhumbi	garden	sɔɹ-ʨʰuɹ	sɔɹ-ʨʰuɹ		
+1685	Khoitam	garden	moː-ʨʰɔɹ	moː-ʨʰɔɹ		
+#
+1689	Khispi	garlic	maŋ	maŋ		
+1690	Duhumbi	garlic	maŋ	maŋ		
+1691	Khoina	garlic	ma-siŋ	ma-siŋ		
+1692	Jerigaon	garlic	mɔr-siŋ	mɔr-siŋ		
+1693	Khoitam	garlic	mɔ-siŋ	mɔ-siŋ		
+1695	Rupa	garlic	mɔŋ-siŋ	mɔŋ-siŋ		
+1696	Shergaon	garlic	mɔŋ-siŋ	mɔŋ-siŋ		
+#
+1697	Khispi	give	ɕi	ɕi		
+1698	Duhumbi	give	ɕi	ɕi		
+1699	Khoina	give	ʦʰiː	ʦʰiː		
+1700	Jerigaon	give	ʨʰiː	ʨʰiː		
+1701	Khoitam	give	ʨʰiː	ʨʰiː		
+1702	Rahung	give	ʨʰiː	ʨʰiː		
+1703	Rupa	give	ʨʰiː  ~ ʣiː	ʨʰiː  	 ʣiː	Variants
+1704	Shergaon	give	cʰiː	cʰiː		
+#
+1705	Khispi	go	ɔŋ	ɔŋ		
+1706	Duhumbi	go	ɔŋ	ɔŋ		
+1707	Khoina	go	ɔŋ	ɔŋ		
+1708	Jerigaon	go	aŋ	aŋ		
+1709	Khoitam	go	aŋ	aŋ		
+1710	Rahung	go	ɔŋ	ɔŋ		
+1711	Rupa	go	ɔŋ	ɔŋ		
+1712	Shergaon	go	ɔŋ	ɔŋ		
+#
+1715	Khoina	goat	sy-ʣøː	sy-ʣøː		
+1716	Jerigaon	goat	sə-ʥøː	sə-ʥøː		
+1717	Khoitam	goat	ʥə-zĩː	ʥə-zĩː		
+1718	Rahung	goat	zyː	zyː		
+1719	Rupa	goat	zøː ~ zɛ̃ː	zøː 	 zɛ̃ː	Variants
+1720	Shergaon	goat	zɛ̃ː	zɛ̃ː		
+#
+1721	Khispi	goitre	du-lu	du-lu		
+1722	Duhumbi	goitre	du-luˀ ~ dɔ-rɔˀ	du-luˀ 	 dɔ-rɔˀ	Variants
+1724	Jerigaon	goitre	d-rɔ	d-rɔ		
+1725	Khoitam	goitre	d-rɔː	d-rɔː		
+1726	Rahung	goitre	d-roː	d-roː		
+1727	Rupa	goitre	də-raw	də-raw		
+1728	Shergaon	goitre	də-raw	də-raw		
+#
+1729	Khispi	gold	sɛl	sɛl		
+1730	Duhumbi	gold	sɛɹ	sɛɹ		
+1731	Khoina	gold	siŋ	siŋ		
+1732	Jerigaon	gold	siŋ	siŋ		
+1733	Khoitam	gold	sɛɹ	sɛɹ		
+1734	Rahung	gold	sɛɹ	sɛɹ		
+1735	Rupa	gold	sin	sin		
+1736	Shergaon	gold	sin	sin		
+#
+1738	Duhumbi	good	ɔ-ʥɔp	ɔ-ʥɔp		
+1739	Khoina	good	a-dʐaˀ	a-dʐaˀ		
+1740	Jerigaon	good	a-ʥɛˀ	a-ʥɛˀ		
+1741	Khoitam	good	a-ʥap	a-ʥap		
+1742	Rahung	good	a-ʥap	a-ʥap		
+1743	Rupa	good	a-ɟap ~ a-ʥap	a-ɟap 	 a-ʥap	Variants
+1744	Shergaon	good	a-ʥap	a-ʥap		
+#
+1745	Khispi	goral	ɕa-ʑɛl	ɕa-ʑɛl		
+1746	Duhumbi	goral	ɕa-zɛɹ	ɕa-zɛɹ		
+1748	Jerigaon	goral	sə-zɛn	sə-zɛn		
+1749	Khoitam	goral	ʥə-zan	ʥə-zan		
+1750	Rahung	goral	zan	zan		
+1751	Rupa	goral	zan	zan		
+1752	Shergaon	goral	zan	zan		
+#
+1753	Khispi	gourd	kʰa-ʨʰɔŋ (law)	kʰa-ʨʰɔŋ		
+1755	Khoina	gourd	kʰ-ʨʰuŋ	kʰ-ʨʰuŋ		
+1758	Rahung	gourd	kʰ-ʨʰuŋ	kʰ-ʨʰuŋ		
+#
+1763	Khoina	grandfather	a-suː	a-suː		
+1766	Rahung	grandfather	a-suː	a-suː		
+1767	Rupa	grandfather	a-suː	a-suː		
+#
+1769	Khispi	grandmother	a-ji	a-ji		
+1770	Duhumbi	grandmother	a-ji	a-ji		
+1771	Khoina	grandmother	a-jɐʰ	a-jɐʰ		
+1772	Jerigaon	grandmother	a-jɐʰ	a-jɐʰ		
+1773	Khoitam	grandmother	a-jɔʰ	a-jɔʰ		
+1774	Rahung	grandmother	A-jɔʰ	A-jɔʰ		
+1775	Rupa	grandmother	a-jɔʰ	a-jɔʰ		
+1776	Shergaon	grandmother	a-jiː	a-jiː		
+#
+1777	Khispi	green	jaŋ ~ ʥaŋ-ku	jaŋ 	 ʥaŋ-ku	Variants
+1778	Duhumbi	green	jaŋ	jaŋ		
+1779	Khoina	green	ɔ-xɐ̃ː	ɔ-xɐ̃ː		
+1780	Jerigaon	green	ɔ-hɐ̃ː	ɔ-hɐ̃ː		
+1781	Khoitam	green	ɔ-hɔ̃ː	ɔ-hɔ̃ː		
+1782	Rahung	green	ɔ-hɔ̃ː	ɔ-hɔ̃ː		
+1783	Rupa	green	ɔ-hɔ̃ː	ɔ-hɔ̃ː		
+1784	Shergaon	green	ɔ-hɔ̃ː	ɔ-hɔ̃ː		
+#
+1787	Khoina	grind, pound	ʐyː	ʐyː		
+1788	Jerigaon	grind, pound	zyː	zyː		
+1789	Khoitam	grind, pound	zyː(n)	zyː		
+1790	Rahung	grind, pound	zyː	zyː		
+1791	Rupa	grind, pound	zyː(n)	zyː		
+1792	Shergaon	grind, pound	ziː	ziː		
+#
+1794	Duhumbi	gum	ɕa-ɲi-lum	ɕa-ɲi-lum		
+1795	Khoina	gum	mə-ʂə-rĩː	mə-ʂə-rĩː		
+1798	Rahung	gum	sə-niŋ	sə-niŋ		
+1799	Rupa	gum	sə-ɲiŋ	sə-ɲiŋ		
+#
+1803	Khoina	hail	na-jyŋ	na-jyŋ		
+1804	Jerigaon	hail	nə-jiŋ	nə-jiŋ		
+1805	Khoitam	hail	ny-jiŋ	ny-jiŋ		
+1806	Rahung	hail	niŋ  ~ niŋ nam-bruː	niŋ  	 niŋ nam-bruː	Variants
+1807	Rupa	hail	ny-jyŋ	ny-jyŋ		
+#
+1809	Khispi	hair (body): feather	mul ~ mur	mul 	 mur	Variants
+1811	Khoina	hair (body): feather	a-miŋ	a-miŋ		
+1812	Jerigaon	hair (body): feather	a-miŋ	a-miŋ		
+1813	Khoitam	hair (body): feather	a-miŋ	a-miŋ		
+1814	Rahung	hair (body): feather	a-miŋ	a-miŋ		
+1815	Rupa	hair (body): feather	a-miŋ	a-miŋ		
+1816	Shergaon	hair (body): feather	a-miŋ ~ min-du	a-miŋ 	 min-du	Variants
+#
+1817	Khispi	hair (head)	kʰu-ɕaŋ	kʰu-ɕaŋ		
+1818	Duhumbi	hair (head)	kʰu-ɕaŋ ~ kʰu-zjaŋ	kʰu-ɕaŋ 	 kʰu-zjaŋ	Variants
+1819	Khoina	hair (head)	gə-ʐaŋ	gə-ʐaŋ		
+1820	Jerigaon	hair (head)	gə-zaŋ	gə-zaŋ		
+1821	Khoitam	hair (head)	gə-zaŋ	gə-zaŋ		
+1822	Rahung	hair (head)	gə-zaŋ	gə-zaŋ		
+1823	Rupa	hair (head)	gə-zaŋ	gə-zaŋ		
+1824	Shergaon	hair (head)	gə-zaŋ	gə-zaŋ		
+#
+1826	Duhumbi	halt, stop	kak	kak		
+1827	Khoina	halt, stop	kʰɐk	kʰɐk		
+1830	Rahung	halt, stop	gak	gak		
+#
+1833	Khispi	hand, arm	hut	hut		
+1834	Duhumbi	hand, arm	hut	hut		
+1835	Khoina	hand, arm	ik	ik		
+1836	Jerigaon	hand, arm	ik	ik		
+1837	Khoitam	hand, arm	ik	ik		
+1838	Rahung	hand, arm	ik	ik		
+1839	Rupa	hand, arm	ik	ik		
+1840	Shergaon	hand, arm	ik	ik		
+#
+1844	Jerigaon	hard	a-ʨuː	a-ʨuː		
+1845	Khoitam	hard	a-ʨuː	a-ʨuː		
+1846	Rahung	hard	a-ʨuː	a-ʨuː		
+1847	Rupa	hard	a-ʦuː ~ a-ʨuː	a-ʦuː 	 a-ʨuː	Variants
+1848	Shergaon	hard	a-ʨuː	a-ʨuː		
+#
+1850	Duhumbi	hatch	ʦɔk	ʦɔk		
+1851	Khoina	hatch	ʦɔk	ʦɔk		
+1853	Khoitam	hatch	ʨɔk	ʨɔk		
+1854	Rahung	hatch	ʨɔk	ʨɔk		
+#
+1857	Khispi	head	kʰɔ-lɔk	kʰɔ-lɔk		
+1858	Duhumbi	head	kʰɔ-lɔk	kʰɔ-lɔk		
+1860	Jerigaon	head	kʰ-ruk	kʰ-ruk		
+1861	Khoitam	head	kʰ-ruk	kʰ-ruk		
+1862	Rahung	head	kʰ-ruk	kʰ-ruk		
+1863	Rupa	head	kʰ-ruk	kʰ-ruk		
+1864	Shergaon	head	kʰ-ruk	kʰ-ruk		
+#
+1865	Khispi	heart	lɔŋ-tʰa ~ luŋ-tʰa	lɔŋ-tʰa 	 luŋ-tʰa	Variants
+1866	Duhumbi	heart	luŋ-tʰak	luŋ-tʰak		
+1867	Khoina	heart	ʂə-lyŋ	ʂə-lyŋ		
+1868	Jerigaon	heart	sə-lyŋ	sə-lyŋ		
+1869	Khoitam	heart	sə-lyŋ	sə-lyŋ		
+1870	Rahung	heart	sə-lyŋ	sə-lyŋ		
+1871	Rupa	heart	s(ə)-lyŋ	s-lyŋ		
+1872	Shergaon	heart	sə-luŋ	sə-luŋ		
+#
+1873	Khispi	hearth, fireplace	bu-du	bu-du		
+1874	Duhumbi	hearth, fireplace	bɛj-dup ~ bu-dup	bɛj-dup 	 bu-dup	Variants
+1877	Khoitam	hearth, fireplace	b-rɔp	b-rɔp		
+1878	Rahung	hearth, fireplace	b-r-p	b-r-p		
+1879	Rupa	hearth, fireplace	b-rɔp	b-rɔp		
+1880	Shergaon	hearth, fireplace	b-rɔk	b-rɔk		
+#
+1881	Khispi	heavy	u-li	u-li		
+1882	Duhumbi	heavy	u-li	u-li		
+1883	Khoina	heavy	a-liː	a-liː		
+1884	Jerigaon	heavy	a-liː	a-liː		
+1885	Khoitam	heavy	a-liː	a-liː		
+1886	Rahung	heavy	a-liː	a-liː		
+1887	Rupa	heavy	a-liː	a-liː		
+1888	Shergaon	heavy	a-liː	a-liː		
+#
+1891	Khoina	here	tʰa ~ tʰə-nɔː-rɔ	tʰa 	 tʰə-nɔː-rɔ	Variants
+1892	Jerigaon	here	tʰ-rɔ ~ u-tʰu-rɔ	tʰ-rɔ 	 u-tʰu-rɔ	Variants
+1893	Khoitam	here	tʰ-ru	tʰ-ru		
+1894	Rahung	here	tʰ-ruŋ	tʰ-ruŋ		
+1895	Rupa	here	tʰu-gɔ	tʰu-gɔ		
+1896	Shergaon	here	tʰɔ	tʰɔ		
+#
+1897	Khispi	hide	uk	uk		
+1898	Duhumbi	hide	uk	uk		
+1899	Khoina	hide	uk	uk		
+1900	Jerigaon	hide	uk	uk		
+1901	Khoitam	hide	uk	uk		
+1902	Rahung	hide	uk	uk		
+1903	Rupa	hide	uk	uk		
+1904	Shergaon	hide	uk	uk		
+#
+1905	Khispi	hold	zum	zum		
+1906	Duhumbi	hold	zum	zum		
+1908	Jerigaon	hold	zøn	zøn		
+1909	Khoitam	hold	zɔm	zɔm		
+1911	Rupa	hold	zɔm	zɔm		
+1912	Shergaon	hold	zɔm	zɔm		
+#
+1913	Khispi	honey	ʨʰi-ʨʰu	ʨʰi-ʨʰu		
+1914	Duhumbi	honey	ʨʰi-ʨʰu ~ ʨʰu-ʨʰu	ʨʰi-ʨʰu 	 ʨʰu-ʨʰu	Variants
+1915	Khoina	honey	ʦʰiː	ʦʰiː		
+1916	Jerigaon	honey	ʨʰiː	ʨʰiː		
+1917	Khoitam	honey	ʦʰə-siː ~ ʦʰ-siː ~ ʦʰiː	ʦʰə-siː 	 ʦʰ-siː  ʦʰiː	Variants
+1919	Rupa	honey	ʨʰiː	ʨʰiː		
+1920	Shergaon	honey	ʨʰiː	ʨʰiː		
+#
+1921	Khispi	horn	kʰɛŋ	kʰɛŋ		
+1922	Duhumbi	horn	kʰjɛŋ	kʰjɛŋ		
+1923	Khoina	horn	tʂʰajŋ	tʂʰajŋ		
+1924	Jerigaon	horn	ʨʰɛŋ	ʨʰɛŋ		
+1925	Khoitam	horn	ʨʰɛŋ	ʨʰɛŋ		
+1926	Rahung	horn	ʨʰɛŋ	ʨʰɛŋ		
+1927	Rupa	horn	kʰɛŋ	kʰɛŋ		
+1928	Shergaon	horn	kʰɛŋ	kʰɛŋ		
+#
+1931	Khoina	hornbill	ʨʰa-lu-wɔ̃ːʹ(ŋ)	ʨʰa-lu-wɔ̃ːʹ		
+1933	Khoitam	hornbill	pʰu-lũː(ŋ)	pʰu-lũː		
+1934	Rahung	hornbill	hu-lũŋ	hu-lũŋ		
+1935	Rupa	hornbill	də-wɔŋ	də-wɔŋ		
+#
+1938	Duhumbi	hornet	ʨʰik-ʨʰu kʰɔ-lɔk	ʨʰik-ʨʰu kʰɔ-lɔk		
+1939	Khoina	hornet	də-ʦʰyː	də-ʦʰyː		
+1940	Jerigaon	hornet	ʨʰyː ~ sə-ʨʰyː(ŋ)	ʨʰyː 	 sə-ʨʰyː	Variants
+1941	Khoitam	hornet	ʦʰ-syː ~ ʦʰə-syː	ʦʰ-syː 	 ʦʰə-syː	Variants
+1943	Rupa	hornet	də-ʨʰøː	də-ʨʰøː		
+#
+1945	Khispi	horse	ɕ-ta	ɕ-ta		
+1946	Duhumbi	horse	ɕ-taˀ ~ ɕip-taˀ	ɕ-taˀ 	 ɕip-taˀ	Variants
+1947	Khoina	horse	ʂ-tu	ʂ-tu		
+1948	Jerigaon	horse	s-tu	s-tu		
+1949	Khoitam	horse	s-tu	s-tu		
+1950	Rahung	horse	s-tu	s-tu		
+1951	Rupa	horse	s-tu	s-tu		
+1952	Shergaon	horse	s-tu	s-tu		
+#
+1954	Duhumbi	horsefly	tam-pi	tam-pi		
+1955	Khoina	horsefly	tim-pu la-dʐɔː	tim-pu la-dʐɔː		
+1957	Khoitam	horsefly	tam-pi la-ʥɔŋ	tam-pi la-ʥɔŋ		
+1958	Rahung	horsefly	ʨa-pim-ʥɔŋ	ʨa-pim-ʥɔŋ		
+#
+1961	Khispi	house	wam	wam		
+1962	Duhumbi	house	wam	wam		
+1963	Khoina	house	jan	jan		
+1964	Jerigaon	house	jan ~ jɛn	jan 	 jɛn	Variants
+1965	Khoitam	house	jam	jam		
+1966	Rahung	house	jam	jam		
+1967	Rupa	house	jam	jam		
+1968	Shergaon	house	jam	jam		
+#
+1969	Khispi	how many	a-pʰi-n	a-pʰi-n		
+1970	Duhumbi	how many	a-pʰi ~ a-pʰi-hin ~ a-pʰi-n	a-pʰi 	 a-pʰi-hin  a-pʰi-n	Variants
+1971	Khoina	how many	nə-pʰaː hɛn	nə-pʰaː hɛn		
+1974	Rahung	how many	mə-pʰɛː-hɛn	mə-pʰɛː-hɛn		
+1975	Rupa	how many	ɲə-pãj-jaː-aː  ~ ja-pãj	ɲə-pãj-jaː-aː  	 ja-pãj	Variants
+1976	Shergaon	how many	nə-pà̄-n	nə-pà̄-n		
+#
+1977	Khispi	human being	bu-dun	bu-dun		
+1978	Duhumbi	human being	bu-dun	bu-dun		
+1979	Khoina	human being	ʥə-riŋ	ʥə-riŋ		
+1980	Jerigaon	human being	ʥə-riŋ	ʥə-riŋ		
+1981	Khoitam	human being	ʥə-riŋ	ʥə-riŋ		
+1982	Rahung	human being	ʥə-riŋ	ʥə-riŋ		
+1983	Rupa	human being	ʥə-rin	ʥə-rin		
+1984	Shergaon	human being	ʥi-rin	ʥi-rin		
+#
+1985	Khispi	human being prefix	bi-	bi-		
+1986	Duhumbi	human being prefix	bi-	bi-		
+1987	Khoina	human being prefix	ʣi- ~ ʥi-	ʣi- 	 ʥi-	Variants
+1988	Jerigaon	human being prefix	ʥi-	ʥi-		
+1989	Khoitam	human being prefix	ʥi-	ʥi-		
+1990	Rahung	human being prefix	ʥi-	ʥi-		
+1991	Rupa	human being prefix	ʥi- ~ ʣi-	ʥi- 	 ʣi-	Variants
+1992	Shergaon	human being prefix	ʥi-	ʥi-		
+#
+1993	Khispi	hungry (vi)	kʰam	kʰam		
+1994	Duhumbi	hungry (vi)	kʰam	kʰam		
+1995	Khoina	hungry (vi)	a-kʰũː(ŋ)-dy	a-kʰũː-dy		
+1996	Jerigaon	hungry (vi)	kʰɔ̃ː(ŋ)	kʰɔ̃ː		
+1997	Khoitam	hungry (vi)	kʰũː(ŋ)	kʰũː		
+1998	Rahung	hungry (vi)	kʰũː(ŋ)	kʰũː		
+1999	Rupa	hungry (vi)	kʰũː(ŋ)	kʰũː		
+2000	Shergaon	hungry (vi)	kʰɔ̃ː	kʰɔ̃ː		
+#
+2001	Khispi	hunter	ɕa-pa	ɕa-pa		
+2002	Duhumbi	hunter	ɕa-pa	ɕa-pa		
+2003	Khoina	hunter	sa-pɐ	sa-pɐ		
+2004	Jerigaon	hunter	sa-pɐ	sa-pɐ		
+2005	Khoitam	hunter	sa-pɔ	sa-pɔ		
+2006	Rahung	hunter	sa-pɔ	sa-pɔ		
+2007	Rupa	hunter	sa-pɔ	sa-pɔ		
+2008	Shergaon	hunter	sa-po	sa-po		
+#
+2009	Khispi	husband	u-ja	u-ja		
+2010	Duhumbi	husband	ɔj	ɔj		
+2011	Khoina	husband	a-jaː	a-jaː		
+2012	Jerigaon	husband	a-jɛːʰ	a-jɛːʰ		
+2013	Khoitam	husband	a-jɛːʰ	a-jɛːʰ		
+2014	Rahung	husband	a-jɛːʰ	a-jɛːʰ		
+2015	Rupa	husband	a-jaː	a-jaː		
+2016	Shergaon	husband	a-jaː	a-jaː		
+#
+2017	Khispi	ice	kʰɛk	kʰɛk		
+2018	Duhumbi	ice	kʰɛt	kʰɛt		
+2021	Khoitam	ice	kak	kak		
+2022	Rahung	ice	kak	kak		
+2023	Rupa	ice	kak	kak		
+2024	Shergaon	ice	kak	kak		
+#
+2025	Khispi	imperative	-ma	-ma		
+2026	Duhumbi	imperative	-ma	-ma		
+2027	Khoina	imperative	-ma	-ma		
+2028	Jerigaon	imperative	-ma	-ma		
+2029	Khoitam	imperative	-mɔ	-mɔ		
+2030	Rahung	imperative	-mɔ	-mɔ		
+2031	Rupa	imperative	-mɔ	-mɔ		
+2032	Shergaon	imperative	-mɔ	-mɔ		
+#
+2035	Khoina	in	a-lyŋ	a-lyŋ		
+2036	Jerigaon	in	a-lyŋ	a-lyŋ		
+2037	Khoitam	in	a-lyŋ	a-lyŋ		
+2038	Rahung	in	a-lyŋ	a-lyŋ		
+2039	Rupa	in	a-lyŋ	a-lyŋ		
+2040	Shergaon	in	a-luŋ	a-luŋ		
+#
+2049	Khispi	insect	pʰu	pʰu		
+2050	Duhumbi	insect	pʰu	pʰu		
+2051	Khoina	insect	pʰyː(j)	pʰyː		
+2052	Jerigaon	insect	pʰyː	pʰyː		
+2053	Khoitam	insect	pʰyː	pʰyː		
+2054	Rahung	insect	pʰyː(j)	pʰyː		
+2055	Rupa	insect	pʰyː	pʰyː		
+2056	Shergaon	insect	pʰiː	pʰiː		
+#
+2059	Khoina	intestines	a-haː	a-haː		
+2060	Jerigaon	intestines	a-lɛːʰ	a-lɛːʰ		
+2061	Khoitam	intestines	a-lɛːʰ ~ a-rɛːʰ	a-lɛːʰ 	 a-rɛːʰ	Variants
+2062	Rahung	intestines	a-lɛːʰ	a-lɛːʰ		
+2063	Rupa	intestines	a-laː	a-laː		
+2064	Shergaon	intestines	a-laː	a-laː		
+#
+2067	Khoina	iron	sɛ̃ĩ	sɛ̃ĩ		
+2068	Jerigaon	iron	sɛ̃ĩ	sɛ̃ĩ		
+2069	Khoitam	iron	ʨĩˀ	ʨĩˀ		
+2070	Rahung	iron	ʨĩˀ	ʨĩˀ		
+2071	Rupa	iron	sɛ̃ːˀ	sɛ̃ːˀ		
+2072	Shergaon	iron	sɛ̃ː	sɛ̃ː		
+#
+2073	Khispi	itch	aw	aw		
+2074	Duhumbi	itch	aw	aw		
+2075	Khoina	itch	ɔː	ɔː		
+2076	Jerigaon	itch	ɔː	ɔː		
+2077	Khoitam	itch	oː	oː		
+2078	Rahung	itch	oː	oː		
+2079	Rupa	itch	oː	oː		
+2080	Shergaon	itch	oː	oː		
+#
+2081	Khispi	jackal	mej-lɔŋ	mej-lɔŋ		
+2082	Duhumbi	jackal	mɛj-rɔŋ	mɛj-rɔŋ		
+2084	Jerigaon	jackal	mɛ-rɔŋ	mɛ-rɔŋ		
+2087	Rupa	jackal	mə-ryŋ	mə-ryŋ		
+2088	Shergaon	jackal	maj-rɔŋ	maj-rɔŋ		
+#
+2097	Khispi	jump	ʥɔŋ	ʥɔŋ		
+2098	Duhumbi	jump	ʥɔŋ	ʥɔŋ		
+2099	Khoina	jump	ʦʰɛː	ʦʰɛː		
+2101	Khoitam	jump	ʨʰɔː	ʨʰɔː		
+2102	Rahung	jump	ʨʰoː	ʨʰoː		
+2103	Rupa	jump	ʦʰaw	ʦʰaw		
+#
+2105	Khispi	keep, remain	da	da		
+2106	Duhumbi	keep, remain	da	da		
+2108	Jerigaon	keep, remain	ruː	ruː		
+2111	Rupa	keep, remain	ruː	ruː		
+#
+2121	Khispi	kick (v)	lɛj tɔm	lɛj tɔm		
+2122	Duhumbi	kick (v)	lɛj tɔm	lɛj tɔm		
+2123	Khoina	kick (v)	la-tʂʰyː tuŋ	la-tʂʰyː tuŋ		
+2124	Jerigaon	kick (v)	la-ʨʰyː tuŋ ~ la-ʨʰøː tuŋ	la-ʨʰyː tuŋ 	 la-ʨʰøː tuŋ	Variants
+2125	Khoitam	kick (v)	la-ʨʰyː rɛˀ	la-ʨʰyː rɛˀ		
+2126	Rahung	kick (v)	la-ʨʰyː rɛˀ	la-ʨʰyː rɛˀ		
+2127	Rupa	kick (v)	la-kʰyː raˀ	la-kʰyː raˀ		
+2128	Shergaon	kick (v)	la-kʰiː raˀ	la-kʰiː raˀ		
+#
+2129	Khispi	kill	at	at		
+2130	Duhumbi	kill	at	at		
+2131	Khoina	kill	ɐ	ɐ		
+2132	Jerigaon	kill	ɐˀ	ɐˀ		
+2133	Khoitam	kill	ɔˀ	ɔˀ		
+2134	Rahung	kill	ɔˀ	ɔˀ		
+2135	Rupa	kill	ɔˀ	ɔˀ		
+2136	Shergaon	kill	ɔ	ɔ		
+#
+2137	Khispi	kiss (n)	ʨup	ʨup		
+2138	Duhumbi	kiss (n)	ʨup	ʨup		
+2139	Khoina	kiss (n)	ʦyː	ʦyː		
+2141	Khoitam	kiss (n)	ʨup	ʨup		
+2142	Rahung	kiss (n)	ʨup	ʨup		
+2143	Rupa	kiss (n)	ʦup	ʦup		
+#
+2145	Khispi	knee	kɔː-lɔk-pa	kɔː-lɔk-pa		
+2146	Duhumbi	knee	kɔː-lɔk-pa	kɔː-lɔk-pa		
+2147	Khoina	knee	ja-pʰyk kraː	ja-pʰyk kraː		
+2148	Jerigaon	knee	la-pʰyk kriː	la-pʰyk kriː		
+2149	Khoitam	knee	lə-pʰik-kʰɔm ~ lə-kʰyk-kʰɔm	lə-pʰik-kʰɔm 	 lə-kʰyk-kʰɔm	Variants
+2150	Rahung	knee	la-pʰik-kʰɔm ~ la-pʰik-kʰøm	la-pʰik-kʰɔm 	 la-pʰik-kʰøm	Variants
+2151	Rupa	knee	lə-pʰyk ~ lə-fyk	lə-pʰyk 	 lə-fyk	Variants
+2152	Shergaon	knee	kʰlɔk-puː	kʰlɔk-puː		
+#
+2153	Khispi	know	dɛn	dɛn		
+2154	Duhumbi	know	dɛn	dɛn		
+2155	Khoina	know	dɛn	dɛn		
+2156	Jerigaon	know	dɛn	dɛn		
+2157	Khoitam	know	dan	dan		
+2158	Rahung	know	dɛn	dɛn		
+2159	Rupa	know	dan	dan		
+2160	Shergaon	know	dan	dan		
+#
+2161	Khispi	ladder	luŋ-tʰuŋ	luŋ-tʰuŋ		
+2162	Duhumbi	ladder	luŋ-tʰuŋ	luŋ-tʰuŋ		
+2163	Khoina	ladder	la-tʰøː	la-tʰøː		
+2164	Jerigaon	ladder	lə-tʰøː	lə-tʰøː		
+2165	Khoitam	ladder	liŋ-tʰĩː	liŋ-tʰĩː		
+2166	Rahung	ladder	lan-tʰyː	lan-tʰyː		
+2167	Rupa	ladder	lə-tʰøː ~ də-tʰøː	lə-tʰøː 	 də-tʰøː	Variants
+2168	Shergaon	ladder	lə-tʰøː	lə-tʰøː		
+#
+2169	Khispi	language	ŋak ~ ŋap	ŋak 	 ŋap	Variants
+2170	Duhumbi	language	ŋak ~ ŋap	ŋak 	 ŋap	Variants
+2171	Khoina	language	nɔ	nɔ		
+2172	Jerigaon	language	nu ~ nɔ	nu 	 nɔ	Variants
+2173	Khoitam	language	nu	nu		
+2174	Rahung	language	nuk	nuk		
+2175	Rupa	language	ɲuk ~ ɲu	ɲuk 	 ɲu	Variants
+2176	Shergaon	language	ɲɔ	ɲɔ		
+#
+2177	Khispi	langur	ɕa-ʑa ~ sa-ʑat	ɕa-ʑa 	 sa-ʑat	Variants
+2178	Duhumbi	langur	ɕa-ʑɛt ~ ɕa-ʑɛˀ	ɕa-ʑɛt 	 ɕa-ʑɛˀ	Variants
+2179	Khoina	langur	zə-zu	zə-zu		
+2180	Jerigaon	langur	zə-zu	zə-zu		
+2181	Khoitam	langur	zə-zu ~ ʥə-zu	zə-zu 	 ʥə-zu	Variants
+2182	Rahung	langur	zu	zu		
+2183	Rupa	langur	zə-zu	zə-zu		
+2184	Shergaon	langur	zu	zu		
+#
+2185	Khispi	lap	de-ma	de-ma		
+2186	Duhumbi	lap	dɛm	dɛm		
+2187	Khoina	lap	dɛ̃ː	dɛ̃ː		
+2188	Jerigaon	lap	dɛ̃ĩ	dɛ̃ĩ		
+2189	Khoitam	lap	dĩː	dĩː		
+2190	Rahung	lap	dĩː	dĩː		
+2191	Rupa	lap	dɛ̃ː	dɛ̃ː		
+2192	Shergaon	lap	dɛ̃ː	dɛ̃ː		
+#
+2194	Duhumbi	late (vi)	jɔt	jɔt		
+2196	Jerigaon	late (vi)	jeˀ	jeˀ		
+2197	Khoitam	late (vi)	jeˀ	jeˀ		
+2198	Rahung	late (vi)	jeˀ	jeˀ		
+2199	Rupa	late (vi)	jeˀ	jeˀ		
+#
+2201	Khispi	laugh	ʑej ~ ʑe	ʑej 	 ʑe	Variants
+2202	Duhumbi	laugh	ʑɛj	ʑɛj		
+2203	Khoina	laugh	ʐaː	ʐaː		
+2204	Jerigaon	laugh	zɛ ~ zaː	zɛ 	 zaː	Variants
+2205	Khoitam	laugh	zɛː	zɛː		
+2206	Rahung	laugh	zɛː	zɛː		
+2207	Rupa	laugh	zaː	zaː		
+2208	Shergaon	laugh	zaː	zaː		
+#
+2209	Khispi	leaf	u-lap	u-lap		
+2210	Duhumbi	leaf	u-lap	u-lap		
+2211	Khoina	leaf	a-la	a-la		
+2212	Jerigaon	leaf	a-lɛˀ	a-lɛˀ		
+2213	Khoitam	leaf	a-rap	a-rap		
+2214	Rahung	leaf	a-rap	a-rap		
+2215	Rupa	leaf	a-lap	a-lap		
+2216	Shergaon	leaf	a-lap	a-lap		
+#
+2217	Khispi	leaf litter	sum-ba	sum-ba		
+2218	Duhumbi	leaf litter	sum-baˀ	sum-baˀ		
+2219	Khoina	leaf litter	sɔɹ-bɔ	sɔɹ-bɔ		
+2220	Jerigaon	leaf litter	sɔɹ-bɔ	sɔɹ-bɔ		
+2221	Khoitam	leaf litter	su-bɔ	su-bɔ		
+2222	Rahung	leaf litter	sə-boː	sə-boː		
+2223	Rupa	leaf litter	sɔɹ-bɔ	sɔɹ-bɔ		
+2224	Shergaon	leaf litter	sɛj-bu	sɛj-bu		
+#
+2225	Khispi	leech, land	pat-pa	pat-pa		
+2226	Duhumbi	leech, land	pat-pa	pat-pa		
+2227	Khoina	leech, land	pʰa-wɛ̰	pʰa-wɛ̰		
+2228	Jerigaon	leech, land	pʰy-wɛ̰	pʰy-wɛ̰		
+2229	Khoitam	leech, land	pʰu-wap	pʰu-wap		
+2230	Rahung	leech, land	pʰə-pʰɛ̰	pʰə-pʰɛ̰		
+2231	Rupa	leech, land	pʰu-wat	pʰu-wat		
+2232	Shergaon	leech, land	pat-pu	pat-pu		
+#
+2233	Khispi	leech, water	pʰu-tis	pʰu-tis		
+2235	Khoina	leech, water	di-ʦʰik	di-ʦʰik		
+2236	Jerigaon	leech, water	pʰyː pʰ-ʨʰik	pʰyː pʰ-ʨʰik		
+2237	Khoitam	leech, water	pʰ-ʨʰik	pʰ-ʨʰik		
+2238	Rahung	leech, water	pʰ-ʨʰik	pʰ-ʨʰik		
+2240	Shergaon	leech, water	ʨʰin-ʨʰrik	ʨʰin-ʨʰrik		
+#
+2241	Khispi	left (side)	ɲim-lak-pa ~ ɲim-dak-pa	ɲim-lak-pa 	 ɲim-dak-pa	Variants
+2242	Duhumbi	left (side)	jɔm-lak-pa	jɔm-lak-pa		
+2243	Khoina	left (side)	a-xɛ	a-xɛ		
+2244	Jerigaon	left (side)	ə-he-tɛn ~ a-he-tɛn	ə-he-tɛn 	 a-he-tɛn	Variants
+2245	Khoitam	left (side)	ə-he	ə-he		
+2246	Rahung	left (side)	he-tɔ ~ he-tɛn	he-tɔ 	 he-tɛn	Variants
+2247	Rupa	left (side)	bə-kʰe	bə-kʰe		
+2248	Shergaon	left (side)	bə-kʰe	bə-kʰe		
+#
+2249	Khispi	leg	lej	lej		
+2250	Duhumbi	leg	lɛj	lɛj		
+2251	Khoina	leg	laː	laː		
+2252	Jerigaon	leg	lɛˀ	lɛˀ		
+2253	Khoitam	leg	lɛˀ	lɛˀ		
+2254	Rahung	leg	lɛˀ	lɛˀ		
+2255	Rupa	leg	laˀ	laˀ		
+2256	Shergaon	leg	la	la		
+#
+2257	Khispi	lick	lak	lak		
+2258	Duhumbi	lick	lak	lak		
+2259	Khoina	lick	lɐk	lɐk		
+2260	Jerigaon	lick	lak	lak		
+2261	Khoitam	lick	lak	lak		
+2262	Rahung	lick	lak	lak		
+#
+2267	Khoina	lie (n)	tɛˀ	tɛˀ		
+2268	Jerigaon	lie (n)	s-teˀ	s-teˀ		
+2269	Khoitam	lie (n)	s-teˀ	s-teˀ		
+2270	Rahung	lie (n)	s-teˀ	s-teˀ		
+2271	Rupa	lie (n)	s-teˀ	s-teˀ		
+2272	Shergaon	lie (n)	s-teˀ	s-teˀ		
+#
+2273	Khispi	lift completely, carry	kʰaŋ	kʰaŋ		
+2274	Duhumbi	lift completely, carry	kʰaŋ	kʰaŋ		
+2277	Khoitam	lift completely, carry	kʰaŋ	kʰaŋ		
+2279	Rupa	lift completely, carry	kʰaŋ	kʰaŋ		
+2280	Shergaon	lift completely, carry	kʰaŋ	kʰaŋ		
+#
+2281	Khispi	light	jaŋ-ɕɔk ~ jaŋ-kan-ma	jaŋ-ɕɔk 	 jaŋ-kan-ma	Variants
+2282	Duhumbi	light	jaŋ-pu	jaŋ-pu		
+2283	Khoina	light	a-ruŋ-du	a-ruŋ-du		
+2284	Jerigaon	light	a-ruŋ-du	a-ruŋ-du		
+2285	Khoitam	light	a-ruŋ-du	a-ruŋ-du		
+2286	Rahung	light	a-ruŋ-du	a-ruŋ-du		
+2287	Rupa	light	a-ruŋ-du	a-ruŋ-du		
+2288	Shergaon	light	a-ruŋ-du	a-ruŋ-du		
+#
+2289	Khispi	lightning	nam-liŋ ~ nam-ki-liŋ waŋ	nam-liŋ 	 nam-ki-liŋ waŋ	Variants
+2291	Khoina	lightning	nə-ʦʰaː	nə-ʦʰaː		
+2292	Jerigaon	lightning	nam-bla kʰɛː	nam-bla kʰɛː		
+2293	Khoitam	lightning	nam tap	nam tap		
+2294	Rahung	lightning	nam-ʨʰə-rɛː rɛt ~ ʨʰe	nam-ʨʰə-rɛː rɛt 	 ʨʰe	Variants
+2295	Rupa	lightning	nə-myː ba tap	nə-myː ba tap		
+2296	Shergaon	lightning	ni-mi ba tap	ni-mi ba tap		
+#
+2298	Duhumbi	like, love	hɔn	hɔn		
+2299	Khoina	like, love	xøː	xøː		
+2301	Khoitam	like, love	hĩː	hĩː		
+2302	Rahung	like, love	hyː	hyː		
+2303	Rupa	like, love	høn	høn		
+#
+2305	Khispi	liquor	pʰak	pʰak		
+2306	Duhumbi	liquor	pʰak	pʰak		
+2307	Khoina	liquor	pʰɐk	pʰɐk		
+2308	Jerigaon	liquor	pʰak	pʰak		
+2309	Khoitam	liquor	pʰak	pʰak		
+2310	Rahung	liquor	pʰak	pʰak		
+2311	Rupa	liquor	pʰak	pʰak		
+2312	Shergaon	liquor	pʰak	pʰak		
+#
+2313	Khispi	listen, heed	na ~ ha	na 	 ha	Variants
+2314	Duhumbi	listen, heed	na ~ ha	na 	 ha	Variants
+2315	Khoina	listen, heed	nu	nu		
+2316	Jerigaon	listen, heed	nu	nu		
+2317	Khoitam	listen, heed	nuŋ	nuŋ		
+2318	Rahung	listen, heed	nuŋ	nuŋ		
+2319	Rupa	listen, heed	nu ~ nuŋ	nu 	 nuŋ	Variants
+#
+2321	Khispi	live, stay	ʥu	ʥu		
+2322	Duhumbi	live, stay	ʥu	ʥu		
+2323	Khoina	live, stay	ʣɔː	ʣɔː		
+2324	Jerigaon	live, stay	ʥɔː	ʥɔː		
+2325	Khoitam	live, stay	ʥɔː	ʥɔː		
+2326	Rahung	live, stay	ʥoː	ʥoː		
+2327	Rupa	live, stay	ʥaw	ʥaw		
+2328	Shergaon	live, stay	ʥaw	ʥaw		
+#
+2329	Khispi	liver	ɕa-pɕin	ɕa-pɕin		
+2331	Khoina	liver	də-ʦʰɛ̃ː	də-ʦʰɛ̃ː		
+2332	Jerigaon	liver	sɛ̃ĩ	sɛ̃ĩ		
+2333	Khoitam	liver	s-sĩː ~ sə-sĩː ~ ʦʰ-sĩː ~ ʦʰə-sĩː	s-sĩː 	 sə-sĩː  ʦʰ-sĩː  ʦʰə-sĩː	Variants
+2334	Rahung	liver	a-ʨʰĩː	a-ʨʰĩː		
+2335	Rupa	liver	a-ʦʰɛ̃ː ~ a-ʨʰĩː	a-ʦʰɛ̃ː 	 a-ʨʰĩː	Variants
+2336	Shergaon	liver	a-ʦʰɛ̃ː	a-ʦʰɛ̃ː		
+#
+2337	Khispi	load (n)	jɔŋ	jɔŋ		
+2338	Duhumbi	load (n)	jɔŋ	jɔŋ		
+2339	Khoina	load (n)	juŋ	juŋ		
+2341	Khoitam	load (n)	juŋ	juŋ		
+2342	Rahung	load (n)	juŋ	juŋ		
+2343	Rupa	load (n)	juŋ	juŋ		
+#
+2345	Khispi	locative	-kʰɔ	-kʰɔ		
+2346	Duhumbi	locative	-kʰɔ	-kʰɔ		
+2347	Khoina	locative	-kʰɔ	-kʰɔ		
+2351	Rupa	locative	-gɔ	-gɔ		
+2352	Shergaon	locative	-kʰɔ	-kʰɔ		
+#
+2353	Khispi	long	u-liŋ	u-liŋ		
+2354	Duhumbi	long	u-riŋ	u-riŋ		
+2355	Khoina	long	a-rajŋ	a-rajŋ		
+2356	Jerigaon	long	a-rɛŋ	a-rɛŋ		
+2357	Khoitam	long	a-rɛŋ	a-rɛŋ		
+2358	Rahung	long	a-rɛŋ	a-rɛŋ		
+2359	Rupa	long	a-rɛŋ	a-rɛŋ		
+2360	Shergaon	long	a-rɛŋ	a-rɛŋ		
+#
+2363	Khoina	look	lɛn	lɛn		
+2364	Jerigaon	look	lɛn	lɛn		
+2365	Khoitam	look	lan	lan		
+2366	Rahung	look	lɛn	lɛn		
+2367	Rupa	look	lan	lan		
+#
+2369	Khispi	louse	hɛk	hɛk		
+2370	Duhumbi	louse	hjɛk	hjɛk		
+2371	Khoina	louse	xajk	xajk		
+2372	Jerigaon	louse	hɛk ~ hɛʔ-mu	hɛk 	 hɛʔ-mu	Variants
+2373	Khoitam	louse	hɛk	hɛk		
+2374	Rahung	louse	hɛk	hɛk		
+2375	Rupa	louse	hɛk	hɛk		
+2376	Shergaon	louse	hɛk	hɛk		
+#
+2379	Khoina	lungs	sə-rĩ sə-ruk	sə-rĩ sə-ruk		
+2380	Jerigaon	lungs	sə-rə̃ĩ sə-ruk	sə-rə̃ĩ sə-ruk		
+2381	Khoitam	lungs	sə-rĩ sə-ruk	sə-rĩ sə-ruk		
+2382	Rahung	lungs	su sə-ruk	su sə-ruk		
+2383	Rupa	lungs	sə-lyŋ sə-ruk	sə-lyŋ sə-ruk		
+2384	Shergaon	lungs	sə-luŋ sə-ruk	sə-luŋ sə-ruk		
+#
+2386	Duhumbi	macaque	ɕa-dɔŋ	ɕa-dɔŋ		
+2387	Khoina	macaque	ʐy-duŋ	ʐy-duŋ		
+2388	Jerigaon	macaque	z(ə)-duŋ	z-duŋ		
+2389	Khoitam	macaque	z(ə)-duŋ	z-duŋ		
+2390	Rahung	macaque	z(ə)-duŋ	z-duŋ		
+2391	Rupa	macaque	z(ə)-duŋ	z-duŋ		
+2392	Shergaon	macaque	z(ə)-duŋ	z-duŋ		
+#
+2393	Khispi	machete	hɔ-da	hɔ-da		
+2394	Duhumbi	machete	hɔt-da	hɔt-da		
+2395	Khoina	machete	han-duː	han-duː		
+2396	Jerigaon	machete	haŋ-guː ~ haŋ-gə-duː ~ haŋ-duː	haŋ-guː 	 haŋ-gə-duː  haŋ-duː	Variants
+2397	Khoitam	machete	han-duː	han-duː		
+2398	Rahung	machete	han-duː	han-duː		
+2399	Rupa	machete	han-duː	han-duː		
+2400	Shergaon	machete	han-duː	han-duː		
+#
+2401	Khispi	maize	mɔː-ɕɔ	mɔː-ɕɔ		
+2402	Duhumbi	maize	mɛj-ɕiŋ	mɛj-ɕiŋ		
+2403	Khoina	maize	ma-ʦɛ̃ː	ma-ʦɛ̃ː		
+2404	Jerigaon	maize	mə-ʨĩː	mə-ʨĩː		
+2405	Khoitam	maize	mə-ʨĩː	mə-ʨĩː		
+2406	Rahung	maize	pʰ-ʨĩː ~ bə-ʨĩː	pʰ-ʨĩː 	 bə-ʨĩː	Variants
+#
+2409	Khispi	make	ʨɔs	ʨɔs		
+2410	Duhumbi	make	ʨʰɔt	ʨʰɔt		
+2411	Khoina	make	ʨʰɛt	ʨʰɛt		
+#
+2417	Khispi	male	u-pʰa	u-pʰa		
+2418	Duhumbi	male	u-pʰa	u-pʰa		
+2419	Khoina	male	a-pʰuː	a-pʰuː		
+2420	Jerigaon	male	a-pʰuː	a-pʰuː		
+2421	Khoitam	male	a-pʰuː	a-pʰuː		
+2422	Rahung	male	a-pʰuː	a-pʰuː		
+2423	Rupa	male	a-pʰuː	a-pʰuː		
+2424	Shergaon	male	a-pʰuː	a-pʰuː		
+#
+2425	Khispi	man	ʑɔː-pʰa	ʑɔː-pʰa		
+2426	Duhumbi	man	ʑɔː-pʰa	ʑɔː-pʰa		
+2427	Khoina	man	ʥə-fuː	ʥə-fuː		
+2428	Jerigaon	man	ʥə-huː	ʥə-huː		
+2429	Khoitam	man	ʥə-huː	ʥə-huː		
+2430	Rahung	man	ʥə-huː	ʥə-huː		
+2431	Rupa	man	ʥə-huː	ʥə-huː		
+2432	Shergaon	man	ʥə-huː	ʥə-huː		
+#
+2434	Duhumbi	manure	he-ba	he-ba		
+2435	Khoina	manure	ha-wuː	ha-wuː		
+2437	Khoitam	manure	luː	luː		
+2438	Rahung	manure	la-wuː	la-wuː		
+2439	Rupa	manure	hũ	hũ		
+#
+2443	Khoina	marrow	ma-ny	ma-ny		
+2444	Jerigaon	marrow	a-nyː	a-nyː		
+2445	Khoitam	marrow	a-nyː	a-nyː		
+2446	Rahung	marrow	a-nyː	a-nyː		
+2447	Rupa	marrow	a-ɲyː	a-ɲyː		
+#
+2449	Khispi	marten	taŋ-kɔŋ	taŋ-kɔŋ		
+2450	Duhumbi	marten	taŋ-kɔŋ	taŋ-kɔŋ		
+2451	Khoina	marten	tʰaŋ-kʰuŋ	tʰaŋ-kʰuŋ		
+2452	Jerigaon	marten	taŋ-kuŋ	taŋ-kuŋ		
+2453	Khoitam	marten	taŋ-kuŋ	taŋ-kuŋ		
+2454	Rahung	marten	taŋ-kuŋ	taŋ-kuŋ		
+2455	Rupa	marten	taŋ-kuŋ	taŋ-kuŋ		
+2456	Shergaon	marten	taŋ-kuŋ	taŋ-kuŋ		
+#
+2457	Khispi	meat, animal	ɕa	ɕa		
+2458	Duhumbi	meat, animal	ɕa	ɕa		
+2459	Khoina	meat, animal	a-xyː	a-xyː		
+2460	Jerigaon	meat, animal	suː	suː		
+2461	Khoitam	meat, animal	suː	suː		
+2462	Rahung	meat, animal	suː	suː		
+2463	Rupa	meat, animal	suː	suː		
+2464	Shergaon	meat, animal	suː a-tɛ̃ː	suː a-tɛ̃ː		
+#
+2465	Khispi	medicine	pɛn	pɛn		
+2466	Duhumbi	medicine	man ~ mɛn	man 	 mɛn	Variants
+2467	Khoina	medicine	mɛn	mɛn		
+2468	Jerigaon	medicine	mɛn	mɛn		
+2469	Khoitam	medicine	man	man		
+2470	Rahung	medicine	mɛn ~ man	mɛn 	 man	Variants
+2471	Rupa	medicine	man	man		
+2472	Shergaon	medicine	man	man		
+#
+2473	Khispi	meet	ɕu	ɕu		
+2474	Duhumbi	meet	ɕu	ɕu		
+2475	Khoina	meet	ʂyː(j)	ʂyː		
+2477	Khoitam	meet	syː	syː		
+2479	Rupa	meet	syː	syː		
+#
+2481	Khispi	melt	ʑu	ʑu		
+2482	Duhumbi	melt	ʑu	ʑu		
+2483	Khoina	melt	ʐyː	ʐyː		
+2484	Jerigaon	melt	zyː	zyː		
+2485	Khoitam	melt	zyː	zyː		
+2486	Rahung	melt	zyː	zyː		
+2487	Rupa	melt	zyː	zyː		
+2488	Shergaon	melt	ziː	ziː		
+#
+2489	Khispi	middle / centre	ɔ-ʦɔŋ	ɔ-ʦɔŋ		
+2490	Duhumbi	middle / centre	ɔ-ʦɔŋ	ɔ-ʦɔŋ		
+2491	Khoina	middle / centre	a-ʦuŋ	a-ʦuŋ		
+2495	Rupa	middle / centre	a-ʦuŋ	a-ʦuŋ		
+#
+2506	Duhumbi	millet, broomcorn	ɲiŋ-ʨʰak	ɲiŋ-ʨʰak		
+2507	Khoina	millet, broomcorn	nə-ʨʰɐk	nə-ʨʰɐk		
+2510	Rahung	millet, broomcorn	nə-ʨʰak	nə-ʨʰak		
+2511	Rupa	millet, broomcorn	nə-ʦʰak	nə-ʦʰak		
+2512	Shergaon	millet, broomcorn	nə-ʨʰak	nə-ʨʰak		
+#
+2515	Khoina	millet, finger	gə-ʦan	gə-ʦan		
+2516	Jerigaon	millet, finger	kʰ-ʨɛn	kʰ-ʨɛn		
+2517	Khoitam	millet, finger	kʰ-ʨam	kʰ-ʨam		
+2518	Rahung	millet, finger	kʰ-ʨam	kʰ-ʨam		
+2519	Rupa	millet, finger	gə-ʦam ~ gə-ʨam	gə-ʦam 	 gə-ʨam	Variants
+2520	Shergaon	millet, finger	gə-ʨam	gə-ʨam		
+#
+2522	Duhumbi	millet, foxtail	ɲiŋ-kʰaˀ	ɲiŋ-kʰaˀ		
+2523	Khoina	millet, foxtail	nə-kʰu	nə-kʰu		
+2525	Khoitam	millet, foxtail	nə-kʰu	nə-kʰu		
+2527	Rupa	millet, foxtail	nə-kʰu	nə-kʰu		
+2528	Shergaon	millet, foxtail	nə-kʰu	nə-kʰu		
+#
+2529	Khispi	mithun	ɕa-ma	ɕa-ma		
+2530	Duhumbi	mithun	ɕa-ma	ɕa-ma		
+2531	Khoina	mithun	ʂa-m	ʂa-m		
+2532	Jerigaon	mithun	sə-muː	sə-muː		
+2533	Khoitam	mithun	su-m	su-m		
+2534	Rahung	mithun	su-m	su-m		
+2535	Rupa	mithun	sə-muː	sə-muː		
+2536	Shergaon	mithun	sə-muː	sə-muː		
+#
+2545	Khispi	moon, month	nam-ba	nam-ba		
+2546	Duhumbi	moon, month	nam-ba  ~ nam-la	nam-ba  	 nam-la	Variants
+2547	Khoina	moon, month	nam-bluː	nam-bluː		
+2548	Jerigaon	moon, month	nam-bluː	nam-bluː		
+2549	Khoitam	moon, month	nam-bluː	nam-bluː		
+2550	Rahung	moon, month	nam-bruː	nam-bruː		
+2551	Rupa	moon, month	nam-bluː	nam-bluː		
+2552	Shergaon	moon, month	nam-bluː	nam-bluː		
+#
+2556	Jerigaon	morning	s(ə)-ruː s(ə)-ri	s-ruː s-ri		
+2557	Khoitam	morning	nə-ruː	nə-ruː		
+2558	Rahung	morning	nə-ruː	nə-ruː		
+2559	Rupa	morning	ɲə-ruː	ɲə-ruː		
+2560	Shergaon	morning	ɲy-ruː	ɲy-ruː		
+#
+2561	Khispi	mortar (wood)	ʦʰum	ʦʰum		
+2562	Duhumbi	mortar (wood)	ʦʰum	ʦʰum		
+2563	Khoina	mortar (wood)	ʦøn	ʦøn		
+2564	Jerigaon	mortar (wood)	ʨøn	ʨøn		
+2565	Khoitam	mortar (wood)	ʨɔm	ʨɔm		
+2566	Rahung	mortar (wood)	ʨøm	ʨøm		
+2567	Rupa	mortar (wood)	ʦɔm	ʦɔm		
+2568	Shergaon	mortar (wood)	ʨɔm	ʨɔm		
+#
+2569	Khispi	mother	a-ma	a-ma		
+2570	Duhumbi	mother	a-ma	a-ma		
+2571	Khoina	mother	a-muː	a-muː		
+2572	Jerigaon	mother	a-muː ~ a-mɐ	a-muː 	 a-mɐ	Variants
+2573	Khoitam	mother	a-muː ~ a-maː	a-muː 	 a-maː	Variants
+2574	Rahung	mother	a-muː	a-muː		
+2575	Rupa	mother	a-mɔ	a-mɔ		
+2576	Shergaon	mother	a-mo	a-mo		
+#
+2577	Khispi	mountain	la	la		
+2578	Duhumbi	mountain	la	la		
+2579	Khoina	mountain	luː	luː		
+2580	Jerigaon	mountain	luː	luː		
+2581	Khoitam	mountain	luː	luː		
+2582	Rahung	mountain	luː	luː		
+2583	Rupa	mountain	luː	luː		
+2584	Shergaon	mountain	luː	luː		
+#
+2585	Khispi	mountain peak	li-guŋ	li-guŋ		
+2586	Duhumbi	mountain peak	ri ~ riw	ri 	 riw	Variants
+2589	Khoitam	mountain peak	ri-wuː	ri-wuː		
+2590	Rahung	mountain peak	riː-wuː	riː-wuː		
+2591	Rupa	mountain peak	riː ~ riw	riː 	 riw	Variants
+#
+2593	Khispi	mouse, rat	sam-tu	sam-tu		
+2594	Duhumbi	mouse, rat	sam-tu	sam-tu		
+2595	Khoina	mouse, rat	s-tʰøˀ	s-tʰøˀ		
+2596	Jerigaon	mouse, rat	s-tʰøˀ	s-tʰøˀ		
+2597	Khoitam	mouse, rat	s-tɔp	s-tɔp		
+2598	Rahung	mouse, rat	s-tøˀ	s-tøˀ		
+2599	Rupa	mouse, rat	s-tɔp	s-tɔp		
+2600	Shergaon	mouse, rat	s-tɔp	s-tɔp		
+#
+2601	Khispi	mouth	hɔ-ʨɔ	hɔ-ʨɔ		
+2602	Duhumbi	mouth	hɔ-ʨu ~ hu-ʨu	hɔ-ʨu 	 hu-ʨu	Variants
+2603	Khoina	mouth	də-ʦʰɛː	də-ʦʰɛː		
+2604	Jerigaon	mouth	sɔː	sɔː		
+2605	Khoitam	mouth	sə-sɔː ~ ʨʰə-sɔː	sə-sɔː 	 ʨʰə-sɔː	Variants
+2606	Rahung	mouth	ʨʰə-ʨʰoː	ʨʰə-ʨʰoː		
+2607	Rupa	mouth	nə-ʦʰaw ~ də-ʦʰaw	nə-ʦʰaw 	 də-ʦʰaw	Variants
+2608	Shergaon	mouth	nə-ʨʰaw	nə-ʨʰaw		
+#
+2609	Khispi	much	me-ka	me-ka		
+2610	Duhumbi	much	mjɛ-ka	mjɛ-ka		
+2611	Khoina	much	a-mɛ	a-mɛ		
+2612	Jerigaon	much	a-mɛ	a-mɛ		
+2613	Khoitam	much	a-mɛ	a-mɛ		
+2614	Rahung	much	jə-mɔ	jə-mɔ		
+2615	Rupa	much	a-mat	a-mat		
+2616	Shergaon	much	a-mat	a-mat		
+#
+2617	Khispi	mud	kʰa-ʨʰam	kʰa-ʨʰam		
+2618	Duhumbi	mud	kʰa-ʨʰam	kʰa-ʨʰam		
+2619	Khoina	mud	ga-ʦʰy	ga-ʦʰy		
+2620	Jerigaon	mud	kʰ-ʨʰɔ̃ː(ŋ)	kʰ-ʨʰɔ̃ː		
+2621	Khoitam	mud	kʰ-ʨʰũː(ŋ)	kʰ-ʨʰũː		
+2622	Rahung	mud	kʰ-ʨʰũː(ŋ)	kʰ-ʨʰũː		
+2623	Rupa	mud	gə-ʨʰũː	gə-ʨʰũː		
+2624	Shergaon	mud	kʰ-ʨʰɔ̃ː	kʰ-ʨʰɔ̃ː		
+#
+2625	Khispi	mushroom	mu	mu		
+2626	Duhumbi	mushroom	mu	mu		
+2627	Khoina	mushroom	myː	myː		
+2628	Jerigaon	mushroom	myː	myː		
+2629	Khoitam	mushroom	myː	myː		
+2630	Rahung	mushroom	myː	myː		
+2631	Rupa	mushroom	myː	myː		
+2632	Shergaon	mushroom	miː	miː		
+#
+2633	Khispi	naga, serpent deity	hu	hu		
+2634	Duhumbi	naga, serpent deity	hu	hu		
+2639	Rupa	naga, serpent deity	lyː	lyː		
+#
+2641	Khispi	nail	hut-ʨʰin	hut-ʨʰin		
+2642	Duhumbi	nail	hut-ʦun ~ hut-ʦum	hut-ʦun 	 hut-ʦum	Variants
+2643	Khoina	nail	ik-ʦiŋ	ik-ʦiŋ		
+2644	Jerigaon	nail	ik-ʨʰiŋ	ik-ʨʰiŋ		
+2645	Khoitam	nail	ik-ʨiŋ	ik-ʨiŋ		
+2646	Rahung	nail	ik-ʨiŋ	ik-ʨiŋ		
+2647	Rupa	nail	ik-ʦiŋ ~ ik-ʦĩː(ŋ) ~ ik-ʨiŋ	ik-ʦiŋ 	 ik-ʦĩː  ik-ʨiŋ	Variants
+2648	Shergaon	nail	ik-ʨiŋ	ik-ʨiŋ		
+#
+2649	Khispi	name	biŋ	biŋ		
+2650	Duhumbi	name	biŋ	biŋ		
+2651	Khoina	name	a-ʣajŋ	a-ʣajŋ		
+2652	Jerigaon	name	a-ʥɛŋ	a-ʥɛŋ		
+2653	Khoitam	name	a-ʥɛŋ	a-ʥɛŋ		
+2654	Rahung	name	a-ʥɛŋ	a-ʥɛŋ		
+2655	Rupa	name	a-zɛŋ	a-zɛŋ		
+2656	Shergaon	name	a-zɛŋ	a-zɛŋ		
+#
+2665	Khispi	navel	bɔ-di	bɔ-di		
+2666	Duhumbi	navel	bɔ-di	bɔ-di		
+2667	Khoina	navel	b-raː	b-raː		
+2668	Jerigaon	navel	(sə-riː) b-rɛː	b-rɛː		
+2669	Khoitam	navel	(pʰə-riŋ  ~ fɛ-riŋ) b-rɛː	b-rɛː		
+2670	Rahung	navel	(sə-riŋ) b-rɛː	b-rɛː		
+2671	Rupa	navel	(sə-riŋ) b-raː	b-raː		
+2672	Shergaon	navel	bu-ti-mu	bu-ti-mu		
+#
+2673	Khispi	neck	hɛn-tʰɔŋ	hɛn-tʰɔŋ		
+2674	Duhumbi	neck	hɛn-tʰɔŋ	hɛn-tʰɔŋ		
+2675	Khoina	neck	nə-tu-xĩː	nə-tu-xĩː		
+2677	Khoitam	neck	nə-tʰuŋ	nə-tʰuŋ		
+2678	Rahung	neck	pʰ-tʰuŋ	pʰ-tʰuŋ		
+2679	Rupa	neck	tʰuŋ-ʦɛ̃ː	tʰuŋ-ʦɛ̃ː		
+#
+2681	Khispi	need to, have to	ʦʰɛt	ʦʰɛt		
+2682	Duhumbi	need to, have to	ʦʰɛt	ʦʰɛt		
+2683	Khoina	need to, have to	ʦʰɛˀ	ʦʰɛˀ		
+2685	Khoitam	need to, have to	ʨʰeˀ	ʨʰeˀ		
+2686	Rahung	need to, have to	ʨʰeˀ	ʨʰeˀ		
+2687	Rupa	need to, have to	ʨʰeˀ	ʨʰeˀ		
+#
+2689	Khispi	needle	pɕi	pɕi		
+2690	Duhumbi	needle	pɕi	pɕi		
+2691	Khoina	needle	pʰliː	pʰliː		
+2692	Jerigaon	needle	pʰliː	pʰliː		
+2693	Khoitam	needle	pʰliː	pʰliː		
+2694	Rahung	needle	pʰliː	pʰliː		
+2695	Rupa	needle	pʰliː	pʰliː		
+2696	Shergaon	needle	pʰliː	pʰliː		
+#
+2697	Khispi	negative prefix	ba-	ba-		
+2698	Duhumbi	negative prefix	ba-	ba-		
+2699	Khoina	negative prefix	bə- ~ by-	bə- 	 by-	Variants
+2700	Jerigaon	negative prefix	bə- ~ by-	bə- 	 by-	Variants
+2701	Khoitam	negative prefix	bə- ~ by-	bə- 	 by-	Variants
+2702	Rahung	negative prefix	bə- ~ by-	bə- 	 by-	Variants
+2703	Rupa	negative prefix	bɔ- ~ bi- ~ bə-	bɔ- 	 bi-  bə-	Variants
+2704	Shergaon	negative prefix	bɔ- ~ bi- ~ bə-	bɔ- 	 bi-  bə-	Variants
+#
+2705	Khispi	nest, hive, womb	kʰɔp	kʰɔp		
+2706	Duhumbi	nest, hive, womb	kʰɔp ~ kʰɔk	kʰɔp 	 kʰɔk	Variants
+2707	Khoina	nest, hive, womb	kʰɔp ~ kʰɔk	kʰɔp 	 kʰɔk	Variants
+2708	Jerigaon	nest, hive, womb	kʰɔk	kʰɔk		
+2709	Khoitam	nest, hive, womb	kʰɔk	kʰɔk		
+2710	Rahung	nest, hive, womb	kʰɔk	kʰɔk		
+2711	Rupa	nest, hive, womb	kʰɔk	kʰɔk		
+2712	Shergaon	nest, hive, womb	kʰɔk	kʰɔk		
+#
+2713	Khispi	net for fishing	ʨʰɔp	ʨʰɔp		
+2714	Duhumbi	net for fishing	ʨʰɔp	ʨʰɔp		
+2715	Khoina	net for fishing	ʦʰuk	ʦʰuk		
+2719	Rupa	net for fishing	ʦʰuk ~ ʨʰuk	ʦʰuk 	 ʨʰuk	Variants
+#
+2721	Khispi	new	ɔ-han	ɔ-han		
+2722	Duhumbi	new	ɔ-kʰɔn	ɔ-kʰɔn		
+2723	Khoina	new	a-fɛn	a-fɛn		
+2724	Jerigaon	new	ə-hɛn	ə-hɛn		
+2725	Khoitam	new	a-fan	a-fan		
+2726	Rahung	new	a-hɛn ~ ɛ-hɛn	a-hɛn 	 ɛ-hɛn	Variants
+2727	Rupa	new	a-fan ~ ɔ-fan	a-fan 	 ɔ-fan	Variants
+2728	Shergaon	new	u-fan	u-fan		
+#
+2729	Khispi	night	nam-pʰɔŋ	nam-pʰɔŋ		
+2730	Duhumbi	night	nam-pʰɔŋ	nam-pʰɔŋ		
+2731	Khoina	night	na-pʰuŋ	na-pʰuŋ		
+2733	Khoitam	night	nə-pʰuŋ	nə-pʰuŋ		
+2734	Rahung	night	nə-pʰuŋ	nə-pʰuŋ		
+2735	Rupa	night	nə-pʰuŋ ~ nə-pʰuː	nə-pʰuŋ 	 nə-pʰuː	Variants
+2736	Shergaon	night	nə-pʰuŋ	nə-pʰuŋ		
+#
+2737	Khispi	nine	tʰi-kʰu	tʰi-kʰu		
+2738	Duhumbi	nine	tʰi-kʰu	tʰi-kʰu		
+2739	Khoina	nine	dy-kʰyː(j)	dy-kʰyː		
+2740	Jerigaon	nine	tʰ-kʰyː	tʰ-kʰyː		
+2741	Khoitam	nine	tʰə-kʰyː ~ tʰɛk-kʰyː	tʰə-kʰyː 	 tʰɛk-kʰyː	Variants
+2742	Rahung	nine	tʰɛk-kʰyː	tʰɛk-kʰyː		
+2743	Rupa	nine	də-kʰyː	də-kʰyː		
+2744	Shergaon	nine	də-kʰyː	də-kʰyː		
+#
+2745	Khispi	nomen agentis	-kʰɛn	-kʰɛn		
+2746	Duhumbi	nomen agentis	-kʰɛn	-kʰɛn		
+2747	Khoina	nomen agentis	-kʰɛn	-kʰɛn		
+2748	Jerigaon	nomen agentis	-kʰɛn	-kʰɛn		
+2749	Khoitam	nomen agentis	-kʰan	-kʰan		
+2750	Rahung	nomen agentis	-kʰɛn	-kʰɛn		
+2751	Rupa	nomen agentis	-kʰan	-kʰan		
+2752	Shergaon	nomen agentis	-kʰan	-kʰan		
+#
+2753	Khispi	nominaliser	-ba ~ -pa	-ba 	 -pa	Variants
+2754	Duhumbi	nominaliser	-ba ~ -pa	-ba 	 -pa	Variants
+2756	Jerigaon	nominaliser	-ba	-ba		
+2758	Rahung	nominaliser	-ba	-ba		
+#
+2761	Khispi	noon	buɕ-tan	buɕ-tan		
+2762	Duhumbi	noon	bis-tan ~ bus-tan	bis-tan 	 bus-tan	Variants
+2763	Khoina	noon	ha-tɐ̃ː	ha-tɐ̃ː		
+2764	Jerigaon	noon	ha-tɐ̃ː	ha-tɐ̃ː		
+2765	Khoitam	noon	ha-tɔ̃ː	ha-tɔ̃ː		
+2766	Rahung	noon	ha-tɔ̃ː	ha-tɔ̃ː		
+2767	Rupa	noon	ha-tɔ̃ː	ha-tɔ̃ː		
+2768	Shergaon	noon	ha-tɔ̃ː	ha-tɔ̃ː		
+#
+2769	Khispi	nose	hɛm-pʰɔŋ	hɛm-pʰɔŋ		
+2770	Duhumbi	nose	hɛm-pʰɔŋ	hɛm-pʰɔŋ		
+2771	Khoina	nose	nə-pʰuŋ	nə-pʰuŋ		
+2772	Jerigaon	nose	nə-pʰuŋ	nə-pʰuŋ		
+2773	Khoitam	nose	nu-pʰuŋ ~ nə-pʰuŋ	nu-pʰuŋ 	 nə-pʰuŋ	Variants
+2774	Rahung	nose	ma-pʰuŋ	ma-pʰuŋ		
+2775	Rupa	nose	lə-pʰuŋ ~ nə-pʰuŋ	lə-pʰuŋ 	 nə-pʰuŋ	Variants
+2776	Shergaon	nose	nə-pʰuŋ	nə-pʰuŋ		
+#
+2781	Khoitam	oil	tʰoː	tʰoː		
+2782	Rahung	oil	tʰoː	tʰoː		
+2783	Rupa	oil	tʰoː	tʰoː		
+2784	Shergaon	oil	tʰoː	tʰoː		
+#
+2785	Khispi	okay	aj ~ eː	aj 	 eː	Variants
+2786	Duhumbi	okay	aj	aj		
+2788	Jerigaon	okay	ɐː	ɐː		
+2789	Khoitam	okay	ɔː	ɔː		
+2790	Rahung	okay	ɔː	ɔː		
+#
+2793	Khispi	old	ɔ-mɛn	ɔ-mɛn		
+2794	Duhumbi	old	ɔ-mɛn	ɔ-mɛn		
+2795	Khoina	old	a-mɛn	a-mɛn		
+2796	Jerigaon	old	a-mɛn	a-mɛn		
+2797	Khoitam	old	a-man	a-man		
+2798	Rahung	old	a-mɛn ~ ɛ-mɛn	a-mɛn 	 ɛ-mɛn	Variants
+2799	Rupa	old	a-man	a-man		
+2800	Shergaon	old	a-man	a-man		
+#
+2801	Khispi	one	hin	hin		
+2802	Duhumbi	one	hin	hin		
+2803	Khoina	one	hɛn	hɛn		
+2804	Jerigaon	one	hɛn	hɛn		
+2805	Khoitam	one	han	han		
+2806	Rahung	one	hɛn	hɛn		
+2807	Rupa	one	han	han		
+2808	Shergaon	one	han	han		
+#
+2809	Khispi	other	bi	bi		
+2810	Duhumbi	other	bi	bi		
+2811	Khoina	other	ʥi	ʥi		
+2812	Jerigaon	other	ʥi	ʥi		
+2813	Khoitam	other	ʥi	ʥi		
+2814	Rahung	other	ʥi	ʥi		
+2815	Rupa	other	ʥi	ʥi		
+2816	Shergaon	other	ʥi	ʥi		
+2819	Khoina	other	a-ga	a-ga		
+2820	Jerigaon	other	a-ʥiː ~ a-ga	a-ʥiː 	 a-ga	Variants
+2821	Khoitam	other	a-byː ~ a-biː	a-byː 	 a-biː	Variants
+2822	Rahung	other	a-byː	a-byː		
+2823	Rupa	other	ə-bɛː	ə-bɛː		
+#
+2827	Khoina	otter	nə-mɐk	nə-mɐk		
+2828	Jerigaon	otter	ny-mak ~ nə-mak	ny-mak 	 nə-mak	Variants
+2829	Khoitam	otter	ny-mak	ny-mak		
+2830	Rahung	otter	ny-mak ~ ni-mak	ny-mak 	 ni-mak	Variants
+2831	Rupa	otter	ɲə-mak ~ ɲy-mak	ɲə-mak 	 ɲy-mak	Variants
+2832	Shergaon	otter	ɲu-mak	ɲu-mak		
+#
+2835	Khoina	outside	a-fũː-rɔ	a-fũː-rɔ		
+2836	Jerigaon	outside	a-hɔ̃ː(ŋ)	a-hɔ̃ː		
+2837	Khoitam	outside	a-hũː(ŋ)	a-hũː		
+2838	Rahung	outside	u-hũː(ŋ)	u-hũː		
+2839	Rupa	outside	a-hũː(ŋ)-gɔ	a-hũː-gɔ		
+2840	Shergaon	outside	ɔ-hɔ̃ː	ɔ-hɔ̃ː		
+#
+2841	Khispi	palm, sole1	pʰa-la	pʰa-la		
+2842	Duhumbi	palm, sole1	pʰa-ɹa	pʰa-ɹa		
+2845	Khoitam	palm, sole1	ik-par	ik-par		
+2846	Rahung	palm, sole1	ik-par	ik-par		
+2847	Rupa	palm, sole1	la ʦa-par	la ʦa-par		
+2848	Shergaon	palm, sole1	ik-par	ik-par		
+#
+2851	Khoina	palm, sole2	ik-tʰɔ̃ː	ik-tʰɔ̃ː		
+2852	Jerigaon	palm, sole2	ik-tʰɔ̃ː(ŋ)	ik-tʰɔ̃ː		
+2855	Rupa	palm, sole2	ik-tʰũː(ŋ)	ik-tʰũː		
+#
+2859	Khoina	pangolin	ry-wøːʰ	ry-wøːʰ		
+2861	Khoitam	pangolin	sy-wɛːʰ	sy-wɛːʰ		
+2862	Rahung	pangolin	su-wɛːʰ	su-wɛːʰ		
+#
+2866	Duhumbi	partridge	kam-kɔw	kam-kɔw		
+2868	Jerigaon	partridge	hu-kʰøː	hu-kʰøː		
+2869	Khoitam	partridge	f-kʰøː	f-kʰøː		
+2870	Rahung	partridge	mɔ-kʰøː	mɔ-kʰøː		
+2872	Shergaon	partridge	kʰɔj-kʰɔj-ma	kʰɔj-kʰɔj-ma		
+#
+2873	Khispi	path, road	hu-ma	hu-ma		
+2874	Duhumbi	path, road	hu-ma	hu-ma		
+2875	Khoina	path, road	ham	ham		
+2876	Jerigaon	path, road	ha-mu ~ lə-mu	ha-mu 	 lə-mu	Variants
+2877	Khoitam	path, road	lym	lym		
+2878	Rahung	path, road	lum ~ lym	lum 	 lym	Variants
+2879	Rupa	path, road	nə-mu ~ lə-mu	nə-mu 	 lə-mu	Variants
+2880	Shergaon	path, road	lə-mu	lə-mu		
+#
+2881	Khispi	patient marker	-ɲi	-ɲi		
+2882	Duhumbi	patient marker	-ɲi	-ɲi		
+2883	Khoina	patient marker	-ɲiː	-ɲiː		
+2885	Khoitam	patient marker	-niː	-niː		
+2886	Rahung	patient marker	-niː	-niː		
+2887	Rupa	patient marker	-jiː ~ -iː	-jiː 	 -iː	Variants
+#
+2889	Khispi	peas	(ʥam) pʰo-bin	pʰo-bin		
+2890	Duhumbi	peas	(ʥam) pʰop-liŋ	pʰop-liŋ		
+2891	Khoina	peas	(pʰuk) pʰɔŋ-ba	pʰɔŋ-ba		
+2892	Jerigaon	peas	(pʰuk) pʰɔŋ-ba	pʰɔŋ-ba		
+2893	Khoitam	peas	(pʰuk) pʰɔm-bɛ	pʰɔm-bɛ		
+2894	Rahung	peas	(pʰuk) pʰam-bɛ	pʰam-bɛ		
+2895	Rupa	peas	(pʰuk) pʰam-pʰla	pʰam-pʰla		
+2896	Shergaon	peas	(suk) pʰam-pʰla	pʰam-pʰla		
+#
+2897	Khispi	penis	lak	lak		
+2898	Duhumbi	penis	lak	lak		
+2899	Khoina	penis	lɐk	lɐk		
+2900	Jerigaon	penis	lak	lak		
+2901	Khoitam	penis	lak	lak		
+2902	Rahung	penis	lak	lak		
+2903	Rupa	penis	lak	lak		
+2904	Shergaon	penis	lak	lak		
+#
+2907	Khoina	pheasant, kalij	fə-tʂʰajk	fə-tʂʰajk		
+2908	Jerigaon	pheasant, kalij	hu-ʨʰɛk	hu-ʨʰɛk		
+2909	Khoitam	pheasant, kalij	f-ʨʰɛk	f-ʨʰɛk		
+2910	Rahung	pheasant, kalij	pʰə-ʨʰɛk	pʰə-ʨʰɛk		
+2911	Rupa	pheasant, kalij	bə-kʰɛk	bə-kʰɛk		
+2912	Shergaon	pheasant, kalij	bə-kʰɛk	bə-kʰɛk		
+#
+2914	Duhumbi	pheasant, tragopan	bap	bap		
+2916	Jerigaon	pheasant, tragopan	hu-ba	hu-ba		
+2917	Khoitam	pheasant, tragopan	hu-bɔ	hu-bɔ		
+2919	Rupa	pheasant, tragopan	hu-bɔ	hu-bɔ		
+2920	Shergaon	pheasant, tragopan	bap	bap		
+#
+2921	Khispi	pig	ɕa-bak	ɕa-bak		
+2922	Duhumbi	pig	ɕa-bak	ɕa-bak		
+2923	Khoina	pig	ʂu-wɐk	ʂu-wɐk		
+2924	Jerigaon	pig	s-wak ~ sə-wak	s-wak 	 sə-wak	Variants
+2925	Khoitam	pig	su-wak	su-wak		
+2926	Rahung	pig	su-wak	su-wak		
+2927	Rupa	pig	su-wak	su-wak		
+2928	Shergaon	pig	su-wak	su-wak		
+#
+2929	Khispi	pillow	kʰum-u	kʰum-u		
+2930	Duhumbi	pillow	kʰu-kʰum	kʰu-kʰum		
+2931	Khoina	pillow	ʂaŋ-kʰɔn ~ ʂaŋ-kʰøn	ʂaŋ-kʰɔn 	 ʂaŋ-kʰøn	Variants
+2932	Jerigaon	pillow	sa-kʰøn	sa-kʰøn		
+2933	Khoitam	pillow	saŋ-kʰɔm	saŋ-kʰɔm		
+2934	Rahung	pillow	saŋ-kʰɔm ~ saŋ-kʰøm	saŋ-kʰɔm 	 saŋ-kʰøm	Variants
+2935	Rupa	pillow	s-kɔm	s-kɔm		
+2936	Shergaon	pillow	s-kɔm	s-kɔm		
+#
+2937	Khispi	pinch	ʦik	ʦik		
+2938	Duhumbi	pinch	ʦik	ʦik		
+2939	Khoina	pinch	ʦik	ʦik		
+2941	Khoitam	pinch	ʨik	ʨik		
+2942	Rahung	pinch	ʨik	ʨik		
+2943	Rupa	pinch	ʦik	ʦik		
+#
+2945	Khispi	pine kindle	bi-ʦi	bi-ʦi		
+2946	Duhumbi	pine kindle	bɛj-ʦi	bɛj-ʦi		
+2947	Khoina	pine kindle	ba-ʦi	ba-ʦi		
+2948	Jerigaon	pine kindle	ba-ʨi	ba-ʨi		
+2949	Khoitam	pine kindle	ba-ʨi	ba-ʨi		
+2950	Rahung	pine kindle	ba-ʨi	ba-ʨi		
+2951	Rupa	pine kindle	baː bə-ʦi	baː bə-ʦi		
+2952	Shergaon	pine kindle	bap-ʨi	bap-ʨi		
+#
+2953	Khispi	plait	pʰa	pʰa		
+2954	Duhumbi	plait	pʰa	pʰa		
+2955	Khoina	plait	pʰla (kam-ziŋ)	pʰla		
+2956	Jerigaon	plait	pʰɛˀ	pʰɛˀ		
+2957	Khoitam	plait	pʰuː	pʰuː		
+2959	Rupa	plait	pʰuː ~ pʰlaː	pʰuː 	 pʰlaː	Variants
+#
+2961	Khispi	plant  (vt)	haj	haj		
+2962	Duhumbi	plant  (vt)	haj	haj		
+2963	Khoina	plant  (vt)	hɐː	hɐː		
+2965	Khoitam	plant  (vt)	lɔː	lɔː		
+2966	Rahung	plant  (vt)	lɔː	lɔː		
+2967	Rupa	plant  (vt)	lɔ̅	lɔ̅		
+#
+2969	Khispi	play	lej	lej		
+2970	Duhumbi	play	lɛj	lɛj		
+2971	Khoina	play	lɐː	lɐː		
+2972	Jerigaon	play	mɛŋ ~ jɛŋ	mɛŋ 	 jɛŋ	Variants
+2973	Khoitam	play	jɛŋ	jɛŋ		
+2974	Rahung	play	jɛŋ	jɛŋ		
+2975	Rupa	play	loː	loː		
+2976	Shergaon	play	loː	loː		
+#
+2977	Khispi	plough (v)	wuj	wuj		
+2978	Duhumbi	plough (v)	wɔj	wɔj		
+2979	Khoina	plough (v)	wɐː	wɐː		
+2981	Khoitam	plough (v)	wɔː	wɔː		
+2982	Rahung	plough (v)	wɔː	wɔː		
+2983	Rupa	plough (v)	woː	woː		
+#
+2985	Khispi	plural	-tʰe	-tʰe		
+2986	Duhumbi	plural	-tʰeˀ	-tʰeˀ		
+2987	Khoina	plural	-tʰik	-tʰik		
+2988	Jerigaon	plural	-tʰik	-tʰik		
+2989	Khoitam	plural	-tʰɛk	-tʰɛk		
+2990	Rahung	plural	-tʰɛk	-tʰɛk		
+2991	Rupa	plural	-tʰiː	-tʰiː		
+#
+2993	Khispi	poison	duk	duk		
+2994	Duhumbi	poison	duk ~ dup	duk 	 dup	Variants
+2995	Khoina	poison	dyk	dyk		
+2996	Jerigaon	poison	dyk	dyk		
+2997	Khoitam	poison	dyk	dyk		
+2998	Rahung	poison	dyk	dyk		
+2999	Rupa	poison	dyk	dyk		
+3000	Shergaon	poison	duk	duk		
+#
+3001	Khispi	porcupine	ɕa-bi	ɕa-bi		
+3002	Duhumbi	porcupine	ɕa-bɛj	ɕa-bɛj		
+3003	Khoina	porcupine	ʂu-bɐʰ	ʂu-bɐʰ		
+3004	Jerigaon	porcupine	su-bɐʰ	su-bɐʰ		
+3005	Khoitam	porcupine	zu-bɔʰ	zu-bɔʰ		
+3006	Rahung	porcupine	sə-bɔʰ ~ su-bɔʰ	sə-bɔʰ 	 su-bɔʰ	Variants
+3007	Rupa	porcupine	sə-bɔ	sə-bɔ		
+3008	Shergaon	porcupine	sə-bɔ	sə-bɔ		
+#
+3010	Duhumbi	potato-bean	mɛn	mɛn		
+3013	Khoitam	potato-bean	man	man		
+3015	Rupa	potato-bean	man	man		
+#
+3017	Khispi	pour	huk	huk		
+3018	Duhumbi	pour	huk	huk		
+3023	Rupa	pour	lyk	lyk		
+3024	Shergaon	pour	luk	luk		
+#
+3025	Khispi	present	-de	-de		
+3026	Duhumbi	present	-deˀ	-deˀ		
+3027	Khoina	present	-di	-di		
+#
+3033	Khispi	prohibitive prefix	tʰa-	tʰa-		
+3034	Duhumbi	prohibitive prefix	tʰa-	tʰa-		
+3036	Jerigaon	prohibitive prefix	tʰə-	tʰə-		
+3037	Khoitam	prohibitive prefix	tʰə-	tʰə-		
+3038	Rahung	prohibitive prefix	tʰə-	tʰə-		
+3039	Rupa	prohibitive prefix	də-	də-		
+3040	Shergaon	prohibitive prefix	də-	də-		
+#
+3041	Khispi	pull1	kʰɛŋ	kʰɛŋ		
+3042	Duhumbi	pull1	kʰjɛŋ	kʰjɛŋ		
+3046	Rahung	pull1	ʨʰɛŋ	ʨʰɛŋ		
+3047	Rupa	pull1	kʰɛŋ	kʰɛŋ		
+3048	Shergaon	pull1	kʰɛŋ	kʰɛŋ		
+#
+3051	Khoina	pull2	giː	giː		
+3052	Jerigaon	pull2	giː	giː		
+3053	Khoitam	pull2	giː	giː		
+3054	Rahung	pull2	giː	giː		
+#
+3057	Khispi	pulse	ɕak-pu	ɕak-pu		
+3058	Duhumbi	pulse	ɕak-pu	ɕak-pu		
+3059	Khoina	pulse	ɕɐk-pyː	ɕɐk-pyː		
+3060	Jerigaon	pulse	sak-pyː	sak-pyː		
+3061	Khoitam	pulse	sak-pyː	sak-pyː		
+3062	Rahung	pulse	sak-pyː	sak-pyː		
+3063	Rupa	pulse	sak-pyː/-p-́ː	sak-pyː/-p-́ː		
+3064	Shergaon	pulse	sak-piː	sak-piː		
+#
+3065	Khispi	pumpkin	buŋ-ɕa	buŋ-ɕa		
+3066	Duhumbi	pumpkin	brum-ɕa	brum-ɕa		
+3067	Khoina	pumpkin	ma-pʰluŋ	ma-pʰluŋ		
+3068	Jerigaon	pumpkin	ma-pʰluŋ	ma-pʰluŋ		
+3069	Khoitam	pumpkin	ma-pʰluŋ	ma-pʰluŋ		
+3070	Rahung	pumpkin	ma-pʰluŋ	ma-pʰluŋ		
+3071	Rupa	pumpkin	buŋ-glɔ̃ ~ buŋ-blɔ̃	buŋ-glɔ̃ 	 buŋ-blɔ̃	Variants
+3072	Shergaon	pumpkin	brum-sɔː	brum-sɔː		
+#
+3081	Khispi	pus	haj	haj		
+3082	Duhumbi	pus	haj	haj		
+3083	Khoina	pus	a-nɐ̃̅	a-nɐ̃̅		
+3084	Jerigaon	pus	a-nɐ̃̅ʰ	a-nɐ̃̅ʰ		
+3085	Khoitam	pus	a-nɔ̅̃ʰ	a-nɔ̅̃ʰ		
+3086	Rahung	pus	a-nɔ̃̅ʰ	a-nɔ̃̅ʰ		
+3087	Rupa	pus	a-nɔ̅ ~ ɔ-nɔ̅	a-nɔ̅ 	 ɔ-nɔ̅	Variants
+3088	Shergaon	pus	a-nɔ̅	a-nɔ̅		
+#
+3089	Khispi	push	du	du		
+3090	Duhumbi	push	du	du		
+3091	Khoina	push	ryː(j)	ryː		
+3092	Jerigaon	push	ryː	ryː		
+3093	Khoitam	push	ryː	ryː		
+3094	Rahung	push	ryː	ryː		
+3095	Rupa	push	ryː	ryː		
+3096	Shergaon	push	ryː	ryː		
+#
+3098	Duhumbi	put	ʨɔj	ʨɔj		
+3099	Khoina	put	ʦʰɐʰ	ʦʰɐʰ		
+3100	Jerigaon	put	ʨʰɐʰ	ʨʰɐʰ		
+3101	Khoitam	put	ʨʰɔʰ	ʨʰɔʰ		
+3102	Rahung	put	ʨʰɔʰ	ʨʰɔʰ		
+3103	Rupa	put	ʨʰɔʰ	ʨʰɔʰ		
+3104	Shergaon	put	ʨʰɔʰ	ʨʰɔʰ		
+#
+3105	Khispi	quarrel (v)	aj ɕɔŋ	aj ɕɔŋ		
+3106	Duhumbi	quarrel (v)	aj ɕɔŋ	aj ɕɔŋ		
+3107	Khoina	quarrel (v)	ja iː	ja iː		
+3108	Jerigaon	quarrel (v)	jɛˀ ḭː ~ aˀ ḭː	jɛˀ ḭː 	 aˀ ḭː	Variants
+3109	Khoitam	quarrel (v)	jɛˀ ḭː	jɛˀ ḭː		
+3110	Rahung	quarrel (v)	jɛˀ ḭː	jɛˀ ḭː		
+3111	Rupa	quarrel (v)	ja di	ja di		
+#
+3113	Khispi	question	ja	ja		
+3114	Duhumbi	question	ja	ja		
+3117	Khoitam	question	ja ~ a	ja 	 a	Variants
+3118	Rahung	question	ja ~ a	ja 	 a	Variants
+3119	Rupa	question	ja ~ a	ja 	 a	Variants
+#
+3121	Khispi	quiver	li-ʑi-bi	li-ʑi-bi		
+3122	Duhumbi	quiver	ʑip-li	ʑip-li		
+3123	Khoina	quiver	ʐi	ʐi		
+3124	Jerigaon	quiver	zi	zi		
+3125	Khoitam	quiver	zi	zi		
+3126	Rahung	quiver	zi	zi		
+3127	Rupa	quiver	zə-zy ~ zi	zə-zy 	 zi	Variants
+3128	Shergaon	quiver	zi-li	zi-li		
+#
+3129	Khispi	radish	mu-la	mu-la		
+3130	Duhumbi	radish	mu-la	mu-la		
+3131	Khoina	radish	ma-luː	ma-luː		
+3132	Jerigaon	radish	mə-luː	mə-luː		
+3133	Khoitam	radish	mə-luː	mə-luː		
+3134	Rahung	radish	mə-luː	mə-luː		
+3135	Rupa	radish	mə-luː	mə-luː		
+3136	Shergaon	radish	mu-luː	mu-luː		
+#
+3146	Duhumbi	rain (n)	nam-ʦʰa	nam-ʦʰa		
+3147	Khoina	rain (n)	na-ʦʰuː	na-ʦʰuː		
+3148	Jerigaon	rain (n)	nə-ʨʰuː	nə-ʨʰuː		
+3149	Khoitam	rain (n)	nə-ʨʰuː	nə-ʨʰuː		
+3150	Rahung	rain (n)	pʰ-ʨʰuː	pʰ-ʨʰuː		
+3151	Rupa	rain (n)	nə-ʦʰoː ~ nə-ʦʰuː	nə-ʦʰoː 	 nə-ʦʰuː	Variants
+#
+3155	Khoina	rainbow	paː-hu	paː-hu		
+3156	Jerigaon	rainbow	pʰaŋ-lu	pʰaŋ-lu		
+3157	Khoitam	rainbow	pʰaŋ-lu	pʰaŋ-lu		
+3158	Rahung	rainbow	pʰaŋ-ruŋ	pʰaŋ-ruŋ		
+3159	Rupa	rainbow	pʰaŋ-kʰ- lũ(ŋ) ~ pʰaŋ-kʰə-lu	pʰaŋ-kʰ- lũ 	 pʰaŋ-kʰə-lu	Variants
+3160	Shergaon	rainbow	pʰaŋ-kʰə-lu	pʰaŋ-kʰə-lu		
+#
+3162	Duhumbi	reap	ram	ram		
+3165	Khoitam	reap	rũː(ŋ)	rũː		
+3166	Rahung	reap	rũː(ŋ)	rũː		
+3167	Rupa	reap	rũː(ŋ)	rũː		
+#
+3169	Khispi	recognise	is	is		
+3170	Duhumbi	recognise	is	is		
+3171	Khoina	recognise	ɛ̃ˀ	ɛ̃ˀ		
+3173	Khoitam	recognise	ĩˀ	ĩˀ		
+3174	Rahung	recognise	ĩˀ	ĩˀ		
+3175	Rupa	recognise	ɛ̃ˀ	ɛ̃ˀ		
+#
+3177	Khispi	red	ɔ--hɛk	ɔ--hɛk		
+3178	Duhumbi	red	ɔ-hjɛk ~ ɔ-kʰjɛk	ɔ-hjɛk 	 ɔ-kʰjɛk	Variants
+3179	Khoina	red	a-xajk	a-xajk		
+3180	Jerigaon	red	ə-hɛk ~ a-hɛk	ə-hɛk 	 a-hɛk	Variants
+3181	Khoitam	red	ə-hɛk ~ a-hɛk	ə-hɛk 	 a-hɛk	Variants
+3182	Rahung	red	ə-hɛk	ə-hɛk		
+3183	Rupa	red	ə-hɛk	ə-hɛk		
+3184	Shergaon	red	ə-hɛk	ə-hɛk		
+#
+3185	Khispi	reflexive marker	-bi	-bi		
+3186	Duhumbi	reflexive marker	-bi	-bi		
+3187	Khoina	reflexive marker	-ʥi	-ʥi		
+3188	Jerigaon	reflexive marker	-ʥi	-ʥi		
+3189	Khoitam	reflexive marker	-ʥi	-ʥi		
+3190	Rahung	reflexive marker	-ʥi	-ʥi		
+3191	Rupa	reflexive marker	-ʥi	-ʥi		
+3192	Shergaon	reflexive marker	-ʥi	-ʥi		
+#
+3193	Khispi	rest (n)	ɕɔk	ɕɔk		
+3194	Duhumbi	rest (n)	ɕɔk	ɕɔk		
+3195	Khoina	rest (n)	a-ʨyk	a-ʨyk		
+3197	Khoitam	rest (n)	a-ʨʰɔ̃ː	a-ʨʰɔ̃ː		
+3198	Rahung	rest (n)	ʨʰɔ̃ː	ʨʰɔ̃ː		
+3199	Rupa	rest (n)	do-ʨʰɔk	do-ʨʰɔk		
+#
+3201	Khispi	rib	ɕi-ki-liŋ	ɕi-ki-liŋ		
+3204	Jerigaon	rib	hə-rɛ̃ĩː	hə-rɛ̃ĩː		
+3205	Khoitam	rib	hə-rĩː	hə-rĩː		
+3206	Rahung	rib	hə-rĩː	hə-rĩː		
+3207	Rupa	rib	ha-rɛ̃ː ~ hə-rɛ̃ː	ha-rɛ̃ː 	 hə-rɛ̃ː	Variants
+3208	Shergaon	rib	hə-rɛŋ	hə-rɛŋ		
+#
+3211	Khoina	rice, husked	ʦʰuː	ʦʰuː		
+3212	Jerigaon	rice, husked	ʨʰuː	ʨʰuː		
+3213	Khoitam	rice, husked	ʨʰuː	ʨʰuː		
+3214	Rahung	rice, husked	ʨʰuː	ʨʰuː		
+#
+3217	Khispi	rice, unhusked, paddy	ni-ɕi	ni-ɕi		
+3218	Duhumbi	rice, unhusked, paddy	ni-ɕi	ni-ɕi		
+3220	Jerigaon	rice, unhusked, paddy	a-seː	a-seː		
+3221	Khoitam	rice, unhusked, paddy	nə-seː	nə-seː		
+3223	Rupa	rice, unhusked, paddy	nə-seː	nə-seː		
+3224	Shergaon	rice, unhusked, paddy	ni-seː	ni-seː		
+#
+3225	Khispi	ride, mount	il	il		
+3226	Duhumbi	ride, mount	ir	ir		
+3231	Rupa	ride, mount	ɛ̃ː(n)	ɛ̃ː		
+#
+3233	Khispi	right	u-ɕu	u-ɕu		
+3234	Duhumbi	right	u-ɕu	u-ɕu		
+3235	Khoina	right	a-ʦɐ̃ː	a-ʦɐ̃ː		
+3236	Jerigaon	right	a-ʨɐ̃ː	a-ʨɐ̃ː		
+3237	Khoitam	right	a-ʨɔ̃ː	a-ʨɔ̃ː		
+3238	Rahung	right	ʨɔ̃ː	ʨɔ̃ː		
+3239	Rupa	right	a-ʦɔ̃ː	a-ʦɔ̃ː		
+3240	Shergaon	right	a-ʨɔ̃ː	a-ʨɔ̃ː		
+#
+3241	Khispi	ripe	jɔm-ba	jɔm-ba		
+3242	Duhumbi	ripe	jɔm-ba	jɔm-ba		
+3243	Khoina	ripe	a-juŋ	a-juŋ		
+3244	Jerigaon	ripe	juŋ-ba	juŋ-ba		
+3245	Khoitam	ripe	a-juŋ	a-juŋ		
+3246	Rahung	ripe	juŋ-ba	juŋ-ba		
+3247	Rupa	ripe	juŋ-ba	juŋ-ba		
+3248	Shergaon	ripe	a-juŋ	a-juŋ		
+#
+3249	Khispi	roof	wam-ʨʰa	wam-ʨʰa		
+3250	Duhumbi	roof	wam-ʨʰa	wam-ʨʰa		
+3251	Khoina	roof	jam ʦʰɔ̃ː(ŋ)	jam ʦʰɔ̃ː		
+3252	Jerigaon	roof	v	v		
+3253	Khoitam	roof	nam bə-ʨʰũː	nam bə-ʨʰũː		
+3254	Rahung	roof	jam-ʨʰũː(ŋ)	jam-ʨʰũː		
+3255	Rupa	roof	jam-ʦʰɔŋ	jam-ʦʰɔŋ		
+#
+3259	Khoina	root	a-xĩː	a-xĩː		
+3260	Jerigaon	root	i-hĩː	i-hĩː		
+3261	Khoitam	root	a-hĩː	a-hĩː		
+3262	Rahung	root	ə-hĩː	ə-hĩː		
+3263	Rupa	root	ə-hĩː	ə-hĩː		
+#
+3265	Khispi	rope	tʰak	tʰak		
+3266	Duhumbi	rope	tʰak	tʰak		
+3267	Khoina	rope	ɕ-tʰɐk	ɕ-tʰɐk		
+3268	Jerigaon	rope	s-tʰak	s-tʰak		
+3269	Khoitam	rope	tʰak	tʰak		
+3270	Rahung	rope	tʰak	tʰak		
+3271	Rupa	rope	tʰak	tʰak		
+3272	Shergaon	rope	tʰak	tʰak		
+#
+3273	Khispi	rot (vi)	ham	ham		
+3274	Duhumbi	rot (vi)	ham	ham		
+3275	Khoina	rot (vi)	xũː	xũː		
+3276	Jerigaon	rot (vi)	hɔ̃ː(ŋ)	hɔ̃ː		
+3277	Khoitam	rot (vi)	hũː(ŋ)	hũː		
+3278	Rahung	rot (vi)	hũːŋ	hũːŋ		
+3279	Rupa	rot (vi)	hũː	hũː		
+3280	Shergaon	rot (vi)	hɔ̃ː	hɔ̃ː		
+#
+3281	Khispi	round, small object	bu	bu		
+3282	Duhumbi	round, small object	bru	bru		
+3283	Khoina	round, small object	lak a-byː	lak a-byː		
+3285	Khoitam	round, small object	bɹɔː	bɹɔː		
+3286	Rahung	round, small object	suk a-by	suk a-by		
+3287	Rupa	round, small object	lak a-bryː	lak a-bryː		
+3288	Shergaon	round, small object	lak a-bryː	lak a-bryː		
+#
+3291	Khoina	rub	nyŋ	nyŋ		
+3292	Jerigaon	rub	nyŋ	nyŋ		
+3294	Rahung	rub	nyŋ	nyŋ		
+3295	Rupa	rub	nyŋ	nyŋ		
+#
+3297	Khispi	rub; sharpen	ʑin	ʑin		
+3298	Duhumbi	rub; sharpen	ʑin	ʑin		
+3299	Khoina	rub; sharpen	ʐyː	ʐyː		
+3301	Khoitam	rub; sharpen	zyː	zyː		
+3302	Rahung	rub; sharpen	zyː(j)	zyː		
+3303	Rupa	rub; sharpen	zyː	zyː		
+#
+3307	Khoina	run	ʦɔː	ʦɔː		
+3310	Rahung	run	ʨɛː	ʨɛː		
+3311	Rupa	run	caː ~ ʨaː	caː 	 ʨaː	Variants
+3312	Shergaon	run	ʨaː	ʨaː		
+#
+3313	Khispi	sago	nut	nut		
+3314	Duhumbi	sago	nuk	nuk		
+3315	Khoina	sago	nyk	nyk		
+3316	Jerigaon	sago	nyk	nyk		
+3317	Khoitam	sago	nyk	nyk		
+3318	Rahung	sago	nyk	nyk		
+3319	Rupa	sago	nyk	nyk		
+3320	Shergaon	sago	nuk	nuk		
+#
+3321	Khispi	saliva	kʰa-ʨʰu	kʰa-ʨʰu		
+3322	Duhumbi	saliva	kʰa-ʨʰuɹ	kʰa-ʨʰuɹ		
+3323	Khoina	saliva	da-ʦʰĩː	da-ʦʰĩː		
+3325	Khoitam	saliva	ta-zyː	ta-zyː		
+3326	Rahung	saliva	ta-ʨʰyː	ta-ʨʰyː		
+#
+3329	Khispi	salt	ha	ha		
+3330	Duhumbi	salt	ha	ha		
+3331	Khoina	salt	hũː	hũː		
+3332	Jerigaon	salt	huŋ	huŋ		
+3333	Khoitam	salt	huŋ	huŋ		
+3334	Rahung	salt	hũː(ŋ)	hũː		
+3335	Rupa	salt	hũː(ŋ)	hũː		
+3336	Shergaon	salt	huŋ	huŋ		
+#
+3337	Khispi	same, equal	ta-ba	ta-ba		
+3338	Duhumbi	same, equal	taˀ-da-taˀ-da	taˀ-da-taˀ-da		
+3339	Khoina	same, equal	a-tu	a-tu		
+3341	Khoitam	same, equal	a-tu	a-tu		
+3343	Rupa	same, equal	a-tu  ~ a-tu-tu	a-tu  	 a-tu-tu	Variants
+#
+3347	Khoina	sand	gɔ-pʰɐʰ	gɔ-pʰɐʰ		
+3348	Jerigaon	sand	kʰ-pʰɐʰ ~ kʰ-fɐʰ	kʰ-pʰɐʰ 	 kʰ-fɐʰ	Variants
+3349	Khoitam	sand	kʰə-pʰɔʰ	kʰə-pʰɔʰ		
+3350	Rahung	sand	kʰə-bɔʰ	kʰə-bɔʰ		
+#
+3353	Khispi	say	in	in		
+3354	Duhumbi	say	in	in		
+3355	Khoina	say	ɛn	ɛn		
+3356	Jerigaon	say	ɛn	ɛn		
+3357	Khoitam	say	an	an		
+3358	Rahung	say	an ~ ɛn	an 	 ɛn	Variants
+3359	Rupa	say	an	an		
+3360	Shergaon	say	an	an		
+#
+3361	Khispi	scratch1	dɔk	dɔk		
+3362	Duhumbi	scratch1	dɔk	dɔk		
+3363	Khoina	scratch1	dɔk	dɔk		
+3367	Rupa	scratch1	dɔk	dɔk		
+3368	Shergaon	scratch1	dɔk	dɔk		
+#
+3372	Jerigaon	scratch2	hø̃ː	hø̃ː		
+3373	Khoitam	scratch2	hĩː	hĩː		
+3374	Rahung	scratch2	hyː	hyː		
+3375	Rupa	scratch2	hɔːŋ	hɔːŋ		
+#
+3377	Khispi	search	su	su		
+3378	Duhumbi	search	su	su		
+3379	Khoina	search	sɔː	sɔː		
+3381	Khoitam	search	sɔː	sɔː		
+3382	Rahung	search	soː	soː		
+3383	Rupa	search	saw	saw		
+#
+3385	Khispi	see	aj	aj		
+3386	Duhumbi	see	aj	aj		
+3390	Rahung	see	ɔː	ɔː		
+3391	Rupa	see	oː	oː		
+3392	Shergaon	see	oː	oː		
+#
+3393	Khispi	seed	li	li		
+3394	Duhumbi	seed	li	li		
+3395	Khoina	seed	a-liː	a-liː		
+3396	Jerigaon	seed	a-liː	a-liː		
+3397	Khoitam	seed	a-riː	a-riː		
+3398	Rahung	seed	a-liː	a-liː		
+3399	Rupa	seed	a-liː	a-liː		
+3400	Shergaon	seed	a-liː	a-liː		
+#
+3401	Khispi	serow	ɕa-li	ɕa-li		
+3402	Duhumbi	serow	ɕa-ri	ɕa-ri		
+3403	Khoina	serow	ʂə-raː	ʂə-raː		
+3404	Jerigaon	serow	sə-rɛː	sə-rɛː		
+3405	Khoitam	serow	sə-rɛː	sə-rɛː		
+3406	Rahung	serow	sə-rɛː	sə-rɛː		
+3407	Rupa	serow	sə-raː	sə-raː		
+3408	Shergaon	serow	sə-raː	sə-raː		
+#
+3409	Khispi	settle	ʨʰak	ʨʰak		
+3410	Duhumbi	settle	ʨʰak	ʨʰak		
+3411	Khoina	settle	ʐɔ	ʐɔ		
+3412	Jerigaon	settle	tɾɔk	tɾɔk		
+3413	Khoitam	settle	ʨʰak	ʨʰak		
+3414	Rahung	settle	ʨʰak	ʨʰak		
+3415	Rupa	settle	ʦʰak ~ ʨʰak	ʦʰak 	 ʨʰak	Variants
+3416	Shergaon	settle	ʨʰak	ʨʰak		
+#
+3417	Khispi	seven	ɕis	ɕis		
+3418	Duhumbi	seven	ɕis	ɕis		
+3419	Khoina	seven	ʂik	ʂik		
+3420	Jerigaon	seven	sik	sik		
+3421	Khoitam	seven	sik	sik		
+3422	Rahung	seven	sik	sik		
+3423	Rupa	seven	ɕit	ɕit		
+3424	Shergaon	seven	ɕit	ɕit		
+#
+3425	Khispi	sew	ɕiŋ	ɕiŋ		
+3426	Duhumbi	sew	ɕiŋ	ɕiŋ		
+3428	Jerigaon	sew	ʨʰɛ̃ː	ʨʰɛ̃ː		
+3429	Khoitam	sew	ʨʰĩː(ŋ)	ʨʰĩː		
+3430	Rahung	sew	ʨʰĩː(ŋ)	ʨʰĩː		
+#
+3433	Khispi	shade	ʨʰap	ʨʰap		
+3437	Khoitam	shade	ʨʰap	ʨʰap		
+3439	Rupa	shade	ʨʰap	ʨʰap		
+#
+3441	Khispi	shake1	kʰa	kʰa		
+3442	Duhumbi	shake1	kʰa	kʰa		
+3445	Khoitam	shake1	kʰuː	kʰuː		
+3446	Rahung	shake1	kʰuː	kʰuː		
+3447	Rupa	shake1	kʰuː	kʰuː		
+#
+3449	Khispi	shake2	tʰup kʰin	tʰup kʰin		
+3450	Duhumbi	shake2	kʰin	kʰin		
+3451	Khoina	shake2	maŋ-kʰi kʰi	maŋ-kʰi kʰi		
+3453	Khoitam	shake2	nam kri	nam kri		
+3455	Rupa	shake2	nə-myː kʰi	nə-myː kʰi		
+#
+3457	Khispi	sharp1	u-ɕu ~ u-ɕaŋ	u-ɕu 	 u-ɕaŋ	Variants
+3458	Duhumbi	sharp1	u-ʨʰu	u-ʨʰu		
+3459	Khoina	sharp1	a-ʦʰɔ̃ː	a-ʦʰɔ̃ː		
+3460	Jerigaon	sharp1	a-ʨʰɔː	a-ʨʰɔː		
+3461	Khoitam	sharp1	a-ʨʰɔ̃ː	a-ʨʰɔ̃ː		
+3462	Rahung	sharp1	a-ʨʰɔː ~ a-ʨʰoː	a-ʨʰɔː 	 a-ʨʰoː	Variants
+3463	Rupa	sharp1	a-ʦʰaw ~ a-ʨʰaw	a-ʦʰaw 	 a-ʨʰaw	Variants
+3464	Shergaon	sharp1	a-ʨʰaw	a-ʨʰaw		
+#
+3465	Khispi	sharp2	u-ɕu ~ u-ɕaŋ	u-ɕu 	 u-ɕaŋ	Variants
+3466	Duhumbi	sharp2	u-ʨʰu	u-ʨʰu		
+3467	Khoina	sharp2	a-ʦʰɔ̃ː	a-ʦʰɔ̃ː		
+3468	Jerigaon	sharp2	a-ʨʰɔː	a-ʨʰɔː		
+3469	Khoitam	sharp2	a-ʨʰɔ̃ː	a-ʨʰɔ̃ː		
+3470	Rahung	sharp2	a-ʨʰɔː ~ a-ʨʰoː	a-ʨʰɔː 	 a-ʨʰoː	Variants
+3471	Rupa	sharp2	a-ʨʰũː	a-ʨʰũː		
+3472	Shergaon	sharp2	a-ʨʰaw	a-ʨʰaw		
+#
+3473	Khispi	sheep	ɕi-ki	ɕi-ki		
+3474	Duhumbi	sheep	ɕa-kɛj	ɕa-kɛj		
+3475	Khoina	sheep	ʂ-kʰaː	ʂ-kʰaː		
+3476	Jerigaon	sheep	s-kʰɛː	s-kʰɛː		
+3477	Khoitam	sheep	hɛ̃ː	hɛ̃ː		
+3478	Rahung	sheep	s-kʰɛˀ ~ s-kɛˀ	s-kʰɛˀ 	 s-kɛˀ	Variants
+3479	Rupa	sheep	s-kaː	s-kaː		
+3480	Shergaon	sheep	s-kaː	s-kaː		
+#
+3482	Duhumbi	shelf	pʰaŋ-kaŋ	pʰaŋ-kaŋ		
+3485	Khoitam	shelf	pʰaŋ	pʰaŋ		
+3487	Rupa	shelf	pʰaŋ	pʰaŋ		
+#
+3505	Khispi	shoe, footwear	le-ham	le-ham		
+3506	Duhumbi	shoe, footwear	le-ham	le-ham		
+3511	Rupa	shoe, footwear	lə-lũː(ŋ)	lə-lũː		
+#
+3513	Khispi	shoot	dik	dik		
+3514	Duhumbi	shoot	djɛk	djɛk		
+3515	Khoina	shoot	ruk	ruk		
+3516	Jerigaon	shoot	rɛk	rɛk		
+3517	Khoitam	shoot	rɛk	rɛk		
+3518	Rahung	shoot	rɛk	rɛk		
+3519	Rupa	shoot	rɛk	rɛk		
+3520	Shergaon	shoot	rɛk	rɛk		
+#
+3523	Khoina	short	a-tʰuŋ-du	a-tʰuŋ-du		
+3524	Jerigaon	short	a-tʰuŋ-du	a-tʰuŋ-du		
+3526	Rahung	short	a-tʰuŋ-du	a-tʰuŋ-du		
+3527	Rupa	short	a-tʰuŋ-du	a-tʰuŋ-du		
+3528	Shergaon	short	a-tʰuŋ-du	a-tʰuŋ-du		
+#
+3529	Khispi	shoulder	pʰak-tuŋ	pʰak-tuŋ		
+3530	Duhumbi	shoulder	pʰak-tuŋ	pʰak-tuŋ		
+3532	Jerigaon	shoulder	pʰa-nyŋ	pʰa-nyŋ		
+3533	Khoitam	shoulder	jə-pʰak	jə-pʰak		
+3534	Rahung	shoulder	ja-pʰak	ja-pʰak		
+3535	Rupa	shoulder	lə-pʰak ~ lə-fak	lə-pʰak 	 lə-fak	Variants
+3536	Shergaon	shoulder	lə-pʰak	lə-pʰak		
+#
+3537	Khispi	shy, ashamed (vi)	jɛn	jɛn		
+3538	Duhumbi	shy, ashamed (vi)	jɛn	jɛn		
+3539	Khoina	shy, ashamed (vi)	wɛn	wɛn		
+3540	Jerigaon	shy, ashamed (vi)	wɛn	wɛn		
+3541	Khoitam	shy, ashamed (vi)	wan	wan		
+3542	Rahung	shy, ashamed (vi)	wɛn	wɛn		
+3543	Rupa	shy, ashamed (vi)	wan	wan		
+3544	Shergaon	shy, ashamed (vi)	wan	wan		
+#
+3545	Khispi	sick (vi)	na	na		
+3546	Duhumbi	sick (vi)	na	na		
+3547	Khoina	sick (vi)	ku-nu	ku-nu		
+3548	Jerigaon	sick (vi)	nu ~ ku-nu	nu 	 ku-nu	Variants
+3549	Khoitam	sick (vi)	ku-nu  ~ nuŋ	ku-nu  	 nuŋ	Variants
+3550	Rahung	sick (vi)	nuŋ	nuŋ		
+3551	Rupa	sick (vi)	nu ~ nuŋ	nu 	 nuŋ	Variants
+3552	Shergaon	sick (vi)	nu	nu		
+#
+3553	Khispi	silver	ŋɔj ~ ŋuj	ŋɔj 	 ŋuj	Variants
+3554	Duhumbi	silver	ŋɔj	ŋɔj		
+3555	Khoina	silver	niŋ	niŋ		
+3556	Jerigaon	silver	niŋ	niŋ		
+3557	Khoitam	silver	niŋ	niŋ		
+3558	Rahung	silver	niŋ	niŋ		
+3559	Rupa	silver	ɲin ~ ɲiŋ	ɲin 	 ɲiŋ	Variants
+3560	Shergaon	silver	ɲin	ɲin		
+#
+3561	Khispi	sing	tej	tej		
+3562	Duhumbi	sing	tɛj	tɛj		
+3563	Khoina	sing	taː	taː		
+3564	Jerigaon	sing	tɛː	tɛː		
+3565	Khoitam	sing	tɛ̰ː	tɛ̰ː		
+3567	Rupa	sing	taː	taː		
+#
+3577	Khispi	sister, elder	a-wu	a-wu		
+3578	Duhumbi	sister, elder	a-wu	a-wu		
+3579	Khoina	sister, elder	a-byː	a-byː		
+3580	Jerigaon	sister, elder	a-byː	a-byː		
+#
+3585	Khispi	sister, younger1	ɔ-nɔw-ma	ɔ-nɔw-ma		
+3586	Duhumbi	sister, younger1	a-nuː  ~ ɔ-nɔw	a-nuː  	 ɔ-nɔw	Variants
+3589	Khoitam	sister, younger1	a-num	a-num		
+3590	Rahung	sister, younger1	a-num	a-num		
+3591	Rupa	sister, younger1	a-nuː a-ʨan-du	a-nuː a-ʨan-du		
+#
+3596	Jerigaon	sister, younger2	mə-riŋ	mə-riŋ		
+3597	Khoitam	sister, younger2	mə-riŋ	mə-riŋ		
+3598	Rahung	sister, younger2	mə-riŋ	mə-riŋ		
+3599	Rupa	sister, younger2	mə-riŋ	mə-riŋ		
+3600	Shergaon	sister, younger2	mə-riŋ	mə-riŋ		
+#
+3569	Khispi	sister-in-law	a-ʑa	a-ʑa		
+3570	Duhumbi	sister-in-law	a-ʑa	a-ʑa		
+3571	Khoina	sister-in-law	a-ʐuː	a-ʐuː		
+3572	Jerigaon	sister-in-law	a-zuː	a-zuː		
+3573	Khoitam	sister-in-law	a-zuː	a-zuː		
+3574	Rahung	sister-in-law	a-zuː	a-zuː		
+3575	Rupa	sister-in-law	a-zuː ~ a-zuː-mat	a-zuː 	 a-zuː-mat	Variants
+3576	Shergaon	sister-in-law	a-zuː-mat	a-zuː-mat		
+#
+3602	Duhumbi	sit	duŋ-ʥu	duŋ-ʥu		
+3603	Khoina	sit	dyŋ	dyŋ		
+3604	Jerigaon	sit	dyŋ	dyŋ		
+3605	Khoitam	sit	dyŋ	dyŋ		
+3606	Rahung	sit	dyŋ	dyŋ		
+3607	Rupa	sit	dyŋ	dyŋ		
+3608	Shergaon	sit	duŋ	duŋ		
+#
+3609	Khispi	six	ʨʰup	ʨʰup		
+3610	Duhumbi	six	ʨʰup ~ ʨʰuk	ʨʰup 	 ʨʰuk	Variants
+3611	Khoina	six	ʨʰyk	ʨʰyk		
+3612	Jerigaon	six	ʨʰyk	ʨʰyk		
+3613	Khoitam	six	ʨʰyk	ʨʰyk		
+3614	Rahung	six	ʨʰyk	ʨʰyk		
+3615	Rupa	six	kʰyt	kʰyt		
+3616	Shergaon	six	ʨʰuk	ʨʰuk		
+#
+3617	Khispi	skin, bark	ɕa-kʰɔk	ɕa-kʰɔk		
+3618	Duhumbi	skin, bark	ɕa-kʰɔk	ɕa-kʰɔk		
+3619	Khoina	skin, bark	ʂ-kʰuk	ʂ-kʰuk		
+3620	Jerigaon	skin, bark	s-kuk ~ s-kʰuk	s-kuk 	 s-kʰuk	Variants
+3621	Khoitam	skin, bark	sə-kuk ~ s-kuk	sə-kuk 	 s-kuk	Variants
+3622	Rahung	skin, bark	s-kuk ~ s-kʰuk	s-kuk 	 s-kʰuk	Variants
+3623	Rupa	skin, bark	s-kuk	s-kuk		
+3624	Shergaon	skin, bark	s-kuk	s-kuk		
+#
+3625	Khispi	sky	na-mu ~ na-mɔː	na-mu 	 na-mɔː	Variants
+3626	Duhumbi	sky	na-mu	na-mu		
+3627	Khoina	sky	na-myː	na-myː		
+3628	Jerigaon	sky	nə-myː	nə-myː		
+3629	Khoitam	sky	nə-myː	nə-myː		
+3630	Rahung	sky	nə-myː	nə-myː		
+3631	Rupa	sky	nə-myː	nə-myː		
+3632	Shergaon	sky	ni-miː	ni-miː		
+#
+3633	Khispi	sleep	bin	bin		
+3634	Duhumbi	sleep	bin	bin		
+3635	Khoina	sleep	ʣiŋ	ʣiŋ		
+3636	Jerigaon	sleep	ʥiŋ	ʥiŋ		
+3637	Khoitam	sleep	ʥiŋ	ʥiŋ		
+3638	Rahung	sleep	ʥiŋ	ʥiŋ		
+3639	Rupa	sleep	ʣiŋ	ʣiŋ		
+3640	Shergaon	sleep	ʣiŋ	ʣiŋ		
+#
+3641	Khispi	slowly	haɕ-ta	haɕ-ta		
+3642	Duhumbi	slowly	has-ta	has-ta		
+3643	Khoina	slowly	nɐ̃-du	nɐ̃-du		
+3644	Jerigaon	slowly	a-nɐ̃-du	a-nɐ̃-du		
+3645	Khoitam	slowly	a-nɔ̃-du	a-nɔ̃-du		
+3646	Rahung	slowly	nɔ̃-du	nɔ̃-du		
+3647	Rupa	slowly	(a-) nɔ̃-du	nɔ̃-du		
+3648	Shergaon	slowly	a-nɔ̃-du	a-nɔ̃-du		
+#
+3649	Khispi	small1	ʥɛn-	ʥɛn-		
+3650	Duhumbi	small1	ʥɛn-	ʥɛn-		
+3651	Khoina	small1	a-ʣɐ̃ː-du	a-ʣɐ̃ː-du		
+3652	Jerigaon	small1	a-ʨɐ̃ː(n)	a-ʨɐ̃ː		
+3653	Khoitam	small1	a-ʥan-du	a-ʥan-du		
+3654	Rahung	small1	ʨɔ̃ː(n)-du	ʨɔ̃ː-du		
+3655	Rupa	small1	a-tɕan-du ~ a-ʦan-du	a-tɕan-du 	 a-ʦan-du	Variants
+3656	Shergaon	small1	a-tɕan-du	a-tɕan-du		
+#
+3657	Khispi	small2	ɕa-da	ɕa-da		
+3660	Jerigaon	small2	a-duː-du	a-duː-du		
+3662	Rahung	small2	a-duː	a-duː		
+#
+3665	Khispi	smell (n)	ɕis	ɕis		
+3666	Duhumbi	smell (n)	ɕis	ɕis		
+3671	Rupa	smell (n)	sĩ	sĩ		
+#
+3673	Khispi	smell1 (vi)	ham	ham		
+3674	Duhumbi	smell1 (vi)	ham	ham		
+3675	Khoina	smell1 (vi)	nan	nan		
+3676	Jerigaon	smell1 (vi)	nan	nan		
+#
+3684	Jerigaon	smell2 (vi)	niː	niː		
+3685	Khoitam	smell2 (vi)	niː	niː		
+3686	Rahung	smell2 (vi)	niː	niː		
+3687	Rupa	smell2 (vi)	ɲiŋ	ɲiŋ		
+3688	Shergaon	smell2 (vi)	ɲiŋ	ɲiŋ		
+#
+3689	Khispi	smoke	bu-kʰu	bu-kʰu		
+3690	Duhumbi	smoke	bu-kʰu	bu-kʰu		
+3691	Khoina	smoke	ba-kʰyː	ba-kʰyː		
+3692	Jerigaon	smoke	ba-kʰyː	ba-kʰyː		
+3693	Khoitam	smoke	ba-kʰyː	ba-kʰyː		
+3694	Rahung	smoke	ba-kʰyː	ba-kʰyː		
+3695	Rupa	smoke	ba-kʰyː	ba-kʰyː		
+3696	Shergaon	smoke	ba-kʰyː	ba-kʰyː		
+#
+3699	Khoina	snake	bə-ʨʰan	bə-ʨʰan		
+3700	Jerigaon	snake	pʰ-ʨʰɛn	pʰ-ʨʰɛn		
+3701	Khoitam	snake	pʰ-ʨʰam	pʰ-ʨʰam		
+3702	Rahung	snake	pʰ-ʨʰam	pʰ-ʨʰam		
+3703	Rupa	snake	bə-cʰam ~ bə-ʨʰam	bə-cʰam 	 bə-ʨʰam	Variants
+3704	Shergaon	snake	pʰ-ʨʰam	pʰ-ʨʰam		
+#
+3706	Duhumbi	snatch away	kʰɔw	kʰɔw		
+3711	Rupa	snatch away	kʰaw	kʰaw		
+#
+3713	Khispi	snow	nam-ʑu	nam-ʑu		
+3714	Duhumbi	snow	nam-ʑu	nam-ʑu		
+3715	Khoina	snow	na-jyː	na-jyː		
+3716	Jerigaon	snow	nə-jyː	nə-jyː		
+3717	Khoitam	snow	nə-jyː	nə-jyː		
+3718	Rahung	snow	nə-jyː	nə-jyː		
+3719	Rupa	snow	ny-jyː	ny-jyː		
+3720	Shergaon	snow	ni-jiː	ni-jiː		
+#
+3722	Duhumbi	soda ash	kʰa-ri	kʰa-ri		
+3723	Khoina	soda ash	kʰa-riː	kʰa-riː		
+3726	Rahung	soda ash	kʰ-riː	kʰ-riː		
+3727	Rupa	soda ash	kʰ-riː	kʰ-riː		
+#
+3731	Khoina	soft / smooth	a-duŋ-du	a-duŋ-du		
+3732	Jerigaon	soft / smooth	a-duŋ-du	a-duŋ-du		
+3733	Khoitam	soft / smooth	a-duŋ-du	a-duŋ-du		
+3734	Rahung	soft / smooth	a-duŋ-du	a-duŋ-du		
+3735	Rupa	soft / smooth	a-duŋ-du	a-duŋ-du		
+3736	Shergaon	soft / smooth	a-duŋ-du	a-duŋ-du		
+#
+3737	Khispi	soil, earth	sa	sa		
+3738	Duhumbi	soil, earth	sa	sa		
+3739	Khoina	soil, earth	sɐ	sɐ		
+3740	Jerigaon	soil, earth	sɐ	sɐ		
+3741	Khoitam	soil, earth	sɔ	sɔ		
+3742	Rahung	soil, earth	sɔ	sɔ		
+3743	Rupa	soil, earth	sɔ	sɔ		
+3744	Shergaon	soil, earth	so	so		
+#
+3745	Khispi	son	dak-da	dak-da		
+3746	Duhumbi	son	u-dá̰ˀ	u-dá̰ˀ		
+3747	Khoina	son	a-du	a-du		
+3748	Jerigaon	son	a-du	a-du		
+3749	Khoitam	son	a-du	a-du		
+3750	Rahung	son	a-du	a-du		
+3751	Rupa	son	du	du		
+3752	Shergaon	son	a-du	a-du		
+#
+3753	Khispi	son-in-law	a-ʨʰun	a-ʨʰun		
+3754	Duhumbi	son-in-law	a-ʨʰyn	a-ʨʰyn		
+3755	Khoina	son-in-law	a-ʦʰyː	a-ʦʰyː		
+3756	Jerigaon	son-in-law	a-ʨʰyː	a-ʨʰyː		
+3757	Khoitam	son-in-law	a-ʨʰyː	a-ʨʰyː		
+3758	Rahung	son-in-law	a-ʨʰyː	a-ʨʰyː		
+3759	Rupa	son-in-law	a-ʦʰyː ~ a-ʨʰyː	a-ʦʰyː 	 a-ʨʰyː	Variants
+3760	Shergaon	son-in-law	a-ʨʰiː	a-ʨʰiː		
+#
+3761	Khispi	song1	lu	lu		
+3762	Duhumbi	song1	lu	lu		
+3765	Khoitam	song1	hũ	hũ		
+3766	Rahung	song1	hũ	hũ		
+3767	Rupa	song1	hũ	hũ		
+3768	Shergaon	song1	hɔ	hɔ		
+#
+3769	Khispi	song2	bɔː	bɔː		
+3770	Duhumbi	song2	brɔː	brɔː		
+3774	Rahung	song2	broː	broː		
+3775	Rupa	song2	broː	broː		
+#
+3777	Khispi	soup, liquid, broth, juice	ɔ-kʰaw	ɔ-kʰaw		
+3778	Duhumbi	soup, liquid, broth, juice	ɔ-kʰɔw	ɔ-kʰɔw		
+3779	Khoina	soup, liquid, broth, juice	daŋ a-kʰɔː	daŋ a-kʰɔː		
+3781	Khoitam	soup, liquid, broth, juice	a-kʰoː	a-kʰoː		
+3783	Rupa	soup, liquid, broth, juice	a-kʰoː ~ ɔ-kʰoː	a-kʰoː 	 ɔ-kʰoː	Variants
+#
+3785	Khispi	sour	ʨum-pa	ʨum-pa		
+3786	Duhumbi	sour	ʨum-pa ~ ʨur-pu	ʨum-pa 	 ʨur-pu	Variants
+3787	Khoina	sour	ba-ʨʰɛ̃ː	ba-ʨʰɛ̃ː		
+3788	Jerigaon	sour	ʨʰɛ̃ĩ-ba ~ ʨʰɛ̃ĩ-kʰɛn	ʨʰɛ̃ĩ-ba 	 ʨʰɛ̃ĩ-kʰɛn	Variants
+3789	Khoitam	sour	ʨʰĩː-kʰan ~ ʨʰĩː-tĩ	ʨʰĩː-kʰan 	 ʨʰĩː-tĩ	Variants
+3790	Rahung	sour	ʨʰĩː-ba ~ ʨʰĩː-kʰɛn	ʨʰĩː-ba 	 ʨʰĩː-kʰɛn	Variants
+3791	Rupa	sour	kʰɛ̃ː-baˀ ~ kʰɛ̃ː-ti	kʰɛ̃ː-baˀ 	 kʰɛ̃ː-ti	Variants
+3792	Shergaon	sour	a-kʰɛ̃ː	a-kʰɛ̃ː		
+#
+3793	Khispi	sow, broadcast1	pʰus	pʰus		
+3794	Duhumbi	sow, broadcast1	pʰus	pʰus		
+3795	Khoina	sow, broadcast1	pʰik	pʰik		
+3797	Khoitam	sow, broadcast1	pʰik	pʰik		
+3799	Rupa	sow, broadcast1	pʰik	pʰik		
+#
+3802	Duhumbi	sow, broadcast2	mɛr	mɛr		
+3803	Khoina	sow, broadcast2	xɛˀ	xɛˀ		
+3805	Khoitam	sow, broadcast2	heˀ	heˀ		
+3806	Rahung	sow, broadcast2	heˀ	heˀ		
+3807	Rupa	sow, broadcast2	heˀ	heˀ		
+#
+3809	Khispi	soybean	ɕa-ʥɔk	ɕa-ʥɔk		
+3810	Duhumbi	soybean	ɕa-ʥɔk	ɕa-ʥɔk		
+3811	Khoina	soybean	ʂy-juk	ʂy-juk		
+3812	Jerigaon	soybean	sy-juk ~ ɕ-uk	sy-juk 	 ɕ-uk	Variants
+3813	Khoitam	soybean	s-uk	s-uk		
+3814	Rahung	soybean	s-uk	s-uk		
+3815	Rupa	soybean	sy-juk	sy-juk		
+3816	Shergaon	soybean	s-uk	s-uk		
+#
+3817	Khispi	sparrow	dak-ʨʰi-liŋ	dak-ʨʰi-liŋ		
+3818	Duhumbi	sparrow	dak-ʨʰi-liŋ	dak-ʨʰi-liŋ		
+3820	Jerigaon	sparrow	hu-ʥiŋ	hu-ʥiŋ		
+3821	Khoitam	sparrow	ʨɔm-ʨə-rɛʰ	ʨɔm-ʨə-rɛʰ		
+3822	Rahung	sparrow	ʨam-ʨə-rɛʰ	ʨam-ʨə-rɛʰ		
+3823	Rupa	sparrow	bə-ʦə-lɔː	bə-ʦə-lɔː		
+3824	Shergaon	sparrow	ʨi-plɔː	ʨi-plɔː		
+#
+3826	Duhumbi	speak	haw	haw		
+3827	Khoina	speak	gɐ̃ː	gɐ̃ː		
+3828	Jerigaon	speak	gɐ̃ː	gɐ̃ː		
+3830	Rahung	speak	steː gɔ̃ː	steː gɔ̃ː		
+3831	Rupa	speak	steː gɔ̃ː	steː gɔ̃ː		
+3832	Shergaon	speak	gɔ̃ː	gɔ̃ː		
+#
+3834	Duhumbi	spear	kʰɛj-ʥɔŋ	kʰɛj-ʥɔŋ		
+3836	Jerigaon	spear	ʥɔŋ	ʥɔŋ		
+3837	Khoitam	spear	ʥɔŋ	ʥɔŋ		
+3838	Rahung	spear	ʥɔŋ	ʥɔŋ		
+3839	Rupa	spear	ʥɔŋ	ʥɔŋ		
+3840	Shergaon	spear	ʥɔŋ	ʥɔŋ		
+#
+3841	Khispi	spicy, pungent	jej-ba	jej-ba		
+3842	Duhumbi	spicy, pungent	jɛj-ba	jɛj-ba		
+3843	Khoina	spicy, pungent	jɐ-di	jɐ-di		
+3844	Jerigaon	spicy, pungent	hɐ	hɐ		
+3845	Khoitam	spicy, pungent	hɔ	hɔ		
+3846	Rahung	spicy, pungent	hɔ-ba	hɔ-ba		
+#
+3849	Khispi	spider	(pʰu) saŋ-gɔm-pa ~ saŋ-kɔː-pa	saŋ-gɔm-pa 	 saŋ-kɔː-pa	Variants
+3850	Duhumbi	spider	(pʰu) saŋ-gom-bu ~ (pʰu) aŋ-zɔm	saŋ-gom-bu 	  aŋ-zɔm	Variants
+3851	Khoina	spider	ga-pøː	ga-pøː		
+3852	Jerigaon	spider	na-trøŋ-zaŋ	na-trøŋ-zaŋ		
+3853	Khoitam	spider	tan-trĩ-sũŋ	tan-trĩ-sũŋ		
+3854	Rahung	spider	na(ŋ)-tryː(ŋ) sɔŋ-sɔŋ	na-tryː sɔŋ-sɔŋ		
+3855	Rupa	spider	preː-suŋ	preː-suŋ		
+3856	Shergaon	spider	treː-sum	treː-sum		
+#
+3857	Khispi	spirit, soul, shadow	ɔ-guŋ	ɔ-guŋ		
+3858	Duhumbi	spirit, soul, shadow	u-guŋ	u-guŋ		
+3859	Khoina	spirit, soul, shadow	a-wuŋ	a-wuŋ		
+3860	Jerigaon	spirit, soul, shadow	a-wuŋ	a-wuŋ		
+3861	Khoitam	spirit, soul, shadow	a-wuŋ	a-wuŋ		
+3862	Rahung	spirit, soul, shadow	uŋ	uŋ		
+3863	Rupa	spirit, soul, shadow	u-juŋ	u-juŋ		
+3864	Shergaon	spirit, soul, shadow	u-juŋ	u-juŋ		
+#
+3865	Khispi	spit	hin-tus tɔs	hin-tus tɔs		
+3866	Duhumbi	spit	hin-tus tɔs	hin-tus tɔs		
+3867	Khoina	spit	tʂʰøˀ	tʂʰøˀ		
+3868	Jerigaon	spit	ʨʰøˀ	ʨʰøˀ		
+3869	Khoitam	spit	ʨʰeˀ	ʨʰeˀ		
+3870	Rahung	spit	ʨʰøˀ	ʨʰøˀ		
+3871	Rupa	spit	kʰøˀ	kʰøˀ		
+3872	Shergaon	spit	kʰeˀ	kʰeˀ		
+#
+3873	Khispi	spittle, spit	hin-tus	hin-tus		
+3874	Duhumbi	spittle, spit	hin-tus	hin-tus		
+3875	Khoina	spittle, spit	taː	taː		
+3876	Jerigaon	spittle, spit	tɛː	tɛː		
+3877	Khoitam	spittle, spit	tɛː	tɛː		
+3878	Rahung	spittle, spit	tɛː	tɛː		
+3879	Rupa	spittle, spit	taː	taː		
+3880	Shergaon	spittle, spit	taː	taː		
+#
+3881	Khispi	split1	ʨʰeː	ʨʰeː		
+3882	Duhumbi	split1	ʨʰeː	ʨʰeː		
+3884	Jerigaon	split1	ʨɛk	ʨɛk		
+3886	Rahung	split1	ʨʰeˀ	ʨʰeˀ		
+3887	Rupa	split1	ʨʰeˀ ~ ʨʰaˀ	ʨʰeˀ 	 ʨʰaˀ	Variants
+#
+3891	Khoina	split2	jɔ	jɔ		
+3892	Jerigaon	split2	jɔ	jɔ		
+3893	Khoitam	split2	jɔ	jɔ		
+3896	Shergaon	split2	ho	ho		
+#
+3898	Duhumbi	squirrel	ʦɔː-ʦɔː grɔŋ-tʰaŋ	ʦɔː-ʦɔː grɔŋ-tʰaŋ		
+3899	Khoina	squirrel	ʦaŋ-kʰa	ʦaŋ-kʰa		
+3900	Jerigaon	squirrel	ʨaŋ-ka	ʨaŋ-ka		
+3901	Khoitam	squirrel	ʨaŋ-kɛ	ʨaŋ-kɛ		
+3903	Rupa	squirrel	stɔp ʦaŋ-kʰa ~ stɔp ʨaŋ-kʰa	stɔp ʦaŋ-kʰa 	 stɔp ʨaŋ-kʰa	Variants
+3904	Shergaon	squirrel	stɔp ʨaŋ-ka	stɔp ʨaŋ-ka		
+#
+3906	Duhumbi	squirrel, flying	ʨʰɛr-gɛn	ʨʰɛr-gɛn		
+3907	Khoina	squirrel, flying	ʨʰy-jɔ̃ː	ʨʰy-jɔ̃ː		
+3908	Jerigaon	squirrel, flying	ʨʰy-jɔ̃ː	ʨʰy-jɔ̃ː		
+3909	Khoitam	squirrel, flying	ʨʰy-jɔ̃ː	ʨʰy-jɔ̃ː		
+3910	Rahung	squirrel, flying	ʨʰə-ʨʰow ~ ʨʰə-ʨʰoː	ʨʰə-ʨʰow 	 ʨʰə-ʨʰoː	Variants
+3911	Rupa	squirrel, flying	kʰjaw	kʰjaw		
+3912	Shergaon	squirrel, flying	kʰlɛː	kʰlɛː		
+#
+3913	Khispi	stab	ʥɔk	ʥɔk		
+3914	Duhumbi	stab	ʥɔk	ʥɔk		
+3915	Khoina	stab	dʐuk	dʐuk		
+3916	Jerigaon	stab	ʥuk	ʥuk		
+3919	Rupa	stab	ʥuk	ʥuk		
+3920	Shergaon	stab	ʥuk	ʥuk		
+#
+3921	Khispi	stand (up)	kʰiŋ	kʰiŋ		
+3922	Duhumbi	stand (up)	kʰiŋ	kʰiŋ		
+3923	Khoina	stand (up)	tʂʰĩː	tʂʰĩː		
+3924	Jerigaon	stand (up)	ʨʰĩː	ʨʰĩː		
+3925	Khoitam	stand (up)	ʨʰĩː	ʨʰĩː		
+3926	Rahung	stand (up)	ʨʰĩː	ʨʰĩː		
+3927	Rupa	stand (up)	kʰĩː	kʰĩː		
+3928	Shergaon	stand (up)	kʰĩː	kʰĩː		
+#
+3931	Khoina	star	dy-ʐyk	dy-ʐyk		
+3932	Jerigaon	star	də-zyk	də-zyk		
+3933	Khoitam	star	ʨʰyŋ-zyk	ʨʰyŋ-zyk		
+3934	Rahung	star	ʨʰyŋ-zyk	ʨʰyŋ-zyk		
+3935	Rupa	star	zyk	zyk		
+3936	Shergaon	star	ʨʰuŋ-zuk	ʨʰuŋ-zuk		
+#
+3937	Khispi	steal	wu	wu		
+3938	Duhumbi	steal	wu	wu		
+3939	Khoina	steal	jɔː	jɔː		
+3940	Jerigaon	steal	jɔː	jɔː		
+3941	Khoitam	steal	jɔː	jɔː		
+3942	Rahung	steal	joː	joː		
+3943	Rupa	steal	jaw	jaw		
+3944	Shergaon	steal	jaw	jaw		
+#
+3946	Duhumbi	steam	haŋ-pa ~ ɬaŋ-pa	haŋ-pa 	 ɬaŋ-pa	Variants
+3947	Khoina	steam	kɔ-hɔ̃ː	kɔ-hɔ̃ː		
+3949	Khoitam	steam	a-lũːŋ	a-lũːŋ		
+3950	Rahung	steam	laŋ-poː	laŋ-poː		
+#
+3955	Khoina	stich	ʦɐk	ʦɐk		
+3959	Rupa	stich	ʦak ~ ʨak	ʦak 	 ʨak	Variants
+3960	Shergaon	stich	ʨak	ʨak		
+#
+3961	Khispi	stick	kʰaj	kʰaj		
+3962	Duhumbi	stick	kʰɛj	kʰɛj		
+3963	Khoina	stick	kʰɐ	kʰɐ		
+3964	Jerigaon	stick	kʰɐ	kʰɐ		
+3965	Khoitam	stick	kʰɔ	kʰɔ		
+3966	Rahung	stick	kʰɔ	kʰɔ		
+3967	Rupa	stick	kʰɔ	kʰɔ		
+#
+3969	Khispi	stone	luŋ	luŋ		
+3970	Duhumbi	stone	luŋ	luŋ		
+3971	Khoina	stone	lyŋ	lyŋ		
+3972	Jerigaon	stone	lyŋ	lyŋ		
+3973	Khoitam	stone	ryŋ	ryŋ		
+3974	Rahung	stone	ryŋ	ryŋ		
+3975	Rupa	stone	lyŋ	lyŋ		
+3976	Shergaon	stone	luŋ	luŋ		
+#
+3977	Khispi	story	tam	tam		
+3978	Duhumbi	story	tam	tam		
+3979	Khoina	story	kʰar-tan	kʰar-tan		
+3981	Khoitam	story	tuŋ-lu	tuŋ-lu		
+3982	Rahung	story	kʰar-tam	kʰar-tam		
+#
+3985	Khispi	straight	laŋ-ɕum	laŋ-ɕum		
+3986	Duhumbi	straight	raŋ-bu	raŋ-bu		
+3987	Khoina	straight	a-rɔ̃ː(ŋ)	a-rɔ̃ː		
+3988	Jerigaon	straight	a-rɔ̃ː(ŋ)	a-rɔ̃ː		
+3989	Khoitam	straight	a-rũːŋ	a-rũːŋ		
+3990	Rahung	straight	a-rũːŋ	a-rũːŋ		
+3991	Rupa	straight	a-rũː	a-rũː		
+3992	Shergaon	straight	a-rɔ̃ː	a-rɔ̃ː		
+#
+3993	Khispi	stump (tree)	dum-ba	dum-ba		
+3994	Duhumbi	stump (tree)	tʰum-ba	tʰum-ba		
+3998	Rahung	stump (tree)	hiŋ tɔ-rɔm	hiŋ tɔ-rɔm		
+3999	Rupa	stump (tree)	hiŋ tʰrɔm	hiŋ tʰrɔm		
+#
+4003	Khoina	suck1	tʂʰajŋ	tʂʰajŋ		
+4004	Jerigaon	suck1	ʨʰɛŋ	ʨʰɛŋ		
+4006	Rahung	suck1	ʨʰɛŋ	ʨʰɛŋ		
+4007	Rupa	suck1	kʰɛŋ	kʰɛŋ		
+#
+4009	Khispi	suck2	ʑɔp	ʑɔp		
+4010	Duhumbi	suck2	ʑɔp	ʑɔp		
+4012	Jerigaon	suck2	zyː	zyː		
+4013	Khoitam	suck2	zyː	zyː		
+4014	Rahung	suck2	zyː	zyː		
+4016	Shergaon	suck2	zi:	zi:		
+#
+4017	Khispi	sugarcane	(ʨʰula) mej-ʥu	mej-ʥu		
+4018	Duhumbi	sugarcane	mɛj-ʥu	mɛj-ʥu		
+4019	Khoina	sugarcane	ma-ʦʰiː	ma-ʦʰiː		
+4020	Jerigaon	sugarcane	mə-ʨʰiː-sɔː	mə-ʨʰiː-sɔː		
+4021	Khoitam	sugarcane	mə-ʦʰiː/-ʨʰiː	mə-ʦʰiː/-ʨʰiː		
+4022	Rahung	sugarcane	pʰ-ʨʰiː	pʰ-ʨʰiː		
+4023	Rupa	sugarcane	mə-ʦʰyː ~ mə-ʨʰiː ~ bə-ʨʰiː	mə-ʦʰyː 	 mə-ʨʰiː  bə-ʨʰiː	Variants
+4024	Shergaon	sugarcane	mi-ʨʰiː	mi-ʨʰiː		
+#
+4025	Khispi	sun, day	na-mi ~ na-me	na-mi 	 na-me	Variants
+4026	Duhumbi	sun, day	na-mi	na-mi		
+4027	Khoina	sun, day	na-nyː	na-nyː		
+4028	Jerigaon	sun, day	nə-nyː	nə-nyː		
+4029	Khoitam	sun, day	nə-myː ~ nə-miː	nə-myː 	 nə-miː	Variants
+4030	Rahung	sun, day	nə-myː ~ nə-miː	nə-myː 	 nə-miː	Variants
+4031	Rupa	sun, day	nə-nyː	nə-nyː		
+4032	Shergaon	sun, day	nə-niː	nə-niː		
+#
+4033	Khispi	swallow	ʥu	ʥu		
+4034	Duhumbi	swallow	ʥu	ʥu		
+4035	Khoina	swallow	dʐyː	dʐyː		
+4036	Jerigaon	swallow	gyː	gyː		
+4037	Khoitam	swallow	gyː	gyː		
+4038	Rahung	swallow	gyː	gyː		
+4039	Rupa	swallow	gyː	gyː		
+4040	Shergaon	swallow	giː	giː		
+#
+4043	Khoina	sweet	a-ʦĩː	a-ʦĩː		
+4045	Khoitam	sweet	ʨĩː	ʨĩː		
+4046	Rahung	sweet	ʨĩː	ʨĩː		
+4047	Rupa	sweet	a-ʦĩː ~ a-ʨĩː	a-ʦĩː 	 a-ʨĩː	Variants
+4048	Shergaon	sweet	a-ʨĩː	a-ʨĩː		
+#
+4049	Khispi	swell	pɕiŋ ~ ɕiŋ	pɕiŋ 	 ɕiŋ	Variants
+4050	Duhumbi	swell	pɕiŋ	pɕiŋ		
+4051	Khoina	swell	pʰiŋ	pʰiŋ		
+4052	Jerigaon	swell	pʰiŋ	pʰiŋ		
+4053	Khoitam	swell	pʰiŋ	pʰiŋ		
+4054	Rahung	swell	pʰiŋ	pʰiŋ		
+4055	Rupa	swell	pʰiŋ	pʰiŋ		
+4056	Shergaon	swell	pʰiŋ	pʰiŋ		
+#
+4057	Khispi	tail	ɲuj	ɲuj		
+4058	Duhumbi	tail	ɲɔj	ɲɔj		
+4059	Khoina	tail	a-naː	a-naː		
+4060	Jerigaon	tail	a-nɛːʰ	a-nɛːʰ		
+4061	Khoitam	tail	a-nɛːʰ	a-nɛːʰ		
+4062	Rahung	tail	a-nɛːʰ	a-nɛːʰ		
+4063	Rupa	tail	a-ɲaː	a-ɲaː		
+4064	Shergaon	tail	a-ɲaː	a-ɲaː		
+#
+4065	Khispi	take	tʰɔn	tʰɔn		
+4066	Duhumbi	take	tʰɔn	tʰɔn		
+4067	Khoina	take	tʰøː	tʰøː		
+4068	Jerigaon	take	tʰøː	tʰøː		
+4069	Khoitam	take	tʰĩː	tʰĩː		
+4070	Rahung	take	tʰɛn-niː	tʰɛn-niː		
+4071	Rupa	take	tʰøː	tʰøː		
+4072	Shergaon	take	tʰeː	tʰeː		
+#
+4076	Jerigaon	takin	sə-ʨʰøn ~ sə-ɕøn	sə-ʨʰøn 	 sə-ɕøn	Variants
+4078	Rahung	takin	ʨʰə-ʨʰøm	ʨʰə-ʨʰøm		
+#
+4081	Khispi	taro	ʨʰak	ʨʰak		
+4082	Duhumbi	taro	ʨʰak	ʨʰak		
+4083	Khoina	taro	ʦʰɐk	ʦʰɐk		
+4084	Jerigaon	taro	ʨʰak	ʨʰak		
+4085	Khoitam	taro	ʨʰak	ʨʰak		
+4086	Rahung	taro	ʨʰak	ʨʰak		
+4087	Rupa	taro	ʥuː-ʦʰak ~ ʥuː-ʨʰak	ʥuː-ʦʰak 	 ʥuː-ʨʰak	Variants
+4088	Shergaon	taro	ʥuː-ʨʰak	ʥuː-ʨʰak		
+#
+4089	Khispi	tasty	ɔ-bej-da	ɔ-bej-da		
+4090	Duhumbi	tasty	ɔ-bɛj	ɔ-bɛj		
+4091	Khoina	tasty	a-blɐːʰ	a-blɐːʰ		
+4092	Jerigaon	tasty	a-blɐːʰ	a-blɐːʰ		
+4093	Khoitam	tasty	a-blɔʰ-du	a-blɔʰ-du		
+4094	Rahung	tasty	a-bɹɔːʰ	a-bɹɔːʰ		
+4095	Rupa	tasty	a-blɔːʰ	a-blɔːʰ		
+4096	Shergaon	tasty	a-blɔː	a-blɔː		
+#
+4097	Khispi	tear (vt)	ʑɛt	ʑɛt		
+4098	Duhumbi	tear (vt)	ʑɛt	ʑɛt		
+4099	Khoina	tear (vt)	zɛˀ	zɛˀ		
+4101	Khoitam	tear (vt)	zeˀ	zeˀ		
+4102	Rahung	tear (vt)	zeˀ	zeˀ		
+4103	Rupa	tear (vt)	zeˀ	zeˀ		
+#
+4105	Khispi	tell	ɕat	ɕat		
+4107	Khoina	tell	ʂɐ	ʂɐ		
+4109	Khoitam	tell	sɔˀ	sɔˀ		
+4110	Rahung	tell	sɔˀ	sɔˀ		
+4111	Rupa	tell	sɔˀ	sɔˀ		
+4112	Shergaon	tell	sɔ	sɔ		
+#
+4113	Khispi	ten	san	san		
+4114	Duhumbi	ten	san	san		
+4115	Khoina	ten	sɐ̃ː	sɐ̃ː		
+4116	Jerigaon	ten	sɐ̃ː	sɐ̃ː		
+4117	Khoitam	ten	sɔ̃ː	sɔ̃ː		
+4118	Rahung	ten	sɔ̃ː	sɔ̃ː		
+4119	Rupa	ten	sɔ̃ː	sɔ̃ː		
+4120	Shergaon	ten	sɔ̃ː	sɔ̃ː		
+#
+4123	Khoina	that	tʰiː	tʰiː		
+4124	Jerigaon	that	tʰiː	tʰiː		
+4125	Khoitam	that	tʰyː	tʰyː		
+4126	Rahung	that	s-tʰyː ~ tʰyː-wɛː	s-tʰyː 	 tʰyː-wɛː	Variants
+4127	Rupa	that	tʰyː	tʰyː		
+4128	Shergaon	that	tʰuː	tʰuː		
+#
+4129	Khispi	that side	ɔ-tʰja ~ tʰej ~ tʰaj	ɔ-tʰja 	 tʰej  tʰaj	Variants
+4130	Duhumbi	that side	tʰe- ~ ɔw-tʰja ~ tʰɛj-	tʰe- 	 ɔw-tʰja  tʰɛj-	Variants
+4131	Khoina	that side	kʰaː	kʰaː		
+4132	Jerigaon	that side	tʰiː-tʰɛː-lɔ	tʰiː-tʰɛː-lɔ		
+4133	Khoitam	that side	ɔ-tʰɛː-lɔ	ɔ-tʰɛː-lɔ		
+4134	Rahung	that side	tʰɛː ~ kʰlaŋ ~ kʰaː	tʰɛː 	 kʰlaŋ  kʰaː	Variants
+4135	Rupa	that side	kʰɔː ~ kʰlaː	kʰɔː 	 kʰlaː	Variants
+4136	Shergaon	that side	kʰaː	kʰaː		
+4137	Khispi	that side	ɔ-tʰja ~ tʰej-  ~ tʰaj-	ɔ-tʰja 	 tʰej-   tʰaj-	Variants
+4138	Duhumbi	that side	ɔw-tʰja ~ tʰɛj- ~ tʰe-	ɔw-tʰja 	 tʰɛj-  tʰe-	Variants
+4139	Khoina	that side	kʰaː	kʰaː		
+4140	Jerigaon	that side	tʰiː-tʰɛː-lɔ	tʰiː-tʰɛː-lɔ		
+4141	Khoitam	that side	ɔ-tʰɛː-lɔ	ɔ-tʰɛː-lɔ		
+4142	Rahung	that side	tʰɛː ~ kʰlaŋ ~ kʰaː	tʰɛː 	 kʰlaŋ  kʰaː	Variants
+4143	Rupa	that side	kʰɔː ~ kʰlaː	kʰɔː 	 kʰlaː	Variants
+4144	Shergaon	that side	kʰaː	kʰaː		
+#
+4154	Duhumbi	thick	ɔ-tʰɛs	ɔ-tʰɛs		
+4155	Khoina	thick	a-tʰɛʔ	a-tʰɛʔ		
+4156	Jerigaon	thick	a-tʰɛʔ	a-tʰɛʔ		
+4157	Khoitam	thick	a-tʰɛʔ	a-tʰɛʔ		
+4158	Rahung	thick	a-tʰɛʔ	a-tʰɛʔ		
+4159	Rupa	thick	a-tʰat	a-tʰat		
+4160	Shergaon	thick	a-tʰɛt	a-tʰɛt		
+#
+4161	Khispi	thief	bu-ju	bu-ju		
+4162	Duhumbi	thief	bi-ju	bi-ju		
+4163	Khoina	thief	ʥy-jɔː	ʥy-jɔː		
+4165	Khoitam	thief	ʥy-wjɔː	ʥy-wjɔː		
+4167	Rupa	thief	ʥi-jaw	ʥi-jaw		
+#
+4169	Khispi	thigh	le-pʰa	le-pʰa		
+4170	Duhumbi	thigh	le-pʰa	le-pʰa		
+4172	Jerigaon	thigh	la-pʰluː	la-pʰluː		
+4173	Khoitam	thigh	la-pʰluː	la-pʰluː		
+4174	Rahung	thigh	la-pʰuː	la-pʰuː		
+4175	Rupa	thigh	lə-pʰuː	lə-pʰuː		
+4176	Shergaon	thigh	lə-pʰuː	lə-pʰuː		
+#
+4178	Duhumbi	thin	ʨʰap-bu	ʨʰap-bu		
+4179	Khoina	thin	a-ʨʰa-du	a-ʨʰa-du		
+4180	Jerigaon	thin	a-ʨʰɛˀ-du	a-ʨʰɛˀ-du		
+4181	Khoitam	thin	a-ʨʰap-du	a-ʨʰap-du		
+4182	Rahung	thin	a-ʨʰap-du	a-ʨʰap-du		
+4183	Rupa	thin	a-ʦʰap ~ a-ʨʰap ~ a-ʦʰap-du	a-ʦʰap 	 a-ʨʰap  a-ʦʰap-du	Variants
+4184	Shergaon	thin	a-ʨʰap-du	a-ʨʰap-du		
+#
+4185	Khispi	thing	ma	ma		
+4186	Duhumbi	thing	ma	ma		
+4189	Khoitam	thing	mə-ʨʰiŋ	mə-ʨʰiŋ		
+4190	Rahung	thing	pʰ-ʨʰiŋ	pʰ-ʨʰiŋ		
+4191	Rupa	thing	mə-ʨʰiŋ ~ pʰ-ʨʰiŋ	mə-ʨʰiŋ 	 pʰ-ʨʰiŋ	Variants
+#
+4195	Khoina	think	tʰiŋ	tʰiŋ		
+4196	Jerigaon	think	tʰiŋ	tʰiŋ		
+4197	Khoitam	think	tʰiŋ	tʰiŋ		
+4198	Rahung	think	tʰiŋ	tʰiŋ		
+4199	Rupa	think	tʰin	tʰin		
+4200	Shergaon	think	tʰin	tʰin		
+#
+4201	Khispi	thirsty (vi)	(kʰaw) jaŋ	jaŋ		
+4202	Duhumbi	thirsty (vi)	(kʰow) jaŋ	jaŋ		
+4203	Khoina	thirsty (vi)	(kʰãː) jɔ̃ː	jɔ̃ː		
+4204	Jerigaon	thirsty (vi)	(kʰɔː) kʰʲɔ̃ː	kʰʲɔ̃ː		
+4205	Khoitam	thirsty (vi)	(kʰɔː) jũŋ	jũŋ		
+4206	Rahung	thirsty (vi)	(kʰoː) jũŋ	jũŋ		
+4207	Rupa	thirsty (vi)	(kʰoː) jũŋ	jũŋ		
+4208	Shergaon	thirsty (vi)	(kʰoː) jɔ̃ː	jɔ̃ː		
+#
+4211	Khoina	this	tʰaː-ʥi	tʰaː-ʥi		
+4212	Jerigaon	this	tʰaː-ʥi	tʰaː-ʥi		
+4213	Khoitam	this	ɔ-tʰɛː	ɔ-tʰɛː		
+4214	Rahung	this	tʰə-ɛː	tʰə-ɛː		
+4215	Rupa	this	tʰwaː ~ tʰu-waː ~ tʰaː ~ ɔ-tʰ-gɔː ~ tʰū-gɔː ~ tʰə-gɔː	tʰwaː 	 tʰu-waː  tʰaː  ɔ-tʰ-gɔː  tʰū-gɔː  tʰə-gɔː	Variants
+4216	Shergaon	this	tʰaː-ji	tʰaː-ji		
+#
+4217	Khispi	thorn	pʰe-zɔ ~ pʰe-ʥɔ	pʰe-zɔ 	 pʰe-ʥɔ	Variants
+4218	Duhumbi	thorn	pʰi-ʥɔˀ	pʰi-ʥɔˀ		
+4219	Khoina	thorn	ba-zɔ	ba-zɔ		
+4220	Jerigaon	thorn	bə-zɔ	bə-zɔ		
+4221	Khoitam	thorn	bə-zɔː	bə-zɔː		
+4222	Rahung	thorn	bə-zoː	bə-zoː		
+4223	Rupa	thorn	bə-zaw	bə-zaw		
+4224	Shergaon	thorn	bə-zaw	bə-zaw		
+#
+4225	Khispi	thousand	tɔŋ-ta	tɔŋ-ta		
+4226	Duhumbi	thousand	tɔŋ-ta ~ tɔŋ-ʈa	tɔŋ-ta 	 tɔŋ-ʈa	Variants
+4227	Khoina	thousand	tɔŋ-tʂʰaː	tɔŋ-tʂʰaː		
+4228	Jerigaon	thousand	tɔŋ-ta	tɔŋ-ta		
+4229	Khoitam	thousand	tɔŋ-tʰɔ	tɔŋ-tʰɔ		
+4230	Rahung	thousand	tɔŋ-tʰɔ	tɔŋ-tʰɔ		
+#
+4233	Khispi	thread	hwaŋ	hwaŋ		
+4234	Duhumbi	thread	hwaŋ	hwaŋ		
+4235	Khoina	thread	xaŋ	xaŋ		
+4236	Jerigaon	thread	haŋ	haŋ		
+4237	Khoitam	thread	haŋ	haŋ		
+4238	Rahung	thread	haŋ	haŋ		
+4239	Rupa	thread	haŋ	haŋ		
+4240	Shergaon	thread	haŋ	haŋ		
+#
+4241	Khispi	three	ɔm	ɔm		
+4242	Duhumbi	three	ɔm	ɔm		
+4243	Khoina	three	ũː	ũː		
+4244	Jerigaon	three	uŋ	uŋ		
+4245	Khoitam	three	uŋ	uŋ		
+4246	Rahung	three	uŋ	uŋ		
+4247	Rupa	three	uŋ	uŋ		
+4248	Shergaon	three	uŋ	uŋ		
+#
+4249	Khispi	throw	tɔs	tɔs		
+4250	Duhumbi	throw	tɔs	tɔs		
+4251	Khoina	throw	tʰøˀ	tʰøˀ		
+4252	Jerigaon	throw	tʰøˀ	tʰøˀ		
+4253	Khoitam	throw	tʰeˀ	tʰeˀ		
+4255	Rupa	throw	tʰøˀ	tʰøˀ		
+#
+4261	Khoitam	thunder (vi)	nəmyː hyk	nəmyː hyk		
+4263	Rupa	thunder (vi)	nə-myː hyp ~ nə-myː hyk (C.)	nə-myː hyp 	 nə-myː hyk	Variants
+4264	Shergaon	thunder (vi)	nimiː huk	nimiː huk		
+#
+4265	Khispi	tie (vt)	kʰak	kʰak		
+4266	Duhumbi	tie (vt)	kʰak	kʰak		
+4267	Khoina	tie (vt)	xɐk	xɐk		
+4268	Jerigaon	tie (vt)	hak	hak		
+4269	Khoitam	tie (vt)	hak	hak		
+4270	Rahung	tie (vt)	kʰak	kʰak		
+4271	Rupa	tie (vt)	hak	hak		
+4272	Shergaon	tie (vt)	hak	hak		
+#
+4273	Khispi	tiger	pʰu-ɲam	pʰu-ɲam		
+4274	Duhumbi	tiger	pʰu-ɲam	pʰu-ɲam		
+4275	Khoina	tiger	pʰũː	pʰũː		
+4276	Jerigaon	tiger	pʰɔ̃ː	pʰɔ̃ː		
+4277	Khoitam	tiger	pʰũː	pʰũː		
+4278	Rahung	tiger	pʰũː	pʰũː		
+4279	Rupa	tiger	pʰũː	pʰũː		
+4280	Shergaon	tiger	pʰɔ̃ː	pʰɔ̃ː		
+#
+4283	Khoina	till (hoe)	ʨʰɔk	ʨʰɔk		
+4284	Jerigaon	till (hoe)	ʨʰɔk	ʨʰɔk		
+4285	Khoitam	till (hoe)	ʨʰɔk	ʨʰɔk		
+4286	Rahung	till (hoe)	ʨʰɔk	ʨʰɔk		
+4287	Rupa	till (hoe)	ʨʰɔk	ʨʰɔk		
+4288	Shergaon	till (hoe)	ʨʰɔk	ʨʰɔk		
+#
+4290	Duhumbi	tired (vi)	ʥɛj	ʥɛj		
+4291	Khoina	tired (vi)	ʣeː ~ ʣɛː	ʣeː 	 ʣɛː	Variants
+4292	Jerigaon	tired (vi)	ʥeː	ʥeː		
+4293	Khoitam	tired (vi)	ʥeː	ʥeː		
+4295	Rupa	tired (vi)	ʣeː	ʣeː		
+#
+4297	Khispi	today	tʰa-la	tʰa-la		
+4298	Duhumbi	today	tʰa-la	tʰa-la		
+4299	Khoina	today	tʰa-luː	tʰa-luː		
+4300	Jerigaon	today	tʰ-luː	tʰ-luː		
+4301	Khoitam	today	tʰ-ruː	tʰ-ruː		
+4302	Rahung	today	tʰ-ruː	tʰ-ruː		
+4303	Rupa	today	tʰə-luː	tʰə-luː		
+4304	Shergaon	today	tʰə-luː	tʰə-luː		
+#
+4305	Khispi	together with	de-kʰɔ	de-kʰɔ		
+4306	Duhumbi	together with	dɛp-kʰɔ	dɛp-kʰɔ		
+4308	Jerigaon	together with	dɛː-gu	dɛː-gu		
+4309	Khoitam	together with	dɛp-gy	dɛp-gy		
+4310	Rahung	together with	dɛp-kʰɔ ~ dɛˀ-kʰɔ	dɛp-kʰɔ 	 dɛˀ-kʰɔ	Variants
+4311	Rupa	together with	dɛp-gɔ ~ dɛk-gɔ	dɛp-gɔ 	 dɛk-gɔ	Variants
+4312	Shergaon	together with	dɛp-kʰɔ	dɛp-kʰɔ		
+#
+4313	Khispi	tomorrow	nam-saŋ	nam-saŋ		
+4314	Duhumbi	tomorrow	nam-saŋ	nam-saŋ		
+4315	Khoina	tomorrow	bə-saŋ	bə-saŋ		
+4316	Jerigaon	tomorrow	mə-saŋ	mə-saŋ		
+4317	Khoitam	tomorrow	my-saŋ	my-saŋ		
+4318	Rahung	tomorrow	p-saŋ	p-saŋ		
+4319	Rupa	tomorrow	mə-saŋ ~ bə-saŋ-la	mə-saŋ 	 bə-saŋ-la	Variants
+4320	Shergaon	tomorrow	mə-saŋ	mə-saŋ		
+#
+4321	Khispi	tongue	luj	luj		
+4322	Duhumbi	tongue	lɔj	lɔj		
+4323	Khoina	tongue	laː	laː		
+4324	Jerigaon	tongue	lɛː	lɛː		
+4325	Khoitam	tongue	lɛː	lɛː		
+4326	Rahung	tongue	lɛː	lɛː		
+4327	Rupa	tongue	laː-pʰɔ̃ ~ laː-fɔ̃ː	laː-pʰɔ̃ 	 laː-fɔ̃ː	Variants
+4328	Shergaon	tongue	laː	laː		
+#
+4329	Khispi	tooth	ɕin-tuŋ	ɕin-tuŋ		
+4330	Duhumbi	tooth	hin-tuŋ	hin-tuŋ		
+4331	Khoina	tooth	ny-tʰyŋ	ny-tʰyŋ		
+4332	Jerigaon	tooth	nə-tʰyŋ	nə-tʰyŋ		
+4333	Khoitam	tooth	nə-tʰyŋ	nə-tʰyŋ		
+4334	Rahung	tooth	pʰ-tʰyŋ	pʰ-tʰyŋ		
+4336	Shergaon	tooth	nə-tʰuŋ	nə-tʰuŋ		
+#
+4337	Khispi	trivet	pɛɹ-ʨʰu-du ~ pɛl-ʨʰu-lu	pɛɹ-ʨʰu-du 	 pɛl-ʨʰu-lu	Variants
+4338	Duhumbi	trivet	pɛɹ-ʑam-ɕup ~ pɛɹ-ʑam-ʑu	pɛɹ-ʑam-ɕup 	 pɛɹ-ʑam-ʑu	Variants
+4339	Khoina	trivet	dy-ʐyː	dy-ʐyː		
+4340	Jerigaon	trivet	də-zyː	də-zyː		
+4341	Khoitam	trivet	ʨĩ(ŋ)-zyː	ʨĩ-zyː		
+4342	Rahung	trivet	ʨĩ(ŋ)-zyː	ʨĩ-zyː		
+4343	Rupa	trivet	zə-zyː	zə-zyː		
+4344	Shergaon	trivet	ʨi-zi	ʨi-zi		
+#
+4347	Khoina	trunk (tree)	hiŋ la-tʰyŋ	hiŋ la-tʰyŋ		
+4348	Jerigaon	trunk (tree)	hiŋ lə-tʰyŋ	hiŋ lə-tʰyŋ		
+4349	Khoitam	trunk (tree)	hiŋ lə-tʰyŋ	hiŋ lə-tʰyŋ		
+4350	Rahung	trunk (tree)	hiŋ la-tʰyŋ	hiŋ la-tʰyŋ		
+4351	Rupa	trunk (tree)	hiŋ-tʰyŋ	hiŋ-tʰyŋ		
+#
+4353	Khispi	tuber	ʥa	ʥa		
+4354	Duhumbi	tuber	ʥa	ʥa		
+4355	Khoina	tuber	ʥuː	ʥuː		
+4356	Jerigaon	tuber	ʥuː	ʥuː		
+4357	Khoitam	tuber	ʥuː	ʥuː		
+4358	Rahung	tuber	ʥuː	ʥuː		
+4359	Rupa	tuber	ʥuː ~ ɟuː	ʥuː 	 ɟuː	Variants
+4360	Shergaon	tuber	ʥuː	ʥuː		
+#
+4363	Khoina	tusk	neˀ	neˀ		
+4365	Khoitam	tusk	niˀ	niˀ		
+4366	Rahung	tusk	niˀ	niˀ		
+4367	Rupa	tusk	ɲeˀ	ɲeˀ		
+#
+4369	Khispi	twenty	kʰej ~ kʰaj	kʰej 	 kʰaj	Variants
+4370	Duhumbi	twenty	kʰɛj	kʰɛj		
+4371	Khoina	twenty	kʰãː	kʰãː		
+4372	Jerigaon	twenty	kʰãː	kʰãː		
+4373	Khoitam	twenty	kʰaː	kʰaː		
+4374	Rahung	twenty	kʰɔ̃ː	kʰɔ̃ː		
+4375	Rupa	twenty	kʰaːj	kʰaːj		
+4376	Shergaon	twenty	kʰaː	kʰaː		
+#
+4378	Duhumbi	twist	kʰik	kʰik		
+4379	Khoina	twist	tʂʰiˀ	tʂʰiˀ		
+4381	Khoitam	twist	ʨʰiˀ	ʨʰiˀ		
+4382	Rahung	twist	ʨʰeˀ	ʨʰeˀ		
+4383	Rupa	twist	kʰeˀ	kʰeˀ		
+#
+4385	Khispi	two	ɲis	ɲis		
+4386	Duhumbi	two	ɲis	ɲis		
+4387	Khoina	two	nik	nik		
+4388	Jerigaon	two	nik	nik		
+4389	Khoitam	two	nik	nik		
+4390	Rahung	two	nik	nik		
+4391	Rupa	two	ɲik	ɲik		
+4392	Shergaon	two	ɲit	ɲit		
+#
+4393	Khispi	under, below	kʰa	kʰa		
+4394	Duhumbi	under, below	kʰa	kʰa		
+4395	Khoina	under, below	kʰuː	kʰuː		
+4396	Jerigaon	under, below	kʰuː	kʰuː		
+4397	Khoitam	under, below	kʰuː	kʰuː		
+4398	Rahung	under, below	kʰuː	kʰuː		
+4399	Rupa	under, below	kʰuː	kʰuː		
+4400	Shergaon	under, below	kʰuː	kʰuː		
+#
+4401	Khispi	up there1	lja ~ ljɛ ~ lɛj	lja 	 ljɛ  lɛj	Variants
+4402	Duhumbi	up there1	lja ~ lje ~ ljɛ ~ lɛj	lja 	 lje  ljɛ  lɛj	Variants
+4403	Khoina	up there1	laŋ	laŋ		
+4404	Jerigaon	up there1	laŋ	laŋ		
+4405	Khoitam	up there1	laŋ	laŋ		
+4407	Rupa	up there1	laŋ	laŋ		
+4408	Shergaon	up there1	laŋ	laŋ		
+#
+4412	Jerigaon	up there2	tʰaŋ	tʰaŋ		
+4413	Khoitam	up there2	tʰaŋ	tʰaŋ		
+4414	Rahung	up there2	tʰaŋ	tʰaŋ		
+4415	Rupa	up there2	tʰaŋ	tʰaŋ		
+4416	Shergaon	up there2	tʰaŋ	tʰaŋ		
+#
+4417	Khispi	up; ascend	kʰuŋ	kʰuŋ		
+4418	Duhumbi	up; ascend	kʰuŋ	kʰuŋ		
+4419	Khoina	up; ascend	kʰyŋ	kʰyŋ		
+4420	Jerigaon	up; ascend	kʰyŋ	kʰyŋ		
+4421	Khoitam	up; ascend	kʰyŋ	kʰyŋ		
+4422	Rahung	up; ascend	kʰyŋ	kʰyŋ		
+4423	Rupa	up; ascend	kʰyŋ	kʰyŋ		
+4424	Shergaon	up; ascend	kʰuŋ	kʰuŋ		
+#
+4425	Khispi	uproot	pʰɔk	pʰɔk		
+4426	Duhumbi	uproot	pʰɔk	pʰɔk		
+4429	Khoitam	uproot	pʰiŋ	pʰiŋ		
+4431	Rupa	uproot	pʰiŋ ~ pʰyŋ	pʰiŋ 	 pʰyŋ	Variants
+#
+4433	Khispi	urine	ʑi	ʑi		
+4434	Duhumbi	urine	ʑi	ʑi		
+4435	Khoina	urine	ziː	ziː		
+4436	Jerigaon	urine	ziː	ziː		
+4437	Khoitam	urine	ziː	ziː		
+4438	Rahung	urine	ziː	ziː		
+4439	Rupa	urine	ziː	ziː		
+4440	Shergaon	urine	ziː	ziː		
+#
+4441	Khispi	vagina	tʰu	tʰu		
+4442	Duhumbi	vagina	tʰu	tʰu		
+4447	Rupa	vagina	tʰaw	tʰaw		
+4448	Shergaon	vagina	tʰaw	tʰaw		
+#
+4449	Khispi	vegetable, leafy	daŋ	daŋ		
+4450	Duhumbi	vegetable, leafy	daŋ	daŋ		
+4451	Khoina	vegetable, leafy	daŋ	daŋ		
+4452	Jerigaon	vegetable, leafy	daŋ	daŋ		
+4453	Khoitam	vegetable, leafy	daŋ ~ də-hɔ̃	daŋ 	 də-hɔ̃	Variants
+4454	Rahung	vegetable, leafy	də-hɔ̃	də-hɔ̃		
+4455	Rupa	vegetable, leafy	dɔŋ-hɔ̃ ~ də́-hɔ̃ ~ dɔ-hɔ̃	dɔŋ-hɔ̃ 	 də́-hɔ̃  dɔ-hɔ̃	Variants
+4456	Shergaon	vegetable, leafy	da-hɔ̃	da-hɔ̃		
+#
+4457	Khispi	veranda	jaŋ-ʨʰɔŋ	jaŋ-ʨʰɔŋ		
+4458	Duhumbi	veranda	jaŋ-ʨʰɔŋ	jaŋ-ʨʰɔŋ		
+4459	Khoina	veranda	da-ʣɔ̃ː	da-ʣɔ̃ː		
+4460	Jerigaon	veranda	da-ʥɔ̃ːŋ	da-ʥɔ̃ːŋ		
+4461	Khoitam	veranda	ʥũːŋ	ʥũːŋ		
+4462	Rahung	veranda	la-pʰɔŋ	la-pʰɔŋ		
+4463	Rupa	veranda	ʥũː(ŋ)-baw	ʥũː-baw		
+4464	Shergaon	veranda	ʥɔ̃ː-kʰiŋ	ʥɔ̃ː-kʰiŋ		
+#
+4465	Khispi	village	tʰup	tʰup		
+4466	Duhumbi	village	tʰup ~ tʰuk	tʰup 	 tʰuk	Variants
+4467	Khoina	village	tʰyk	tʰyk		
+4468	Jerigaon	village	tʰyk	tʰyk		
+4469	Khoitam	village	tʰyk	tʰyk		
+4470	Rahung	village	tʰyk	tʰyk		
+4471	Rupa	village	tʰyk	tʰyk		
+4472	Shergaon	village	tʰuk	tʰuk		
+#
+4475	Khoina	vomit	jɔk	jɔk		
+4476	Jerigaon	vomit	jɔk	jɔk		
+4477	Khoitam	vomit	jɔk	jɔk		
+4478	Rahung	vomit	jɔk	jɔk		
+4479	Rupa	vomit	jɔk	jɔk		
+4480	Shergaon	vomit	jɔk	jɔk		
+#
+4481	Khispi	waist	buk-tʰuŋ	buk-tʰuŋ		
+4482	Duhumbi	waist	buk-tuŋ	buk-tuŋ		
+4483	Khoina	waist	bə-kʰɐk-tʰyn	bə-kʰɐk-tʰyn		
+4484	Jerigaon	waist	mə-kʰak-tyŋ	mə-kʰak-tyŋ		
+4487	Rupa	waist	mə-kʰak-tyŋ	mə-kʰak-tyŋ		
+4488	Shergaon	waist	mə-kʰak-tuŋ	mə-kʰak-tuŋ		
+#
+4490	Duhumbi	wait1	ʥak ~ ʥap	ʥak 	 ʥap	Variants
+4492	Jerigaon	wait1	ʥak	ʥak		
+4493	Khoitam	wait1	ʥak	ʥak		
+4494	Rahung	wait1	ʥak	ʥak		
+4495	Rupa	wait1	ʥak	ʥak		
+4496	Shergaon	wait1	ʥak	ʥak		
+#
+4497	Khispi	wait2	laŋ	laŋ		
+4498	Duhumbi	wait2	naŋ	naŋ		
+4499	Khoina	wait2	laŋ	laŋ		
+4501	Khoitam	wait2	laŋ	laŋ		
+4503	Rupa	wait2	laŋ	laŋ		
+#
+4505	Khispi	wake up	jɔw	jɔw		
+4506	Duhumbi	wake up	jɔw	jɔw		
+4507	Khoina	wake up	jɔ	jɔ		
+4508	Jerigaon	wake up	jɔ	jɔ		
+4509	Khoitam	wake up	jɔ	jɔ		
+4510	Rahung	wake up	jo	jo		
+4511	Rupa	wake up	jaw	jaw		
+4512	Shergaon	wake up	jaw	jaw		
+#
+4513	Khispi	walk, move, go	wa	wa		
+4514	Duhumbi	walk, move, go	wa	wa		
+4515	Khoina	walk, move, go	rɐˀ	rɐˀ		
+4516	Jerigaon	walk, move, go	rɐˀ	rɐˀ		
+4517	Khoitam	walk, move, go	rɔˀ	rɔˀ		
+4518	Rahung	walk, move, go	rɔˀ	rɔˀ		
+4519	Rupa	walk, move, go	rɔˀ	rɔˀ		
+4520	Shergaon	walk, move, go	rɔ	rɔ		
+#
+4522	Duhumbi	walking stick	kʰɛj-duŋ ~ kʰɛj-ʥɔŋ	kʰɛj-duŋ 	 kʰɛj-ʥɔŋ	Variants
+4525	Khoitam	walking stick	gə-ʥyŋ	gə-ʥyŋ		
+4526	Rahung	walking stick	gə-ʥyŋ	gə-ʥyŋ		
+4527	Rupa	walking stick	gə-ʥyŋ ~ zə-gyŋ	gə-ʥyŋ 	 zə-gyŋ	Variants
+4528	Shergaon	walking stick	gə-ʥuŋ	gə-ʥuŋ		
+#
+4529	Khispi	walnut	maŋ-kʰa	maŋ-kʰa		
+4530	Duhumbi	walnut	maŋ-kʰa	maŋ-kʰa		
+4531	Khoina	walnut	ma-kʰuː	ma-kʰuː		
+4532	Jerigaon	walnut	mə-kʰuː	mə-kʰuː		
+4533	Khoitam	walnut	mə-kʰuː	mə-kʰuː		
+4534	Rahung	walnut	mə-kʰuː	mə-kʰuː		
+4535	Rupa	walnut	mə-kʰuː	mə-kʰuː		
+4536	Shergaon	walnut	mə-kʰuː	mə-kʰuː		
+#
+4537	Khispi	warm, hot (adj.)	u-ʨʰik	u-ʨʰik		
+4538	Duhumbi	warm, hot (adj.)	u-ʨʰik	u-ʨʰik		
+4539	Khoina	warm, hot (adj.)	ʦʰik-dy ~ a-ʦʰik	ʦʰik-dy 	 a-ʦʰik	Variants
+4540	Jerigaon	warm, hot (adj.)	a-ʨʰik	a-ʨʰik		
+4541	Khoitam	warm, hot (adj.)	a-ʨʰik	a-ʨʰik		
+4542	Rahung	warm, hot (adj.)	a-ʨʰik	a-ʨʰik		
+4543	Rupa	warm, hot (adj.)	a-ʨʰik	a-ʨʰik		
+4544	Shergaon	warm, hot (adj.)	a-ʨʰik	a-ʨʰik		
+#
+4545	Khispi	warm, hot (vi)	ʨʰik	ʨʰik		
+4546	Duhumbi	warm, hot (vi)	ʨʰik	ʨʰik		
+4549	Khoitam	warm, hot (vi)	ʨʰik	ʨʰik		
+4550	Rahung	warm, hot (vi)	ʨʰik	ʨʰik		
+4551	Rupa	warm, hot (vi)	ʨʰik ~ ʦʰik	ʨʰik 	 ʦʰik	Variants
+#
+4553	Khispi	wash1	ʨʰɔl	ʨʰɔl		
+4554	Duhumbi	wash1	ʨʰɔɹ	ʨʰɔɹ		
+4555	Khoina	wash1	ʦʰøː	ʦʰøː		
+4556	Jerigaon	wash1	ʨʰøː(n)	ʨʰøː		
+4559	Rupa	wash1	ʨʰeː ~ ʨʰøː ~ ʦʰøː(n)	ʨʰeː 	 ʨʰøː  ʦʰøː	Variants
+4560	Shergaon	wash1	ʨʰeː	ʨʰeː		
+#
+4561	Khispi	wash2	ʨʰi	ʨʰi		
+4562	Duhumbi	wash2	ʨʰi	ʨʰi		
+4565	Khoitam	wash2	ʨʰĩː(ŋ)	ʨʰĩː		
+4566	Rahung	wash2	ʨʰyː	ʨʰyː		
+#
+4569	Khispi	water	kʰaw	kʰaw		
+4570	Duhumbi	water	kʰɔw	kʰɔw		
+4571	Khoina	water	kʰɔː	kʰɔː		
+4572	Jerigaon	water	kʰɔː	kʰɔː		
+4573	Khoitam	water	kʰoː	kʰoː		
+4574	Rahung	water	kʰoː	kʰoː		
+4575	Rupa	water	kʰoː	kʰoː		
+4576	Shergaon	water	kʰoː	kʰoː		
+#
+4577	Khispi	wealthy	ʨʰuk-pu	ʨʰuk-pu		
+4578	Duhumbi	wealthy	ɕik-pu	ɕik-pu		
+4581	Khoitam	wealthy	ʨʰyk-pu	ʨʰyk-pu		
+4582	Rahung	wealthy	ʨʰyk-pu	ʨʰyk-pu		
+4583	Rupa	wealthy	ʨʰik-pu	ʨʰik-pu		
+#
+4585	Khispi	wear	was	was		
+4586	Duhumbi	wear	was	was		
+4587	Khoina	wear	jɐ̃	jɐ̃		
+4588	Jerigaon	wear	jɐ̃	jɐ̃		
+4591	Rupa	wear	jɔ̃ˀ	jɔ̃ˀ		
+#
+4593	Khispi	weave	dak	dak		
+4595	Khoina	weave	rɐk	rɐk		
+4596	Jerigaon	weave	rak	rak		
+4597	Khoitam	weave	rak	rak		
+4598	Rahung	weave	rak	rak		
+4599	Rupa	weave	rak	rak		
+4600	Shergaon	weave	rak	rak		
+#
+4601	Khispi	weed, grass	ʥam	ʥam		
+4602	Duhumbi	weed, grass	ʥamu ~ ʥam	ʥamu 	 ʥam	Variants
+4603	Khoina	weed, grass	ʥɐŋ	ʥɐŋ		
+4604	Jerigaon	weed, grass	ʥaŋ	ʥaŋ		
+4605	Khoitam	weed, grass	ʥũŋ	ʥũŋ		
+4606	Rahung	weed, grass	ʥũŋ	ʥũŋ		
+4607	Rupa	weed, grass	ʥaŋ ~ ɟaŋ	ʥaŋ 	 ɟaŋ	Variants
+4608	Shergaon	weed, grass	ʥaŋ	ʥaŋ		
+#
+4609	Khispi	wet1	u-ɕiŋ	u-ɕiŋ		
+4610	Duhumbi	wet1	u-ɕiŋ	u-ɕiŋ		
+4613	Khoitam	wet1	a-siŋ	a-siŋ		
+4614	Rahung	wet1	a-siŋ	a-siŋ		
+4616	Shergaon	wet1	a-siŋ	a-siŋ		
+#
+4619	Khoina	wet2	kʰa-lɛˀ	kʰa-lɛˀ		
+4620	Jerigaon	wet2	kʰ-leˀ	kʰ-leˀ		
+4621	Khoitam	wet2	kʰ-leˀ	kʰ-leˀ		
+4622	Rahung	wet2	pʰ-lɛˀ	pʰ-lɛˀ		
+#
+4629	Khoitam	wheat	mu-kuː	mu-kuː		
+4630	Rahung	wheat	mə-kuː	mə-kuː		
+4631	Rupa	wheat	bə-kuː	bə-kuː		
+4632	Shergaon	wheat	bə-kuː	bə-kuː		
+#
+4633	Khispi	when	a-daŋ	a-daŋ		
+4634	Duhumbi	when	a-daŋ	a-daŋ		
+4635	Khoina	when	a-dɔ̃ː(ŋ)	a-dɔ̃ː		
+4636	Jerigaon	when	a-dɔ̃ː(ŋ)	a-dɔ̃ː		
+4637	Khoitam	when	a-dũː(ŋ)	a-dũː		
+4638	Rahung	when	a-dũː(ŋ)	a-dũː		
+4639	Rupa	when	a-dũː(ŋ)	a-dũː		
+4640	Shergaon	when	a-dɔ̃ː	a-dɔ̃ː		
+#
+4641	Khispi	where	a	a		
+4642	Duhumbi	where	ha	ha		
+4643	Khoina	where	a-lɔː	a-lɔː		
+4645	Khoitam	where	tʰa-a-lɔː	tʰa-a-lɔː		
+#
+4649	Khispi	white	jaŋ-kal	jaŋ-kal		
+4650	Duhumbi	white	jaŋ-kaɹ	jaŋ-kaɹ		
+4651	Khoina	white	a-zɐ̃ː	a-zɐ̃ː		
+4652	Jerigaon	white	a-zɐ̃ː	a-zɐ̃ː		
+4653	Khoitam	white	a-zɔ̃ː	a-zɔ̃ː		
+4654	Rahung	white	a-zɔ̃ː	a-zɔ̃ː		
+4655	Rupa	white	a-zɔ̃ː	a-zɔ̃ː		
+4656	Shergaon	white	a-zɔ̃ː	a-zɔ̃ː		
+#
+4657	Khispi	who	mi	mi		
+4658	Duhumbi	who	mi	mi		
+4659	Khoina	who	niː	niː		
+4660	Jerigaon	who	niː	niː		
+4661	Khoitam	who	miː	miː		
+4662	Rahung	who	miː	miː		
+4663	Rupa	who	ɲiː	ɲiː		
+4664	Shergaon	who	ɲiː	ɲiː		
+#
+4665	Khispi	wife	u-ja	u-ja		
+4666	Duhumbi	wife	u-ja	u-ja		
+4667	Khoina	wife	a-juː	a-juː		
+4668	Jerigaon	wife	a-juː	a-juː		
+4669	Khoitam	wife	a-juː	a-juː		
+4670	Rahung	wife	a-juː ~ a-ruː	a-juː 	 a-ruː	Variants
+4671	Rupa	wife	a-juː	a-juː		
+4672	Shergaon	wife	a-juː	a-juː		
+#
+4673	Khispi	wind	nam-suŋ~ nam-sum	nam-suŋ	 nam-sum	Variants
+4674	Duhumbi	wind	nam-suŋ ~ nam-sum	nam-suŋ 	 nam-sum	Variants
+4675	Khoina	wind	na-søn	na-søn		
+4676	Jerigaon	wind	nə-søn ~ ny-søn	nə-søn 	 ny-søn	Variants
+4677	Khoitam	wind	ny-sɔm ~ nə-sɔm	ny-sɔm 	 nə-sɔm	Variants
+4678	Rahung	wind	p-søm	p-søm		
+4679	Rupa	wind	nə-sɔm	nə-sɔm		
+4680	Shergaon	wind	nə-sɔm	nə-sɔm		
+#
+4681	Khispi	window	kal-ʨuŋ	kal-ʨuŋ		
+4682	Duhumbi	window	kɔː-ʨuŋ ~ ku-ʨuŋ	kɔː-ʨuŋ 	 ku-ʨuŋ	Variants
+4683	Khoina	window	kɔː-ʨyŋ	kɔː-ʨyŋ		
+4684	Jerigaon	window	kɔː-ʨyŋ	kɔː-ʨyŋ		
+4685	Khoitam	window	kɔː-ʨyŋ	kɔː-ʨyŋ		
+4686	Rahung	window	koː-ʨyŋ	koː-ʨyŋ		
+4687	Rupa	window	kaw-du	kaw-du		
+4688	Shergaon	window	koː-ʨuŋ	koː-ʨuŋ		
+#
+4689	Khispi	wing	ɲuj-pʰa	ɲuj-pʰa		
+4691	Khoina	wing	ny-pʰaŋ	ny-pʰaŋ		
+4692	Jerigaon	wing	ny-pʰaŋ	ny-pʰaŋ		
+4693	Khoitam	wing	nə-pʰaŋ	nə-pʰaŋ		
+4694	Rahung	wing	mə-pʰaŋ	mə-pʰaŋ		
+4695	Rupa	wing	nə-pʰaŋ ~ də-pʰaŋ ~ də-faŋ	nə-pʰaŋ 	 də-pʰaŋ  də-faŋ	Variants
+4696	Shergaon	wing	lə-pʰaŋ	lə-pʰaŋ		
+#
+4701	Khoitam	wipe	yː ~ yŋ	yː 	 yŋ	Variants
+4702	Rahung	wipe	yː	yː		
+4703	Rupa	wipe	yː	yː		
+4704	Shergaon	wipe	iː	iː		
+#
+4705	Khispi	woman	ʥu-mu ~ ʥə-mu	ʥu-mu 	 ʥə-mu	Variants
+4706	Duhumbi	woman	ʥu-mu	ʥu-mu		
+4707	Khoina	woman	ʥə-myː	ʥə-myː		
+4708	Jerigaon	woman	ʥə-myː	ʥə-myː		
+4709	Khoitam	woman	ʥə-myː	ʥə-myː		
+4710	Rahung	woman	ʥə-myː	ʥə-myː		
+4711	Rupa	woman	ʥə-myː	ʥə-myː		
+4712	Shergaon	woman	ʥə-miː	ʥə-miː		
+#
+4713	Khispi	wood	hiŋ	hiŋ		
+4714	Duhumbi	wood	ɕiŋ	ɕiŋ		
+4715	Khoina	wood	hiŋ	hiŋ		
+4716	Jerigaon	wood	hiŋ	hiŋ		
+4717	Khoitam	wood	hiŋ	hiŋ		
+4718	Rahung	wood	hiŋ	hiŋ		
+4719	Rupa	wood	hiŋ	hiŋ		
+4720	Shergaon	wood	hiŋ	hiŋ		
+#
+4721	Khispi	wool	ʥak	ʥak		
+4722	Duhumbi	wool	ʥak	ʥak		
+4723	Khoina	wool	ʥɐk	ʥɐk		
+4724	Jerigaon	wool	ʥak	ʥak		
+4725	Khoitam	wool	ʥak	ʥak		
+4726	Rahung	wool	ʥak	ʥak		
+4727	Rupa	wool	ɟak ~ ʥak	ɟak 	 ʥak	Variants
+4728	Shergaon	wool	ʥak	ʥak		
+#
+4729	Khispi	word	ŋak-ʦʰik	ŋak-ʦʰik		
+4730	Duhumbi	word	ʦʰik	ʦʰik		
+4731	Khoina	word	nɔ-ʦʰik	nɔ-ʦʰik		
+4733	Khoitam	word	nɔ-ʨʰik	nɔ-ʨʰik		
+4734	Rahung	word	nuk-ʨʰik	nuk-ʨʰik		
+4735	Rupa	word	ɲuk-ʦʰik	ɲuk-ʦʰik		
+#
+4738	Duhumbi	work	pat	pat		
+4739	Khoina	work	blɛ̰t	blɛ̰t		
+4743	Rupa	work	blat	blat		
+4744	Shergaon	work	blat	blat		
+#
+4745	Khispi	wring, squeeze	ʨil	ʨil		
+4746	Duhumbi	wring, squeeze	ʨir	ʨir		
+4748	Jerigaon	wring, squeeze	ʨĩˀ	ʨĩˀ		
+4749	Khoitam	wring, squeeze	ʨĩˀ	ʨĩˀ		
+4750	Rahung	wring, squeeze	ʨĩˀ	ʨĩˀ		
+#
+4753	Khispi	year	tɔm	tɔm		
+4754	Duhumbi	year	tɔm	tɔm		
+4755	Khoina	year	tuŋ	tuŋ		
+4756	Jerigaon	year	tuŋ	tuŋ		
+4757	Khoitam	year	tuŋ	tuŋ		
+4758	Rahung	year	tuŋ	tuŋ		
+4759	Rupa	year	tuŋ	tuŋ		
+4760	Shergaon	year	tuŋ	tuŋ		
+#
+4761	Khispi	year, next	nam-saŋ-ba	nam-saŋ-ba		
+4762	Duhumbi	year, next	nam-saŋ-pa	nam-saŋ-pa		
+4765	Khoitam	year, next	mə-saŋ-bu	mə-saŋ-bu		
+4766	Rahung	year, next	p-saŋ-bu	p-saŋ-bu		
+#
+4769	Khispi	year, this	tʰal-pu	tʰal-pu		
+4770	Duhumbi	year, this	tʰaɹ-pu	tʰaɹ-pu		
+4771	Khoina	year, this	tʰam-bu tuŋ	tʰam-bu tuŋ		
+4773	Khoitam	year, this	tʰam-bu tuŋ	tʰam-bu tuŋ		
+4774	Rahung	year, this	tʰam-bu tuŋ	tʰam-bu tuŋ		
+4775	Rupa	year, this	tʰam-bu tuŋ	tʰam-bu tuŋ		
+#
+4779	Khoina	yellow	a-xaː	a-xaː		
+4780	Jerigaon	yellow	ɛ-hɛːʰ	ɛ-hɛːʰ		
+4781	Khoitam	yellow	ɛ-hɛːʰ	ɛ-hɛːʰ		
+4782	Rahung	yellow	ɛ-hɛːʰ	ɛ-hɛːʰ		
+4783	Rupa	yellow	a-haʰ	a-haʰ		
+4784	Shergaon	yellow	a-haː	a-haː		
+#
+4785	Khispi	yesterday	di-ju	di-ju		
+4786	Duhumbi	yesterday	dɛj-ju	dɛj-ju		
+4787	Khoina	yesterday	dy-jɔː	dy-jɔː		
+4788	Jerigaon	yesterday	dy-jɔː	dy-jɔː		
+4789	Khoitam	yesterday	ʥy-jɔː	ʥy-jɔː		
+4790	Rahung	yesterday	ʥoː-hɔː ~ ʥoː	ʥoː-hɔː 	 ʥoː	Variants
+4791	Rupa	yesterday	dy-jaw	dy-jaw		
