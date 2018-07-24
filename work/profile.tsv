@@ -1,252 +1,249 @@
 Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
 ^	NULL				
 $	NULL				
--	<?>	a-duŋ-du, a-ruŋ-du	Khoina, Rahung, Rupa, Khoitam, Jerigaon, Shergaon, Duhumbi, Khispi	2238	U+002d
-a	a	ʨʰak, ʥak	Khispi, Duhumbi, Rupa, Shergaon, Rahung, Khoina, Khoitam, Jerigaon	958	U+0061
-ŋ$	ŋ	naŋ, laŋ	Rahung, Khoitam, Rupa, Duhumbi, Jerigaon, Khoina, Shergaon, Khispi	619	U+014b U+0024
++	+	a+duŋ+du, a+ruŋ+du	Khoina, Rupa, Rahung, Khoitam, Jerigaon, Shergaon, Duhumbi, Khispi	1902	U+002b
+a	a	ʨʰak, lak	Duhumbi, Khispi, Rupa, Shergaon, Khoitam, Rahung, Khoina, Jerigaon	973	U+0061
+ŋ$	ŋ	hiŋ, naŋ	Rahung, Khoitam, Rupa, Duhumbi, Jerigaon, Khoina, Shergaon, Khispi	618	U+014b U+0024
 k$	k	ʨʰak, lak	Rupa, Rahung, Khoitam, Khoina, Jerigaon, Shergaon, Duhumbi, Khispi	497	U+006b U+0024
-^a	a	a-liː, a-ʨʰɔ̃ː	Khoina, Khoitam, Rupa, Rahung, Jerigaon, Shergaon, Duhumbi, Khispi	461	U+005e U+0061
-u	u	tʰam-bu tuŋ, a-juŋ	Khispi, Duhumbi, Shergaon, Rahung, Khoitam, Rupa, Khoina, Jerigaon	453	U+0075
-ə	ə	nə-pʰuŋ, nə-myː	Rupa, Khoitam, Shergaon, Khoina, Rahung, Jerigaon	381	U+0259
-i	i	pʰiŋ, hiŋ	Khispi, Duhumbi, Shergaon, Rupa, Khoitam, Rahung, Khoina, Jerigaon	372	U+0069
-ɔ	ɔ	jɔk, ʨʰɔk	Duhumbi, Khispi, Rahung, Khoitam, Rupa, Shergaon, Khoina, Jerigaon	329	U+0254
-ɛ	ɛ	rɛk, kʰɛŋ	Duhumbi, Rahung, Jerigaon, Khispi, Khoitam, Khoina, Rupa, Shergaon	257	U+025b
-^s	s	suː, s-teˀ	Jerigaon, Rahung, Rupa, Shergaon, Khoitam, Khoina, Duhumbi, Khispi	250	U+005e U+0073
-^n	n	nu, naŋ	Khoina, Khoitam, Rahung, Jerigaon, Rupa, Shergaon, Duhumbi, Khispi	241	U+005e U+006e
-^kʰ	kʰ	kʰuː, kʰa	Duhumbi, Khispi, Rupa, Shergaon, Rahung, Khoitam, Jerigaon, Khoina	236	U+005e U+006b U+02b0
-a$	a	ba-, kʰa	Khispi, Duhumbi, Khoina, Rupa, Jerigaon, Shergaon, Rahung, Khoitam	231	U+0061 U+0024
-u$	u	nu, a-duŋ-du	Duhumbi, Khispi, Rupa, Khoitam, Jerigaon, Shergaon, Khoina, Rahung	231	U+0075 U+0024
-m	m	a-muː, nam-bluː	Duhumbi, Khispi, Rahung, Rupa, Shergaon, Khoitam, Khoina, Jerigaon	223	U+006d
-l	l	a-liː, nam-bluː	Rupa, Shergaon, Khoitam, Jerigaon, Khoina, Khispi, Duhumbi, Rahung	215	U+006c
-^m	m	mɔ̃ː, man	Rahung, Khoitam, Rupa, Duhumbi, Jerigaon, Khoina, Shergaon, Khispi	206	U+005e U+006d
+^a	a	a+liː, a+nyː	Khoina, Khoitam, Rupa, Rahung, Jerigaon, Shergaon, Duhumbi, Khispi	461	U+005e U+0061
+u	u	a+juŋ, tʰam+bu_tuŋ	Khispi, Duhumbi, Shergaon, Khoitam, Rahung, Rupa, Khoina, Jerigaon	455	U+0075
+ə	ə	nə+pʰuŋ, nə+myː	Rupa, Khoitam, Shergaon, Khoina, Rahung, Jerigaon	392	U+0259
+i	i	hiŋ, pʰiŋ	Khispi, Duhumbi, Shergaon, Rupa, Khoitam, Rahung, Khoina, Jerigaon	380	U+0069
+ɔ	ɔ	jɔk, tʰɔk	Duhumbi, Khispi, Khoitam, Rahung, Rupa, Shergaon, Khoina, Jerigaon	331	U+0254
+ɛ	ɛ	rɛk, kʰɛŋ	Duhumbi, Rahung, Jerigaon, Khispi, Khoitam, Khoina, Shergaon, Rupa	257	U+025b
+^s	s	suː, s+teˀ	Jerigaon, Rupa, Rahung, Shergaon, Khoitam, Khoina, Duhumbi, Khispi	249	U+005e U+0073
+^n	n	nu, naŋ	Khoina, Khoitam, Jerigaon, Rahung, Rupa, Shergaon, Duhumbi, Khispi	239	U+005e U+006e
+m	m	a+muː, nam+bluː	Duhumbi, Khispi, Rahung, Rupa, Shergaon, Khoitam, Khoina, Jerigaon	231	U+006d
+u$	u	nu, a+ruŋ+du	Duhumbi, Khispi, Rupa, Khoitam, Jerigaon, Shergaon, Khoina, Rahung	229	U+0075 U+0024
+^kʰ	kʰ	kʰuː, kʰɛŋ	Duhumbi, Khispi, Rupa, Shergaon, Rahung, Khoitam, Jerigaon, Khoina	224	U+005e U+006b U+02b0
+l	l	a+liː, nam+bluː	Rupa, Shergaon, Khoitam, Jerigaon, Khoina, Khispi, Duhumbi, Rahung	222	U+006c
+a$	a	kʰa, la	Khispi, Duhumbi, Khoina, Shergaon, Jerigaon, Rupa, Rahung, Khoitam	221	U+0061 U+0024
+^h	h	hiŋ, huː	Duhumbi, Khispi, Rahung, Khoitam, Jerigaon, Rupa, Shergaon, Khoina	203	U+005e U+0068
 uː$	uː	kʰuː, luː	Rahung, Khoitam, Rupa, Jerigaon, Shergaon, Khoina, Duhumbi	203	U+0075 U+02d0 U+0024
-^ʨʰ	ʨʰ	ʨʰak, ʨʰeˀ	Rahung, Khoitam, Jerigaon, Duhumbi, Khispi, Rupa, Shergaon, Khoina	203	U+005e U+02a8 U+02b0
-^h	h	hiŋ, huː	Duhumbi, Rahung, Khispi, Jerigaon, Khoitam, Rupa, Shergaon, Khoina	203	U+005e U+0068
-^l	l	lak, luː	Khispi, Rupa, Duhumbi, Khoitam, Rahung, Khoina, Shergaon, Jerigaon	197	U+005e U+006c
-n$	n	man, dɛn	Khispi, Khoina, Duhumbi, Jerigaon, Rupa, Khoitam, Shergaon, Rahung	196	U+006e U+0024
-^b	b	ba-, bɛˀ	Duhumbi, Khispi, Rupa, Khoina, Shergaon, Khoitam, Rahung, Jerigaon	190	U+005e U+0062
+^ʨʰ	tɕʰ	ʨʰak, ʨʰeˀ	Rahung, Khoitam, Jerigaon, Duhumbi, Khispi, Rupa, Shergaon, Khoina	203	U+005e U+02a8 U+02b0
+^m	m	mɔ̃ː, man	Khoitam, Rahung, Rupa, Duhumbi, Jerigaon, Khoina, Shergaon, Khispi	200	U+005e U+006d
+n$	n	man, dɛn	Khispi, Khoina, Duhumbi, Jerigaon, Rupa, Shergaon, Khoitam, Rahung	194	U+006e U+0024
+^l	l	lak, luː	Khispi, Rupa, Duhumbi, Khoitam, Rahung, Khoina, Shergaon, Jerigaon	190	U+005e U+006c
+^b	b	ba+, bɛˀ	Duhumbi, Khispi, Rupa, Khoina, Shergaon, Khoitam, Rahung, Jerigaon	184	U+005e U+0062
+yː$	yː	zyː, a+nyː	Rahung, Khoitam, Khoina, Rupa, Jerigaon, Shergaon	181	U+0079 U+02d0 U+0024
 y	y	nyŋ, zyk	Khoina, Khoitam, Rupa, Jerigaon, Rahung, Shergaon, Duhumbi	180	U+0079
-yː$	yː	zyː, a-nyː	Rahung, Khoitam, Khoina, Rupa, Jerigaon, Shergaon	180	U+0079 U+02d0 U+0024
-r	r	a-ruŋ-du, a-ruk	Rahung, Khoitam, Jerigaon, Rupa, Shergaon, Khoina, Duhumbi, Khispi	174	U+0072
-ŋ	ŋ	a-duŋ-du, a-ruŋ-du	Duhumbi, Rupa, Rahung, Khispi, Jerigaon, Khoitam, Khoina, Shergaon	173	U+014b
-i$	i	li, ʨʰi	Khispi, Duhumbi, Khoina, Jerigaon, Rupa, Shergaon, Rahung, Khoitam	172	U+0069 U+0024
-k	k	ik kə-li, taŋ-kuŋ	Duhumbi, Shergaon, Rahung, Khoitam, Rupa, Jerigaon, Khispi, Khoina	162	U+006b
-^pʰ	pʰ	pʰiŋ, pʰak	Rahung, Khoitam, Jerigaon, Khispi, Rupa, Duhumbi, Khoina, Shergaon	158	U+005e U+0070 U+02b0
-^tʰ	tʰ	tʰɔk, tʰak	Rahung, Khoina, Jerigaon, Rupa, Khoitam, Duhumbi, Shergaon, Khispi	149	U+005e U+0074 U+02b0
-ʨʰ	ʨʰ	a-ʨʰɔ̃ː, a-ʨʰik	Rahung, Khoitam, Jerigaon, Shergaon, Duhumbi, Khispi, Rupa, Khoina	147	U+02a8 U+02b0
-^d	d	dyŋ, dɔk	Khoina, Rupa, Khispi, Duhumbi, Jerigaon, Shergaon, Rahung, Khoitam	147	U+005e U+0064
-b	b	nam-bluː, nam-byː	Rupa, Rahung, Khispi, Duhumbi, Khoitam, Jerigaon, Khoina, Shergaon	145	U+0062
-kʰ	kʰ	ba-kʰyː, mə-kʰak	Khoina, Rupa, Shergaon, Duhumbi, Rahung, Khispi, Jerigaon, Khoitam	145	U+006b U+02b0
-^ʥ	ʥ	ʥak, ʥaŋ	Khoitam, Rahung, Shergaon, Jerigaon, Duhumbi, Rupa, Khoina, Khispi	141	U+005e U+02a5
-j	j	a-juŋ, a-juː	Duhumbi, Khoina, Khispi, Rupa, Jerigaon, Khoitam, Shergaon, Rahung	134	U+006a
-t	t	s-tu, s-teˀ	Khispi, Duhumbi, Rupa, Shergaon, Rahung, Khoina, Jerigaon, Khoitam	121	U+0074
-^j	j	jɔk, jɔ	Rahung, Duhumbi, Rupa, Khoina, Khoitam, Khispi, Jerigaon, Shergaon	120	U+005e U+006a
-n	n	a-nyː, a-nuː	Rahung, Khoitam, Jerigaon, Khoina, Shergaon, Rupa, Duhumbi, Khispi	118	U+006e
-m$	m	ham, u-ʨʰam	Duhumbi, Rahung, Khispi, Khoitam, Rupa, Shergaon, Khoina	115	U+006d U+0024
-iː$	iː	a-liː, ʨʰiː	Shergaon, Khoina, Khoitam, Rahung, Jerigaon, Rupa	115	U+0069 U+02d0 U+0024
-tʰ	tʰ	a-tʰuŋ-du, a-tʰɛʔ	Khoitam, Khoina, Jerigaon, Rahung, Khispi, Duhumbi, Rupa, Shergaon	114	U+0074 U+02b0
-d	d	a-duŋ-du, a-dɔk	Khoina, Rupa, Rahung, Jerigaon, Khoitam, Khispi, Duhumbi, Shergaon	112	U+0064
-pʰ	pʰ	nə-pʰuŋ, a-pʰuː	Rahung, Khoina, Rupa, Khoitam, Jerigaon, Shergaon, Khispi, Duhumbi	108	U+0070 U+02b0
-ɔ̃ː$	ɔ̃ː	a-ʨʰɔ̃ː, mɔ̃ː	Shergaon, Khoina, Jerigaon, Khoitam, Rahung, Rupa	104	U+0254 U+0303 U+02d0 U+0024
-s	s	mə-suŋ, a-suː	Khoitam, Rahung, Rupa, Jerigaon, Shergaon, Duhumbi, Khispi, Khoina	97	U+0073
-_	_	tʰam-bu tuŋ, ik kə-li	Rupa, Khoina, Rahung, Khoitam, Jerigaon, Shergaon, Duhumbi, Khispi	95	U+005f
-^z	z	zyː, ziː	Rupa, Rahung, Shergaon, Khoitam, Jerigaon, Khoina, Duhumbi, Khispi	94	U+005e U+007a
-^r	r	rɛk, ryː	Khoina, Rahung, Rupa, Khoitam, Jerigaon, Shergaon, Duhumbi	89	U+005e U+0072
-p	p	sa-pɔ, dɛp-kʰɔ	Duhumbi, Shergaon, Khispi, Rahung, Rupa, Khoitam, Khoina, Jerigaon	88	U+0070
-ɔ$	ɔ	jɔ, -lɔ	Khoitam, Rupa, Shergaon, Rahung, Khoina, Jerigaon, Khispi, Duhumbi	84	U+0254 U+0024
-aː$	aː	kʰaː, taː	Khoina, Shergaon, Rupa, Jerigaon, Khoitam	82	U+0061 U+02d0 U+0024
-^ɕ	ɕ	ɕa, ɕis	Khispi, Duhumbi, Khoina, Shergaon, Rupa	81	U+005e U+0255
-ɔː$	ɔː	sɔː, kʰɔː	Khoina, Khoitam, Jerigaon, Shergaon, Rahung, Rupa, Duhumbi, Khispi	74	U+0254 U+02d0 U+0024
-ʥ	ʥ	a-ʥɔk, a-ʥap	Jerigaon, Rahung, Khoina, Khoitam, Duhumbi, Shergaon, Rupa, Khispi	69	U+02a5
-h	h	ə-hɛk, ʥə-huː	Rahung, Jerigaon, Rupa, Khoitam, Shergaon, Khoina, Khispi, Duhumbi	66	U+0068
-ʨ	ʨ	a-ʨuː, ba-ʨi	Jerigaon, Khoitam, Rahung, Shergaon, Khoina, Duhumbi, Rupa, Khispi	66	U+02a8
-t$	t	pʰɛt, jɛt	Duhumbi, Shergaon, Khispi, Rupa, Khoina, Rahung, Khoitam	65	U+0074 U+0024
-^g	g	guː, gə-zaŋ	Khoina, Rupa, Shergaon, Rahung, Khoitam, Duhumbi, Jerigaon, Khispi	63	U+005e U+0067
-^t	t	tuŋ, taː	Duhumbi, Khoitam, Khispi, Jerigaon, Rahung, Khoina, Shergaon, Rupa	62	U+005e U+0074
-z	z	a-zɔ̃ː, gə-zaŋ	Khoitam, Rupa, Jerigaon, Rahung, Shergaon, Khoina, Khispi, Duhumbi	60	U+007a
-p$	p	ʨup, kʰip	Duhumbi, Khispi, Rupa, Khoitam, Shergaon, Rahung, Khoina	60	U+0070 U+0024
+ŋ	ŋ	a+ruŋ+du, a+duŋ+du	Rupa, Duhumbi, Khispi, Rahung, Khoitam, Jerigaon, Khoina, Shergaon	178	U+014b
+r	r	a+ruŋ+du, a+ruk	Rahung, Khoitam, Jerigaon, Rupa, Shergaon, Khoina, Duhumbi, Khispi	175	U+0072
+i$	i	li, ʥi	Khispi, Duhumbi, Khoina, Jerigaon, Shergaon, Rupa, Rahung, Khoitam	164	U+0069 U+0024
+k	k	ik_kə+li, taŋ+kuŋ	Duhumbi, Shergaon, Khoitam, Rahung, Rupa, Khispi, Jerigaon, Khoina	163	U+006b
+^pʰ	pʰ	pʰiŋ, pʰak	Rahung, Khoitam, Jerigaon, Khispi, Rupa, Duhumbi, Shergaon, Khoina	158	U+005e U+0070 U+02b0
+kʰ	kʰ	ba+kʰyː, mə+kʰuː	Khoina, Shergaon, Rupa, Duhumbi, Khispi, Rahung, Jerigaon, Khoitam	157	U+006b U+02b0
+b	b	nam+bluː, nam+byː	Khispi, Rahung, Rupa, Duhumbi, Khoitam, Jerigaon, Shergaon, Khoina	151	U+0062
+ʨʰ	tɕʰ	a+ʨʰɔ̃ː, a+ʨʰũː	Rahung, Khoitam, Jerigaon, Shergaon, Duhumbi, Khispi, Rupa, Khoina	147	U+02a8 U+02b0
+^d	d	dyk, də+myː	Khoina, Rupa, Khispi, Duhumbi, Shergaon, Jerigaon, Khoitam, Rahung	144	U+005e U+0064
+j	j	a+juŋ, a+juː	Duhumbi, Khoina, Khispi, Rupa, Khoitam, Jerigaon, Shergaon, Rahung	139	U+006a
+^ʥ	dʑ	ʥak, ʥaŋ	Khoitam, Rahung, Shergaon, Jerigaon, Duhumbi, Rupa, Khoina, Khispi	135	U+005e U+02a5
+^tʰ	tʰ	tʰak, tʰɔk	Jerigaon, Rahung, Khoina, Khoitam, Rupa, Shergaon, Duhumbi, Khispi	135	U+005e U+0074 U+02b0
+tʰ	tʰ	+tʰɔŋ, a+tʰuŋ+du	Khoitam, Khoina, Jerigaon, Rahung, Khispi, Duhumbi, Rupa, Shergaon	128	U+0074 U+02b0
+t	t	s+teˀ, s+tu	Khispi, Duhumbi, Rupa, Shergaon, Rahung, Jerigaon, Khoina, Khoitam	128	U+0074
+n	n	a+nyː, a+nuː	Rahung, Khoitam, Jerigaon, Shergaon, Khoina, Duhumbi, Khispi, Rupa	124	U+006e
+^j	j	jɔk, jɔ	Rahung, Duhumbi, Khoina, Khoitam, Rupa, Khispi, Jerigaon, Shergaon	119	U+005e U+006a
+iː$	iː	a+liː, ʨʰiː	Shergaon, Khoina, Khoitam, Jerigaon, Rahung, Rupa	116	U+0069 U+02d0 U+0024
+m$	m	ham, u+ʨʰam	Duhumbi, Rahung, Khispi, Khoitam, Rupa, Shergaon, Khoina	115	U+006d U+0024
+d	d	a+duŋ+du, a+dɔk	Khoina, Rupa, Rahung, Khispi, Jerigaon, Duhumbi, Khoitam, Shergaon	115	U+0064
+pʰ	pʰ	nə+pʰuŋ, a+pʰuː	Rahung, Khoina, Khoitam, Rupa, Jerigaon, Shergaon, Khispi, Duhumbi	108	U+0070 U+02b0
+ɔ̃ː$	ɔ̃ː	a+ʨʰɔ̃ː, mɔ̃ː	Shergaon, Khoina, Khoitam, Jerigaon, Rahung, Rupa	104	U+0254 U+0303 U+02d0 U+0024
+_	_	tʰam+bu_tuŋ, jɛˀ_ḭː	Rupa, Khoina, Khoitam, Rahung, Jerigaon, Shergaon, Duhumbi, Khispi	95	U+005f
+p	p	sak+pyː, mɔn+pa	Duhumbi, Shergaon, Khispi, Rahung, Rupa, Khoitam, Khoina, Jerigaon	89	U+0070
+^z	z	zyː, ziː	Rupa, Rahung, Shergaon, Khoitam, Jerigaon, Khoina, Duhumbi, Khispi	89	U+005e U+007a
+^r	r	rɛk, ryː	Khoina, Rupa, Khoitam, Rahung, Jerigaon, Shergaon, Duhumbi	88	U+005e U+0072
+ɔ$	ɔ	jɔ, +lɔ	Khoitam, Rupa, Rahung, Shergaon, Khoina, Jerigaon, Khispi, Duhumbi	85	U+0254 U+0024
+aː$	aː	kʰaː, taː	Khoina, Shergaon, Rupa, Jerigaon, Khoitam	83	U+0061 U+02d0 U+0024
+^+	+	+lɔ, +ʥi	Duhumbi, Khispi, Rahung, Rupa, Khoina, Khoitam, Shergaon, Jerigaon	81	U+005e U+002b
+^ɕ	ɕ	ɕa, ɕis	Khispi, Duhumbi, Khoina, Shergaon, Rupa	79	U+005e U+0255
++s	+s	mə+suŋ, a+siŋ	Khoitam, Rahung, Rupa, Shergaon, Jerigaon, Khoina, Duhumbi, Khispi	79	U+002b U+0073
+ʥ	dʑ	+ʥi, a+ʥɔk	Jerigaon, Rahung, Khoina, Khoitam, Shergaon, Duhumbi, Rupa, Khispi	75	U+02a5
+ɔː$	ɔː	kʰɔː, rɔː	Khoina, Khoitam, Jerigaon, Shergaon, Rahung, Rupa, Duhumbi, Khispi	74	U+0254 U+02d0 U+0024
+ʨ	tɕ	a+ʨuː, ik+ʨiŋ	Jerigaon, Khoitam, Rahung, Shergaon, Khoina, Duhumbi, Khispi, Rupa	66	U+02a8
+t$	t	pʰɛt, hut	Duhumbi, Shergaon, Khispi, Rupa, Khoina, Rahung, Khoitam	65	U+0074 U+0024
+z	z	a+zɔ̃ː, gə+zaŋ	Khoitam, Rupa, Jerigaon, Rahung, Shergaon, Khoina, Khispi, Duhumbi	65	U+007a
+^g	g	guː, giː	Khoina, Rupa, Shergaon, Khoitam, Rahung, Duhumbi, Khispi, Jerigaon	62	U+005e U+0067
++h	+h	ə+hɛk, ʥə+huː	Rahung, Jerigaon, Khoitam, Rupa, Shergaon, Khoina, Khispi, Duhumbi	61	U+002b U+0068
+p$	p	kʰip, ʨup	Duhumbi, Khispi, Khoitam, Rupa, Shergaon, Rahung, Khoina	60	U+0070 U+0024
 w$	w	jaw, haw	Rupa, Shergaon, Duhumbi, Khispi, Rahung	59	U+0077 U+0024
 j$	j	haj, aj	Duhumbi, Khispi, Khoina, Rupa	58	U+006a U+0024
-^u	u	uk, uŋ	Duhumbi, Khispi, Rahung, Shergaon, Rupa, Khoitam, Jerigaon, Khoina	57	U+005e U+0075
-ɛː$	ɛː	tɛː, b-rɛː	Rahung, Jerigaon, Khoitam, Khoina, Rupa, Shergaon, Khispi	53	U+025b U+02d0 U+0024
-^ɔ	ɔ	ɔŋ, ɔ-hɔ̃ː	Khispi, Duhumbi, Khoitam, Shergaon, Khoina, Rahung, Rupa, Jerigaon	52	U+005e U+0254
-^ʨ	ʨ	ʨĩˀ, ʨɛk	Rahung, Khoitam, Shergaon, Jerigaon, Duhumbi, Khispi, Rupa	50	U+005e U+02a8
-eˀ$	eˀ	ʨʰeˀ, s-teˀ	Rupa, Khoitam, Rahung, Jerigaon, Duhumbi, Khoina, Shergaon	48	U+0065 U+02c0 U+0024
-oː$	oː	a-joː, kʰoː	Rahung, Rupa, Shergaon, Khoitam	46	U+006f U+02d0 U+0024
-ũː$	ũː	pʰũː, a-ʨʰũː	Khoitam, Rupa, Rahung, Khoina	45	U+0169 U+02d0 U+0024
-^ɲ	ɲ	ɲiŋ, ɲiː	Rupa, Shergaon, Duhumbi, Khispi, Khoina	44	U+005e U+0272
-ĩː$	ĩː	ʨʰĩː, hĩː	Khoitam, Rahung, Khoina, Jerigaon, Rupa, Shergaon	42	U+0129 U+02d0 U+0024
-^k	k	kak, ka	Duhumbi, Khoitam, Khoina, Rahung, Shergaon, Rupa, Jerigaon, Khispi	41	U+005e U+006b
-w	w	su-wak, a-wuŋ	Khoitam, Khoina, Duhumbi, Rahung, Rupa, Khispi, Jerigaon, Shergaon	40	U+0077
-^w	w	wan, wa	Duhumbi, Khispi, Khoina, Rupa, Jerigaon, Khoitam, Rahung, Shergaon	40	U+005e U+0077
-ʦ	ʦ	u-ʦaŋ, gun-ʦun	Rupa, Khoina, Duhumbi, Khispi, Khoitam	37	U+02a6
-^i	i	ik, ik-ʨiŋ	Jerigaon, Rahung, Rupa, Khoitam, Shergaon, Khoina, Duhumbi, Khispi	37	U+005e U+0069
-ɛˀ$	ɛˀ	bɛˀ, mɛˀ	Rahung, Jerigaon, Khoina, Khoitam, Duhumbi	36	U+025b U+02c0 U+0024
-^ʦʰ	ʦʰ	ʦʰu, ʦʰik	Khoina, Rupa, Duhumbi, Khispi, Khoitam	35	U+005e U+02a6 U+02b0
-g	g	steː gɔ̃ː, saŋ-gə-du	Rupa, Khoina, Duhumbi, Jerigaon, Khispi, Rahung, Khoitam, Shergaon	35	U+0067
-ʦʰ	ʦʰ	a-ʦʰɔ̃ː, nə-ʦʰaː	Khoina, Rupa, Shergaon, Duhumbi, Khispi	34	U+02a6 U+02b0
-ɕ	ɕ	u-ɕu, p-ɕi	Khispi, Duhumbi, Shergaon	30	U+0255
-e	e	le-ham, le-pʰa	Khispi, Jerigaon, Duhumbi, Rahung, Shergaon	29	U+0065
+^u	u	uk, uŋ	Duhumbi, Khispi, Rahung, Shergaon, Khoitam, Rupa, Jerigaon, Khoina	57	U+005e U+0075
+^t	t	tuŋ, taː	Duhumbi, Khispi, Khoitam, Jerigaon, Khoina, Rahung, Shergaon, Rupa	55	U+005e U+0074
+ɛː$	ɛː	tɛː, sə+rɛː	Rahung, Khoitam, Jerigaon, Khoina, Rupa, Shergaon, Khispi	53	U+025b U+02d0 U+0024
+^ɔ	ɔ	ɔŋ, ɔ+hɔ̃ː	Khispi, Duhumbi, Shergaon, Khoitam, Khoina, Rahung, Rupa, Jerigaon	52	U+005e U+0254
+^ʨ	tɕ	ʨĩˀ, ʨɛk	Rahung, Khoitam, Shergaon, Jerigaon, Duhumbi, Khispi, Rupa	50	U+005e U+02a8
+eˀ$	eˀ	ʨʰeˀ, s+teˀ	Rupa, Khoitam, Rahung, Jerigaon, Duhumbi, Shergaon, Khoina	48	U+0065 U+02c0 U+0024
+oː$	oː	a+joː, loː	Rahung, Rupa, Shergaon, Khoitam	46	U+006f U+02d0 U+0024
+ũː$	ũː	pʰũː, a+ʨʰũː	Khoitam, Rupa, Rahung, Khoina	45	U+0169 U+02d0 U+0024
+ĩː$	ĩː	ʨʰĩː, hĩː	Khoitam, Rahung, Khoina, Jerigaon, Rupa, Shergaon	42	U+0129 U+02d0 U+0024
+^k	k	kak, ka	Duhumbi, Khoitam, Shergaon, Khoina, Rahung, Khispi, Jerigaon, Rupa	41	U+005e U+006b
+^ɲ	ɲ	ɲiŋ, ɲaw	Rupa, Shergaon, Khispi, Duhumbi	41	U+005e U+0272
+^w	w	waː, wɛn	Duhumbi, Khispi, Khoina, Jerigaon, Rupa, Khoitam, Shergaon, Rahung	40	U+005e U+0077
+^i	i	ik, ik+ʨiŋ	Jerigaon, Shergaon, Khoitam, Rahung, Rupa, Khoina, Duhumbi, Khispi	37	U+005e U+0069
+ʦ	ts	ik+ʦiŋ, u+ʦaŋ	Rupa, Khoina, Duhumbi, Khispi, Khoitam	37	U+02a6
++$	+	ba+, ʥi+	Duhumbi, Khispi, Rupa, Shergaon, Khoitam, Jerigaon, Rahung, Khoina	36	U+002b U+0024
+ɛˀ$	ɛˀ	bɛˀ, mɛˀ	Jerigaon, Rahung, Khoina, Khoitam, Duhumbi	36	U+025b U+02c0 U+0024
+g	g	saŋ+gə+du, sar+gɛʔ	Rupa, Duhumbi, Khoina, Khispi, Jerigaon, Shergaon, Khoitam, Rahung	36	U+0067
+^ʦʰ	tsʰ	ʦʰu, ʦʰik	Khoina, Rupa, Duhumbi, Khispi, Khoitam	35	U+005e U+02a6 U+02b0
+ʦʰ	tsʰ	a+ʦʰɔ̃ː, a+ʦʰyː	Khoina, Rupa, Shergaon, Duhumbi, Khispi, Khoitam	35	U+02a6 U+02b0
++w	+w	su+wak, a+wuŋ	Khoitam, Khoina, Rahung, Jerigaon, Rupa, Duhumbi, Shergaon, Khispi	32	U+002b U+0077
+e	e	le+pʰa, le+ham	Khispi, Duhumbi, Jerigaon, Shergaon, Rahung	30	U+0065
 eː$	eː	ʨʰeː, ʥeː	Shergaon, Rupa, Khoitam, Rahung, Jerigaon, Khoina, Duhumbi, Khispi	29	U+0065 U+02d0 U+0024
-s$	s	ɕis, hin-tus	Duhumbi, Khispi	27	U+0073 U+0024
-ɐ	ɐ	lɐk, ʦʰɐk	Khoina, Rupa, Jerigaon	27	U+0250
-^p	p	p-ɕi, p-siː	Rahung, Duhumbi, Khispi, Khoitam, Shergaon, Khoina, Rupa, Jerigaon	24	U+005e U+0070
-^ʂ	ʂ	ʂuː, ʂan-dʐɔk	Khoina	24	U+005e U+0282
-^ʦ	ʦ	ʦik, ʦɔk	Khoina, Rupa, Duhumbi, Khispi, Rahung, Khoitam	23	U+005e U+02a6
-ø	ø	daŋ-søn, ʨʰə-kʰø-muː	Jerigaon, Rahung, Khoina, Rupa	23	U+00f8
-ɛːʰ$	ɛːʰ	a-nɛːʰ, a-jɛːʰ	Khoitam, Rahung, Jerigaon	21	U+025b U+02d0 U+02b0 U+0024
-øː$	øː	tʰøː, lə-tʰøː	Khoina, Jerigaon, Rupa, Rahung, Khoitam, Shergaon	21	U+00f8 U+02d0 U+0024
-ɐ̃ː$	ɐ̃ː	gɐ̃ː, sɐ̃ː	Khoina, Jerigaon	20	U+0250 U+0303 U+02d0 U+0024
-ʔ$	ʔ	a-tʰɛʔ, ʥɛ̰ʔ	Jerigaon, Khoina, Rahung, Khoitam	19	U+0294 U+0024
-ɛ$	ɛ	a-mɛ, hɛ	Khoitam, Jerigaon, Khoina, Rahung	18	U+025b U+0024
-^ʑ	ʑ	ʑɔː-pʰa, ʑɔp	Duhumbi, Khispi	17	U+005e U+0291
-ɛ̃ː$	ɛ̃ː	dɛ̃ː, a-ʦʰɛ̃ː	Shergaon, Khoina, Rupa, Khoitam, Jerigaon	16	U+025b U+0303 U+02d0 U+0024
-aˀ$	aˀ	kaˀ, la-kʰyː raˀ	Duhumbi, Rupa, Khoina, Shergaon, Jerigaon	16	U+0061 U+02c0 U+0024
-ɔː	ɔː	kɔː-ʨyŋ, ʑɔː-pʰa	Duhumbi, Khoina, Khispi, Khoitam, Rupa, Jerigaon	16	U+0254 U+02d0
-o	o	to-kʰo-hi, do-kʰok-ni	Duhumbi, Rupa, Jerigaon, Rahung, Shergaon, Khispi	15	U+006f
-e$	e	be, bə-kʰe	Khispi, Duhumbi, Shergaon, Khoitam, Rupa	14	U+0065 U+0024
-ɲ	ɲ	ɕa-ɲu, a-ɲaː	Rupa, Shergaon, Duhumbi, Khispi	13	U+0272
-aː	aː	naː-tʰik, tʰaː-ʥi	Rupa, Shergaon, Khoina, Khoitam, Jerigaon	13	U+0061 U+02d0
-øˀ$	øˀ	tʰøˀ, s-tʰøˀ	Khoina, Rahung, Rupa, Jerigaon	13	U+00f8 U+02c0 U+0024
-ɹ$	ɹ	sɛɹ, suɹ-ʨʰuɹ	Duhumbi, Khoitam, Rahung, Khispi	13	U+0279 U+0024
-l$	l	kʰal, ɕa-ʑɛl	Khispi	13	U+006c U+0024
-ɔ̃$	ɔ̃	nɔ̃, ʨʰɔ̃	Rupa, Shergaon, Rahung, Khoitam	12	U+0254 U+0303 U+0024
-r$	r	ik-par, la ʦa-par	Duhumbi, Rahung, Rupa, Khoitam, Shergaon, Khispi	12	U+0072 U+0024
-ɹ	ɹ	sɔɹ-bɔ, suɹ-ʨʰuɹ	Duhumbi, Rahung, Khispi, Khoina, Rupa, Jerigaon, Khoitam	12	U+0279
-^ə	ə	ə-hɛk, ə-hĩː	Rupa, Jerigaon, Khoitam, Rahung, Shergaon	11	U+005e U+0259
-ʑ	ʑ	u-ʑan, nam-ʑu	Khispi, Duhumbi	11	U+0291
-ɐ$	ɐ	sa-pɐ, sɐ	Khoina, Jerigaon	11	U+0250 U+0024
-ɔʰ$	ɔʰ	ʨʰɔʰ, a-jɔʰ	Khoitam, Rahung, Rupa, Shergaon	11	U+0254 U+02b0 U+0024
-yː	yː	la-ʨʰyː rɛˀ, la-kʰyː raˀ	Rupa, Rahung, Khoitam, Jerigaon, Khoina	11	U+0079 U+02d0
-ɔˀ$	ɔˀ	jɔˀ, sɔˀ	Khoitam, Rahung, Rupa, Duhumbi	10	U+0254 U+02c0 U+0024
-x	x	nə-tu-xĩː, a-xaː	Khoina	9	U+0078
-ə$	ə	bə-, tʰə-	Rahung, Jerigaon, Khoitam, Khoina, Rupa, Shergaon	9	U+0259 U+0024
-y$	y	ga-ʦʰy, a-kʰũː-dy	Khoina, Rahung, Khoitam, Rupa, Jerigaon	9	U+0079 U+0024
-ũː	ũː	a-rũːŋ, hũːŋ	Khoitam, Khoina, Rahung, Rupa	9	U+0169 U+02d0
-^ʣ	ʣ	ʣiŋ, ʣeː	Khoina, Rupa, Shergaon	9	U+005e U+02a3
-^ʐ	ʐ	ʐyː, ʐy-duŋ	Khoina	9	U+005e U+0290
-^x	x	xɐk, xɐm-pʰɐ	Khoina	9	U+005e U+0078
-uˀ$	uˀ	pʰluˀ, ʦiŋ-gə-duˀ	Khoitam, Khoina, Rahung, Duhumbi, Rupa, Jerigaon, Shergaon	8	U+0075 U+02c0 U+0024
-^tʂʰ	tʂʰ	tʂʰeˀ, tʂʰajŋ	Khoina	8	U+005e U+0074 U+0282 U+02b0
-ɐʰ$	ɐʰ	a-jɐʰ, gɔ-pʰɐʰ	Khoina, Jerigaon	8	U+0250 U+02b0 U+0024
-^f	f	fɔː, fə-tʂʰajk	Khoina, Khoitam	8	U+005e U+0066
-f	f	a-fan, du-flɐːʰ	Khoina, Shergaon, Khoitam, Rupa, Jerigaon	8	U+0066
-ĩ	ĩ	ʨĩ-zyː, sə-rĩ sə-ruk	Khoitam, Jerigaon, Khoina, Rahung	7	U+0129
-tʂʰ	tʂʰ	la-tʂʰyː tuŋ, ʂ-tʂʰɛn	Khoina	7	U+0074 U+0282 U+02b0
-ɛː	ɛː	tʰiː-tʰɛː-lɔ, ɔ-tʰɛː-lɔ	Jerigaon, Khoitam, Rahung	7	U+025b U+02d0
-^iː$	iː	iː	Shergaon, Khoina, Rahung, Rupa, Jerigaon, Khoitam	7	U+005e U+0069 U+02d0 U+0024
-o$	o	ʨʰo, a-mo	Shergaon, Rahung	7	U+006f U+0024
-ʐ	ʐ	a-ʐɛʔ, a-ʐɐ̃ː	Khoina	7	U+0290
-^ŋ	ŋ	ŋak, ŋa	Khispi, Duhumbi	7	U+005e U+014b
-ũ	ũ	jũŋ, ʥũŋ	Khoitam, Rahung, Rupa	7	U+0169
-iː	iː	tʰiː-tʰɛː-lɔ, la-kʰiː raˀ	Jerigaon, Shergaon, Rahung, Rupa	7	U+0069 U+02d0
-uː	uː	a-zuː-mat, ʥuː-ʦʰak	Shergaon, Rupa, Jerigaon	7	U+0075 U+02d0
-ɔ̃	ɔ̃	a-nɔ̃-du, nɔ̃-du	Rahung, Rupa, Khoitam, Shergaon, Jerigaon	7	U+0254 U+0303
-^hw	hw	hwaŋ, hwa	Khispi, Duhumbi	7	U+005e U+0068 U+0077
-^oː$	oː	oː	Shergaon, Rupa, Khoitam, Rahung	6	U+005e U+006f U+02d0 U+0024
-^pɕ	pɕ	pɕiŋ, pɕi	Duhumbi, Khispi	6	U+005e U+0070 U+0255
-ɛ̃	ɛ̃	sɛ̃ĩ, ʨʰɛ̃ĩ-ba	Jerigaon, Khoina	6	U+025b U+0303
-eː	eː	a-leː-du, steː gɔ̃ː	Rupa, Rahung, Shergaon	6	U+0065 U+02d0
+ɐ	ɐ	ʦʰɐk, lɐk	Khoina, Rupa, Jerigaon	27	U+0250
+s$	s	ɕis, ɕa+kʰus	Duhumbi, Khispi	27	U+0073 U+0024
+^ʂ	ʂ	ʂuː, ʂan+dʐɔk	Khoina	24	U+005e U+0282
++ɕ	+ɕ	u+ɕu, p+ɕi	Khispi, Duhumbi, Shergaon	24	U+002b U+0255
+^p	p	p+siː, p+ɕi	Duhumbi, Rahung, Khispi, Shergaon, Khoitam, Khoina, Jerigaon, Rupa	24	U+005e U+0070
+^ʦ	ts	ʦik, ʦi	Khoina, Rupa, Duhumbi, Khispi, Khoitam, Rahung	23	U+005e U+02a6
+ø	ø	daŋ+søn, nə+søn	Jerigaon, Rahung, Khoina, Rupa	23	U+00f8
+ɛːʰ$	ɛːʰ	hɛːʰ, a+jɛːʰ	Khoitam, Rahung, Jerigaon	21	U+025b U+02d0 U+02b0 U+0024
+øː$	øː	tʰøː, lə+tʰøː	Khoina, Jerigaon, Rupa, Shergaon, Khoitam, Rahung	21	U+00f8 U+02d0 U+0024
+ɐ̃ː$	ɐ̃ː	a+ʨɐ̃ː, sɐ̃ː	Khoina, Jerigaon	20	U+0250 U+0303 U+02d0 U+0024
+ʔ$	ʔ	a+tʰɛʔ, ʥɛ̰ʔ	Jerigaon, Khoina, Rahung, Khoitam	19	U+0294 U+0024
+s	s	ʨʰi+kʰus_a+ma, sə+rĩ_sə+ruk	Duhumbi, Khispi, Jerigaon, Rahung, Shergaon, Khoina, Khoitam, Rupa	19	U+0073
+ɛ$	ɛ	a+mɛ, hɛ	Khoitam, Jerigaon, Khoina, Rahung	18	U+025b U+0024
+^ʑ	ʑ	ʑin, ʑi	Duhumbi, Khispi	17	U+005e U+0291
+ɲ	ɲ	a+ɲyː, ɕa+ɲu	Rupa, Duhumbi, Shergaon, Khispi, Khoina	16	U+0272
+ɛ̃ː$	ɛ̃ː	dɛ̃ː, a+ʦʰɛ̃ː	Shergaon, Khoina, Rupa, Jerigaon, Khoitam	16	U+025b U+0303 U+02d0 U+0024
+aˀ$	aˀ	kaˀ, maˀ	Duhumbi, Rupa, Khoina, Shergaon, Jerigaon	16	U+0061 U+02c0 U+0024
+ɔː	ɔː	kɔː+ʨyŋ, kɔː+lɔk+pa	Duhumbi, Khoina, Khispi, Khoitam, Jerigaon, Rupa	16	U+0254 U+02d0
+o	o	to+kʰo+hi, do+kʰok+ni	Duhumbi, Jerigaon, Rupa, Shergaon, Khispi, Rahung	15	U+006f
+aː	aː	tʰaː+ʥi, naː+tʰik	Rupa, Shergaon, Khoina, Jerigaon, Khoitam	14	U+0061 U+02d0
+ɔ̃$	ɔ̃	nɔ̃, ʨʰɔ̃	Rupa, Shergaon, Rahung, Khoitam	13	U+0254 U+0303 U+0024
+l$	l	wal, ɕa+ʑɛl	Khispi	13	U+006c U+0024
+e$	e	be, bə+kʰe	Khispi, Duhumbi, Shergaon, Rupa, Khoitam	13	U+0065 U+0024
+ɹ$	ɹ	sɛɹ, ʨʰɔɹ	Duhumbi, Khoitam, Rahung, Khispi	13	U+0279 U+0024
+øˀ$	øˀ	tʰøˀ, ʨʰøˀ	Khoina, Rupa, Jerigaon, Rahung	13	U+00f8 U+02c0 U+0024
+r$	r	ik+par, la_ʦa+par	Duhumbi, Rahung, Shergaon, Khispi, Khoitam, Rupa	12	U+0072 U+0024
+ɹ	ɹ	sɔɹ+bɔ, pɛɹ+ʑam+ɕup	Duhumbi, Khispi, Rahung, Khoina, Khoitam, Jerigaon, Rupa	12	U+0279
+ɐ$	ɐ	kʰɐ, sɐ	Khoina, Jerigaon	11	U+0250 U+0024
+yː	yː	la+ʨʰyː_rɛˀ, na+tryː_sɔŋ+sɔŋ	Rupa, Rahung, Jerigaon, Khoitam, Khoina	11	U+0079 U+02d0
+^ə	ə	ə+hɛk, ə+hĩː	Rupa, Jerigaon, Rahung, Khoitam, Shergaon	11	U+005e U+0259
++ʑ	+ʑ	a+ʑa, u+ʑan	Khispi, Duhumbi	11	U+002b U+0291
+ɔʰ$	ɔʰ	ʨʰɔʰ, a+jɔʰ	Rahung, Khoitam, Rupa, Shergaon	11	U+0254 U+02b0 U+0024
+ɔˀ$	ɔˀ	jɔˀ, rɔˀ	Rupa, Rahung, Khoitam, Duhumbi	10	U+0254 U+02c0 U+0024
+ũː	ũː	a+rũːŋ, a+hũː+gɔ	Khoitam, Khoina, Rupa, Rahung	9	U+0169 U+02d0
+x	x	ɔ+xɐ̃ː, nə+tu+xĩː	Khoina	9	U+0078
+^ʣ	dz	ʣiŋ, ʣeː	Khoina, Rupa, Shergaon	9	U+005e U+02a3
+y$	y	dɛp+gy, ik_ʨə+ry	Khoina, Khoitam, Rupa, Jerigaon, Rahung	9	U+0079 U+0024
+^ʐ	ʐ	ʐyː, ʐaː	Khoina	9	U+005e U+0290
+^x	x	xøː, xɛˀ	Khoina	9	U+005e U+0078
+w	w	ɔw+tʰja, ɔ+nɔw+ma	Duhumbi, Khispi, Rupa	8	U+0077
+^f	f	f+kʰøː, fyː	Khoina, Khoitam	8	U+005e U+0066
+uˀ$	uˀ	pʰluˀ, pʰu+luˀ	Khoitam, Shergaon, Duhumbi, Khoina, Jerigaon, Rahung, Rupa	8	U+0075 U+02c0 U+0024
+ɐʰ$	ɐʰ	a+jɐʰ, ʨʰɐʰ	Khoina, Jerigaon	8	U+0250 U+02b0 U+0024
+^tʂʰ	ʈʂʰ	tʂʰeˀ, tʂʰajŋ	Khoina	8	U+005e U+0074 U+0282 U+02b0
+f	f	a+fan, a+fɛn	Khoina, Shergaon, Rupa, Jerigaon, Khoitam	8	U+0066
+^ŋ	ŋ	ŋɔj, ŋa	Khispi, Duhumbi	7	U+005e U+014b
+^hw	hw	hwa+ʨɔŋ+ki, hwaŋ	Khispi, Duhumbi	7	U+005e U+0068 U+0077
+o$	o	jo, ny+jo	Shergaon, Rahung	7	U+006f U+0024
+iː	iː	tʰiː+tʰɛː+lɔ, la+kʰiː_raˀ	Jerigaon, Shergaon, Rupa, Rahung	7	U+0069 U+02d0
+ɛː	ɛː	ɔ+tʰɛː+lɔ, tʰiː+tʰɛː+lɔ	Jerigaon, Khoitam, Rahung	7	U+025b U+02d0
+uː	uː	a+zuː+mat, suː_a+tɛ̃ː	Shergaon, Rupa, Jerigaon	7	U+0075 U+02d0
+tʂʰ	ʈʂʰ	a+tʂʰɐ̃ː, tɔŋ+tʂʰaː	Khoina	7	U+0074 U+0282 U+02b0
+ũ	ũ	jũŋ, ʥũŋ	Khoitam, Rahung, Rupa	7	U+0169
+^iː$	iː	iː	Shergaon, Khoina, Khoitam, Jerigaon, Rahung, Rupa	7	U+005e U+0069 U+02d0 U+0024
+ĩ	ĩ	sə+rĩ_sə+ruk, ʨĩ+zyː	Khoitam, Jerigaon, Khoina, Rahung	7	U+0129
+ɔ̃	ɔ̃	nɔ̃+du, a+nɔ̃+du	Rupa, Rahung, Shergaon, Khoitam, Jerigaon	7	U+0254 U+0303
+^oː$	oː	oː	Shergaon, Rupa, Rahung, Khoitam	6	U+005e U+006f U+02d0 U+0024
+ɛ̃	ɛ̃	sɛ̃ĩ, hə+rɛ̃ĩː	Jerigaon, Khoina	6	U+025b U+0303
++ʐ	+ʐ	gə+ʐaŋ, a+ʐɛʔ	Khoina	6	U+002b U+0290
 ɐ̃$	ɐ̃	jɐ̃, nɐ̃	Khoina, Jerigaon	6	U+0250 U+0303 U+0024
-^ɛ	ɛ	ɛ-hɛːʰ, ɛn	Jerigaon, Khoina, Rahung, Khoitam	5	U+005e U+025b
-ɛ̃ː	ɛ̃ː	sɛ̃ː-ʥi, kʰɛ̃ː-baˀ	Rupa, Khoina, Rahung, Jerigaon	5	U+025b U+0303 U+02d0
-iˀ$	iˀ	niˀ, tʂʰiˀ	Khoitam, Khoina, Rahung, Duhumbi	5	U+0069 U+02c0 U+0024
-iʰ$	iʰ	a-ʨʰiʰ, a-ʦʰiʰ	Khoina, Rahung, Khoitam, Rupa, Jerigaon	5	U+0069 U+02b0 U+0024
-ũ$	ũ	hũ, pʰaŋ-kʰ- lũ	Rupa, Khoitam, Rahung	5	U+0169 U+0024
-ĩˀ$	ĩˀ	ʨĩˀ	Khoitam, Rahung, Jerigaon	5	U+0129 U+02c0 U+0024
-ʣ	ʣ	a-ʣɐ̃ː-du, sy-ʣyk	Khoina	5	U+02a3
-ɔːʰ$	ɔːʰ	də-pʰlɔːʰ, a-bɹɔːʰ	Rahung, Rupa, Khoitam	5	U+0254 U+02d0 U+02b0 U+0024
-dʐ	dʐ	ʂə-dʐeː, tim-pu la-dʐɔː	Khoina	5	U+0064 U+0290
-ɛ̰	ɛ̰	ʥɛ̰ʔ, ʨʰɛ̰ʔ	Khoina, Rahung, Khoitam, Jerigaon	5	U+025b U+0330
-ĩ$	ĩ	sɛ̃ĩ, dɛ̃ĩ	Jerigaon, Khoina, Rupa	5	U+0129 U+0024
-oː	oː	koː-ʨyŋ, pʰ-ʨʰoː-ʥi	Rahung, Khoitam, Shergaon	5	U+006f U+02d0
-^ɔː$	ɔː	ɔː	Rahung, Khoina, Khoitam, Jerigaon	5	U+005e U+0254 U+02d0 U+0024
-ɛˀ	ɛˀ	jɛˀ ḭː, a-ʨʰɛˀ-du	Jerigaon, Khoitam, Rahung	4	U+025b U+02c0
-ɔ̃ː	ɔ̃ː	ʨɔ̃ː-du, ʥɔ̃ː-kʰiŋ	Jerigaon, Shergaon, Rahung	4	U+0254 U+0303 U+02d0
-^ɔ$	ɔ	-ɔ, ɔ	Khoitam, Shergaon, Rahung, Khispi	4	U+005e U+0254 U+0024
-ɐːʰ$	ɐːʰ	a-blɐːʰ, də-pʰlɐːʰ	Khoina, Jerigaon	4	U+0250 U+02d0 U+02b0 U+0024
-ɟ	ɟ	sar-ɟat, San-ɟɔk	Rupa, Shergaon	4	U+025f
-ʂ	ʂ	ri-ʂɛˀ, ʂu-ʂiŋ-tʰɔŋ	Khoina	4	U+0282
-ĩː	ĩː	ʨʰĩː-ba, kʰ-ʨĩː-ʥi	Khoina, Rahung, Khoitam, Jerigaon	4	U+0129 U+02d0
-ãː$	ãː	mãː, kʰãː	Khoina, Jerigaon	4	U+00e3 U+02d0 U+0024
-ɐː$	ɐː	hɐː, wɐː	Khoina	4	U+0250 U+02d0 U+0024
-^yː$	yː	yː	Khoitam, Rahung, Rupa	3	U+005e U+0079 U+02d0 U+0024
-^ɟ	ɟ	ɟaŋ-seˀ, ɟak	Rupa	3	U+005e U+025f
-^dʐ	dʐ	dʐyː, dʐajk	Khoina	3	U+005e U+0064 U+0290
-ɛ̰$	ɛ̰	pʰy-wɛ̰, pʰa-wɛ̰	Khoina, Rahung, Jerigaon	3	U+025b U+0330 U+0024
-ḭː$	ḭː	jɛˀ ḭː	Khoitam, Rahung, Jerigaon	3	U+1e2d U+02d0 U+0024
-^ɔˀ$	ɔˀ	ɔˀ	Khoitam, Rahung, Rupa	3	U+005e U+0254 U+02c0 U+0024
+eː	eː	steː_gɔ̃ː, a+leː+du	Rupa, Rahung, Shergaon	6	U+0065 U+02d0
+ɕ	ɕ	aj_ɕɔŋ, haɕ+ta	Khispi, Duhumbi	6	U+0255
+^pɕ	pɕ	pɕi, pɕiŋ	Duhumbi, Khispi	6	U+005e U+0070 U+0255
+^ɛ	ɛ	ɛ+hɛːʰ, ɛn	Jerigaon, Khoina, Rahung, Khoitam	5	U+005e U+025b
+ũ$	ũ	hũ, pʰaŋ+kʰ+_lũ	Rupa, Rahung, Khoitam	5	U+0169 U+0024
+iʰ$	iʰ	a+ʨʰiʰ, a+ʦʰiʰ	Khoina, Rahung, Rupa, Jerigaon, Khoitam	5	U+0069 U+02b0 U+0024
+ĩˀ$	ĩˀ	ʨĩˀ	Rahung, Khoitam, Jerigaon	5	U+0129 U+02c0 U+0024
+oː	oː	moː+ʨʰɔɹ, koː+ʨuŋ	Rahung, Shergaon, Khoitam	5	U+006f U+02d0
+ɛ̃ː	ɛ̃ː	sɛ̃ː+ʥi, kʰɛ̃ː+baˀ	Rupa, Khoina, Jerigaon, Rahung	5	U+025b U+0303 U+02d0
+^ɔː$	ɔː	ɔː	Rahung, Khoina, Jerigaon, Khoitam	5	U+005e U+0254 U+02d0 U+0024
+ʣ	dz	a+ʣɐ̃ː+du, a+ʣajŋ	Khoina	5	U+02a3
+h	h	nəmyː_hyk, nə+pʰaː_hɛn	Rupa, Shergaon, Khoina, Khoitam	5	U+0068
+ɛ̰	ɛ̰	ʥɛ̰ʔ, blɛ̰t	Khoina, Rahung, Jerigaon, Khoitam	5	U+025b U+0330
+iˀ$	iˀ	niˀ, lɔw+kiˀ	Khoitam, Duhumbi, Khoina, Rahung	5	U+0069 U+02c0 U+0024
+ĩ$	ĩ	sɛ̃ĩ, dɛ̃ĩ	Jerigaon, Khoina, Rupa	5	U+0129 U+0024
+ɔːʰ$	ɔːʰ	a+blɔːʰ, da+pʰlɔːʰ	Rupa, Rahung, Khoitam	5	U+0254 U+02d0 U+02b0 U+0024
+dʐ	ɖʐ	a+dʐyː, ʂan+dʐɔk	Khoina	5	U+0064 U+0290
+ãː$	ãː	kʰãː, mãː	Khoina, Jerigaon	4	U+00e3 U+02d0 U+0024
+ɔ̃ː	ɔ̃ː	kʰu+nɔ̃ː+ʥi, ʥɔ̃ː+kʰiŋ	Jerigaon, Shergaon, Rahung	4	U+0254 U+0303 U+02d0
+ɟ	ɟ	sar+ɟat, San+ɟɔk	Rupa, Shergaon	4	U+025f
+ɐːʰ$	ɐːʰ	a+blɐːʰ, də+pʰlɐːʰ	Khoina, Jerigaon	4	U+0250 U+02d0 U+02b0 U+0024
+ĩː	ĩː	ʨʰĩː+ba, kʰ+ʨĩː+ʥi	Khoina, Rahung, Jerigaon, Khoitam	4	U+0129 U+02d0
+ɛˀ	ɛˀ	jɛˀ_ḭː, a+ʨʰɛˀ+du	Jerigaon, Rahung, Khoitam	4	U+025b U+02c0
++ʂ	+ʂ	p+ʂiː, ʂu+ʂiŋ+tʰɔŋ	Khoina	4	U+002b U+0282
+ɐː$	ɐː	ʨʰə+xø+mɐː, hɐː	Khoina	4	U+0250 U+02d0 U+0024
+^ɟ	ɟ	ɟaŋ+seˀ, ɟak	Rupa	3	U+005e U+025f
+^yː$	yː	yː	Rupa, Rahung, Khoitam	3	U+005e U+0079 U+02d0 U+0024
+ɛ̰$	ɛ̰	pʰy+wɛ̰, pʰə+pʰɛ̰	Khoina, Jerigaon, Rahung	3	U+025b U+0330 U+0024
+^+s	+s	+sɔk	Rahung, Jerigaon, Khoitam	3	U+005e U+002b U+0073
+^ɔˀ$	ɔˀ	ɔˀ	Rupa, Rahung, Khoitam	3	U+005e U+0254 U+02c0 U+0024
+ḭː$	ḭː	jɛˀ_ḭː	Rahung, Jerigaon, Khoitam	3	U+1e2d U+02d0 U+0024
+^dʐ	ɖʐ	dʐuk, dʐajk	Khoina	3	U+005e U+0064 U+0290
 ɐˀ$	ɐˀ	rɐˀ, jɐˀ	Jerigaon, Khoina	3	U+0250 U+02c0 U+0024
-ɔ̅$	ɔ̅	a-nɔ̅, lɔ̅	Rupa, Shergaon	3	U+0254 U+0305 U+0024
-cʰ	cʰ	bə-cʰaː, bə-cʰam	Rupa	2	U+0063 U+02b0
-aa	aa	tʰa-a-lɔː, wa-aɹ	Khoitam, Duhumbi	2	U+0061 U+0061
-ʤ	ʤ	nə-ʨo-ʤi, thebang-ʤi	Jerigaon	2	U+02a4
-tɕ	tɕ	a-tɕan-du	Shergaon, Rupa	2	U+0074 U+0255
-ɛʰ$	ɛʰ	ʨam-ʨə-rɛʰ, ʨɔm-ʨə-rɛʰ	Khoitam, Rahung	2	U+025b U+02b0 U+0024
-^ĩˀ$	ĩˀ	ĩˀ	Khoitam, Rahung	2	U+005e U+0129 U+02c0 U+0024
+ɔ̅$	ɔ̅	a+nɔ̅, lɔ̅	Rupa, Shergaon	3	U+0254 U+0305 U+0024
+ʤ	dʒ	thebang+ʤi, nə+ʨo+ʤi	Jerigaon	2	U+02a4
+ɛʰ$	ɛʰ	ʨam+ʨə+rɛʰ, ʨɔm+ʨə+rɛʰ	Rahung, Khoitam	2	U+025b U+02b0 U+0024
+^+ɕ	+ɕ	+ɕɔk	Duhumbi, Khispi	2	U+005e U+002b U+0255
+ɾ	ɾ	tɾɔk, sə+ɾiŋ	Jerigaon, Rahung	2	U+027e
 ^ɛ̃ˀ$	ɛ̃ˀ	ɛ̃ˀ	Khoina, Rupa	2	U+005e U+025b U+0303 U+02c0 U+0024
 ^cʰ	cʰ	cʰak, cʰiː	Shergaon, Rupa	2	U+005e U+0063 U+02b0
-aˀ	aˀ	taˀ-da-taˀ-da	Duhumbi	2	U+0061 U+02c0
-ɾ	ɾ	sə-ɾiŋ, tɾɔk	Rahung, Jerigaon	2	U+027e
-^u$	u	u	Khoina, Jerigaon	2	U+005e U+0075 U+0024
-^y	y	yk-ɔ̃ː, yk-ɐ̃ː	Khoitam, Jerigaon	2	U+005e U+0079
+tɕ	tɕ	a+tɕan+du	Shergaon, Rupa	2	U+0074 U+0255
+cʰ	cʰ	bə+cʰam, bə+cʰaː	Rupa	2	U+0063 U+02b0
 ^i$	i	i	Duhumbi, Khispi	2	U+005e U+0069 U+0024
-jj	jj	ɲə-pãj-jaː-aː, dɛj-ju	Duhumbi, Rupa	2	U+006a U+006a
-ɐ̃	ɐ̃	a-nɐ̃-du, nɐ̃-du	Khoina, Jerigaon	2	U+0250 U+0303
-ŋŋ	ŋŋ	bɛŋ-ŋɔ, haŋ-ŋa	Rupa, Khispi	2	U+014b U+014b
-^kʰʲ	kʰʲ	kʰʲɔ̃ː	Jerigaon	1	U+005e U+006b U+02b0 U+02b2
-sak-pyː/-p-́ː	<???>	sak-pyː/-p-́ː	Rupa	1	U+0073 U+0061 U+006b U+002d U+0070 U+0079 U+02d0 U+002f U+002d U+0070 U+002d U+0301 U+02d0
-^ɐ̃ː$	ɐ̃ː	ɐ̃ː	Jerigaon	1	U+005e U+0250 U+0303 U+02d0 U+0024
-ǿ	<?>	na-jɔ-tǿn	Khoina	1	U+01ff
-ɛ̰ː$	ɛ̰ː	tɛ̰ː	Khoitam	1	U+025b U+0330 U+02d0 U+0024
-iˀ	iˀ	dɛj-kiˀ-ni	Duhumbi	1	U+0069 U+02c0
-ɐ̃ː	ɐ̃ː	a-ʣɐ̃ː-du	Khoina	1	U+0250 U+0303 U+02d0
-ɐ̃̅ʰ$	ɐ̃̅ʰ	a-nɐ̃̅ʰ	Jerigaon	1	U+0250 U+0303 U+0305 U+02b0 U+0024
-ɐ͂ː$	ɐ͂ː	ɔ-ɐ͂ː	Khoina	1	U+0250 U+0342 U+02d0 U+0024
-mə-/bə-buŋ	<???>	mə-/bə-buŋ	Rupa	1	U+006d U+0259 U+002d U+002f U+0062 U+0259 U+002d U+0062 U+0075 U+014b
-ɛ̃̄ː$	ɛ̃̄ː	hɛ̃̄ː	Jerigaon	1	U+025b U+0303 U+0304 U+02d0 U+0024
-ã	ã	ɲə-pãj-jaː-aː	Rupa	1	U+00e3
-^A	<?>	A-jɔʰ	Rahung	1	U+005e U+0041
-^ɐ$	ɐ	ɐ	Khoina	1	U+005e U+0250 U+0024
-ɔ̃̅ʰ$	ɔ̃̅ʰ	a-nɔ̃̅ʰ	Rahung	1	U+0254 U+0303 U+0305 U+02b0 U+0024
-^ss	ss	s-sĩː	Khoitam	1	U+005e U+0073 U+0073
-^c	c	caː	Rupa	1	U+005e U+0063
-aːaː$	aːaː	ɲə-pãj-jaː-aː	Rupa	1	U+0061 U+02d0 U+0061 U+02d0 U+0024
-^th	th	thebang-ʤi	Jerigaon	1	U+005e U+0074 U+0068
-^ɔ̰ˀ$	ɔ̰ˀ	-ɔ̰ˀ	Duhumbi	1	U+005e U+0254 U+0330 U+02c0 U+0024
-i:$	i:	zi:	Shergaon	1	U+0069 U+003a U+0024
-^ɐː$	ɐː	ɐː	Jerigaon	1	U+005e U+0250 U+02d0 U+0024
-ʧ	ʧ	di-ʧik-ri	Khoina	1	U+02a7
-à̄	à̄	nə-pà̄-n	Shergaon	1	U+00e0 U+0304
-ɔ̰ˀ$	ɔ̰ˀ	-lɔ̰ˀ	Duhumbi	1	U+0254 U+0330 U+02c0 U+0024
-^tʰw	tʰw	tʰwaː	Rupa	1	U+005e U+0074 U+02b0 U+0077
-ɛ̃ˊˀ$	ɛ̃ˊˀ	hɛ̃ˊˀ	Khoitam	1	U+025b U+0303 U+02ca U+02c0 U+0024
+^u$	u	u	Khoina, Jerigaon	2	U+005e U+0075 U+0024
+^ĩˀ$	ĩˀ	ĩˀ	Rahung, Khoitam	2	U+005e U+0129 U+02c0 U+0024
+aˀ	aˀ	taˀ+da+taˀ+da	Duhumbi	2	U+0061 U+02c0
+ɐ̃	ɐ̃	nɐ̃+du, a+nɐ̃+du	Khoina, Jerigaon	2	U+0250 U+0303
+ɔ̰ˀ$	ɔ̰ˀ	+ɔ̰ˀ, +lɔ̰ˀ	Duhumbi	2	U+0254 U+0330 U+02c0 U+0024
+^y	y	yk+ɔ̃ː, yk+ɐ̃ː	Jerigaon, Khoitam	2	U+005e U+0079
+ɐ̃̅$	ɐ̃̅	a+nɐ̃̅	Khoina	1	U+0250 U+0303 U+0305 U+0024
+ʧ	tʃ	di+ʧik+ri	Khoina	1	U+02a7
 ^v$	v	v	Jerigaon	1	U+005e U+0076 U+0024
-^ɔ̃$	ɔ̃	-ɔ̃	Rupa	1	U+005e U+0254 U+0303 U+0024
-pɕ	pɕ	ɕa-pɕin	Khispi	1	U+0070 U+0255
-mə-ʦʰiː/-ʨʰiː	<???>	mə-ʦʰiː/-ʨʰiː	Khoitam	1	U+006d U+0259 U+002d U+02a6 U+02b0 U+0069 U+02d0 U+002f U+002d U+02a8 U+02b0 U+0069 U+02d0
-^ɐˀ$	ɐˀ	ɐˀ	Jerigaon	1	U+005e U+0250 U+02c0 U+0024
-ɐ̃̅$	ɐ̃̅	a-nɐ̃̅	Khoina	1	U+0250 U+0303 U+0305 U+0024
-pʰw	pʰw	hɐŋ-pʰwɔ	Rupa	1	U+0070 U+02b0 U+0077
-ɔ̃ˀ$	ɔ̃ˀ	jɔ̃ˀ	Rupa	1	U+0254 U+0303 U+02c0 U+0024
-ɔ̅̃ʰ$	ɔ̅̃ʰ	a-nɔ̅̃ʰ	Khoitam	1	U+0254 U+0305 U+0303 U+02b0 U+0024
-^ũː$	ũː	ũː	Khoina	1	U+005e U+0169 U+02d0 U+0024
-^Pʰ	<?>	Pʰ-ʨʰɛː	Khoitam	1	U+005e U+0050 U+02b0
-ɕ$	ɕ	kʰiɕ	Khispi	1	U+0255 U+0024
+pɕ	pɕ	ɕa+pɕin	Khispi	1	U+0070 U+0255
+ɐ̃̅ʰ$	ɐ̃̅ʰ	a+nɐ̃̅ʰ	Jerigaon	1	U+0250 U+0303 U+0305 U+02b0 U+0024
+ʐ	ʐ	lyŋ_ʐyk	Khoina	1	U+0290
+^ɐ$	ɐ	ɐ	Khoina	1	U+005e U+0250 U+0024
+ǿ	<?>	na+jɔ+tǿn	Khoina	1	U+01ff
+^th	tʰ	thebang+ʤi	Jerigaon	1	U+005e U+0074 U+0068
 ^ɬ	ɬ	ɬap	Duhumbi	1	U+005e U+026c
-ɛ̃ːˀ$	ɛ̃ːˀ	sɛ̃ːˀ	Rupa	1	U+025b U+0303 U+02d0 U+02c0 U+0024
-ɔ̃ːʹ$	ɔ̃ːʹ	ʨʰa-lu-wɔ̃ːʹ	Khoina	1	U+0254 U+0303 U+02d0 U+02b9 U+0024
-tɕʰ	tɕʰ	a-tɕʰan	Khoina	1	U+0074 U+0255 U+02b0
-^kʰw	kʰw	kʰwa	Khoitam	1	U+005e U+006b U+02b0 U+0077
-ɔʰ	ɔʰ	a-blɔʰ-du	Khoitam	1	U+0254 U+02b0
-^ɛ̃ː$	ɛ̃ː	ɛ̃ː	Rupa	1	U+005e U+025b U+0303 U+02d0 U+0024
-^S	<?>	San-ɟɔk	Rupa	1	U+005e U+0053
-aʰ$	aʰ	a-haʰ	Rupa	1	U+0061 U+02b0 U+0024
-aːʰ$	aːʰ	haːʰ	Rupa	1	U+0061 U+02d0 U+02b0 U+0024
+^ɐ̃ː$	ɐ̃ː	ɐ̃ː	Jerigaon	1	U+005e U+0250 U+0303 U+02d0 U+0024
+ɛ̃̄ː$	ɛ̃̄ː	hɛ̃̄ː	Jerigaon	1	U+025b U+0303 U+0304 U+02d0 U+0024
 ø̃ː$	ø̃ː	hø̃ː	Jerigaon	1	U+00f8 U+0303 U+02d0 U+0024
-øːʰ$	øːʰ	ry-wøːʰ	Khoina	1	U+00f8 U+02d0 U+02b0 U+0024
-nn	nn	tʰɛn-niː	Rahung	1	U+006e U+006e
-á̰ˀ$	á̰ˀ	u-dá̰ˀ	Duhumbi	1	U+00e1 U+0330 U+02c0 U+0024
+pʰw	pʰw	hɐŋ+pʰwɔ	Rupa	1	U+0070 U+02b0 U+0077
+á̰ˀ$	á̰ˀ	u+dá̰ˀ	Duhumbi	1	U+00e1 U+0330 U+02c0 U+0024
+^S	<?>	San+ɟɔk	Rupa	1	U+005e U+0053
+tɕʰ	tɕʰ	a+tɕʰan	Khoina	1	U+0074 U+0255 U+02b0
+à̄	ā	nə+pà̄+n	Shergaon	1	U+00e0 U+0304
+i:$	iː	zi:	Shergaon	1	U+0069 U+003a U+0024
+^kʰʲ	kʲʰ	kʰʲɔ̃ː	Jerigaon	1	U+005e U+006b U+02b0 U+02b2
+^ɐˀ$	ɐˀ	ɐˀ	Jerigaon	1	U+005e U+0250 U+02c0 U+0024
+^ɛ̃ː$	ɛ̃ː	ɛ̃ː	Rupa	1	U+005e U+025b U+0303 U+02d0 U+0024
 ^ɔ̃ː$	ɔ̃ː	ɔ̃ː	Rupa	1	U+005e U+0254 U+0303 U+02d0 U+0024
 ^a$	a	a	Khispi	1	U+005e U+0061 U+0024
-ə̃	ə̃	sə-rə̃ĩ sə-ruk	Jerigaon	1	U+0259 U+0303
+øːʰ$	øːʰ	ry+wøːʰ	Khoina	1	U+00f8 U+02d0 U+02b0 U+0024
+ã	ã	ɲə+pãj+jaː+aː	Rupa	1	U+00e3
+ɔʰ	ɔʰ	a+blɔʰ+du	Khoitam	1	U+0254 U+02b0
+^ɐː$	ɐː	ɐː	Jerigaon	1	U+005e U+0250 U+02d0 U+0024
+ɔ̃ˀ$	ɔ̃ˀ	jɔ̃ˀ	Rupa	1	U+0254 U+0303 U+02c0 U+0024
+ɛ̃ːˀ$	ɛ̃ˀː	sɛ̃ːˀ	Rupa	1	U+025b U+0303 U+02d0 U+02c0 U+0024
+^c	c	caː	Rupa	1	U+005e U+0063
+^kʰw	kʰw	kʰwa	Khoitam	1	U+005e U+006b U+02b0 U+0077
+^A	<?>	A+jɔʰ	Rahung	1	U+005e U+0041
+^Pʰ	<?>	Pʰ+ʨʰɛː	Khoitam	1	U+005e U+0050 U+02b0
+aːʰ$	aːʰ	haːʰ	Rupa	1	U+0061 U+02d0 U+02b0 U+0024
+iˀ	iˀ	dɛj+kiˀ+ni	Duhumbi	1	U+0069 U+02c0
+ɕ$	ɕ	kʰiɕ	Khispi	1	U+0255 U+0024
+^ũː$	ũː	ũː	Khoina	1	U+005e U+0169 U+02d0 U+0024
+ɐ͂ː$	ɐ͂ː	ɔ+ɐ͂ː	Khoina	1	U+0250 U+0342 U+02d0 U+0024
+ɛ̰ː$	ɛ̰ː	tɛ̰ː	Khoitam	1	U+025b U+0330 U+02d0 U+0024
+ə̃	ə̃	sə+rə̃ĩ_sə+ruk	Jerigaon	1	U+0259 U+0303
+^tʰw	tʰw	tʰwaː	Rupa	1	U+005e U+0074 U+02b0 U+0077
+ɛ̃ˊˀ$	ɛ̃ˊˀ	hɛ̃ˊˀ	Khoitam	1	U+025b U+0303 U+02ca U+02c0 U+0024
+ɐ̃ː	ɐ̃ː	a+ʣɐ̃ː+du	Khoina	1	U+0250 U+0303 U+02d0
+ɔ̃ːʹ$	ɔ̃ːʹ	ʨʰa+lu+wɔ̃ːʹ	Khoina	1	U+0254 U+0303 U+02d0 U+02b9 U+0024
+aʰ$	aʰ	a+haʰ	Rupa	1	U+0061 U+02b0 U+0024
+^ɔ$	ɔ	ɔ	Shergaon	1	U+005e U+0254 U+0024
+ɔ̃̅ʰ$	ɔ̃̅ʰ	a+nɔ̃̅ʰ	Rahung	1	U+0254 U+0303 U+0305 U+02b0 U+0024
+ɔ̅̃ʰ$	ɔ̅̃ʰ	a+nɔ̅̃ʰ	Khoitam	1	U+0254 U+0305 U+0303 U+02b0 U+0024
