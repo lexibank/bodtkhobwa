@@ -13,13 +13,13 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 8	Shergaon	1sg	guː	guː		
 #
 9	Khispi	2pl.excl	na-lu	na+lu		
-10	Duhumbi	2pl.excl	na-r	na+r		
+10	Duhumbi	2pl.excl	na-ɹ	na+ɹ		
 14	Rahung	2pl.excl	na-ryː	na+ryː		
 15	Rupa	2pl.excl	naː-bluŋ	naː+bluŋ		
 16	Shergaon	2pl.excl	naː-bluŋ	naː+bluŋ		
 #
 17	Khispi	2pl.incl	nal-tʰe	nal+tʰe		
-18	Duhumbi	2pl.incl	nar-tʰeˀ	nar+tʰeˀ		
+18	Duhumbi	2pl.incl	naɹ-tʰeˀ	naɹ+tʰeˀ		
 19	Khoina	2pl.incl	na-tʰik	na+tʰik		
 20	Jerigaon	2pl.incl	na-tʰik	na+tʰik		
 21	Khoitam	2pl.incl	na-tʰɛk	na+tʰɛk		
@@ -84,7 +84,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 2657	Khispi	Namshu people	nam-ɕu-pa	nam+ɕu+pa		
 2658	Duhumbi	Namshu people	nam-ɕu-pa	nam+ɕu+pa		
 2659	Khoina	Namshu people	na-ʦʰɔː-ʥi	na+ʦʰɔː+ʥi		
-2660	Jerigaon	Namshu people	nə-ʨo-ʤi	nə+ʨo+ʤi		
+2660	Jerigaon	Namshu people	nə-ʨo-ʥi	nə+ʨo+ʥi		
 2662	Rahung	Namshu people	pʰ-ʨʰoː-ʥi	pʰ+ʨʰoː+ʥi		
 #
 3073	Khispi	Puroik	bi-ɕ-taŋ	bi+ɕ+taŋ		
@@ -99,7 +99,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 3144	Shergaon	Rahung, people of	ru-pʰuŋ-ʥi	ru+pʰuŋ+ʥi		
 #
 3491	Khoina	Sherdukpen	tʰɔː-mø-ʥi	tʰɔː+mø+ʥi		
-3492	Jerigaon	Sherdukpen	tʰɔ̃ŋ-ʥi  ~ tʰuwã-ʤi	tʰɔ̃ŋ+ʥi	 tʰuwã-ʤi	Variants
+3492	Jerigaon	Sherdukpen	tʰɔ̃ŋ-ʥi  ~ tʰuwã-ʥi	tʰɔ̃ŋ+ʥi	 tʰuwã-ʥi	Variants
 3494	Rahung	Sherdukpen	tʰə-mø-ʥi	tʰə+mø+ʥi		
 3495	Rupa	Sherdukpen	møˀ	møˀ		
 3496	Shergaon	Sherdukpen	meˀ	meˀ		
@@ -113,11 +113,11 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 4145	Khispi	Thembang people	tʰje-maŋ-bi	tʰje+maŋ+bi		
 4146	Duhumbi	Thembang people	tʰɛm-baŋ-pa	tʰɛm+baŋ+pa		
 4147	Khoina	Thembang people	tʰɛm-baŋ-ʥi	tʰɛm+baŋ+ʥi		
-4148	Jerigaon	Thembang people	thebang-ʤi	thebang+ʤi		
+4148	Jerigaon	Thembang people	tʰəbang-ʥi	tʰəbang+ʥi		
 4150	Rahung	Thembang people	tʰam-baŋ-ʥi	tʰam+baŋ+ʥi		
 #
 41	Khispi	ablative	-lɔ	+lɔ		
-42	Duhumbi	ablative	-lɔ̰ˀ	+lɔ̰ˀ		
+42	Duhumbi	ablative	-lɔˀ	+lɔˀ		
 43	Khoina	ablative	-lɔ	+lɔ		
 44	Jerigaon	ablative	-lɔ	+lɔ		
 45	Khoitam	ablative	-lɔ	+lɔ		
@@ -153,15 +153,15 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 78	Rahung	after	la-kʰyŋ	la+kʰyŋ		
 79	Rupa	after	də-kʰyŋ	də+kʰyŋ		
 #
-83	Khoina	afternoon	na-jɔ-tǿn	na+jɔ+tǿn		
+83	Khoina	afternoon	na-jɔ-tøn	na+jɔ+tøn		
 84	Jerigaon	afternoon	ny-jɔ-tɛn	ny+jɔ+tɛn		
 85	Khoitam	afternoon	ny-jɔ	ny+jɔ		
-86	Rahung	afternoon	ny-jo	ny+jo		
+86	Rahung	afternoon	ny-jɔ	ny+jɔ		
 87	Rupa	afternoon	ɲaw	ɲaw		
 88	Shergaon	afternoon	ɲaw	ɲaw		
 #
 89	Khispi	agent	-ɔ	+ɔ		
-90	Duhumbi	agent	-ɔ̰ˀ	+ɔ̰ˀ		
+90	Duhumbi	agent	-ɔˀ	+ɔˀ		
 93	Khoitam	agent	-ɔ	+ɔ		
 94	Rahung	agent	-ɔ	+ɔ		
 95	Rupa	agent	-ɔ̃	+ɔ̃		
@@ -205,7 +205,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 140	Jerigaon	ant	san-ʥɔk	san+ʥɔk		
 141	Khoitam	ant	saŋ-ʥɔk	saŋ+ʥɔk		
 142	Rahung	ant	saŋ-ʥɔk	saŋ+ʥɔk		
-143	Rupa	ant	San-ɟɔk ~ san-ʥɔk	San+ɟɔk	 san-ʥɔk	Variants
+143	Rupa	ant	san-ɟɔk ~ san-ʥɔk	san+ɟɔk	 san-ʥɔk	Variants
 144	Shergaon	ant	san-ʥɔk	san+ʥɔk		
 #
 145	Khispi	arrive	pʰɛt	pʰɛt		
@@ -231,7 +231,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 169	Khispi	ash	ʨʰu-pʰa	ʨʰu+pʰa		
 170	Duhumbi	ash	ʨʰu-pʰaˀ	ʨʰu+pʰaˀ		
 171	Khoina	ash	ʥɐ-pʰlu	ʥɐ+pʰlu		
-172	Jerigaon	ash	ʨʰa-pʰlu	ʨʰa+pʰlu		
+172	Jerigaon	ash	ʨʰɐ-pʰlu	ʨʰɐ+pʰlu		
 173	Khoitam	ash	ʨʰa-pʰlu	ʨʰa+pʰlu		
 174	Rahung	ash	ʨʰa-pʰru ~ ʨʰa-pʰlu	ʨʰa+pʰru	 ʨʰa-pʰlu	Variants
 175	Rupa	ash	ʨʰa-pʰlu	ʨʰa+pʰlu		
@@ -265,7 +265,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 203	Khoina	axe	pʰu-luˀ	pʰu+luˀ		
 204	Jerigaon	axe	pʰluˀ	pʰluˀ		
 205	Khoitam	axe	pʰluˀ	pʰluˀ		
-206	Rahung	axe	pʰruˀ	pʰruˀ		
+206	Rahung	axe	pʰɹuˀ	pʰɹuˀ		
 207	Rupa	axe	pʰluˀ	pʰluˀ		
 208	Shergaon	axe	pʰluˀ	pʰluˀ		
 #
@@ -283,7 +283,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 #
 225	Khispi	bad1	u-ʑan	u+ʑan		
 226	Duhumbi	bad1	u-ʑan	u+ʑan		
-227	Khoina	bad1	a-ʐɐ̃ː (-dy)	a+ʐɐ̃ː		
+227	Khoina	bad1	a-ʐɐ̃ː (-dyː)	a+ʐɐ̃ː		
 229	Khoitam	bad1	a-zɔ̃ː	a+zɔ̃ː		
 230	Rahung	bad1	a-zɔ̃ː	a+zɔ̃ː		
 231	Rupa	bad1	a-zɔ̃ː	a+zɔ̃ː		
@@ -323,7 +323,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 266	Duhumbi	bastard	dow-la	dow+la		
 267	Khoina	bastard	də-pʰlɐːʰ	də+pʰlɐːʰ		
 268	Jerigaon	bastard	du-flɐːʰ	du+flɐːʰ		
-269	Khoitam	bastard	du-pʰlɔːʰ ~ du-pʰlaːʰ	du+pʰlɔːʰ	 du-pʰlaːʰ	Variants
+269	Khoitam	bastard	du-pʰlɔːʰ	du+pʰlɔːʰ		
 270	Rahung	bastard	da-pʰlɔːʰ	da+pʰlɔːʰ		
 271	Rupa	bastard	də-pʰlɔːʰ	də+pʰlɔːʰ		
 272	Shergaon	bastard	də-pʰlɔː	də+pʰlɔː		
@@ -356,7 +356,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 297	Khispi	beat, hit	mak	mak		
 298	Duhumbi	beat, hit	mak	mak		
 299	Khoina	beat, hit	wɐk	wɐk		
-300	Jerigaon	beat, hit	wak	wak		
+300	Jerigaon	beat, hit	wɐk	wɐk		
 302	Rahung	beat, hit	mak	mak		
 303	Rupa	beat, hit	mak	mak		
 #
@@ -367,7 +367,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 #
 313	Khispi	bee	ʨʰi-kʰus a-ma	ʨʰi+kʰus_a+ma		
 314	Duhumbi	bee	ʨʰi-kʰus a-ma	ʨʰi+kʰus_a+ma		
-315	Khoina	bee	ʨʰə-xø-mɐː	ʨʰə+xø+mɐː		
+315	Khoina	bee	ʨʰə-xø-mɐːʰ	ʨʰə+xø+mɐːʰ		
 316	Jerigaon	bee	ʨʰə-kʰø-muː	ʨʰə+kʰø+muː		
 318	Rahung	bee	ʨʰaŋ-kʰø-əm	ʨʰaŋ+kʰø+əm		
 319	Rupa	bee	ʨʰə-kʰø-mɔː	ʨʰə+kʰø+mɔː		
@@ -378,7 +378,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 323	Khoina	beer filter	tʰɔk	tʰɔk		
 324	Jerigaon	beer filter	tʰɔk	tʰɔk		
 325	Khoitam	beer filter	tʰɔk	tʰɔk		
-326	Rahung	beer filter	tʰɔk(-broː)	tʰɔk		
+326	Rahung	beer filter	tʰɔk(-bɹoː)	tʰɔk		
 327	Rupa	beer filter	tʰɔk	tʰɔk		
 328	Shergaon	beer filter	(kʰi-)tʰɔk	tʰɔk		
 #
@@ -397,14 +397,14 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 347	Khoina	belly, abdomen	sə-rĩː	sə+rĩː		
 348	Jerigaon	belly, abdomen	sə-rĩː	sə+rĩː		
 349	Khoitam	belly, abdomen	pʰə-riŋ	pʰə+riŋ		
-350	Rahung	belly, abdomen	sə-ɾiŋ	sə+ɾiŋ		
+350	Rahung	belly, abdomen	sə-riŋ	sə+riŋ		
 351	Rupa	belly, abdomen	sə-riŋ	sə+riŋ		
 352	Shergaon	belly, abdomen	sə-riŋ	sə+riŋ		
 #
 353	Khispi	belt	bu-kʰak	bu+kʰak		
 354	Duhumbi	belt	bu-kʰak	bu+kʰak		
 355	Khoina	belt	bu-kʰɐk	bu+kʰɐk		
-356	Jerigaon	belt	mə-kʰak	mə+kʰak		
+356	Jerigaon	belt	mə-kʰɐk	mə+kʰɐk		
 357	Khoitam	belt	mə-kʰak	mə+kʰak		
 358	Rahung	belt	mə-kʰak	mə+kʰak		
 359	Rupa	belt	mə-kʰak	mə+kʰak		
@@ -442,7 +442,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 393	Khispi	bitter (vi)	ʨʰak	ʨʰak		
 394	Duhumbi	bitter (vi)	ʨʰak	ʨʰak		
 395	Khoina	bitter (vi)	a-ʨʰɐk	a+ʨʰɐk		
-396	Jerigaon	bitter (vi)	ʨʰak	ʨʰak		
+396	Jerigaon	bitter (vi)	ʨʰɐk	ʨʰɐk		
 397	Khoitam	bitter (vi)	ʨʰak	ʨʰak		
 398	Rahung	bitter (vi)	ʨʰak	ʨʰak		
 399	Rupa	bitter (vi)	cʰak ~ ʨʰak	cʰak	 ʨʰak	Variants
@@ -497,7 +497,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 448	Shergaon	boil  (water)	ʨʰaw	ʨʰaw		
 #
 449	Khispi	boil (n)	kʰaŋ-pa ~ kʰlaŋ-pa	kʰaŋ+pa	 kʰlaŋ-pa	Variants
-450	Duhumbi	boil (n)	kʰraŋ-pa	kʰraŋ+pa		
+450	Duhumbi	boil (n)	kʰɹaŋ-pa	kʰɹaŋ+pa		
 451	Khoina	boil (n)	gə-kʰaŋ	gə+kʰaŋ		
 453	Khoitam	boil (n)	kʰa-kʰaŋ	kʰa+kʰaŋ		
 454	Rahung	boil (n)	kʰaŋ-kʰaŋ	kʰaŋ+kʰaŋ		
@@ -552,10 +552,10 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 #
 505	Khispi	break	gɛt	gɛt		
 506	Duhumbi	break	gɛt	gɛt		
-507	Khoina	break	ʥɛ̰ʔ	ʥɛ̰ʔ		
-508	Jerigaon	break	ʨʰɛ̰ʔ	ʨʰɛ̰ʔ		
-509	Khoitam	break	ʥɛ̰ʔ ~ ʨʰɛ̰ʔ	ʥɛ̰ʔ	 ʨʰɛ̰ʔ	Variants
-510	Rahung	break	ʥɛ̰ʔ	ʥɛ̰ʔ		
+507	Khoina	break	ʥɛʔ	ʥɛʔ		
+508	Jerigaon	break	ʨʰɛʔ	ʨʰɛʔ		
+509	Khoitam	break	ʥɛʔ ~ ʨʰɛʔ	ʥɛʔ	 ʨʰɛʔ	Variants
+510	Rahung	break	ʥɛʔ	ʥɛʔ		
 511	Rupa	break	gat	gat		
 #
 513	Khispi	breast, milk	ɲiŋ ~ ɲuŋ	ɲiŋ	 ɲuŋ	Variants
@@ -624,7 +624,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 568	Shergaon	brother-in-law	a-raː	a+raː		
 #
 577	Khispi	buckwheat, bitter	jɛs-ma	jɛs+ma		
-578	Duhumbi	buckwheat, bitter	ʑa-ma ~ bra-ma	ʑa+ma	 bra-ma	Variants
+578	Duhumbi	buckwheat, bitter	ʑa-ma ~ bɹa-ma	ʑa+ma	 bɹa-ma	Variants
 579	Khoina	buckwheat, bitter	dza-m	dza+m		
 580	Jerigaon	buckwheat, bitter	ʥə-muː	ʥə+muː		
 581	Khoitam	buckwheat, bitter	ʥu-m	ʥu+m		
@@ -664,9 +664,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 623	Rupa	burn, roast (vt)	riː	riː		
 #
 625	Khispi	butter	mal	mal		
-626	Duhumbi	butter	mar	mar		
-627	Khoina	butter	mãː	mãː		
-628	Jerigaon	butter	mãː	mãː		
+626	Duhumbi	butter	maɹ	maɹ		
+627	Khoina	butter	mɐ̃ː	mɐ̃ː		
+628	Jerigaon	butter	mɐ̃ː	mɐ̃ː		
 629	Khoitam	butter	mɔ̃ː	mɔ̃ː		
 630	Rahung	butter	mɔ̃ː	mɔ̃ː		
 631	Rupa	butter	mɔ̃ː	mɔ̃ː		
@@ -676,7 +676,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 635	Khoina	butterfly	ʦʰam-pʰlɔ̃ː	ʦʰam+pʰlɔ̃ː		
 636	Jerigaon	butterfly	ʨʰam-blɔ̃ː ~ ʨʰam-pʰlɔ̃ː	ʨʰam+blɔ̃ː	 ʨʰam-pʰlɔ̃ː	Variants
 637	Khoitam	butterfly	ʨʰam-pʰlɔː	ʨʰam+pʰlɔː		
-638	Rahung	butterfly	ʨʰam-pʰɔr	ʨʰam+pʰɔr		
+638	Rahung	butterfly	ʨʰam-pʰɔɹ	ʨʰam+pʰɔɹ		
 639	Rupa	butterfly	ʦam-pyŋ ~ ʨam-pyŋ ~ ʨam-pliŋ	ʦam+pyŋ	 ʨam-pyŋ  ʨam-pliŋ	Variants
 640	Shergaon	butterfly	ʨʰam-pliŋ	ʨʰam+pliŋ		
 #
@@ -778,7 +778,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 730	Duhumbi	chicken	hɔː-ki ~ hu-ki	hɔː+ki	 hu-ki	Variants
 731	Khoina	chicken	bə-ʨʰaː	bə+ʨʰaː		
 732	Jerigaon	chicken	pʰ-ʨʰɛː	pʰ+ʨʰɛː		
-733	Khoitam	chicken	Pʰ-ʨʰɛː	Pʰ+ʨʰɛː		
+733	Khoitam	chicken	pʰ-ʨʰɛː	pʰ+ʨʰɛː		
 734	Rahung	chicken	pʰ-ʨʰɛː	pʰ+ʨʰɛː		
 735	Rupa	chicken	bə-cʰaː ~ bə-ʨʰaː	bə+cʰaː	 bə-ʨʰaː	Variants
 736	Shergaon	chicken	pʰ-ʨʰaː	pʰ+ʨʰaː		
@@ -826,7 +826,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 785	Khispi	cliff, ravine	ɕap ~ ɕak	ɕap	 ɕak	Variants
 786	Duhumbi	cliff, ravine	ɕak	ɕak		
 787	Khoina	cliff, ravine	ʦʰɐk	ʦʰɐk		
-788	Jerigaon	cliff, ravine	ʨʰak	ʨʰak		
+788	Jerigaon	cliff, ravine	ʨʰɐk	ʨʰɐk		
 789	Khoitam	cliff, ravine	ʨʰak	ʨʰak		
 790	Rahung	cliff, ravine	ʨʰak	ʨʰak		
 791	Rupa	cliff, ravine	ʦʰak ~ ʨʰak	ʦʰak	 ʨʰak	Variants
@@ -840,7 +840,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 #
 801	Khispi	clothing	wat	wat		
 802	Duhumbi	clothing	wat	wat		
-803	Khoina	clothing	jɐ	jɐ		
+803	Khoina	clothing	jɐˀ	jɐˀ		
 804	Jerigaon	clothing	jɐˀ	jɐˀ		
 805	Khoitam	clothing	jɔˀ	jɔˀ		
 806	Rahung	clothing	jɔˀ	jɔˀ		
@@ -951,7 +951,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 919	Rupa	cough (vi)	ʨʰyː	ʨʰyː		
 #
 921	Khispi	count	gaŋ	gaŋ		
-922	Duhumbi	count	graŋ	graŋ		
+922	Duhumbi	count	gɹaŋ	gɹaŋ		
 923	Khoina	count	dʐajk	dʐajk		
 924	Jerigaon	count	ʥɛk	ʥɛk		
 925	Khoitam	count	ʥɛk	ʥɛk		
@@ -965,7 +965,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 937	Khispi	creeper, vine	(mɛn-)tʰak	tʰak		
 938	Duhumbi	creeper, vine	(mɛn-)tʰak	tʰak		
 939	Khoina	creeper, vine	tʰɐk-kʰyː	tʰɐk+kʰyː		
-940	Jerigaon	creeper, vine	tʰak-kʰyː	tʰak+kʰyː		
+940	Jerigaon	creeper, vine	tʰɐk-kʰyː	tʰɐk+kʰyː		
 941	Khoitam	creeper, vine	tʰak-kʰyː	tʰak+kʰyː		
 942	Rahung	creeper, vine	tʰak-kʰyː	tʰak+kʰyː		
 944	Shergaon	creeper, vine	tʰak-kʰiː	tʰak+kʰiː		
@@ -1032,14 +1032,14 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 #
 1009	Khispi	daughter-in-law	u-ʨʰam	u+ʨʰam		
 1010	Duhumbi	daughter-in-law	u-ʨʰam	u+ʨʰam		
-1011	Khoina	daughter-in-law	a-tɕʰan	a+tɕʰan		
+1011	Khoina	daughter-in-law	a-ʨʰan	a+ʨʰan		
 1013	Khoitam	daughter-in-law	a-ʨʰam	a+ʨʰam		
 1014	Rahung	daughter-in-law	a-ʨʰam	a+ʨʰam		
 1015	Rupa	daughter-in-law	a-ʨʰam	a+ʨʰam		
 #
 1018	Duhumbi	day after tomorrow	lɔw-la	lɔw+la		
 1019	Khoina	day after tomorrow	lə-luː	lə+luː		
-1020	Jerigaon	day after tomorrow	len-lu	len+lu		
+1020	Jerigaon	day after tomorrow	lɛn-lu	lɛn+lu		
 1021	Khoitam	day after tomorrow	luŋ-luː	luŋ+luː		
 1022	Rahung	day after tomorrow	luŋ-luː	luŋ+luː		
 1023	Rupa	day after tomorrow	li-luː	li+luː		
@@ -1048,14 +1048,14 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 1025	Khispi	day after two days	lɔw-ki	lɔw+ki		
 1026	Duhumbi	day after two days	lɔw-kiˀ	lɔw+kiˀ		
 1027	Khoina	day after two days	lə-ʨik	lə+ʨik		
-1028	Jerigaon	day after two days	len-ʨik	len+ʨik		
+1028	Jerigaon	day after two days	lɛn-ʨik	lɛn+ʨik		
 1029	Khoitam	day after two days	liŋ-ʨik	liŋ+ʨik		
 1030	Rahung	day after two days	nin-ʨik	nin+ʨik		
 1031	Rupa	day after two days	liŋ-kit	liŋ+kit		
 1032	Shergaon	day after two days	liŋ-kʰit	liŋ+kʰit		
 #
 1034	Duhumbi	day before two days	dɛj-kiˀ-ni	dɛj+kiˀ+ni		
-1035	Khoina	day before two days	di-ʧik-ri	di+ʧik+ri		
+1035	Khoina	day before two days	di-ʨik-ri	di+ʨik+ri		
 1036	Jerigaon	day before two days	si-ʨik-hi	si+ʨik+hi		
 1039	Rupa	day before two days	di-kʰit-ni	di+kʰit+ni		
 1040	Shergaon	day before two days	tʰi-kʰik-ni	tʰi+kʰik+ni		
@@ -1063,7 +1063,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 1041	Khispi	day before yesterday	dɔ-kʰɔ-ni	dɔ+kʰɔ+ni		
 1042	Duhumbi	day before yesterday	dɔ-kʰɔ-ni	dɔ+kʰɔ+ni		
 1043	Khoina	day before yesterday	tʰ-kʰɔk-niː	tʰ+kʰɔk+niː		
-1044	Jerigaon	day before yesterday	to-kʰo-hi	to+kʰo+hi		
+1044	Jerigaon	day before yesterday	to-kʰok-hi	to+kʰok+hi		
 1045	Khoitam	day before yesterday	kʰɔk-niː	kʰɔk+niː		
 1046	Rahung	day before yesterday	kʰɔk-nə-hɔ	kʰɔk+nə+hɔ		
 1047	Rupa	day before yesterday	do-kʰok-ni	do+kʰok+ni		
@@ -1210,7 +1210,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 #
 1209	Khispi	dry (adj.)	wal ~ ɔ-wal	wal	 ɔ-wal	Variants
 1210	Duhumbi	dry (adj.)	wa-aɹ	wa+aɹ		
-1211	Khoina	dry (adj.)	ɔ-ɐ͂ː	ɔ+ɐ͂ː		
+1211	Khoina	dry (adj.)	ɔ-ɐ̃ː	ɔ+ɐ̃ː		
 1212	Jerigaon	dry (adj.)	yk-ɐ̃ː	yk+ɐ̃ː		
 1213	Khoitam	dry (adj.)	yk-ɔ̃ː	yk+ɔ̃ː		
 1214	Rahung	dry (adj.)	ɔ-ɔ̃ː	ɔ+ɔ̃ː		
@@ -1218,7 +1218,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 1216	Shergaon	dry (adj.)	ɔ-ɔ̃ː	ɔ+ɔ̃ː		
 #
 1217	Khispi	dry, dry up (v.i.)	al	al		
-1218	Duhumbi	dry, dry up (v.i.)	ar	ar		
+1218	Duhumbi	dry, dry up (v.i.)	aɹ	aɹ		
 1220	Jerigaon	dry, dry up (v.i.)	ɐ̃ː	ɐ̃ː		
 1223	Rupa	dry, dry up (v.i.)	ɔ̃ː	ɔ̃ː		
 #
@@ -1248,7 +1248,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 1252	Jerigaon	earthworm	tʰlak-kʰlaː ~ də-kʰlak-kʰlaː	tʰlak+kʰlaː	 də-kʰlak-kʰlaː	Variants
 1253	Khoitam	earthworm	pʰ-tʰaŋ-hɔ̃ː ~ pi-taŋ-hɔ̃ː	pʰ+tʰaŋ+hɔ̃ː	 pi-taŋ-hɔ̃ː	Variants
 1254	Rahung	earthworm	tɔ̃-hɔ̃ː	tɔ̃+hɔ̃ː		
-1255	Rupa	earthworm	pʰy dɔ̃(ŋ)hɔ̃ː	pʰy_dɔ̃hɔ̃ː		
+1255	Rupa	earthworm	pʰyː dɔ̃(ŋ)hɔ̃ː	pʰyː_dɔ̃hɔ̃ː		
 #
 1257	Khispi	eat	ʨʰa	ʨʰa		
 1258	Duhumbi	eat	ʨʰa	ʨʰa		
@@ -1276,18 +1276,18 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 1279	Rupa	eggplant	man-tʰoː	man+tʰoː		
 1280	Shergaon	eggplant	ban-tʰoː	ban+tʰoː		
 #
-1281	Khispi	eight	sar-gɛː	sar+gɛː		
-1282	Duhumbi	eight	sar-gɛˀ	sar+gɛˀ		
-1283	Khoina	eight	sar-gɛʔ ~ sar-ʥɛʔ	sar+gɛʔ	 sar-ʥɛʔ	Variants
-1284	Jerigaon	eight	sar-gɛʔ	sar+gɛʔ		
-1285	Khoitam	eight	sar-ʥɛʔ	sar+ʥɛʔ		
-1286	Rahung	eight	sar-ʥɛʔ	sar+ʥɛʔ		
-1287	Rupa	eight	sar-ɟat ~ sar-ʥat	sar+ɟat	 sar-ʥat	Variants
-1288	Shergaon	eight	sar-ɟat	sar+ɟat		
+1281	Khispi	eight	saɹ-gɛː	saɹ+gɛː		
+1282	Duhumbi	eight	saɹ-gɛˀ	saɹ+gɛˀ		
+1283	Khoina	eight	saɹ-gɛʔ ~ saɹ-ʥɛʔ	saɹ+gɛʔ	 saɹ-ʥɛʔ	Variants
+1284	Jerigaon	eight	saɹ-gɛʔ	saɹ+gɛʔ		
+1285	Khoitam	eight	saɹ-ʥɛʔ	saɹ+ʥɛʔ		
+1286	Rahung	eight	saɹ-ʥɛʔ	saɹ+ʥɛʔ		
+1287	Rupa	eight	saɹ-ɟat ~ saɹ-ʥat	saɹ+ɟat	 saɹ-ʥat	Variants
+1288	Shergaon	eight	saɹ-ʥat	saɹ+ʥat		
 #
 1290	Duhumbi	elbow	ki-lik-pa	ki+lik+pa		
-1291	Khoina	elbow	ji ʦə-ry	ji_ʦə+ry		
-1292	Jerigaon	elbow	ik ʨə-ry	ik_ʨə+ry		
+1291	Khoina	elbow	ji ʦə-ryː	ji_ʦə+ryː		
+1292	Jerigaon	elbow	ik ʨə-ryː	ik_ʨə+ryː		
 1293	Khoitam	elbow	ik kə-li	ik_kə+li		
 1294	Rahung	elbow	ik kə-ri	ik_kə+ri		
 1295	Rupa	elbow	ik kə-li	ik_kə+li		
@@ -1454,11 +1454,11 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 1472	Shergaon	field	rɛk(-saŋ)	rɛk		
 #
 1473	Khispi	finger	hut ɕa-da	hut_ɕa+da		
-1474	Duhumbi	finger	hut bra-ma	hut_bra+ma		
+1474	Duhumbi	finger	hut bɹa-ma	hut_bɹa+ma		
 1475	Khoina	finger	ik a-du	ik_a+du		
 1476	Jerigaon	finger	ik a-du	ik_a+du		
-1477	Khoitam	finger	ik brɔm	ik_brɔm		
-1478	Rahung	finger	ik prø-muŋ ~ ik-brɔm	ik_prø+muŋ	 ik-brɔm	Variants
+1477	Khoitam	finger	ik bɹɔm	ik_bɹɔm		
+1478	Rahung	finger	ik pɹø-muŋ ~ ik-bɹɔm	ik_pɹø+muŋ	 ik-bɹɔm	Variants
 1479	Rupa	finger	ik ʦʰik ~ ik-ʨʰik ~ ik-ʨʰĩː	ik_ʦʰik	 ik-ʨʰik  ik-ʨʰĩː	Variants
 #
 1481	Khispi	fire	bej	bej		
@@ -1553,8 +1553,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 #
 1577	Khispi	food	hɔj	hɔj		
 1579	Khoina	food	haː	haː		
-1580	Jerigaon	food	hɛ̃̄ː	hɛ̃̄ː		
-1581	Khoitam	food	hɛ̃ˊˀ	hɛ̃ˊˀ		
+1580	Jerigaon	food	hɛ̃ː	hɛ̃ː		
+1581	Khoitam	food	hɛ̃ˀ	hɛ̃ˀ		
 1582	Rahung	food	hɛˀ	hɛˀ		
 1583	Rupa	food	haˀ ~ haː	haˀ	 haː	Variants
 1584	Shergaon	food	haː	haː		
@@ -1580,7 +1580,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 #
 1609	Khispi	forget	(ganʥi) pʰak	pʰak		
 1611	Khoina	forget	pʰlɐk	pʰlɐk		
-1612	Jerigaon	forget	pʰlak	pʰlak		
+1612	Jerigaon	forget	pʰlɐk	pʰlɐk		
 1613	Khoitam	forget	pʰlak	pʰlak		
 1614	Rahung	forget	pʰrak	pʰrak		
 1615	Rupa	forget	pʰlak	pʰlak		
@@ -1638,11 +1638,11 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 1672	Shergaon	full	pʰiŋ	pʰiŋ		
 #
 1673	Khispi	gall, bile	ɕa-ɕi	ɕa+ɕi		
-1675	Khoina	gall, bile	a-ʦʰiʰ	a+ʦʰiʰ		
-1676	Jerigaon	gall, bile	a-ʨʰiʰ	a+ʨʰiʰ		
-1677	Khoitam	gall, bile	a-ʨʰiʰ	a+ʨʰiʰ		
-1678	Rahung	gall, bile	a-ʨʰiʰ	a+ʨʰiʰ		
-1679	Rupa	gall, bile	a-ʨʰiʰ	a+ʨʰiʰ		
+1675	Khoina	gall, bile	a-ʦʰi	a+ʦʰi		
+1676	Jerigaon	gall, bile	a-ʨʰi	a+ʨʰi		
+1677	Khoitam	gall, bile	a-ʨʰi	a+ʨʰi		
+1678	Rahung	gall, bile	a-ʨʰi	a+ʨʰi		
+1679	Rupa	gall, bile	a-ʨʰi	a+ʨʰi		
 1680	Shergaon	gall, bile	a-ʨʰi	a+ʨʰi		
 #
 1681	Khispi	garden	suɹ-ʨʰuɹ	suɹ+ʨʰuɹ		
@@ -1652,7 +1652,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 1689	Khispi	garlic	maŋ	maŋ		
 1690	Duhumbi	garlic	maŋ	maŋ		
 1691	Khoina	garlic	ma-siŋ	ma+siŋ		
-1692	Jerigaon	garlic	mɔr-siŋ	mɔr+siŋ		
+1692	Jerigaon	garlic	mɔɹ-siŋ	mɔɹ+siŋ		
 1693	Khoitam	garlic	mɔ-siŋ	mɔ+siŋ		
 1695	Rupa	garlic	mɔŋ-siŋ	mɔŋ+siŋ		
 1696	Shergaon	garlic	mɔŋ-siŋ	mɔŋ+siŋ		
@@ -1664,7 +1664,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 1701	Khoitam	give	ʨʰiː	ʨʰiː		
 1702	Rahung	give	ʨʰiː	ʨʰiː		
 1703	Rupa	give	ʨʰiː  ~ ʣiː	ʨʰiː	 ʣiː	Variants
-1704	Shergaon	give	cʰiː	cʰiː		
+1704	Shergaon	give	ʨʰiː	ʨʰiː		
 #
 1705	Khispi	go	ɔŋ	ɔŋ		
 1706	Duhumbi	go	ɔŋ	ɔŋ		
@@ -1728,7 +1728,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 1771	Khoina	grandmother	a-jɐʰ	a+jɐʰ		
 1772	Jerigaon	grandmother	a-jɐʰ	a+jɐʰ		
 1773	Khoitam	grandmother	a-jɔʰ	a+jɔʰ		
-1774	Rahung	grandmother	A-jɔʰ	A+jɔʰ		
+1774	Rahung	grandmother	a-jɔʰ	a+jɔʰ		
 1775	Rupa	grandmother	a-jɔʰ	a+jɔʰ		
 1776	Shergaon	grandmother	a-jiː	a+jiː		
 #
@@ -1759,7 +1759,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 1806	Rahung	hail	niŋ  ~ niŋ nam-bruː	niŋ	 niŋ nam-bruː	Variants
 1807	Rupa	hail	ny-jyŋ	ny+jyŋ		
 #
-1809	Khispi	hair (body): feather	mul ~ mur	mul	 mur	Variants
+1809	Khispi	hair (body): feather	mul ~ muɹ	mul	 muɹ	Variants
 1811	Khoina	hair (body): feather	a-miŋ	a+miŋ		
 1812	Jerigaon	hair (body): feather	a-miŋ	a+miŋ		
 1813	Khoitam	hair (body): feather	a-miŋ	a+miŋ		
@@ -1873,7 +1873,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 1927	Rupa	horn	kʰɛŋ	kʰɛŋ		
 1928	Shergaon	horn	kʰɛŋ	kʰɛŋ		
 #
-1931	Khoina	hornbill	ʨʰa-lu-wɔ̃ːʹ(ŋ)	ʨʰa+lu+wɔ̃ːʹ		
+1931	Khoina	hornbill	ʨʰa-lu-wɔ̃ː(ŋ)	ʨʰa+lu+wɔ̃ː		
 1933	Khoitam	hornbill	pʰu-lũː(ŋ)	pʰu+lũː		
 1934	Rahung	hornbill	hu-lũŋ	hu+lũŋ		
 1935	Rupa	hornbill	də-wɔŋ	də+wɔŋ		
@@ -1912,7 +1912,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 1971	Khoina	how many	nə-pʰaː hɛn	nə+pʰaː_hɛn		
 1974	Rahung	how many	mə-pʰɛː-hɛn	mə+pʰɛː+hɛn		
 1975	Rupa	how many	ɲə-pãj-jaː-aː  ~ ja-pãj	ɲə+pãj+jaː+aː	 ja-pãj	Variants
-1976	Shergaon	how many	nə-pà̄-n	nə+pà̄+n		
+1976	Shergaon	how many	nə-pa-n	nə+pa+n		
 #
 1977	Khispi	human being	bu-dun	bu+dun		
 1978	Duhumbi	human being	bu-dun	bu+dun		
@@ -2043,7 +2043,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 #
 2129	Khispi	kill	at	at		
 2130	Duhumbi	kill	at	at		
-2131	Khoina	kill	ɐ	ɐ		
+2131	Khoina	kill	ɐˀ	ɐˀ		
 2132	Jerigaon	kill	ɐˀ	ɐˀ		
 2133	Khoitam	kill	ɔˀ	ɔˀ		
 2134	Rahung	kill	ɔˀ	ɔˀ		
@@ -2059,8 +2059,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 #
 2145	Khispi	knee	kɔː-lɔk-pa	kɔː+lɔk+pa		
 2146	Duhumbi	knee	kɔː-lɔk-pa	kɔː+lɔk+pa		
-2147	Khoina	knee	ja-pʰyk kraː	ja+pʰyk_kraː		
-2148	Jerigaon	knee	la-pʰyk kriː	la+pʰyk_kriː		
+2147	Khoina	knee	ja-pʰyk kɹaː	ja+pʰyk_kɹaː		
+2148	Jerigaon	knee	la-pʰyk kɹiː	la+pʰyk_kɹiː		
 2149	Khoitam	knee	lə-pʰik-kʰɔm ~ lə-kʰyk-kʰɔm	lə+pʰik+kʰɔm	 lə-kʰyk-kʰɔm	Variants
 2150	Rahung	knee	la-pʰik-kʰɔm ~ la-pʰik-kʰøm	la+pʰik+kʰɔm	 la-pʰik-kʰøm	Variants
 2151	Rupa	knee	lə-pʰyk ~ lə-fyk	lə+pʰyk	 lə-fyk	Variants
@@ -2146,10 +2146,10 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 #
 2225	Khispi	leech, land	pat-pa	pat+pa		
 2226	Duhumbi	leech, land	pat-pa	pat+pa		
-2227	Khoina	leech, land	pʰa-wɛ̰	pʰa+wɛ̰		
-2228	Jerigaon	leech, land	pʰy-wɛ̰	pʰy+wɛ̰		
+2227	Khoina	leech, land	pʰa-wɛ	pʰa+wɛ		
+2228	Jerigaon	leech, land	pʰy-wɛ	pʰy+wɛ		
 2229	Khoitam	leech, land	pʰu-wap	pʰu+wap		
-2230	Rahung	leech, land	pʰə-pʰɛ̰	pʰə+pʰɛ̰		
+2230	Rahung	leech, land	pʰə-pʰɛ	pʰə+pʰɛ		
 2231	Rupa	leech, land	pʰu-wat	pʰu+wat		
 2232	Shergaon	leech, land	pat-pu	pat+pu		
 #
@@ -2158,7 +2158,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 2236	Jerigaon	leech, water	pʰyː pʰ-ʨʰik	pʰyː_pʰ+ʨʰik		
 2237	Khoitam	leech, water	pʰ-ʨʰik	pʰ+ʨʰik		
 2238	Rahung	leech, water	pʰ-ʨʰik	pʰ+ʨʰik		
-2240	Shergaon	leech, water	ʨʰin-ʨʰrik	ʨʰin+ʨʰrik		
+2240	Shergaon	leech, water	ʨʰin-ʨʰɹik	ʨʰin+ʨʰɹik		
 #
 2241	Khispi	left (side)	ɲim-lak-pa ~ ɲim-dak-pa	ɲim+lak+pa	 ɲim-dak-pa	Variants
 2242	Duhumbi	left (side)	jɔm-lak-pa	jɔm+lak+pa		
@@ -2181,7 +2181,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 2257	Khispi	lick	lak	lak		
 2258	Duhumbi	lick	lak	lak		
 2259	Khoina	lick	lɐk	lɐk		
-2260	Jerigaon	lick	lak	lak		
+2260	Jerigaon	lick	lɐk	lɐk		
 2261	Khoitam	lick	lak	lak		
 2262	Rahung	lick	lak	lak		
 #
@@ -2224,7 +2224,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 2305	Khispi	liquor	pʰak	pʰak		
 2306	Duhumbi	liquor	pʰak	pʰak		
 2307	Khoina	liquor	pʰɐk	pʰɐk		
-2308	Jerigaon	liquor	pʰak	pʰak		
+2308	Jerigaon	liquor	pʰɐk	pʰɐk		
 2309	Khoitam	liquor	pʰak	pʰak		
 2310	Rahung	liquor	pʰak	pʰak		
 2311	Rupa	liquor	pʰak	pʰak		
@@ -2292,9 +2292,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 2375	Rupa	louse	hɛk	hɛk		
 2376	Shergaon	louse	hɛk	hɛk		
 #
-2379	Khoina	lungs	sə-rĩ sə-ruk	sə+rĩ_sə+ruk		
-2380	Jerigaon	lungs	sə-rə̃ĩ sə-ruk	sə+rə̃ĩ_sə+ruk		
-2381	Khoitam	lungs	sə-rĩ sə-ruk	sə+rĩ_sə+ruk		
+2379	Khoina	lungs	sə-rĩː sə-ruk	sə+rĩː_sə+ruk		
+2380	Jerigaon	lungs	sə-rɛ̃ĩ sə-ruk	sə+rɛ̃ĩ_sə+ruk		
+2381	Khoitam	lungs	sə-rĩː sə-ruk	sə+rĩː_sə+ruk		
 2382	Rahung	lungs	su sə-ruk	su_sə+ruk		
 2383	Rupa	lungs	sə-lyŋ sə-ruk	sə+lyŋ_sə+ruk		
 2384	Shergaon	lungs	sə-luŋ sə-ruk	sə+luŋ_sə+ruk		
@@ -2509,7 +2509,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 #
 2617	Khispi	mud	kʰa-ʨʰam	kʰa+ʨʰam		
 2618	Duhumbi	mud	kʰa-ʨʰam	kʰa+ʨʰam		
-2619	Khoina	mud	ga-ʦʰy	ga+ʦʰy		
+2619	Khoina	mud	ga-ʦʰyː	ga+ʦʰyː		
 2620	Jerigaon	mud	kʰ-ʨʰɔ̃ː(ŋ)	kʰ+ʨʰɔ̃ː		
 2621	Khoitam	mud	kʰ-ʨʰũː(ŋ)	kʰ+ʨʰũː		
 2622	Rahung	mud	kʰ-ʨʰũː(ŋ)	kʰ+ʨʰũː		
@@ -2665,7 +2665,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 2783	Rupa	oil	tʰoː	tʰoː		
 2784	Shergaon	oil	tʰoː	tʰoː		
 #
-2785	Khispi	okay	aj ~ eː	aj	 eː	Variants
+2785	Khispi	okay	aj ~ e	aj	 e	Variants
 2786	Duhumbi	okay	aj	aj		
 2788	Jerigaon	okay	ɐː	ɐː		
 2789	Khoitam	okay	ɔː	ɔː		
@@ -2704,7 +2704,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 2823	Rupa	other	ə-bɛː	ə+bɛː		
 #
 2827	Khoina	otter	nə-mɐk	nə+mɐk		
-2828	Jerigaon	otter	ny-mak ~ nə-mak	ny+mak	 nə-mak	Variants
+2828	Jerigaon	otter	ny-mɐk ~ nə-mak	ny+mɐk	 nə-mak	Variants
 2829	Khoitam	otter	ny-mak	ny+mak		
 2830	Rahung	otter	ny-mak ~ ni-mak	ny+mak	 ni-mak	Variants
 2831	Rupa	otter	ɲə-mak ~ ɲy-mak	ɲə+mak	 ɲy-mak	Variants
@@ -2719,16 +2719,16 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 #
 2841	Khispi	palm, sole1	pʰa-la	pʰa+la		
 2842	Duhumbi	palm, sole1	pʰa-ɹa	pʰa+ɹa		
-2845	Khoitam	palm, sole1	ik-par	ik+par		
-2846	Rahung	palm, sole1	ik-par	ik+par		
-2847	Rupa	palm, sole1	la ʦa-par	la_ʦa+par		
-2848	Shergaon	palm, sole1	ik-par	ik+par		
+2845	Khoitam	palm, sole1	ik-paɹ	ik+paɹ		
+2846	Rahung	palm, sole1	ik-paɹ	ik+paɹ		
+2847	Rupa	palm, sole1	la ʦa-paɹ	la_ʦa+paɹ		
+2848	Shergaon	palm, sole1	ik-paɹ	ik+paɹ		
 #
 2851	Khoina	palm, sole2	ik-tʰɔ̃ː	ik+tʰɔ̃ː		
 2852	Jerigaon	palm, sole2	ik-tʰɔ̃ː(ŋ)	ik+tʰɔ̃ː		
 2855	Rupa	palm, sole2	ik-tʰũː(ŋ)	ik+tʰũː		
 #
-2859	Khoina	pangolin	ry-wøːʰ	ry+wøːʰ		
+2859	Khoina	pangolin	ry-wøː	ry+wøː		
 2861	Khoitam	pangolin	sy-wɛːʰ	sy+wɛːʰ		
 2862	Rahung	pangolin	su-wɛːʰ	su+wɛːʰ		
 #
@@ -2766,7 +2766,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 2897	Khispi	penis	lak	lak		
 2898	Duhumbi	penis	lak	lak		
 2899	Khoina	penis	lɐk	lɐk		
-2900	Jerigaon	penis	lak	lak		
+2900	Jerigaon	penis	lɐk	lɐk		
 2901	Khoitam	penis	lak	lak		
 2902	Rahung	penis	lak	lak		
 2903	Rupa	penis	lak	lak		
@@ -2788,7 +2788,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 2921	Khispi	pig	ɕa-bak	ɕa+bak		
 2922	Duhumbi	pig	ɕa-bak	ɕa+bak		
 2923	Khoina	pig	ʂu-wɐk	ʂu+wɐk		
-2924	Jerigaon	pig	s-wak ~ sə-wak	s+wak	 sə-wak	Variants
+2924	Jerigaon	pig	s-wɐk ~ sə-wɐk	s+wɐk	 sə-wɐk	Variants
 2925	Khoitam	pig	su-wak	su+wak		
 2926	Rahung	pig	su-wak	su+wak		
 2927	Rupa	pig	su-wak	su+wak		
@@ -2831,7 +2831,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 2963	Khoina	plant  (vt)	hɐː	hɐː		
 2965	Khoitam	plant  (vt)	lɔː	lɔː		
 2966	Rahung	plant  (vt)	lɔː	lɔː		
-2967	Rupa	plant  (vt)	lɔ̅	lɔ̅		
+2967	Rupa	plant  (vt)	lɔ	lɔ		
 #
 2969	Khispi	play	lej	lej		
 2970	Duhumbi	play	lɛj	lɛj		
@@ -2910,10 +2910,10 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 3057	Khispi	pulse	ɕak-pu	ɕak+pu		
 3058	Duhumbi	pulse	ɕak-pu	ɕak+pu		
 3059	Khoina	pulse	ɕɐk-pyː	ɕɐk+pyː		
-3060	Jerigaon	pulse	sak-pyː	sak+pyː		
+3060	Jerigaon	pulse	sɐk-pyː	sɐk+pyː		
 3061	Khoitam	pulse	sak-pyː	sak+pyː		
 3062	Rahung	pulse	sak-pyː	sak+pyː		
-3063	Rupa	pulse	sak-pyː/-p-́ː	sak+pyː	-p-́ː	Variants
+3063	Rupa	pulse	sak-pyː	sak+pyː		
 3064	Shergaon	pulse	sak-piː	sak+piː		
 #
 3065	Khispi	pumpkin	buŋ-ɕa	buŋ+ɕa		
@@ -2927,12 +2927,12 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 #
 3081	Khispi	pus	haj	haj		
 3082	Duhumbi	pus	haj	haj		
-3083	Khoina	pus	a-nɐ̃̅	a+nɐ̃̅		
-3084	Jerigaon	pus	a-nɐ̃̅ʰ	a+nɐ̃̅ʰ		
-3085	Khoitam	pus	a-nɔ̅̃ʰ	a+nɔ̅̃ʰ		
-3086	Rahung	pus	a-nɔ̃̅ʰ	a+nɔ̃̅ʰ		
-3087	Rupa	pus	a-nɔ̅ ~ ɔ-nɔ̅	a+nɔ̅	 ɔ-nɔ̅	Variants
-3088	Shergaon	pus	a-nɔ̅	a+nɔ̅		
+3083	Khoina	pus	a-nɐ̃ʰ	a+nɐ̃ʰ		
+3084	Jerigaon	pus	a-nɐ̃ʰ	a+nɐ̃ʰ		
+3085	Khoitam	pus	a-nɔ̃ʰ	a+nɔ̃ʰ		
+3086	Rahung	pus	a-nɔ̃ʰ	a+nɔ̃ʰ		
+3087	Rupa	pus	a-nɔ ~ ɔ-nɔ	a+nɔ	 ɔ-nɔ	Variants
+3088	Shergaon	pus	a-nɔ	a+nɔ		
 #
 3089	Khispi	push	du	du		
 3090	Duhumbi	push	du	du		
@@ -2954,9 +2954,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 3105	Khispi	quarrel (v)	aj ɕɔŋ	aj_ɕɔŋ		
 3106	Duhumbi	quarrel (v)	aj ɕɔŋ	aj_ɕɔŋ		
 3107	Khoina	quarrel (v)	ja iː	ja_iː		
-3108	Jerigaon	quarrel (v)	jɛˀ ḭː ~ aˀ ḭː	jɛˀ_ḭː	 aˀ ḭː	Variants
-3109	Khoitam	quarrel (v)	jɛˀ ḭː	jɛˀ_ḭː		
-3110	Rahung	quarrel (v)	jɛˀ ḭː	jɛˀ_ḭː		
+3108	Jerigaon	quarrel (v)	jɛˀ iː ~ aˀ iː	jɛˀ_iː	 aˀ iː	Variants
+3109	Khoitam	quarrel (v)	jɛˀ iː	jɛˀ_iː		
+3110	Rahung	quarrel (v)	jɛˀ iː	jɛˀ_iː		
 3111	Rupa	quarrel (v)	ja di	ja_di		
 #
 3113	Khispi	question	ja	ja		
@@ -2971,7 +2971,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 3124	Jerigaon	quiver	zi	zi		
 3125	Khoitam	quiver	zi	zi		
 3126	Rahung	quiver	zi	zi		
-3127	Rupa	quiver	zə-zy ~ zi	zə+zy	 zi	Variants
+3127	Rupa	quiver	zə-zyː ~ zi	zə+zyː	 zi	Variants
 3128	Shergaon	quiver	zi-li	zi+li		
 #
 3129	Khispi	radish	mu-la	mu+la		
@@ -3054,7 +3054,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 3224	Shergaon	rice, unhusked, paddy	ni-seː	ni+seː		
 #
 3225	Khispi	ride, mount	il	il		
-3226	Duhumbi	ride, mount	ir	ir		
+3226	Duhumbi	ride, mount	iɹ	iɹ		
 3231	Rupa	ride, mount	ɛ̃ː(n)	ɛ̃ː		
 #
 3233	Khispi	right	u-ɕu	u+ɕu		
@@ -3078,7 +3078,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 3249	Khispi	roof	wam-ʨʰa	wam+ʨʰa		
 3250	Duhumbi	roof	wam-ʨʰa	wam+ʨʰa		
 3251	Khoina	roof	jam ʦʰɔ̃ː(ŋ)	jam_ʦʰɔ̃ː		
-3252	Jerigaon	roof	v	v		
 3253	Khoitam	roof	nam bə-ʨʰũː	nam_bə+ʨʰũː		
 3254	Rahung	roof	jam-ʨʰũː(ŋ)	jam+ʨʰũː		
 3255	Rupa	roof	jam-ʦʰɔŋ	jam+ʦʰɔŋ		
@@ -3092,7 +3091,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 3265	Khispi	rope	tʰak	tʰak		
 3266	Duhumbi	rope	tʰak	tʰak		
 3267	Khoina	rope	ɕ-tʰɐk	ɕ+tʰɐk		
-3268	Jerigaon	rope	s-tʰak	s+tʰak		
+3268	Jerigaon	rope	s-tʰɐk	s+tʰɐk		
 3269	Khoitam	rope	tʰak	tʰak		
 3270	Rahung	rope	tʰak	tʰak		
 3271	Rupa	rope	tʰak	tʰak		
@@ -3108,12 +3107,12 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 3280	Shergaon	rot (vi)	hɔ̃ː	hɔ̃ː		
 #
 3281	Khispi	round, small object	bu	bu		
-3282	Duhumbi	round, small object	bru	bru		
+3282	Duhumbi	round, small object	bɹu	bɹu		
 3283	Khoina	round, small object	lak a-byː	lak_a+byː		
 3285	Khoitam	round, small object	bɹɔː	bɹɔː		
-3286	Rahung	round, small object	suk a-by	suk_a+by		
-3287	Rupa	round, small object	lak a-bryː	lak_a+bryː		
-3288	Shergaon	round, small object	lak a-bryː	lak_a+bryː		
+3286	Rahung	round, small object	suk a-byː	suk_a+byː		
+3287	Rupa	round, small object	lak a-bɹyː	lak_a+bɹyː		
+3288	Shergaon	round, small object	lak a-bɹyː	lak_a+bɹyː		
 #
 3291	Khoina	rub	nyŋ	nyŋ		
 3292	Jerigaon	rub	nyŋ	nyŋ		
@@ -3182,7 +3181,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 3367	Rupa	scratch1	dɔk	dɔk		
 3368	Shergaon	scratch1	dɔk	dɔk		
 #
-3372	Jerigaon	scratch2	hø̃ː	hø̃ː		
+3372	Jerigaon	scratch2	høː	høː		
 3373	Khoitam	scratch2	hĩː	hĩː		
 3374	Rahung	scratch2	hyː	hyː		
 3375	Rupa	scratch2	hɔːŋ	hɔːŋ		
@@ -3221,7 +3220,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 3409	Khispi	settle	ʨʰak	ʨʰak		
 3410	Duhumbi	settle	ʨʰak	ʨʰak		
 3411	Khoina	settle	ʐɔ	ʐɔ		
-3412	Jerigaon	settle	tɾɔk	tɾɔk		
+3412	Jerigaon	settle	tɹɔk	tɹɔk		
 3413	Khoitam	settle	ʨʰak	ʨʰak		
 3414	Rahung	settle	ʨʰak	ʨʰak		
 3415	Rupa	settle	ʦʰak ~ ʨʰak	ʦʰak	 ʨʰak	Variants
@@ -3255,7 +3254,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 3449	Khispi	shake2	tʰup kʰin	tʰup_kʰin		
 3450	Duhumbi	shake2	kʰin	kʰin		
 3451	Khoina	shake2	maŋ-kʰi kʰi	maŋ+kʰi_kʰi		
-3453	Khoitam	shake2	nam kri	nam_kri		
+3453	Khoitam	shake2	nam kɹi	nam_kɹi		
 3455	Rupa	shake2	nə-myː kʰi	nə+myː_kʰi		
 #
 3457	Khispi	sharp1	u-ɕu ~ u-ɕaŋ	u+ɕu	 u-ɕaŋ	Variants
@@ -3347,7 +3346,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 3562	Duhumbi	sing	tɛj	tɛj		
 3563	Khoina	sing	taː	taː		
 3564	Jerigaon	sing	tɛː	tɛː		
-3565	Khoitam	sing	tɛ̰ː	tɛ̰ː		
+3565	Khoitam	sing	tɛː	tɛː		
 3567	Rupa	sing	taː	taː		
 #
 3577	Khispi	sister, elder	a-wu	a+wu		
@@ -3356,7 +3355,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 3580	Jerigaon	sister, elder	a-byː	a+byː		
 #
 3585	Khispi	sister, younger1	ɔ-nɔw-ma	ɔ+nɔw+ma		
-3586	Duhumbi	sister, younger1	a-nuː  ~ ɔ-nɔw	a+nuː	 ɔ-nɔw	Variants
+3586	Duhumbi	sister, younger1	a-nu  ~ ɔ-nɔw	a+nu	 ɔ-nɔw	Variants
 3589	Khoitam	sister, younger1	a-num	a+num		
 3590	Rahung	sister, younger1	a-num	a+num		
 3591	Rupa	sister, younger1	a-nuː a-ʨan-du	a+nuː_a+ʨan+du		
@@ -3435,8 +3434,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 3652	Jerigaon	small1	a-ʨɐ̃ː(n)	a+ʨɐ̃ː		
 3653	Khoitam	small1	a-ʥan-du	a+ʥan+du		
 3654	Rahung	small1	ʨɔ̃ː(n)-du	ʨɔ̃ː+du		
-3655	Rupa	small1	a-tɕan-du ~ a-ʦan-du	a+tɕan+du	 a-ʦan-du	Variants
-3656	Shergaon	small1	a-tɕan-du	a+tɕan+du		
+3655	Rupa	small1	a-ʨan-du ~ a-ʦan-du	a+ʨan+du	 a-ʦan-du	Variants
+3656	Shergaon	small1	a-ʨan-du	a+ʨan+du		
 #
 3657	Khispi	small2	ɕa-da	ɕa+da		
 3660	Jerigaon	small2	a-duː-du	a+duː+du		
@@ -3444,7 +3443,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 #
 3665	Khispi	smell (n)	ɕis	ɕis		
 3666	Duhumbi	smell (n)	ɕis	ɕis		
-3671	Rupa	smell (n)	sĩ	sĩ		
+3671	Rupa	smell (n)	sĩː	sĩː		
 #
 3673	Khispi	smell1 (vi)	ham	ham		
 3674	Duhumbi	smell1 (vi)	ham	ham		
@@ -3507,7 +3506,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 3744	Shergaon	soil, earth	so	so		
 #
 3745	Khispi	son	dak-da	dak+da		
-3746	Duhumbi	son	u-dá̰ˀ	u+dá̰ˀ		
+3746	Duhumbi	son	u-daˀ	u+daˀ		
 3747	Khoina	son	a-du	a+du		
 3748	Jerigaon	son	a-du	a+du		
 3749	Khoitam	son	a-du	a+du		
@@ -3532,9 +3531,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 3768	Shergaon	song1	hɔ	hɔ		
 #
 3769	Khispi	song2	bɔː	bɔː		
-3770	Duhumbi	song2	brɔː	brɔː		
-3774	Rahung	song2	broː	broː		
-3775	Rupa	song2	broː	broː		
+3770	Duhumbi	song2	bɹɔː	bɹɔː		
+3774	Rahung	song2	bɹoː	bɹoː		
+3775	Rupa	song2	bɹoː	bɹoː		
 #
 3777	Khispi	soup, liquid, broth, juice	ɔ-kʰaw	ɔ+kʰaw		
 3778	Duhumbi	soup, liquid, broth, juice	ɔ-kʰɔw	ɔ+kʰɔw		
@@ -3543,10 +3542,10 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 3783	Rupa	soup, liquid, broth, juice	a-kʰoː ~ ɔ-kʰoː	a+kʰoː	 ɔ-kʰoː	Variants
 #
 3785	Khispi	sour	ʨum-pa	ʨum+pa		
-3786	Duhumbi	sour	ʨum-pa ~ ʨur-pu	ʨum+pa	 ʨur-pu	Variants
+3786	Duhumbi	sour	ʨum-pa ~ ʨuɹ-pu	ʨum+pa	 ʨuɹ-pu	Variants
 3787	Khoina	sour	ba-ʨʰɛ̃ː	ba+ʨʰɛ̃ː		
 3788	Jerigaon	sour	ʨʰɛ̃ĩ-ba ~ ʨʰɛ̃ĩ-kʰɛn	ʨʰɛ̃ĩ+ba	 ʨʰɛ̃ĩ-kʰɛn	Variants
-3789	Khoitam	sour	ʨʰĩː-kʰan ~ ʨʰĩː-tĩ	ʨʰĩː+kʰan	 ʨʰĩː-tĩ	Variants
+3789	Khoitam	sour	ʨʰĩː-kʰan ~ ʨʰĩː-tĩː	ʨʰĩː+kʰan	 ʨʰĩː-tĩː	Variants
 3790	Rahung	sour	ʨʰĩː-ba ~ ʨʰĩː-kʰɛn	ʨʰĩː+ba	 ʨʰĩː-kʰɛn	Variants
 3791	Rupa	sour	kʰɛ̃ː-baˀ ~ kʰɛ̃ː-ti	kʰɛ̃ː+baˀ	 kʰɛ̃ː-ti	Variants
 3792	Shergaon	sour	a-kʰɛ̃ː	a+kʰɛ̃ː		
@@ -3557,7 +3556,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 3797	Khoitam	sow, broadcast1	pʰik	pʰik		
 3799	Rupa	sow, broadcast1	pʰik	pʰik		
 #
-3802	Duhumbi	sow, broadcast2	mɛr	mɛr		
+3802	Duhumbi	sow, broadcast2	mɛɹ	mɛɹ		
 3803	Khoina	sow, broadcast2	xɛˀ	xɛˀ		
 3805	Khoitam	sow, broadcast2	heˀ	heˀ		
 3806	Rahung	sow, broadcast2	heˀ	heˀ		
@@ -3575,8 +3574,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 3817	Khispi	sparrow	dak-ʨʰi-liŋ	dak+ʨʰi+liŋ		
 3818	Duhumbi	sparrow	dak-ʨʰi-liŋ	dak+ʨʰi+liŋ		
 3820	Jerigaon	sparrow	hu-ʥiŋ	hu+ʥiŋ		
-3821	Khoitam	sparrow	ʨɔm-ʨə-rɛʰ	ʨɔm+ʨə+rɛʰ		
-3822	Rahung	sparrow	ʨam-ʨə-rɛʰ	ʨam+ʨə+rɛʰ		
+3821	Khoitam	sparrow	ʨɔm-ʨə-rɛː	ʨɔm+ʨə+rɛː		
+3822	Rahung	sparrow	ʨam-ʨə-rɛː	ʨam+ʨə+rɛː		
 3823	Rupa	sparrow	bə-ʦə-lɔː	bə+ʦə+lɔː		
 3824	Shergaon	sparrow	ʨi-plɔː	ʨi+plɔː		
 #
@@ -3604,11 +3603,11 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 3849	Khispi	spider	(pʰu) saŋ-gɔm-pa ~ saŋ-kɔː-pa	saŋ+gɔm+pa	 saŋ-kɔː-pa	Variants
 3850	Duhumbi	spider	(pʰu) saŋ-gom-bu ~ (pʰu) aŋ-zɔm	saŋ+gom+bu	  aŋ-zɔm	Variants
 3851	Khoina	spider	ga-pøː	ga+pøː		
-3852	Jerigaon	spider	na-trøŋ-zaŋ	na+trøŋ+zaŋ		
-3853	Khoitam	spider	tan-trĩ-sũŋ	tan+trĩ+sũŋ		
-3854	Rahung	spider	na(ŋ)-tryː(ŋ) sɔŋ-sɔŋ	na+tryː_sɔŋ+sɔŋ		
-3855	Rupa	spider	preː-suŋ	preː+suŋ		
-3856	Shergaon	spider	treː-sum	treː+sum		
+3852	Jerigaon	spider	na-tɹøŋ-zaŋ	na+tɹøŋ+zaŋ		
+3853	Khoitam	spider	tan-tɹĩ-sũŋ	tan+tɹĩ+sũŋ		
+3854	Rahung	spider	na(ŋ)-tɹyː(ŋ) sɔŋ-sɔŋ	na+tɹyː_sɔŋ+sɔŋ		
+3855	Rupa	spider	pɹeː-suŋ	pɹeː+suŋ		
+3856	Shergaon	spider	tɹeː-sum	tɹeː+sum		
 #
 3857	Khispi	spirit, soul, shadow	ɔ-guŋ	ɔ+guŋ		
 3858	Duhumbi	spirit, soul, shadow	u-guŋ	u+guŋ		
@@ -3637,8 +3636,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 3879	Rupa	spittle, spit	taː	taː		
 3880	Shergaon	spittle, spit	taː	taː		
 #
-3881	Khispi	split1	ʨʰeː	ʨʰeː		
-3882	Duhumbi	split1	ʨʰeː	ʨʰeː		
+3881	Khispi	split1	ʨʰe	ʨʰe		
+3882	Duhumbi	split1	ʨʰe	ʨʰe		
 3884	Jerigaon	split1	ʨɛk	ʨɛk		
 3886	Rahung	split1	ʨʰeˀ	ʨʰeˀ		
 3887	Rupa	split1	ʨʰeˀ ~ ʨʰaˀ	ʨʰeˀ	 ʨʰaˀ	Variants
@@ -3648,14 +3647,14 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 3893	Khoitam	split2	jɔ	jɔ		
 3896	Shergaon	split2	ho	ho		
 #
-3898	Duhumbi	squirrel	ʦɔː-ʦɔː grɔŋ-tʰaŋ	ʦɔː+ʦɔː_grɔŋ+tʰaŋ		
+3898	Duhumbi	squirrel	ʦɔː-ʦɔː gɹɔŋ-tʰaŋ	ʦɔː+ʦɔː_gɹɔŋ+tʰaŋ		
 3899	Khoina	squirrel	ʦaŋ-kʰa	ʦaŋ+kʰa		
 3900	Jerigaon	squirrel	ʨaŋ-ka	ʨaŋ+ka		
 3901	Khoitam	squirrel	ʨaŋ-kɛ	ʨaŋ+kɛ		
 3903	Rupa	squirrel	stɔp ʦaŋ-kʰa ~ stɔp ʨaŋ-kʰa	stɔp_ʦaŋ+kʰa	 stɔp ʨaŋ-kʰa	Variants
 3904	Shergaon	squirrel	stɔp ʨaŋ-ka	stɔp_ʨaŋ+ka		
 #
-3906	Duhumbi	squirrel, flying	ʨʰɛr-gɛn	ʨʰɛr+gɛn		
+3906	Duhumbi	squirrel, flying	ʨʰɛɹ-gɛn	ʨʰɛɹ+gɛn		
 3907	Khoina	squirrel, flying	ʨʰy-jɔ̃ː	ʨʰy+jɔ̃ː		
 3908	Jerigaon	squirrel, flying	ʨʰy-jɔ̃ː	ʨʰy+jɔ̃ː		
 3909	Khoitam	squirrel, flying	ʨʰy-jɔ̃ː	ʨʰy+jɔ̃ː		
@@ -3723,9 +3722,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 #
 3977	Khispi	story	tam	tam		
 3978	Duhumbi	story	tam	tam		
-3979	Khoina	story	kʰar-tan	kʰar+tan		
+3979	Khoina	story	kʰaɹ-tan	kʰaɹ+tan		
 3981	Khoitam	story	tuŋ-lu	tuŋ+lu		
-3982	Rahung	story	kʰar-tam	kʰar+tam		
+3982	Rahung	story	kʰaɹ-tam	kʰaɹ+tam		
 #
 3985	Khispi	straight	laŋ-ɕum	laŋ+ɕum		
 3986	Duhumbi	straight	raŋ-bu	raŋ+bu		
@@ -3751,7 +3750,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 4012	Jerigaon	suck2	zyː	zyː		
 4013	Khoitam	suck2	zyː	zyː		
 4014	Rahung	suck2	zyː	zyː		
-4016	Shergaon	suck2	zi:	zi:		
+4016	Shergaon	suck2	ziː	ziː		
 #
 4017	Khispi	sugarcane	(ʨʰula) mej-ʥu	mej+ʥu		
 4018	Duhumbi	sugarcane	mɛj-ʥu	mɛj+ʥu		
@@ -3819,7 +3818,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 4081	Khispi	taro	ʨʰak	ʨʰak		
 4082	Duhumbi	taro	ʨʰak	ʨʰak		
 4083	Khoina	taro	ʦʰɐk	ʦʰɐk		
-4084	Jerigaon	taro	ʨʰak	ʨʰak		
+4084	Jerigaon	taro	ʨʰɐk	ʨʰɐk		
 4085	Khoitam	taro	ʨʰak	ʨʰak		
 4086	Rahung	taro	ʨʰak	ʨʰak		
 4087	Rupa	taro	ʥuː-ʦʰak ~ ʥuː-ʨʰak	ʥuː+ʦʰak	 ʥuː-ʨʰak	Variants
@@ -3829,7 +3828,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 4090	Duhumbi	tasty	ɔ-bɛj	ɔ+bɛj		
 4091	Khoina	tasty	a-blɐːʰ	a+blɐːʰ		
 4092	Jerigaon	tasty	a-blɐːʰ	a+blɐːʰ		
-4093	Khoitam	tasty	a-blɔʰ-du	a+blɔʰ+du		
+4093	Khoitam	tasty	a-blɔːʰ-du	a+blɔːʰ+du		
 4094	Rahung	tasty	a-bɹɔːʰ	a+bɹɔːʰ		
 4095	Rupa	tasty	a-blɔːʰ	a+blɔːʰ		
 4096	Shergaon	tasty	a-blɔː	a+blɔː		
@@ -3842,7 +3841,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 4103	Rupa	tear (vt)	zeˀ	zeˀ		
 #
 4105	Khispi	tell	ɕat	ɕat		
-4107	Khoina	tell	ʂɐ	ʂɐ		
+4107	Khoina	tell	ʂɐˀ	ʂɐˀ		
 4109	Khoitam	tell	sɔˀ	sɔˀ		
 4110	Rahung	tell	sɔˀ	sɔˀ		
 4111	Rupa	tell	sɔˀ	sɔˀ		
@@ -3926,8 +3925,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 #
 4201	Khispi	thirsty (vi)	(kʰaw) jaŋ	jaŋ		
 4202	Duhumbi	thirsty (vi)	(kʰow) jaŋ	jaŋ		
-4203	Khoina	thirsty (vi)	(kʰãː) jɔ̃ː	jɔ̃ː		
-4204	Jerigaon	thirsty (vi)	(kʰɔː) kʰʲɔ̃ː	kʰʲɔ̃ː		
+4203	Khoina	thirsty (vi)	(kʰɔː) jɔ̃ː	jɔ̃ː		
+4204	Jerigaon	thirsty (vi)	(kʰɔː) kʰ-jɔ̃ː	kʰ+jɔ̃ː		
 4205	Khoitam	thirsty (vi)	(kʰɔː) jũŋ	jũŋ		
 4206	Rahung	thirsty (vi)	(kʰoː) jũŋ	jũŋ		
 4207	Rupa	thirsty (vi)	(kʰoː) jũŋ	jũŋ		
@@ -3988,7 +3987,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 4265	Khispi	tie (vt)	kʰak	kʰak		
 4266	Duhumbi	tie (vt)	kʰak	kʰak		
 4267	Khoina	tie (vt)	xɐk	xɐk		
-4268	Jerigaon	tie (vt)	hak	hak		
+4268	Jerigaon	tie (vt)	hɐk	hɐk		
 4269	Khoitam	tie (vt)	hak	hak		
 4270	Rahung	tie (vt)	kʰak	kʰak		
 4271	Rupa	tie (vt)	hak	hak		
@@ -4028,7 +4027,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 4305	Khispi	together with	de-kʰɔ	de+kʰɔ		
 4306	Duhumbi	together with	dɛp-kʰɔ	dɛp+kʰɔ		
 4308	Jerigaon	together with	dɛː-gu	dɛː+gu		
-4309	Khoitam	together with	dɛp-gy	dɛp+gy		
+4309	Khoitam	together with	dɛp-gyː	dɛp+gyː		
 4310	Rahung	together with	dɛp-kʰɔ ~ dɛˀ-kʰɔ	dɛp+kʰɔ	 dɛˀ-kʰɔ	Variants
 4311	Rupa	together with	dɛp-gɔ ~ dɛk-gɔ	dɛp+gɔ	 dɛk-gɔ	Variants
 4312	Shergaon	together with	dɛp-kʰɔ	dɛp+kʰɔ		
@@ -4090,8 +4089,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 #
 4369	Khispi	twenty	kʰej ~ kʰaj	kʰej	 kʰaj	Variants
 4370	Duhumbi	twenty	kʰɛj	kʰɛj		
-4371	Khoina	twenty	kʰãː	kʰãː		
-4372	Jerigaon	twenty	kʰãː	kʰãː		
+4371	Khoina	twenty	kʰɐ̃ː	kʰɐ̃ː		
+4372	Jerigaon	twenty	kʰɐ̃ː	kʰɐ̃ː		
 4373	Khoitam	twenty	kʰaː	kʰaː		
 4374	Rahung	twenty	kʰɔ̃ː	kʰɔ̃ː		
 4375	Rupa	twenty	kʰaːj	kʰaːj		
@@ -4200,12 +4199,12 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 4481	Khispi	waist	buk-tʰuŋ	buk+tʰuŋ		
 4482	Duhumbi	waist	buk-tuŋ	buk+tuŋ		
 4483	Khoina	waist	bə-kʰɐk-tʰyn	bə+kʰɐk+tʰyn		
-4484	Jerigaon	waist	mə-kʰak-tyŋ	mə+kʰak+tyŋ		
+4484	Jerigaon	waist	mə-kʰɐk-tyŋ	mə+kʰɐk+tyŋ		
 4487	Rupa	waist	mə-kʰak-tyŋ	mə+kʰak+tyŋ		
 4488	Shergaon	waist	mə-kʰak-tuŋ	mə+kʰak+tuŋ		
 #
 4490	Duhumbi	wait1	ʥak ~ ʥap	ʥak	 ʥap	Variants
-4492	Jerigaon	wait1	ʥak	ʥak		
+4492	Jerigaon	wait1	ʥɐk	ʥɐk		
 4493	Khoitam	wait1	ʥak	ʥak		
 4494	Rahung	wait1	ʥak	ʥak		
 4495	Rupa	wait1	ʥak	ʥak		
@@ -4296,11 +4295,11 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 4586	Duhumbi	wear	was	was		
 4587	Khoina	wear	jɐ̃	jɐ̃		
 4588	Jerigaon	wear	jɐ̃	jɐ̃		
-4591	Rupa	wear	jɔ̃ˀ	jɔ̃ˀ		
+4591	Rupa	wear	jɔ̃	jɔ̃		
 #
 4593	Khispi	weave	dak	dak		
 4595	Khoina	weave	rɐk	rɐk		
-4596	Jerigaon	weave	rak	rak		
+4596	Jerigaon	weave	rɐk	rɐk		
 4597	Khoitam	weave	rak	rak		
 4598	Rahung	weave	rak	rak		
 4599	Rupa	weave	rak	rak		
@@ -4309,7 +4308,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 4601	Khispi	weed, grass	ʥam	ʥam		
 4602	Duhumbi	weed, grass	ʥamu ~ ʥam	ʥamu	 ʥam	Variants
 4603	Khoina	weed, grass	ʥɐŋ	ʥɐŋ		
-4604	Jerigaon	weed, grass	ʥaŋ	ʥaŋ		
+4604	Jerigaon	weed, grass	ʥɐŋ	ʥɐŋ		
 4605	Khoitam	weed, grass	ʥũŋ	ʥũŋ		
 4606	Rahung	weed, grass	ʥũŋ	ʥũŋ		
 4607	Rupa	weed, grass	ʥaŋ ~ ɟaŋ	ʥaŋ	 ɟaŋ	Variants
@@ -4424,7 +4423,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 4721	Khispi	wool	ʥak	ʥak		
 4722	Duhumbi	wool	ʥak	ʥak		
 4723	Khoina	wool	ʥɐk	ʥɐk		
-4724	Jerigaon	wool	ʥak	ʥak		
+4724	Jerigaon	wool	ʥɐk	ʥɐk		
 4725	Khoitam	wool	ʥak	ʥak		
 4726	Rahung	wool	ʥak	ʥak		
 4727	Rupa	wool	ɟak ~ ʥak	ɟak	 ʥak	Variants
@@ -4438,12 +4437,12 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 4735	Rupa	word	ɲuk-ʦʰik	ɲuk+ʦʰik		
 #
 4738	Duhumbi	work	pat	pat		
-4739	Khoina	work	blɛ̰t	blɛ̰t		
+4739	Khoina	work	blɛt	blɛt		
 4743	Rupa	work	blat	blat		
 4744	Shergaon	work	blat	blat		
 #
 4745	Khispi	wring, squeeze	ʨil	ʨil		
-4746	Duhumbi	wring, squeeze	ʨir	ʨir		
+4746	Duhumbi	wring, squeeze	ʨiɹ	ʨiɹ		
 4748	Jerigaon	wring, squeeze	ʨĩˀ	ʨĩˀ		
 4749	Khoitam	wring, squeeze	ʨĩˀ	ʨĩˀ		
 4750	Rahung	wring, squeeze	ʨĩˀ	ʨĩˀ		
@@ -4473,7 +4472,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 4780	Jerigaon	yellow	ɛ-hɛːʰ	ɛ+hɛːʰ		
 4781	Khoitam	yellow	ɛ-hɛːʰ	ɛ+hɛːʰ		
 4782	Rahung	yellow	ɛ-hɛːʰ	ɛ+hɛːʰ		
-4783	Rupa	yellow	a-haʰ	a+haʰ		
+4783	Rupa	yellow	a-haːʰ	a+haːʰ		
 4784	Shergaon	yellow	a-haː	a+haː		
 #
 4785	Khispi	yesterday	di-ju	di+ju		

@@ -29,7 +29,7 @@ for line in csv[1:]:
     data = {h: e for h, e in zip(heads, line)}
     for doc in heads[1:]:
         val = data[doc]
-        form, *variants = split_text(val, '~')
+        form, *variants = split_text(val, '~/')
         print(doc, val, form)
         if form in ["Ø", '-'] or not form.strip():
             missing += 1
@@ -44,7 +44,8 @@ for line in csv[1:]:
             except:
                 print(form)
                 input()
-            D1[idx] = [doc, data['Gloss'], val, form, ''.join(variants), note ]
+            D1[idx] = [doc, data['Gloss'], val, form.strip().replace('-',
+                '+').replace(' ', '_'), ''.join(variants), note ]
         idx += 1
 
 wl, wl2 = Wordlist(D1), Wordlist(D2)

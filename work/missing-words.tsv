@@ -770,8 +770,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 2964	Jerigaon	plant  (vt)				
 2968	Shergaon	plant  (vt)				
 #
-2980	Jerigaon	plough (v)				
 2984	Shergaon	plough (v)				
+2980	Jerigaon	plough (v)				
 #
 2992	Shergaon	plural				
 #
@@ -845,6 +845,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	VARIANTS	NOTE
 3229	Khoitam	ride, mount				
 3230	Rahung	ride, mount				
 #
+3252	Jerigaon	roof				
 3256	Shergaon	roof				
 #
 3257	Khispi	root				
