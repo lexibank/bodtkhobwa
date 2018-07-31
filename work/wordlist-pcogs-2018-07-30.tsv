@@ -10,8 +10,8 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 9	Khispi	2pl.excl	2pl.excl	na-lu	na+lu	n a + l u		3 2	3 2	n a ◦ - l u -
 10	Duhumbi	2pl.excl	2pl.excl	na-ɹ	na+ɹ	n a + ɹ		3 2	3 2	n a ◦ - ɹ - -
 14	Rahung	2pl.excl	2pl.excl	na-ryː	na+ryː	n a + r yː		3 2	3 2	n a ◦ - r yː -
-15	Rupa	2pl.excl	2pl.excl	naː-bluŋ	naː+bluŋ	n aː + b l u ŋ		3 2	3 2	n aː ◦ b l u ŋ
-16	Shergaon	2pl.excl	2pl.excl	naː-bluŋ	naː+bluŋ	n aː + b l u ŋ		3 2	3 2	n aː ◦ b l u ŋ
+15	Rupa	2pl.excl	2pl.excl	naː-bluŋ	naː+bluŋ	n aː + b l u ŋ		3 1285	3 2	n aː ◦ b l u ŋ
+16	Shergaon	2pl.excl	2pl.excl	naː-bluŋ	naː+bluŋ	n aː + b l u ŋ		3 1285	3 2	n aː ◦ b l u ŋ
 17	Khispi	2pl.incl	2pl.incl	nal-tʰe	nal+tʰe	n a l + tʰ e		5 4	5 4	n a l ◦ tʰ e -
 18	Duhumbi	2pl.incl	2pl.incl	naɹ-tʰeˀ	naɹ+tʰeˀ	n a ɹ + tʰ eˀ		5 4	5 4	n a ɹ ◦ tʰ eˀ -
 19	Khoina	2pl.incl	2pl.incl	na-tʰik	na+tʰik	n a + tʰ i k		5 4	5 4	n a - ◦ tʰ i k
@@ -42,11 +42,11 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 608	Shergaon	Bugun	Bugun	su-luŋ	su+luŋ	s u + l u ŋ		11 12	11 12	s u ◦ l u ŋ
 2041	Khispi	Indo-Aryan person	Indo-Aryan person	bi-ʨʰa	bi+ʨʰa	b i + tɕʰ a		15 13	15 13	b i ◦ tɕʰ a
 2042	Duhumbi	Indo-Aryan person	Indo-Aryan person	bi-ʨʰa	bi+ʨʰa	b i + tɕʰ a		15 13	15 13	b i ◦ tɕʰ a
-2043	Khoina	Indo-Aryan person	Indo-Aryan person	də-ʨʰuː	də+ʨʰuː	d ə + tɕʰ uː		14 13	14 13	d ə ◦ tɕʰ uː
+2043	Khoina	Indo-Aryan person	Indo-Aryan person	də-ʨʰuː	də+ʨʰuː	d ə + tɕʰ uː		16 13	14 13	d ə ◦ tɕʰ uː
 2045	Khoitam	Indo-Aryan person	Indo-Aryan person	ʨʰə-ʨʰuː	ʨʰə+ʨʰuː	tɕʰ ə + tɕʰ uː		14 13	14 13	tɕʰ ə ◦ tɕʰ uː
 2046	Rahung	Indo-Aryan person	Indo-Aryan person	ʨʰə-ʨʰuː	ʨʰə+ʨʰuː	tɕʰ ə + tɕʰ uː		14 13	14 13	tɕʰ ə ◦ tɕʰ uː
 2047	Rupa	Indo-Aryan person	Indo-Aryan person	nə-ʨʰuː ~ də-ʨʰuː	nə+ʨʰuː	n ə + tɕʰ uː		16 13	16 13	n ə ◦ tɕʰ uː
-2048	Shergaon	Indo-Aryan person	Indo-Aryan person	də-ʨʰuː	də+ʨʰuː	d ə + tɕʰ uː		14 13	14 13	d ə ◦ tɕʰ uː
+2048	Shergaon	Indo-Aryan person	Indo-Aryan person	də-ʨʰuː	də+ʨʰuː	d ə + tɕʰ uː		16 13	14 13	d ə ◦ tɕʰ uː
 2091	Khoina	Jerigaon people	Jerigaon people	də-ʨĩː-ʥi	də+ʨĩː+ʥi	d ə + tɕ ĩː + dʑ i		19 17 18	19 17 18	d ə ◦ tɕ ĩː ◦ dʑ i
 2092	Jerigaon	Jerigaon people	Jerigaon people	kʰ-ʨĩː-ʥi	kʰ+ʨĩː+ʥi	kʰ + tɕ ĩː + dʑ i		20 17 18	20 17 18	kʰ ◦ tɕ ĩː ◦ dʑ i
 2095	Rupa	Jerigaon people	Jerigaon people	di-ʨʰi-ʥi	di+ʨʰi+ʥi	d i + tɕʰ i + dʑ i		19 17 18	19 17 18	d i ◦ tɕʰ i ◦ dʑ i
@@ -62,30 +62,30 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 2504	Shergaon	Miji people	Miji people	kʰu-nɔ̃ː	kʰu+nɔ̃ː	kʰ u + n ɔ̃ː		25 24	25 24	kʰ u ◦ n ɔ̃ː
 2537	Khispi	Monpa	Monpa	mɔn-pa	mɔn+pa	m ɔ n + p a		30 28	30 28	m ɔ n ◦ p a
 2538	Duhumbi	Monpa	Monpa	mɔn-pa	mɔn+pa	m ɔ n + p a		30 28	30 28	m ɔ n ◦ p a
-2539	Khoina	Monpa	Monpa	ʥə-mɐ̃ː	ʥə+mɐ̃ː	dʑ ə + m ɐ̃ː		29 27	29 27	dʑ ə ◦ m ɐ̃ː
+2539	Khoina	Monpa	Monpa	ʥə-mɐ̃ː	ʥə+mɐ̃ː	dʑ ə + m ɐ̃ː		29 30	29 27	dʑ ə ◦ m ɐ̃ː
 2542	Rahung	Monpa	Monpa	mɔn-pa	mɔn+pa	m ɔ n + p a		30 28	30 28	m ɔ n ◦ p a
-2543	Rupa	Monpa	Monpa	ʥə-mɔ̃ː	ʥə+mɔ̃ː	dʑ ə + m ɔ̃ː		29 27	29 27	dʑ ə ◦ m ɔ̃ː
-2544	Shergaon	Monpa	Monpa	ʥɔ-mɔ̃ː	ʥɔ+mɔ̃ː	dʑ ɔ + m ɔ̃ː		29 27	29 27	dʑ ɔ ◦ m ɔ̃ː
+2543	Rupa	Monpa	Monpa	ʥə-mɔ̃ː	ʥə+mɔ̃ː	dʑ ə + m ɔ̃ː		29 30	29 27	dʑ ə ◦ m ɔ̃ː
+2544	Shergaon	Monpa	Monpa	ʥɔ-mɔ̃ː	ʥɔ+mɔ̃ː	dʑ ɔ + m ɔ̃ː		29 30	29 27	dʑ ɔ ◦ m ɔ̃ː
 2657	Khispi	Namshu people	Namshu people	nam-ɕu-pa	nam+ɕu+pa	n a m + ɕ u + p a		33 31 32	33 31 32	n a m ◦ ɕ u ◦ p a
 2658	Duhumbi	Namshu people	Namshu people	nam-ɕu-pa	nam+ɕu+pa	n a m + ɕ u + p a		33 31 32	33 31 32	n a m ◦ ɕ u ◦ p a
 2659	Khoina	Namshu people	Namshu people	na-ʦʰɔː-ʥi	na+ʦʰɔː+ʥi	n a + tsʰ ɔː + dʑ i		33 31 32	33 31 32	n a - ◦ tsʰ ɔː ◦ dʑ i
 2660	Jerigaon	Namshu people	Namshu people	nə-ʨo-ʥi	nə+ʨo+ʥi	n ə + tɕ o + dʑ i		33 31 32	33 31 32	n ə - ◦ tɕ o ◦ dʑ i
-2662	Rahung	Namshu people	Namshu people	pʰ-ʨʰoː-ʥi	pʰ+ʨʰoː+ʥi	pʰ + tɕʰ oː + dʑ i		34 31 32	34 31 32	pʰ ◦ tɕʰ oː ◦ dʑ i
+2662	Rahung	Namshu people	Namshu people	pʰ-ʨʰoː-ʥi	pʰ+ʨʰoː+ʥi	pʰ + tɕʰ oː + dʑ i		33 31 32	34 31 32	pʰ ◦ tɕʰ oː ◦ dʑ i
 3073	Khispi	Puroik	Puroik	bi-ɕ-taŋ	bi+ɕ+taŋ	b i + ɕ + t a ŋ		37 38 35	37 38 35	b i ◦ ɕ ◦ t a ŋ
 3074	Duhumbi	Puroik	Puroik	bi-s-taŋ	bi+s+taŋ	b i + s + t a ŋ		37 38 35	37 38 35	b i ◦ s ◦ t a ŋ
-3075	Khoina	Puroik	Puroik	ɕ-taŋ	ɕ+taŋ	ɕ + t a ŋ		36 35	36 35	ɕ ◦ t a ŋ
-3079	Rupa	Puroik	Puroik	s-taŋ	s+taŋ	s + t a ŋ		36 35	36 35	s ◦ t a ŋ
-3137	Khispi	Rahung, people of	Rahung, people of	la-pʰuŋ-bi	la+pʰuŋ+bi	l a + pʰ u ŋ + b i		42 40 39	42 40 39	l a ◦ pʰ u ŋ ◦ b i
+3075	Khoina	Puroik	Puroik	ɕ-taŋ	ɕ+taŋ	ɕ + t a ŋ		38 35	36 35	ɕ ◦ t a ŋ
+3079	Rupa	Puroik	Puroik	s-taŋ	s+taŋ	s + t a ŋ		38 35	36 35	s ◦ t a ŋ
+3137	Khispi	Rahung, people of	Rahung, people of	la-pʰuŋ-bi	la+pʰuŋ+bi	l a + pʰ u ŋ + b i		41 40 39	42 40 39	l a ◦ pʰ u ŋ ◦ b i
 3139	Khoina	Rahung, people of	Rahung, people of	rə-pʰiŋ-ʥi	rə+pʰiŋ+ʥi	r ə + pʰ i ŋ + dʑ i		41 40 39	41 40 39	r ə ◦ pʰ i ŋ ◦ dʑ i
 3140	Jerigaon	Rahung, people of	Rahung, people of	rə-pʰiŋ-ʥi	rə+pʰiŋ+ʥi	r ə + pʰ i ŋ + dʑ i		41 40 39	41 40 39	r ə ◦ pʰ i ŋ ◦ dʑ i
 3143	Rupa	Rahung, people of	Rahung, people of	rə-pʰyŋ-ʥi	rə+pʰyŋ+ʥi	r ə + pʰ y ŋ + dʑ i		41 40 39	41 40 39	r ə ◦ pʰ y ŋ ◦ dʑ i
 3144	Shergaon	Rahung, people of	Rahung, people of	ru-pʰuŋ-ʥi	ru+pʰuŋ+ʥi	r u + pʰ u ŋ + dʑ i		41 40 39	41 40 39	r u ◦ pʰ u ŋ ◦ dʑ i
 3491	Khoina	Sherdukpen	Sherdukpen	tʰɔː-mø-ʥi	tʰɔː+mø+ʥi	tʰ ɔː + m ø + dʑ i		44 43 45	44 43 45	tʰ ɔː - ◦ m ø ◦ dʑ i
-3492	Jerigaon	Sherdukpen	Sherdukpen	tʰɔ̃ŋ-ʥi  ~ tʰuwã-ʥi	tʰɔ̃ŋ+ʥi	tʰ ɔ̃ ŋ + dʑ i		44 46	44 46	tʰ ɔ̃ ŋ ◦ dʑ i
+3492	Jerigaon	Sherdukpen	Sherdukpen	tʰɔ̃ŋ-ʥi  ~ tʰuwã-ʥi	tʰɔ̃ŋ+ʥi	tʰ ɔ̃ ŋ + dʑ i		44 45	44 46	tʰ ɔ̃ ŋ ◦ dʑ i
 3494	Rahung	Sherdukpen	Sherdukpen	tʰə-mø-ʥi	tʰə+mø+ʥi	tʰ ə + m ø + dʑ i		44 43 45	44 43 45	tʰ ə - ◦ m ø ◦ dʑ i
 3495	Rupa	Sherdukpen	Sherdukpen	møˀ	møˀ	m øˀ		43	43	m øˀ
 3496	Shergaon	Sherdukpen	Sherdukpen	meˀ	meˀ	m eˀ		43	43	m eˀ
-3497	Khispi	Shergaon, people of	Shergaon, people of	ɕɛl-pi	ɕɛl+pi	ɕ ɛ l + p i		47 49	47 49	ɕ ɛ l ◦ p i
+3497	Khispi	Shergaon, people of	Shergaon, people of	ɕɛl-pi	ɕɛl+pi	ɕ ɛ l + p i		47 48	47 49	ɕ ɛ l ◦ p i
 3499	Khoina	Shergaon, people of	Shergaon, people of	ʂɛ̃ː(n)-ʥi	ʂɛ̃ː+ʥi	ʂ ɛ̃ː + dʑ i		47 48	47 48	ʂ ɛ̃ː - ◦ dʑ i
 3500	Jerigaon	Shergaon, people of	Shergaon, people of	sɛ̃ː(n)-ʥi	sɛ̃ː+ʥi	s ɛ̃ː + dʑ i		47 48	47 48	s ɛ̃ː - ◦ dʑ i
 3502	Rahung	Shergaon, people of	Shergaon, people of	sɛ̃ː(n)-ʥi	sɛ̃ː+ʥi	s ɛ̃ː + dʑ i		47 48	47 48	s ɛ̃ː - ◦ dʑ i
@@ -93,7 +93,7 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 4145	Khispi	Thembang people	Thembang people	tʰje-maŋ-bi	tʰje+maŋ+bi	tʰ j e + m a ŋ + b i		50 51 52	50 51 52	tʰ j e - ◦ m a ŋ ◦ b i
 4146	Duhumbi	Thembang people	Thembang people	tʰɛm-baŋ-pa	tʰɛm+baŋ+pa	tʰ ɛ m + b a ŋ + p a		50 51 52	50 51 52	tʰ - ɛ m ◦ b a ŋ ◦ p a
 4147	Khoina	Thembang people	Thembang people	tʰɛm-baŋ-ʥi	tʰɛm+baŋ+ʥi	tʰ ɛ m + b a ŋ + dʑ i		50 51 52	50 51 52	tʰ - ɛ m ◦ b a ŋ ◦ dʑ i
-4148	Jerigaon	Thembang people	Thembang people	tʰəbang-ʥi	tʰəbang+ʥi	tʰ ə b a n g + dʑ i		54 53	54 53	tʰ ə b a n g ◦ dʑ i
+4148	Jerigaon	Thembang people	Thembang people	tʰəbang-ʥi	tʰəbaŋ+ʥi	tʰ ə + b a ŋ + dʑ i	!modified this from "ng" to "ŋ" @lingulist	54 53	54 53	tʰ ə b a n g ◦ dʑ i
 4150	Rahung	Thembang people	Thembang people	tʰam-baŋ-ʥi	tʰam+baŋ+ʥi	tʰ a m + b a ŋ + dʑ i		50 51 52	50 51 52	tʰ - a m ◦ b a ŋ ◦ dʑ i
 41	Khispi	ablative	ablative	-lɔ	+lɔ	l ɔ		55	55	l ɔ
 42	Duhumbi	ablative	ablative	-lɔˀ	+lɔˀ	l ɔˀ		55	55	l ɔˀ
@@ -105,9 +105,9 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 48	Shergaon	ablative	ablative	-lɔ	+lɔ	l ɔ		55	55	l ɔ
 49	Khispi	above, top	above, top	ʨʰaŋ	ʨʰaŋ	tɕʰ a ŋ		58	58	tɕʰ a ŋ
 50	Duhumbi	above, top	above, top	ʨʰaŋ	ʨʰaŋ	tɕʰ a ŋ		58	58	tɕʰ a ŋ
-51	Khoina	above, top	above, top	a-ʦʰɔ̃ː(ŋ)	a+ʦʰɔ̃ː	a + tsʰ ɔ̃ː		56 57	56 57	a ◦ tsʰ ɔ̃ː
-52	Jerigaon	above, top	above, top	a-ʨʰɔ̃ː(ŋ)	a+ʨʰɔ̃ː	a + tɕʰ ɔ̃ː		56 57	56 57	a ◦ tɕʰ ɔ̃ː
-53	Khoitam	above, top	above, top	a-ʨʰũː(ŋ)	a+ʨʰũː	a + tɕʰ ũː		56 57	56 57	a ◦ tɕʰ ũː
+51	Khoina	above, top	above, top	a-ʦʰɔ̃ː(ŋ)	a+ʦʰɔ̃ː	a + tsʰ ɔ̃ː		56 58	56 57	a ◦ tsʰ ɔ̃ː
+52	Jerigaon	above, top	above, top	a-ʨʰɔ̃ː(ŋ)	a+ʨʰɔ̃ː	a + tɕʰ ɔ̃ː		56 58	56 57	a ◦ tɕʰ ɔ̃ː
+53	Khoitam	above, top	above, top	a-ʨʰũː(ŋ)	a+ʨʰũː	a + tɕʰ ũː		56 58	56 57	a ◦ tɕʰ ũː
 57	Khispi	achieve, obtain	achieve, obtain	man	man	m a n		59	59	m a n
 58	Duhumbi	achieve, obtain	achieve, obtain	man	man	m a n		59	59	m a n
 59	Khoina	achieve, obtain	achieve, obtain	mɐ̃ː	mɐ̃ː	m ɐ̃ː		59	59	m ɐ̃ː -
@@ -126,7 +126,7 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 74	Duhumbi	after	after	la-kʰuŋ	la+kʰuŋ	l a + kʰ u ŋ		62 61	62 61	l a ◦ kʰ u ŋ
 75	Khoina	after	after	la-kʰyŋ	la+kʰyŋ	l a + kʰ y ŋ		62 61	62 61	l a ◦ kʰ y ŋ
 78	Rahung	after	after	la-kʰyŋ	la+kʰyŋ	l a + kʰ y ŋ		62 61	62 61	l a ◦ kʰ y ŋ
-79	Rupa	after	after	də-kʰyŋ	də+kʰyŋ	d ə + kʰ y ŋ		63 61	63 61	d ə ◦ kʰ y ŋ
+79	Rupa	after	after	də-kʰyŋ	də+kʰyŋ	d ə + kʰ y ŋ		62 61	63 61	d ə ◦ kʰ y ŋ
 83	Khoina	afternoon	afternoon	na-jɔ-tøn	na+jɔ+tøn	n a + j ɔ + t ø n		64 65 66	64 65 66	n a - ◦ j ɔ ◦ t ø n
 84	Jerigaon	afternoon	afternoon	ny-jɔ-tɛn	ny+jɔ+tɛn	n y + j ɔ + t ɛ n		64 65 66	64 65 66	n y - ◦ j ɔ ◦ t ɛ n
 85	Khoitam	afternoon	afternoon	ny-jɔ	ny+jɔ	n y + j ɔ		64 65	64 65	n y - ◦ j ɔ
@@ -233,7 +233,7 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 214	Rahung	back (n)	back (n)	kyː	kyː	k yː		94	94	k yː -
 215	Rupa	back (n)	back (n)	ɲa-kʰuŋ ~ ɲa-guŋ	ɲa+kʰuŋ	ɲ a + kʰ u ŋ		95 94	95 94	ɲ a ◦ kʰ u ŋ
 216	Shergaon	back (n)	back (n)	ɲa-kʰuŋ	ɲa+kʰuŋ	ɲ a + kʰ u ŋ		95 94	95 94	ɲ a ◦ kʰ u ŋ
-217	Khispi	back (wards)	back (wards)	kʰiɕ ~ kʰis	kʰiɕ	kʰ i ɕ		98	98	kʰ i ɕ
+217	Khispi	back (wards)	back (wards)	kʰiɕ ~ kʰis	kʰiɕ	kʰ i ɕ		96	98	kʰ i ɕ
 221	Khoitam	back (wards)	back (wards)	li-kʰeː	li+kʰeː	l i + kʰ eː		97 96	97 96	l i ◦ kʰ eː
 222	Rahung	back (wards)	back (wards)	la-kʰeː	la+kʰeː	l a + kʰ eː		97 96	97 96	l a ◦ kʰ eː
 223	Rupa	back (wards)	back (wards)	lə-kʰeː	lə+kʰeː	l ə + kʰ eː		97 96	97 96	l ə ◦ kʰ eː
@@ -259,7 +259,7 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 251	Khoina	banana	banana	ma-suŋ	ma+suŋ	m a + s u ŋ		104 103	104 103	m a ◦ s u ŋ
 252	Jerigaon	banana	banana	mə-suŋ	mə+suŋ	m ə + s u ŋ		104 103	104 103	m ə ◦ s u ŋ
 253	Khoitam	banana	banana	mə-suŋ	mə+suŋ	m ə + s u ŋ		104 103	104 103	m ə ◦ s u ŋ
-254	Rahung	banana	banana	pʰ-suŋ	pʰ+suŋ	pʰ + s u ŋ		105 103	105 103	pʰ ◦ s u ŋ
+254	Rahung	banana	banana	pʰ-suŋ	pʰ+suŋ	pʰ + s u ŋ		104 103	105 103	pʰ ◦ s u ŋ
 255	Rupa	banana	banana	mə-suŋ ~ bə-suŋ	mə+suŋ	m ə + s u ŋ		104 103	104 103	m ə ◦ s u ŋ
 256	Shergaon	banana	banana	mə-suŋ	mə+suŋ	m ə + s u ŋ		104 103	104 103	m ə ◦ s u ŋ
 257	Khispi	barley	barley	pʰɔk	pʰɔk	pʰ ɔ k		106	106	pʰ ɔ k
@@ -308,8 +308,8 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 303	Rupa	beat, hit	beat, hit	mak	mak	m a k		116	116	m a k
 305	Khispi	beautiful	beautiful	u-liɕ-ta	u+liɕ+ta	u + l i ɕ + t a		117 118 120	117 118 120	u ◦ l i ɕ ◦ t a
 306	Duhumbi	beautiful	beautiful	u-lis	u+lis	u + l i s		117 118	117 118	u ◦ l i s
-310	Rahung	beautiful	beautiful	a-leː-du	a+leː+du	a + l eː + d u		117 118 119	117 118 119	a ◦ l eː - ◦ d u
-311	Rupa	beautiful	beautiful	a-leː-du	a+leː+du	a + l eː + d u		117 118 119	117 118 119	a ◦ l eː - ◦ d u
+310	Rahung	beautiful	beautiful	a-leː-du	a+leː+du	a + l eː + d u		117 118 120	117 118 119	a ◦ l eː - ◦ d u
+311	Rupa	beautiful	beautiful	a-leː-du	a+leː+du	a + l eː + d u		117 118 120	117 118 119	a ◦ l eː - ◦ d u
 313	Khispi	bee	bee	ʨʰi-kʰus a-ma	ʨʰi+kʰus_a+ma	tɕʰ i + kʰ u s _ a + m a		123 122 124 121	123 122 124 121	tɕʰ i - ◦ kʰ u s ◦ a ◦ - m a
 314	Duhumbi	bee	bee	ʨʰi-kʰus a-ma	ʨʰi+kʰus_a+ma	tɕʰ i + kʰ u s _ a + m a		123 122 124 121	123 122 124 121	tɕʰ i - ◦ kʰ u s ◦ a ◦ - m a
 315	Khoina	bee	bee	ʨʰə-xø-mɐːʰ	ʨʰə+xø+mɐːʰ	tɕʰ ə + x ø + m ɐːʰ		123 122 121	123 122 121	tɕʰ ə - ◦ x ø - ◦ - m ɐːʰ
@@ -332,7 +332,7 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 337	Khispi	behind	behind	la-kʰun	la+kʰun	l a + kʰ u n		129 128	129 128	l a ◦ kʰ u n
 338	Duhumbi	behind	behind	la-kʰun	la+kʰun	l a + kʰ u n		129 128	129 128	l a ◦ kʰ u n
 342	Rahung	behind	behind	la-kʰeː	la+kʰeː	l a + kʰ eː		129 128	129 128	l a ◦ kʰ eː -
-343	Rupa	behind	behind	də-kʰeː	də+kʰeː	d ə + kʰ eː		130 128	130 128	d ə ◦ kʰ eː -
+343	Rupa	behind	behind	də-kʰeː	də+kʰeː	d ə + kʰ eː		129 128	130 128	d ə ◦ kʰ eː -
 345	Khispi	belly, abdomen	belly, abdomen	hi-niŋ	hi+niŋ	h i + n i ŋ		132 131	132 131	h i ◦ n i ŋ
 346	Duhumbi	belly, abdomen	belly, abdomen	hi-liŋ	hi+liŋ	h i + l i ŋ		132 131	132 131	h i ◦ l i ŋ
 347	Khoina	belly, abdomen	belly, abdomen	sə-rĩː	sə+rĩː	s ə + r ĩː		132 131	132 131	s ə ◦ r ĩː -
@@ -344,11 +344,11 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 353	Khispi	belt	belt	bu-kʰak	bu+kʰak	b u + kʰ a k		136 134	136 134	b u ◦ kʰ a k
 354	Duhumbi	belt	belt	bu-kʰak	bu+kʰak	b u + kʰ a k		136 134	136 134	b u ◦ kʰ a k
 355	Khoina	belt	belt	bu-kʰɐk	bu+kʰɐk	b u + kʰ ɐ k		136 134	136 134	b u ◦ kʰ ɐ k
-356	Jerigaon	belt	belt	mə-kʰɐk	mə+kʰɐk	m ə + kʰ ɐ k		135 134	135 134	m ə ◦ kʰ ɐ k
-357	Khoitam	belt	belt	mə-kʰak	mə+kʰak	m ə + kʰ a k		135 134	135 134	m ə ◦ kʰ a k
-358	Rahung	belt	belt	mə-kʰak	mə+kʰak	m ə + kʰ a k		135 134	135 134	m ə ◦ kʰ a k
-359	Rupa	belt	belt	mə-kʰak	mə+kʰak	m ə + kʰ a k		135 134	135 134	m ə ◦ kʰ a k
-360	Shergaon	belt	belt	mə-kʰak	mə+kʰak	m ə + kʰ a k		135 134	135 134	m ə ◦ kʰ a k
+356	Jerigaon	belt	belt	mə-kʰɐk	mə+kʰɐk	m ə + kʰ ɐ k		136 134	135 134	m ə ◦ kʰ ɐ k
+357	Khoitam	belt	belt	mə-kʰak	mə+kʰak	m ə + kʰ a k		136 134	135 134	m ə ◦ kʰ a k
+358	Rahung	belt	belt	mə-kʰak	mə+kʰak	m ə + kʰ a k		136 134	135 134	m ə ◦ kʰ a k
+359	Rupa	belt	belt	mə-kʰak	mə+kʰak	m ə + kʰ a k		136 134	135 134	m ə ◦ kʰ a k
+360	Shergaon	belt	belt	mə-kʰak	mə+kʰak	m ə + kʰ a k		136 134	135 134	m ə ◦ kʰ a k
 361	Khispi	big	big	ɔ-dɔk	ɔ+dɔk	ɔ + d ɔ k		137 138	137 138	ɔ ◦ d ɔ k
 362	Duhumbi	big	big	ɔ-dɔk	ɔ+dɔk	ɔ + d ɔ k		137 138	137 138	ɔ ◦ d ɔ k
 363	Khoina	big	big	a-dɔk	a+dɔk	a + d ɔ k		137 138	137 138	a ◦ d ɔ k
@@ -362,7 +362,7 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 371	Khoina	bind (v)	bind (v)	ruŋ	ruŋ	r u ŋ		139	139	r u ŋ
 377	Khispi	bird	bird	hwa	hwa	hw a		140	140	hw a
 378	Duhumbi	bird	bird	hwa	hwa	hw a		140	140	hw a
-379	Khoina	bird	bird	fuː	fuː	f uː		141	141	f uː
+379	Khoina	bird	bird	fuː	fuː	f uː		140	141	f uː
 380	Jerigaon	bird	bird	huː	huː	h uː		140	140	h uː
 381	Khoitam	bird	bird	huː	huː	h uː		140	140	h uː
 382	Rahung	bird	bird	huː	huː	h uː		140	140	h uː
@@ -392,7 +392,7 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 408	Shergaon	black	black	a-ʨʰɔ̃ː	a+ʨʰɔ̃ː	a + tɕʰ ɔ̃ː		146 145	146 145	a ◦ tɕʰ ɔ̃ː -
 409	Khispi	blood	blood	huj	huj	h u j		147	147	h u j
 410	Duhumbi	blood	blood	hɔj	hɔj	h ɔ j		147	147	h ɔ j
-411	Khoina	blood	blood	xaː	xaː	x aː		148	148	x aː
+411	Khoina	blood	blood	xaː	xaː	x aː		147	148	x aː
 412	Jerigaon	blood	blood	hɛːʰ	hɛːʰ	h ɛːʰ		147	147	h ɛːʰ -
 413	Khoitam	blood	blood	hɛːʰ	hɛːʰ	h ɛːʰ		147	147	h ɛːʰ -
 414	Rahung	blood	blood	hɛːʰ	hɛːʰ	h ɛːʰ		147	147	h ɛːʰ -
@@ -408,7 +408,7 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 424	Shergaon	blow	blow	mit	mit	m i t		149	149	m i t
 427	Khoina	blow (wind)	blow (wind)	fɔː	fɔː	f ɔː		150	150	f ɔː
 429	Khoitam	blow (wind)	blow (wind)	fyː	fyː	f yː		150	150	f yː
-430	Rahung	blow (wind)	blow (wind)	hyː	hyː	h yː		151	151	h yː
+430	Rahung	blow (wind)	blow (wind)	hyː	hyː	h yː		150	151	h yː
 433	Khispi	boar, wild	boar, wild	ɕa-kʰɛn	ɕa+kʰɛn	ɕ a + kʰ ɛ n		153 152	153 152	ɕ a ◦ kʰ ɛ n
 434	Duhumbi	boar, wild	boar, wild	ɕa-kʰɛn	ɕa+kʰɛn	ɕ a + kʰ ɛ n		153 152	153 152	ɕ a ◦ kʰ ɛ n
 435	Khoina	boar, wild	boar, wild	ʂ-tʂʰɛn	ʂ+tʂʰɛn	ʂ + ʈʂʰ ɛ n		153 152	153 152	ʂ - ◦ ʈʂʰ ɛ n
@@ -426,10 +426,10 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 448	Shergaon	boil  (water)	boil  (water)	ʨʰaw	ʨʰaw	tɕʰ a w		154	154	tɕʰ a w
 449	Khispi	boil (n)	boil (n)	kʰaŋ-pa ~ kʰlaŋ-pa	kʰaŋ+pa	kʰ a ŋ + p a		155 157	155 157	kʰ - a ŋ ◦ p a
 450	Duhumbi	boil (n)	boil (n)	kʰɹaŋ-pa	kʰɹaŋ+pa	kʰ ɹ a ŋ + p a		155 157	155 157	kʰ ɹ a ŋ ◦ p a
-451	Khoina	boil (n)	boil (n)	gə-kʰaŋ	gə+kʰaŋ	g ə + kʰ a ŋ		155 156	155 156	g - ə - ◦ kʰ a ŋ
-453	Khoitam	boil (n)	boil (n)	kʰa-kʰaŋ	kʰa+kʰaŋ	kʰ a + kʰ a ŋ		155 156	155 156	kʰ - a - ◦ kʰ a ŋ
-454	Rahung	boil (n)	boil (n)	kʰaŋ-kʰaŋ	kʰaŋ+kʰaŋ	kʰ a ŋ + kʰ a ŋ		155 156	155 156	kʰ - a ŋ ◦ kʰ a ŋ
-455	Rupa	boil (n)	boil (n)	kʰaŋ-kʰaŋ	kʰaŋ+kʰaŋ	kʰ a ŋ + kʰ a ŋ		155 156	155 156	kʰ - a ŋ ◦ kʰ a ŋ
+451	Khoina	boil (n)	boil (n)	gə-kʰaŋ	gə+kʰaŋ	g ə + kʰ a ŋ		27 155	155 156	g - ə - ◦ kʰ a ŋ
+453	Khoitam	boil (n)	boil (n)	kʰa-kʰaŋ	kʰa+kʰaŋ	kʰ a + kʰ a ŋ		27 155	155 156	kʰ - a - ◦ kʰ a ŋ
+454	Rahung	boil (n)	boil (n)	kʰaŋ-kʰaŋ	kʰaŋ+kʰaŋ	kʰ a ŋ + kʰ a ŋ		27 155	155 156	kʰ - a ŋ ◦ kʰ a ŋ
+455	Rupa	boil (n)	boil (n)	kʰaŋ-kʰaŋ	kʰaŋ+kʰaŋ	kʰ a ŋ + kʰ a ŋ		27 155	155 156	kʰ - a ŋ ◦ kʰ a ŋ
 457	Khispi	bone	bone	ɕa-kʰus	ɕa+kʰus	ɕ a + kʰ u s		159 158	159 158	ɕ a ◦ kʰ u s
 458	Duhumbi	bone	bone	ɕa-kʰus	ɕa+kʰus	ɕ a + kʰ u s		159 158	159 158	ɕ a ◦ kʰ u s
 459	Khoina	bone	bone	a-xyk	a+xyk	a + x y k		160 158	160 158	a ◦ x y k
@@ -473,10 +473,10 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 504	Shergaon	branch	branch	a-pʰaŋ	a+pʰaŋ	a + pʰ a ŋ		168 167	168 167	a ◦ pʰ a ŋ
 505	Khispi	break	break	gɛt	gɛt	g ɛ t		170	170	g ɛ t
 506	Duhumbi	break	break	gɛt	gɛt	g ɛ t		170	170	g ɛ t
-507	Khoina	break	break	ʥɛʔ	ʥɛʔ	dʑ ɛ ʔ		169	169	dʑ ɛ ʔ
-508	Jerigaon	break	break	ʨʰɛʔ	ʨʰɛʔ	tɕʰ ɛ ʔ		169	169	tɕʰ ɛ ʔ
-509	Khoitam	break	break	ʥɛʔ ~ ʨʰɛʔ	ʥɛʔ	dʑ ɛ ʔ		169	169	dʑ ɛ ʔ
-510	Rahung	break	break	ʥɛʔ	ʥɛʔ	dʑ ɛ ʔ		169	169	dʑ ɛ ʔ
+507	Khoina	break	break	ʥɛʔ	ʥɛʔ	dʑ ɛ ʔ		170	169	dʑ ɛ ʔ
+508	Jerigaon	break	break	ʨʰɛʔ	ʨʰɛʔ	tɕʰ ɛ ʔ		170	169	tɕʰ ɛ ʔ
+509	Khoitam	break	break	ʥɛʔ ~ ʨʰɛʔ	ʥɛʔ	dʑ ɛ ʔ		170	169	dʑ ɛ ʔ
+510	Rahung	break	break	ʥɛʔ	ʥɛʔ	dʑ ɛ ʔ		170	169	dʑ ɛ ʔ
 511	Rupa	break	break	gat	gat	g a t		170	170	g a t
 513	Khispi	breast, milk	breast, milk	ɲiŋ ~ ɲuŋ	ɲiŋ	ɲ i ŋ		171	171	ɲ i ŋ
 514	Duhumbi	breast, milk	breast, milk	ɲiŋ ~ ɲuŋ	ɲiŋ	ɲ i ŋ		171	171	ɲ i ŋ
@@ -567,9 +567,9 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 616	Shergaon	burn (vi)	burn (vi)	ha	ha	h a		193	193	h a -
 617	Khispi	burn, roast (vt)	burn, roast (vt)	di	di	d i		195	195	d i
 618	Duhumbi	burn, roast (vt)	burn, roast (vt)	di	di	d i		195	195	d i
-619	Khoina	burn, roast (vt)	burn, roast (vt)	riː	riː	r iː		194	194	r iː
-621	Khoitam	burn, roast (vt)	burn, roast (vt)	riː	riː	r iː		194	194	r iː
-623	Rupa	burn, roast (vt)	burn, roast (vt)	riː	riː	r iː		194	194	r iː
+619	Khoina	burn, roast (vt)	burn, roast (vt)	riː	riː	r iː		195	194	r iː
+621	Khoitam	burn, roast (vt)	burn, roast (vt)	riː	riː	r iː		195	194	r iː
+623	Rupa	burn, roast (vt)	burn, roast (vt)	riː	riː	r iː		195	194	r iː
 625	Khispi	butter	butter	mal	mal	m a l		196	196	m a l
 626	Duhumbi	butter	butter	maɹ	maɹ	m a ɹ		196	196	m a ɹ
 627	Khoina	butter	butter	mɐ̃ː	mɐ̃ː	m ɐ̃ː		196	196	m ɐ̃ː -
@@ -636,9 +636,9 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 689	Khispi	cattle, cow	cattle, cow	ɕa	ɕa	ɕ a		207	207	ɕ a
 690	Duhumbi	cattle, cow	cattle, cow	ɕa	ɕa	ɕ a		207	207	ɕ a
 691	Khoina	cattle, cow	cattle, cow	ʂuː	ʂuː	ʂ uː		207	207	ʂ uː
-692	Jerigaon	cattle, cow	cattle, cow	huː	huː	h uː		207	207	h uː
-693	Khoitam	cattle, cow	cattle, cow	huː	huː	h uː		207	207	h uː
-694	Rahung	cattle, cow	cattle, cow	huː	huː	h uː		207	207	h uː
+692	Jerigaon	cattle, cow	cattle, cow	huː	huː	h uː		208	207	h uː
+693	Khoitam	cattle, cow	cattle, cow	huː	huː	h uː		208	207	h uː
+694	Rahung	cattle, cow	cattle, cow	huː	huː	h uː		208	207	h uː
 695	Rupa	cattle, cow	cattle, cow	s-puː	s+puː	s + p uː		207 208	207 208	s - ◦ p uː
 696	Shergaon	cattle, cow	cattle, cow	s-puː	s+puː	s + p uː		207 208	207 208	s - ◦ p uː
 697	Khispi	cave	cave	kʰip	kʰip	kʰ i p		209	209	kʰ i p
@@ -653,14 +653,14 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 707	Khoina	charcoal	charcoal	bə-kʰɐ̃ː	bə+kʰɐ̃ː	b ə + kʰ ɐ̃ː		211 210	211 210	b ə - ◦ kʰ ɐ̃ː -
 708	Jerigaon	charcoal	charcoal	ba-kʰə-muː  ~ ba-møː	ba+kʰə+muː	b a + kʰ ə + m uː		211 210 213	211 210 213	b a - ◦ kʰ ə - ◦ m uː
 709	Khoitam	charcoal	charcoal	ba-kʰɔ̃ː	ba+kʰɔ̃ː	b a + kʰ ɔ̃ː		211 210	211 210	b a - ◦ kʰ ɔ̃ː -
-710	Rahung	charcoal	charcoal	mə-kʰɔ̃ː	mə+kʰɔ̃ː	m ə + kʰ ɔ̃ː		212 210	212 210	m ə ◦ kʰ ɔ̃ː -
+710	Rahung	charcoal	charcoal	mə-kʰɔ̃ː	mə+kʰɔ̃ː	m ə + kʰ ɔ̃ː		211 210	212 210	m ə ◦ kʰ ɔ̃ː -
 711	Rupa	charcoal	charcoal	ba-kʰɔ̃ː	ba+kʰɔ̃ː	b a + kʰ ɔ̃ː		211 210	211 210	b a - ◦ kʰ ɔ̃ː -
 712	Shergaon	charcoal	charcoal	ba-kʰɔ̃ː	ba+kʰɔ̃ː	b a + kʰ ɔ̃ː		211 210	211 210	b a - ◦ kʰ ɔ̃ː -
 714	Duhumbi	chest	chest	mɔw	mɔw	m ɔ w		214	214	m ɔ w
 715	Khoina	chest	chest	ma-wɔ	ma+wɔ	m a + w ɔ		214 215	214 215	m a - ◦ w ɔ
 717	Khoitam	chest	chest	mu-wɔ	mu+wɔ	m u + w ɔ		214 215	214 215	m u - ◦ w ɔ
 718	Rahung	chest	chest	mow  ~ mo	mow	m o w		214	214	m o w
-719	Rupa	chest	chest	mə-jaw ~ mwo	mə+jaw	m ə + j a w		214 216	214 216	m ə - ◦ j a w
+719	Rupa	chest	chest	mə-jaw ~ mwo	mə+jaw	m ə + j a w		214 215	214 216	m ə - ◦ j a w
 721	Khispi	chew	chew	ka	ka	k a		217	217	k a
 722	Duhumbi	chew	chew	ka	ka	k a		217	217	k a
 723	Khoina	chew	chew	kaˀ	kaˀ	k aˀ		217	217	k aˀ
@@ -668,8 +668,8 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 725	Khoitam	chew	chew	ka	ka	k a		217	217	k a
 726	Rahung	chew	chew	ka	ka	k a		217	217	k a
 727	Rupa	chew	chew	ku ~ kuː	ku	k u		217	217	k u
-729	Khispi	chicken	chicken	hwa-kʰi	hwa+kʰi	hw a + kʰ i		220 218	220 218	hw a ◦ kʰ i
-730	Duhumbi	chicken	chicken	hɔː-ki ~ hu-ki	hɔː+ki	h ɔː + k i		220 218	220 218	h ɔː ◦ k i
+729	Khispi	chicken	chicken	hwa-kʰi	hwa+kʰi	hw a + kʰ i		219 218	220 218	hw a ◦ kʰ i
+730	Duhumbi	chicken	chicken	hɔː-ki ~ hu-ki	hɔː+ki	h ɔː + k i		219 218	220 218	h ɔː ◦ k i
 731	Khoina	chicken	chicken	bə-ʨʰaː	bə+ʨʰaː	b ə + tɕʰ aː		219 218	219 218	b ə ◦ tɕʰ aː
 732	Jerigaon	chicken	chicken	pʰ-ʨʰɛː	pʰ+ʨʰɛː	pʰ + tɕʰ ɛː		219 218	219 218	pʰ - ◦ tɕʰ ɛː
 733	Khoitam	chicken	chicken	pʰ-ʨʰɛː	pʰ+ʨʰɛː	pʰ + tɕʰ ɛː		219 218	219 218	pʰ - ◦ tɕʰ ɛː
@@ -691,15 +691,15 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 750	Rahung	chili	chili	mɔŋ	mɔŋ	m ɔ ŋ		224	224	m ɔ ŋ
 751	Rupa	chili	chili	mɔŋ	mɔŋ	m ɔ ŋ		224	224	m ɔ ŋ
 752	Shergaon	chili	chili	mɔŋ	mɔŋ	m ɔ ŋ		224	224	m ɔ ŋ
-753	Khispi	chin	chin	hin-kul ~ hin-kuɹ	hin+kul	h i n + k u l		231 229	231 229	h i n ◦ k u l
-755	Khoina	chin	chin	ny-ju-kʰuː	ny+ju+kʰuː	n y + j u + kʰ uː		225 228 227	225 228 227	n y ◦ j u ◦ kʰ uː
-756	Jerigaon	chin	chin	ny-jɔ-kʰuː	ny+jɔ+kʰuː	n y + j ɔ + kʰ uː		225 228 227	225 228 227	n y ◦ j ɔ ◦ kʰ uː
-757	Khoitam	chin	chin	nə-wu	nə+wu	n ə + w u		225 226	225 226	n ə ◦ w u
-758	Rahung	chin	chin	ma-wu	ma+wu	m a + w u		230 226	230 226	m a ◦ w u
+753	Khispi	chin	chin	hin-kul ~ hin-kuɹ	hin+kul	h i n + k u l		225 229	231 229	h i n ◦ k u l
+755	Khoina	chin	chin	ny-ju-kʰuː	ny+ju+kʰuː	n y + j u + kʰ uː		225 228 229	225 228 227	n y ◦ j u ◦ kʰ uː
+756	Jerigaon	chin	chin	ny-jɔ-kʰuː	ny+jɔ+kʰuː	n y + j ɔ + kʰ uː		225 228 229	225 228 227	n y ◦ j ɔ ◦ kʰ uː
+757	Khoitam	chin	chin	nə-wu	nə+wu	n ə + w u		225 228	225 226	n ə ◦ w u
+758	Rahung	chin	chin	ma-wu	ma+wu	m a + w u		225 228	230 226	m a ◦ w u
 763	Khoina	civet or spotted wild cat	civet or spotted wild cat	saŋ-gə-du	saŋ+gə+du	s a ŋ + g ə + d u		232 234 233	232 234 233	s a ŋ ◦ g ə ◦ d u
 764	Jerigaon	civet or spotted wild cat	civet or spotted wild cat	saŋ-gə-du	saŋ+gə+du	s a ŋ + g ə + d u		232 234 233	232 234 233	s a ŋ ◦ g ə ◦ d u
 765	Khoitam	civet or spotted wild cat	civet or spotted wild cat	ʦiŋ-gə-duˀ	ʦiŋ+gə+duˀ	ts i ŋ + g ə + d uˀ		232 234 233	232 234 233	ts i ŋ ◦ g ə ◦ d uˀ
-766	Rahung	civet or spotted wild cat	civet or spotted wild cat	saŋ-du	saŋ+du	s a ŋ + d u		232 235	232 235	s a ŋ ◦ d u
+766	Rahung	civet or spotted wild cat	civet or spotted wild cat	saŋ-du	saŋ+du	s a ŋ + d u		232 233	232 235	s a ŋ ◦ d u
 767	Rupa	civet or spotted wild cat	civet or spotted wild cat	saŋ-gə-tu	saŋ+gə+tu	s a ŋ + g ə + t u		232 234 233	232 234 233	s a ŋ ◦ g ə ◦ t u
 768	Shergaon	civet or spotted wild cat	civet or spotted wild cat	saŋ-kə-tu	saŋ+kə+tu	s a ŋ + k ə + t u		232 234 233	232 234 233	s a ŋ ◦ k ə ◦ t u
 771	Khoina	civet, palm	civet, palm	s-nøn	s+nøn	s + n ø n		237 236	237 236	s - ◦ n ø n
@@ -723,20 +723,20 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 798	Rahung	clitoris	clitoris	peː	peː	p eː		241	241	p eː
 799	Rupa	clitoris	clitoris	ʨɔp-beː ~ ʨɔ-peː	ʨɔp+beː	tɕ ɔ p + b eː		242 241	242 241	tɕ ɔ p ◦ b eː
 800	Shergaon	clitoris	clitoris	ʨɔp-beː	ʨɔp+beː	tɕ ɔ p + b eː		242 241	242 241	tɕ ɔ p ◦ b eː
-801	Khispi	clothing	clothing	wat	wat	w a t		245	245	w a t
-802	Duhumbi	clothing	clothing	wat	wat	w a t		245	245	w a t
+801	Khispi	clothing	clothing	wat	wat	w a t		244	245	w a t
+802	Duhumbi	clothing	clothing	wat	wat	w a t		244	245	w a t
 803	Khoina	clothing	clothing	jɐˀ	jɐˀ	j ɐˀ		244	244	j ɐˀ
 804	Jerigaon	clothing	clothing	jɐˀ	jɐˀ	j ɐˀ		244	244	j ɐˀ
 805	Khoitam	clothing	clothing	jɔˀ	jɔˀ	j ɔˀ		244	244	j ɔˀ
 806	Rahung	clothing	clothing	jɔˀ	jɔˀ	j ɔˀ		244	244	j ɔˀ
 807	Rupa	clothing	clothing	jɔˀ	jɔˀ	j ɔˀ		244	244	j ɔˀ
 808	Shergaon	clothing	clothing	jɔ	jɔ	j ɔ		244	244	j ɔ
-809	Khispi	cloud, mist, fog	cloud, mist, fog	tɔŋ-ti ~ tɔŋ-tej	tɔŋ+ti	t ɔ ŋ + t i		247 246	247 246	t ɔ ŋ ◦ t i
+809	Khispi	cloud, mist, fog	cloud, mist, fog	tɔŋ-ti ~ tɔŋ-tej	tɔŋ+ti	t ɔ ŋ + t i		34 246	247 246	t ɔ ŋ ◦ t i
 811	Khoina	cloud, mist, fog	cloud, mist, fog	ʂ-tyː	ʂ+tyː	ʂ + t yː		247 246	247 246	ʂ - - ◦ t yː
 812	Jerigaon	cloud, mist, fog	cloud, mist, fog	s-tyː	s+tyː	s + t yː		247 246	247 246	s - - ◦ t yː
 813	Khoitam	cloud, mist, fog	cloud, mist, fog	syŋ-tyː	syŋ+tyː	s y ŋ + t yː		247 246	247 246	s y ŋ ◦ t yː
 814	Rahung	cloud, mist, fog	cloud, mist, fog	syn-tyː	syn+tyː	s y n + t yː		247 246	247 246	s y n ◦ t yː
-815	Rupa	cloud, mist, fog	cloud, mist, fog	ʦə-tyː ~ s-tyː	ʦə+tyː	ts ə + t yː		248 246	248 246	ts ə ◦ t yː
+815	Rupa	cloud, mist, fog	cloud, mist, fog	ʦə-tyː ~ s-tyː	ʦə+tyː	ts ə + t yː		247 246	248 246	ts ə ◦ t yː
 816	Shergaon	cloud, mist, fog	cloud, mist, fog	sin-tiː ~ sin-tyː	sin+tiː	s i n + t iː		247 246	247 246	s i n ◦ t iː
 817	Khispi	cockroach	cockroach	ʨʰik-duŋ	ʨʰik+duŋ	tɕʰ i k + d u ŋ		249 250	249 250	tɕʰ i k ◦ d u ŋ
 821	Khoitam	cockroach	cockroach	(pʰyː) ʨʰu-luŋ	ʨʰu+luŋ	tɕʰ u + l u ŋ		249 250	249 250	tɕʰ u - ◦ l u ŋ
@@ -759,16 +759,16 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 839	Rupa	cold (vi)	cold (vi)	rɛŋ	rɛŋ	r ɛ ŋ		253	253	r ɛ ŋ
 841	Khispi	comb	comb	tas	tas	t a s		255	255	t a s
 842	Duhumbi	comb	comb	tas	tas	t a s		255	255	t a s
-843	Khoina	comb	comb	nɐ̃	nɐ̃	n ɐ̃		254	254	n ɐ̃
-844	Jerigaon	comb	comb	nɐ̃	nɐ̃	n ɐ̃		254	254	n ɐ̃
-845	Khoitam	comb	comb	nɔ̃	nɔ̃	n ɔ̃		254	254	n ɔ̃
-846	Rahung	comb	comb	nɔ̃	nɔ̃	n ɔ̃		254	254	n ɔ̃
-847	Rupa	comb	comb	nɔ̃	nɔ̃	n ɔ̃		254	254	n ɔ̃
-848	Shergaon	comb	comb	nɔ̃	nɔ̃	n ɔ̃		254	254	n ɔ̃
+843	Khoina	comb	comb	nɐ̃	nɐ̃	n ɐ̃		255	254	n ɐ̃
+844	Jerigaon	comb	comb	nɐ̃	nɐ̃	n ɐ̃		255	254	n ɐ̃
+845	Khoitam	comb	comb	nɔ̃	nɔ̃	n ɔ̃		255	254	n ɔ̃
+846	Rahung	comb	comb	nɔ̃	nɔ̃	n ɔ̃		255	254	n ɔ̃
+847	Rupa	comb	comb	nɔ̃	nɔ̃	n ɔ̃		255	254	n ɔ̃
+848	Shergaon	comb	comb	nɔ̃	nɔ̃	n ɔ̃		255	254	n ɔ̃
 849	Khispi	come	come	un	un	u n		256	256	- u n
-850	Duhumbi	come	come	lɔn	lɔn	l ɔ n		256	256	l ɔ n
-851	Khoina	come	come	u	u	u		257	257	u
-852	Jerigaon	come	come	u	u	u		257	257	u
+850	Duhumbi	come	come	lɔn	lɔn	l ɔ n		36	256	l ɔ n
+851	Khoina	come	come	u	u	u		256	257	u
+852	Jerigaon	come	come	u	u	u		256	257	u
 853	Khoitam	come	come	un	un	u n		256	256	- u n
 854	Rahung	come	come	un	un	u n		256	256	- u n
 857	Khispi	comparative degree	comparative degree	-ɕɔk	+ɕɔk	ɕ ɔ k		258	258	ɕ ɔ k
@@ -799,7 +799,7 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 893	Khoitam	copula, negative	copula, negative	by-yː	by+yː	b y + yː		261 262	261 262	b y ◦ - yː
 895	Rupa	copula, negative	copula, negative	by-yː ~ bi-iː	by+yː	b y + yː		261 262	261 262	b y ◦ - yː
 896	Shergaon	copula, negative	copula, negative	bi-iː	bi+iː	b i + iː		261 262	261 262	b i ◦ - iː
-897	Khispi	corpse	corpse	lu ~ lɔː	lu	l u		264	264	l u
+897	Khispi	corpse	corpse	lu ~ lɔː	lu	l u		263	264	l u
 898	Duhumbi	corpse	corpse	rɔː	rɔː	r ɔː		263	263	r ɔː -
 899	Khoina	corpse	corpse	(i-i-)rɔː	rɔː	r ɔː		263	263	r ɔː -
 900	Jerigaon	corpse	corpse	rɔː	rɔː	r ɔː		263	263	r ɔː -
@@ -838,7 +838,7 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 942	Rahung	creeper, vine	creeper, vine	tʰak-kʰyː	tʰak+kʰyː	tʰ a k + kʰ yː		271 272	271 272	tʰ a k ◦ kʰ yː
 944	Shergaon	creeper, vine	creeper, vine	tʰak-kʰiː	tʰak+kʰiː	tʰ a k + kʰ iː		271 272	271 272	tʰ a k ◦ kʰ iː
 945	Khispi	crow	crow	haŋ-ŋa	haŋ+ŋa	h a ŋ + ŋ a		273 274	273 274	h a ŋ ◦ ŋ a
-947	Khoina	crow	crow	fɔ-ɔ̃ː	fɔ+ɔ̃ː	f ɔ + ɔ̃ː		275 274	275 274	f ɔ ◦ - ɔ̃ː
+947	Khoina	crow	crow	fɔ-ɔ̃ː	fɔ+ɔ̃ː	f ɔ + ɔ̃ː		273 274	275 274	f ɔ ◦ - ɔ̃ː
 948	Jerigaon	crow	crow	hɔ-ɔ̃ː	hɔ+ɔ̃ː	h ɔ + ɔ̃ː		273 274	273 274	h ɔ - ◦ - ɔ̃ː
 949	Khoitam	crow	crow	hu-ɔ̃ː	hu+ɔ̃ː	h u + ɔ̃ː		273 274	273 274	h u - ◦ - ɔ̃ː
 950	Rahung	crow	crow	hɔ-ɔ̃ː	hɔ+ɔ̃ː	h ɔ + ɔ̃ː		273 274	273 274	h ɔ - ◦ - ɔ̃ː
@@ -911,18 +911,18 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 1031	Rupa	day after two days	day after two days	liŋ-kit	liŋ+kit	l i ŋ + k i t		290 289	290 289	l i ŋ ◦ k i t
 1032	Shergaon	day after two days	day after two days	liŋ-kʰit	liŋ+kʰit	l i ŋ + kʰ i t		290 289	290 289	l i ŋ ◦ kʰ i t
 1034	Duhumbi	day before two days	day before two days	dɛj-kiˀ-ni	dɛj+kiˀ+ni	d ɛ j + k iˀ + n i		292 291 296	292 291 296	d ɛ j ◦ k iˀ - ◦ n i
-1035	Khoina	day before two days	day before two days	di-ʨik-ri	di+ʨik+ri	d i + tɕ i k + r i		292 291 293	292 291 293	d i - ◦ tɕ i k ◦ r i
-1036	Jerigaon	day before two days	day before two days	si-ʨik-hi	si+ʨik+hi	s i + tɕ i k + h i		294 291 293	294 291 293	s i ◦ tɕ i k ◦ h i
-1039	Rupa	day before two days	day before two days	di-kʰit-ni	di+kʰit+ni	d i + kʰ i t + n i		292 291 295	292 291 295	d i - ◦ kʰ i t ◦ n i
-1040	Shergaon	day before two days	day before two days	tʰi-kʰik-ni	tʰi+kʰik+ni	tʰ i + kʰ i k + n i		292 291 293	292 291 293	tʰ i - ◦ kʰ i k ◦ n i
+1035	Khoina	day before two days	day before two days	di-ʨik-ri	di+ʨik+ri	d i + tɕ i k + r i		292 291 296	292 291 293	d i - ◦ tɕ i k ◦ r i
+1036	Jerigaon	day before two days	day before two days	si-ʨik-hi	si+ʨik+hi	s i + tɕ i k + h i		292 291 296	294 291 293	s i ◦ tɕ i k ◦ h i
+1039	Rupa	day before two days	day before two days	di-kʰit-ni	di+kʰit+ni	d i + kʰ i t + n i		292 291 296	292 291 295	d i - ◦ kʰ i t ◦ n i
+1040	Shergaon	day before two days	day before two days	tʰi-kʰik-ni	tʰi+kʰik+ni	tʰ i + kʰ i k + n i		292 291 296	292 291 293	tʰ i - ◦ kʰ i k ◦ n i
 1041	Khispi	day before yesterday	day before yesterday	dɔ-kʰɔ-ni	dɔ+kʰɔ+ni	d ɔ + kʰ ɔ + n i		298 297 300	298 297 300	d ɔ ◦ kʰ ɔ - ◦ n i
 1042	Duhumbi	day before yesterday	day before yesterday	dɔ-kʰɔ-ni	dɔ+kʰɔ+ni	d ɔ + kʰ ɔ + n i		298 297 300	298 297 300	d ɔ ◦ kʰ ɔ - ◦ n i
-1043	Khoina	day before yesterday	day before yesterday	tʰ-kʰɔk-niː	tʰ+kʰɔk+niː	tʰ + kʰ ɔ k + n iː		298 297 299	298 297 299	tʰ - ◦ kʰ ɔ k ◦ n iː
-1044	Jerigaon	day before yesterday	day before yesterday	to-kʰok-hi	to+kʰok+hi	t o + kʰ o k + h i		298 297 299	298 297 299	t o ◦ kʰ o k ◦ h i
-1045	Khoitam	day before yesterday	day before yesterday	kʰɔk-niː	kʰɔk+niː	kʰ ɔ k + n iː		297 301	297 301	kʰ ɔ k ◦ n iː
-1046	Rahung	day before yesterday	day before yesterday	kʰɔk-nə-hɔ	kʰɔk+nə+hɔ	kʰ ɔ k + n ə + h ɔ		297 301 300	297 301 300	kʰ ɔ k ◦ n ə ◦ h ɔ
-1047	Rupa	day before yesterday	day before yesterday	do-kʰok-ni	do+kʰok+ni	d o + kʰ o k + n i		298 297 299	298 297 299	d o ◦ kʰ o k ◦ n i
-1048	Shergaon	day before yesterday	day before yesterday	tʰo-kʰok-ni	tʰo+kʰok+ni	tʰ o + kʰ o k + n i		298 297 299	298 297 299	tʰ o ◦ kʰ o k ◦ n i
+1043	Khoina	day before yesterday	day before yesterday	tʰ-kʰɔk-niː	tʰ+kʰɔk+niː	tʰ + kʰ ɔ k + n iː		298 297 300	298 297 299	tʰ - ◦ kʰ ɔ k ◦ n iː
+1044	Jerigaon	day before yesterday	day before yesterday	to-kʰok-hi	to+kʰok+hi	t o + kʰ o k + h i		298 297 300	298 297 299	t o ◦ kʰ o k ◦ h i
+1045	Khoitam	day before yesterday	day before yesterday	kʰɔk-niː	kʰɔk+niː	kʰ ɔ k + n iː		297 300	297 301	kʰ ɔ k ◦ n iː
+1046	Rahung	day before yesterday	day before yesterday	kʰɔk-nə-hɔ	kʰɔk+nə+hɔ	kʰ ɔ k + n ə + h ɔ		297 300 42	297 301 300	kʰ ɔ k ◦ n ə ◦ h ɔ
+1047	Rupa	day before yesterday	day before yesterday	do-kʰok-ni	do+kʰok+ni	d o + kʰ o k + n i		298 297 300	298 297 299	d o ◦ kʰ o k ◦ n i
+1048	Shergaon	day before yesterday	day before yesterday	tʰo-kʰok-ni	tʰo+kʰok+ni	tʰ o + kʰ o k + n i		298 297 300	298 297 299	tʰ o ◦ kʰ o k ◦ n i
 1049	Khispi	deaf	deaf	bɛŋ-zar	bɛŋ+zar	b ɛ ŋ + z a r		302 304	302 304	b - ɛ ŋ ◦ z a r
 1050	Duhumbi	deaf	deaf	bjɛŋ-ka	bjɛŋ+ka	b j ɛ ŋ + k a		302 305	302 305	b j ɛ ŋ ◦ k a
 1053	Khoitam	deaf	deaf	(kʰɔm-)pʰaŋ	pʰaŋ	pʰ a ŋ		302	302	pʰ - a ŋ
@@ -930,7 +930,7 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 1059	Khoina	deep	deep	a-dʐyː	a+dʐyː	a + ɖʐ yː		307 306	307 306	a ◦ ɖʐ yː
 1060	Jerigaon	deep	deep	a-ʥə-ryː	a+ʥə+ryː	a + dʑ ə + r yː		307 306 308	307 306 308	a ◦ dʑ ə ◦ r yː
 1061	Khoitam	deep	deep	a-ʥə-ryː	a+ʥə+ryː	a + dʑ ə + r yː		307 306 308	307 306 308	a ◦ dʑ ə ◦ r yː
-1062	Rahung	deep	deep	ʥə-ryː	ʥə+ryː	dʑ ə + r yː		306 309	306 309	dʑ ə ◦ r yː
+1062	Rahung	deep	deep	ʥə-ryː	ʥə+ryː	dʑ ə + r yː		306 308	306 309	dʑ ə ◦ r yː
 1063	Rupa	deep	deep	a-gyː	a+gyː	a + g yː		307 306	307 306	a ◦ g yː
 1064	Shergaon	deep	deep	a-giː	a+giː	a + g iː		307 306	307 306	a ◦ g iː
 1065	Khispi	deer, barking	deer, barking	(ʥaŋ-)ɕi-ki	ɕi+ki	ɕ i + k i		310 311	310 311	ɕ - i ◦ k i
@@ -944,13 +944,13 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 1073	Khispi	deer, sambar	deer, sambar	ɕa-ʥuŋ	ɕa+ʥuŋ	ɕ a + dʑ u ŋ		312 313	312 313	ɕ a - ◦ dʑ u ŋ
 1075	Khoina	deer, sambar	deer, sambar	sy-ʣyk	sy+ʣyk	s y + dz y k		312 313	312 313	s y - ◦ dz y k
 1077	Khoitam	deer, sambar	deer, sambar	ʥə-zyk	ʥə+zyk	dʑ ə + z y k		312 313	312 313	dʑ ə - ◦ z y k
-1079	Rupa	deer, sambar	deer, sambar	zyk	zyk	z y k		312	312	z y k
+1079	Rupa	deer, sambar	deer, sambar	zyk	zyk	z y k		313	312	z y k
 1082	Duhumbi	defeat (vi)	defeat (vi)	pʰam	pʰam	pʰ a m		314	314	pʰ a m
 1085	Khoitam	defeat (vi)	defeat (vi)	pʰũː(ŋ)	pʰũː	pʰ ũː		314	314	pʰ ũː -
 1086	Rahung	defeat (vi)	defeat (vi)	pʰũː(ŋ)	pʰũː	pʰ ũː		314	314	pʰ ũː -
 1089	Khispi	deity, ghost	deity, ghost	la ~ ɬa	la	l a		315	315	l a
 1090	Duhumbi	deity, ghost	deity, ghost	la ~ ɬa	la	l a		315	315	l a
-1091	Khoina	deity, ghost	deity, ghost	mə-hɔː	mə+hɔː	m ə + h ɔː		316 317	316 317	m ə ◦ h ɔː
+1091	Khoina	deity, ghost	deity, ghost	mə-hɔː	mə+hɔː	m ə + h ɔː		316 315	316 317	m ə ◦ h ɔː
 1093	Khoitam	deity, ghost	deity, ghost	mə-lɔː	mə+lɔː	m ə + l ɔː		316 315	316 315	m ə ◦ l ɔː
 1094	Rahung	deity, ghost	deity, ghost	mə-loː	mə+loː	m ə + l oː		316 315	316 315	m ə ◦ l oː
 1095	Rupa	deity, ghost	deity, ghost	loː	loː	l oː		315	315	l oː
@@ -984,8 +984,8 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 1133	Khoitam	disease	disease	nuŋ	nuŋ	n u ŋ		324	324	n u ŋ
 1134	Rahung	disease	disease	nuŋ	nuŋ	n u ŋ		324	324	n u ŋ
 1135	Rupa	disease	disease	nuŋ	nuŋ	n u ŋ		324	324	n u ŋ
-1137	Khispi	do	do	li	li	l i		326	326	l i
-1138	Duhumbi	do	do	le	le	l e		326	326	l e
+1137	Khispi	do	do	li	li	l i		325	326	l i
+1138	Duhumbi	do	do	le	le	l e		325	326	l e
 1139	Khoina	do	do	ra	ra	r a		325	325	r a
 1140	Jerigaon	do	do	ra ~ rɛ	ra	r a		325	325	r a
 1141	Khoitam	do	do	rɛ	rɛ	r ɛ		325	325	r ɛ
@@ -1044,16 +1044,16 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 1208	Shergaon	drink	drink	iŋ	iŋ	i ŋ		338	338	- i ŋ
 1209	Khispi	dry (adj.)	dry (adj.)	wal ~ ɔ-wal	wal	w a l		342	342	w a l
 1210	Duhumbi	dry (adj.)	dry (adj.)	wa-aɹ	wa+aɹ	w a + a ɹ		342 339	342 339	w a - ◦ a ɹ
-1211	Khoina	dry (adj.)	dry (adj.)	ɔ-ɐ̃ː	ɔ+ɐ̃ː	ɔ + ɐ̃ː		340 339	340 339	ɔ ◦ ɐ̃ː -
+1211	Khoina	dry (adj.)	dry (adj.)	ɔ-ɐ̃ː	ɔ+ɐ̃ː	ɔ + ɐ̃ː		342 339	340 339	ɔ ◦ ɐ̃ː -
 1212	Jerigaon	dry (adj.)	dry (adj.)	yk-ɐ̃ː	yk+ɐ̃ː	y k + ɐ̃ː		341 339	341 339	y k ◦ ɐ̃ː -
 1213	Khoitam	dry (adj.)	dry (adj.)	yk-ɔ̃ː	yk+ɔ̃ː	y k + ɔ̃ː		341 339	341 339	y k ◦ ɔ̃ː -
-1214	Rahung	dry (adj.)	dry (adj.)	ɔ-ɔ̃ː	ɔ+ɔ̃ː	ɔ + ɔ̃ː		340 339	340 339	ɔ ◦ ɔ̃ː -
-1215	Rupa	dry (adj.)	dry (adj.)	ɔ-ɔ̃ː	ɔ+ɔ̃ː	ɔ + ɔ̃ː		340 339	340 339	ɔ ◦ ɔ̃ː -
-1216	Shergaon	dry (adj.)	dry (adj.)	ɔ-ɔ̃ː	ɔ+ɔ̃ː	ɔ + ɔ̃ː		340 339	340 339	ɔ ◦ ɔ̃ː -
+1214	Rahung	dry (adj.)	dry (adj.)	ɔ-ɔ̃ː	ɔ+ɔ̃ː	ɔ + ɔ̃ː		342 339	340 339	ɔ ◦ ɔ̃ː -
+1215	Rupa	dry (adj.)	dry (adj.)	ɔ-ɔ̃ː	ɔ+ɔ̃ː	ɔ + ɔ̃ː		342 339	340 339	ɔ ◦ ɔ̃ː -
+1216	Shergaon	dry (adj.)	dry (adj.)	ɔ-ɔ̃ː	ɔ+ɔ̃ː	ɔ + ɔ̃ː		342 339	340 339	ɔ ◦ ɔ̃ː -
 1217	Khispi	dry, dry up (v.i.)	dry, dry up (v.i.)	al	al	a l		344	344	a l
 1218	Duhumbi	dry, dry up (v.i.)	dry, dry up (v.i.)	aɹ	aɹ	a ɹ		344	344	a ɹ
-1220	Jerigaon	dry, dry up (v.i.)	dry, dry up (v.i.)	ɐ̃ː	ɐ̃ː	ɐ̃ː		343	343	ɐ̃ː
-1223	Rupa	dry, dry up (v.i.)	dry, dry up (v.i.)	ɔ̃ː	ɔ̃ː	ɔ̃ː		343	343	ɔ̃ː
+1220	Jerigaon	dry, dry up (v.i.)	dry, dry up (v.i.)	ɐ̃ː	ɐ̃ː	ɐ̃ː		344	343	ɐ̃ː
+1223	Rupa	dry, dry up (v.i.)	dry, dry up (v.i.)	ɔ̃ː	ɔ̃ː	ɔ̃ː		344	343	ɔ̃ː
 1225	Khispi	dual	dual	-ziŋ	+ziŋ	z i ŋ		345	345	z i ŋ
 1226	Duhumbi	dual	dual	-ziŋ	+ziŋ	z i ŋ		345	345	z i ŋ
 1230	Rahung	dual	dual	-zik	+zik	z i k		345	345	z i k
@@ -1061,9 +1061,9 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 1232	Shergaon	dual	dual	-ziŋ	+ziŋ	z i ŋ		345	345	z i ŋ
 1233	Khispi	eagle, buzzard	eagle, buzzard	ha-ʦum	ha+ʦum	h a + ts u m		348 346	348 346	h a ◦ ts u m
 1234	Duhumbi	eagle, buzzard	eagle, buzzard	hu-ʦum	hu+ʦum	h u + ts u m		348 346	348 346	h u ◦ ts u m
-1237	Khoitam	eagle, buzzard	eagle, buzzard	pə-ʨyŋ	pə+ʨyŋ	p ə + tɕ y ŋ		347 346	347 346	p ə ◦ tɕ y ŋ
-1238	Rahung	eagle, buzzard	eagle, buzzard	bə-ʨyŋ ~ pʰ-ʨyŋ	bə+ʨyŋ	b ə + tɕ y ŋ		347 346	347 346	b ə ◦ tɕ y ŋ
-1239	Rupa	eagle, buzzard	eagle, buzzard	bə-ʨiŋ	bə+ʨiŋ	b ə + tɕ i ŋ		347 346	347 346	b ə ◦ tɕ i ŋ
+1237	Khoitam	eagle, buzzard	eagle, buzzard	pə-ʨyŋ	pə+ʨyŋ	p ə + tɕ y ŋ		348 346	347 346	p ə ◦ tɕ y ŋ
+1238	Rahung	eagle, buzzard	eagle, buzzard	bə-ʨyŋ ~ pʰ-ʨyŋ	bə+ʨyŋ	b ə + tɕ y ŋ		348 346	347 346	b ə ◦ tɕ y ŋ
+1239	Rupa	eagle, buzzard	eagle, buzzard	bə-ʨiŋ	bə+ʨiŋ	b ə + tɕ i ŋ		348 346	347 346	b ə ◦ tɕ i ŋ
 1241	Khispi	ear	ear	kʰu-tʰuŋ	kʰu+tʰuŋ	kʰ u + tʰ u ŋ		350 349	350 349	kʰ u ◦ tʰ u ŋ
 1242	Duhumbi	ear	ear	kʰu-tʰuŋ	kʰu+tʰuŋ	kʰ u + tʰ u ŋ		350 349	350 349	kʰ u ◦ tʰ u ŋ
 1243	Khoina	ear	ear	ga-tʰyŋ	ga+tʰyŋ	g a + tʰ y ŋ		350 349	350 349	g a ◦ tʰ y ŋ
@@ -1095,11 +1095,11 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 1271	Rupa	egg	egg	a-juŋ	a+juŋ	a + j u ŋ		359 358	359 358	a ◦ j u ŋ
 1273	Khispi	eggplant	eggplant	ban-tʰu	ban+tʰu	b a n + tʰ u		363 361	363 361	b a n ◦ tʰ u -
 1274	Duhumbi	eggplant	eggplant	ban-tʰɔw	ban+tʰɔw	b a n + tʰ ɔ w		363 361	363 361	b a n ◦ tʰ ɔ w
-1275	Khoina	eggplant	eggplant	ma-tʰɔː	ma+tʰɔː	m a + tʰ ɔː		362 361	362 361	m a - ◦ tʰ ɔː -
-1276	Jerigaon	eggplant	eggplant	mə-tʰɔː	mə+tʰɔː	m ə + tʰ ɔː		362 361	362 361	m ə - ◦ tʰ ɔː -
-1277	Khoitam	eggplant	eggplant	mə-tʰoː	mə+tʰoː	m ə + tʰ oː		362 361	362 361	m ə - ◦ tʰ oː -
+1275	Khoina	eggplant	eggplant	ma-tʰɔː	ma+tʰɔː	m a + tʰ ɔː		363 361	362 361	m a - ◦ tʰ ɔː -
+1276	Jerigaon	eggplant	eggplant	mə-tʰɔː	mə+tʰɔː	m ə + tʰ ɔː		363 361	362 361	m ə - ◦ tʰ ɔː -
+1277	Khoitam	eggplant	eggplant	mə-tʰoː	mə+tʰoː	m ə + tʰ oː		363 361	362 361	m ə - ◦ tʰ oː -
 1278	Rahung	eggplant	eggplant	pʰ-tʰoː	pʰ+tʰoː	pʰ + tʰ oː		363 361	363 361	pʰ - - ◦ tʰ oː -
-1279	Rupa	eggplant	eggplant	man-tʰoː	man+tʰoː	m a n + tʰ oː		362 361	362 361	m a n ◦ tʰ oː -
+1279	Rupa	eggplant	eggplant	man-tʰoː	man+tʰoː	m a n + tʰ oː		363 361	362 361	m a n ◦ tʰ oː -
 1280	Shergaon	eggplant	eggplant	ban-tʰoː	ban+tʰoː	b a n + tʰ oː		363 361	363 361	b a n ◦ tʰ oː -
 1281	Khispi	eight	eight	saɹ-gɛː	saɹ+gɛː	s a ɹ + g ɛː		365 364	365 364	s a ɹ ◦ g ɛː -
 1282	Duhumbi	eight	eight	saɹ-gɛˀ	saɹ+gɛˀ	s a ɹ + g ɛˀ		365 364	365 364	s a ɹ ◦ g ɛˀ -
@@ -1149,8 +1149,8 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 1334	Rahung	exit	exit	sɛt	sɛt	s ɛ t		379	379	s ɛ t
 1335	Rupa	exit	exit	sat	sat	s a t		379	379	s a t
 1336	Shergaon	exit	exit	sat	sat	s a t		379	379	s a t
-1337	Khispi	eye	eye	kʰu-mɔː	kʰu+mɔː	kʰ u + m ɔː		380 381	380 381	kʰ u - ◦ m ɔː
-1338	Duhumbi	eye	eye	kʰu-m	kʰu+m	kʰ u + m		380 381	380 381	kʰ u - ◦ m -
+1337	Khispi	eye	eye	kʰu-mɔː	kʰu+mɔː	kʰ u + m ɔː		380 46	380 381	kʰ u - ◦ m ɔː
+1338	Duhumbi	eye	eye	kʰu-m	kʰu+m	kʰ u + m		380 46	380 381	kʰ u - ◦ m -
 1339	Khoina	eye	eye	ga-byː	ga+byː	g a + b yː		380 381	380 381	g a - ◦ b yː
 1340	Jerigaon	eye	eye	kʰa-byː	kʰa+byː	kʰ a + b yː		380 381	380 381	kʰ a - ◦ b yː
 1341	Khoitam	eye	eye	kʰa-byː	kʰa+byː	kʰ a + b yː		380 381	380 381	kʰ a - ◦ b yː
@@ -1171,17 +1171,17 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 1359	Rupa	face	face2	myː	myː	m yː		382	382	m yː -
 1361	Khispi	falcon	falcon	hwa-ʨɔŋ-ki	hwa+ʨɔŋ+ki	hw a + tɕ ɔ ŋ + k i		387 384 386	387 384 386	hw a ◦ tɕ ɔ ŋ ◦ k i
 1362	Duhumbi	falcon	falcon	hwa-ʨɔŋ-ki	hwa+ʨɔŋ+ki	hw a + tɕ ɔ ŋ + k i		387 384 386	387 384 386	hw a ◦ tɕ ɔ ŋ ◦ k i
-1363	Khoina	falcon	falcon	ʣa-kyː	ʣa+kyː	dz a + k yː		385 384	385 384	dz a - ◦ k yː -
-1364	Jerigaon	falcon	falcon	ʨaŋ-kə-luŋ	ʨaŋ+kə+luŋ	tɕ a ŋ + k ə + l u ŋ		385 384 388	385 384 388	tɕ a ŋ ◦ k ə - ◦ l u ŋ
+1363	Khoina	falcon	falcon	ʣa-kyː	ʣa+kyː	dz a + k yː		384 386	385 384	dz a - ◦ k yː -
+1364	Jerigaon	falcon	falcon	ʨaŋ-kə-luŋ	ʨaŋ+kə+luŋ	tɕ a ŋ + k ə + l u ŋ		384 386 388	385 384 388	tɕ a ŋ ◦ k ə - ◦ l u ŋ
 1369	Khispi	fall	fall1	ɕa	ɕa	ɕ a		389	389	ɕ a -
 1370	Duhumbi	fall	fall1	ɕa	ɕa	ɕ a		389	389	ɕ a -
 1374	Rahung	fall	fall1	ʨʰuː	ʨʰuː	tɕʰ uː		389	389	tɕʰ uː -
 1375	Rupa	fall	fall1	ʦʰuː  ~ ʨʰuː	ʦʰuː	tsʰ uː		389	389	tsʰ uː -
-1380	Jerigaon	fall	fall2	hiŋ	hiŋ	h i ŋ		389	389	h i ŋ
-1381	Khoitam	fall	fall2	hiŋ	hiŋ	h i ŋ		389	389	h i ŋ
-1382	Rahung	fall	fall2	hyŋ	hyŋ	h y ŋ		389	389	h y ŋ
-1383	Rupa	fall	fall2	hĩː	hĩː	h ĩː		389	389	h ĩː -
-1384	Shergaon	fall	fall2	hĩː	hĩː	h ĩː		389	389	h ĩː -
+1380	Jerigaon	fall	fall2	hiŋ	hiŋ	h i ŋ		49	389	h i ŋ
+1381	Khoitam	fall	fall2	hiŋ	hiŋ	h i ŋ		49	389	h i ŋ
+1382	Rahung	fall	fall2	hyŋ	hyŋ	h y ŋ		49	389	h y ŋ
+1383	Rupa	fall	fall2	hĩː	hĩː	h ĩː		49	389	h ĩː -
+1384	Shergaon	fall	fall2	hĩː	hĩː	h ĩː		49	389	h ĩː -
 1387	Khoina	far	far	a-tʂʰɐ̃ː	a+tʂʰɐ̃ː	a + ʈʂʰ ɐ̃ː		391 390	391 390	a ◦ ʈʂʰ ɐ̃ː
 1388	Jerigaon	far	far	a-ʨʰɐ̃ː	a+ʨʰɐ̃ː	a + tɕʰ ɐ̃ː		391 390	391 390	a ◦ tɕʰ ɐ̃ː
 1389	Khoitam	far	far	a-ʨʰɔ̃ː	a+ʨʰɔ̃ː	a + tɕʰ ɔ̃ː		391 390	391 390	a ◦ tɕʰ ɔ̃ː
@@ -1254,13 +1254,13 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 1470	Rahung	field	field	rɛk	rɛk	r ɛ k		409	409	r - - ɛ k
 1471	Rupa	field	field	rɛk ~ rɛk(-saŋ)	rɛk	r ɛ k		409	409	r - - ɛ k
 1472	Shergaon	field	field	rɛk(-saŋ)	rɛk	r ɛ k		409	409	r - - ɛ k
-1473	Khispi	finger	finger	hut ɕa-da	hut_ɕa+da	h u t _ ɕ a + d a		414 412 411	414 412 411	h u t ◦ ɕ a - ◦ d a -
-1474	Duhumbi	finger	finger	hut bɹa-ma	hut_bɹa+ma	h u t _ b ɹ a + m a		414 413 411	414 413 411	h u t ◦ b ɹ a - ◦ m a -
+1473	Khispi	finger	finger	hut ɕa-da	hut_ɕa+da	h u t _ ɕ a + d a		410 412 411	414 412 411	h u t ◦ ɕ a - ◦ d a -
+1474	Duhumbi	finger	finger	hut bɹa-ma	hut_bɹa+ma	h u t _ b ɹ a + m a		410 413 57	414 413 411	h u t ◦ b ɹ a - ◦ m a -
 1475	Khoina	finger	finger	ik a-du	ik_a+du	i k _ a + d u		410 412 411	410 412 411	i k ◦ - a - ◦ d u -
 1476	Jerigaon	finger	finger	ik a-du	ik_a+du	i k _ a + d u		410 412 411	410 412 411	i k ◦ - a - ◦ d u -
 1477	Khoitam	finger	finger	ik bɹɔm	ik_bɹɔm	i k _ b ɹ ɔ m		410 413	410 413	i k ◦ b ɹ ɔ m
-1478	Rahung	finger	finger	ik pɹø-muŋ ~ ik-bɹɔm	ik_pɹø+muŋ	i k _ p ɹ ø + m u ŋ		410 413 411	410 413 411	i k ◦ p ɹ ø - ◦ m u ŋ
-1479	Rupa	finger	finger	ik ʦʰik ~ ik-ʨʰik ~ ik-ʨʰĩː	ik_ʦʰik	i k _ tsʰ i k		410 412	410 412	i k ◦ tsʰ i k
+1478	Rahung	finger	finger	ik pɹø-muŋ ~ ik-bɹɔm	ik_pɹø+muŋ	i k _ p ɹ ø + m u ŋ		410 413 57	410 413 411	i k ◦ p ɹ ø - ◦ m u ŋ
+1479	Rupa	finger	finger	ik ʦʰik ~ ik-ʨʰik ~ ik-ʨʰĩː	ik_ʦʰik	i k _ tsʰ i k		410 63	410 412	i k ◦ tsʰ i k
 1481	Khispi	fire	fire	bej	bej	b e j		415	415	b e j
 1482	Duhumbi	fire	fire	bɛj	bɛj	b ɛ j		415	415	b ɛ j
 1483	Khoina	fire	fire	baː	baː	b aː		415	415	b aː -
@@ -1305,28 +1305,28 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 1532	Jerigaon	float	float	raː (-tʰɔn)	raː	r aː		422	422	r aː
 1533	Khoitam	float	float	rɛː (-tʰĩː)	rɛː	r ɛː		422	422	r ɛː
 1534	Rahung	float	float	rɛː (-tʰyː)	rɛː	r ɛː		422	422	r ɛː
-1537	Khispi	flour	flour	pʰuj	pʰuj	pʰ u j		426	426	pʰ u j
-1538	Duhumbi	flour	flour	pʰɔj	pʰɔj	pʰ ɔ j		426	426	pʰ ɔ j
+1537	Khispi	flour	flour	pʰuj	pʰuj	pʰ u j		424	426	pʰ u j
+1538	Duhumbi	flour	flour	pʰɔj	pʰɔj	pʰ ɔ j		424	426	pʰ ɔ j
 1539	Khoina	flour	flour	nə-faː	nə+faː	n ə + f aː		423 424	423 424	n ə ◦ f aː
-1540	Jerigaon	flour	flour	nə-hɛːʰ	nə+hɛːʰ	n ə + h ɛːʰ		423 425	423 425	n ə ◦ h ɛːʰ
+1540	Jerigaon	flour	flour	nə-hɛːʰ	nə+hɛːʰ	n ə + h ɛːʰ		423 424	423 425	n ə ◦ h ɛːʰ
 1541	Khoitam	flour	flour	nə-pʰɛːʰ	nə+pʰɛːʰ	n ə + pʰ ɛːʰ		423 424	423 424	n ə ◦ pʰ ɛːʰ
-1542	Rahung	flour	flour	mə-hɛːʰ	mə+hɛːʰ	m ə + h ɛːʰ		427 425	427 425	m ə ◦ h ɛːʰ
+1542	Rahung	flour	flour	mə-hɛːʰ	mə+hɛːʰ	m ə + h ɛːʰ		423 424	427 425	m ə ◦ h ɛːʰ
 1543	Rupa	flour	flour	nə-pʰaː	nə+pʰaː	n ə + pʰ aː		423 424	423 424	n ə ◦ pʰ aː
 1544	Shergaon	flour	flour	nə-pʰaː	nə+pʰaː	n ə + pʰ aː		423 424	423 424	n ə ◦ pʰ aː
 1546	Duhumbi	flow	flow	wa	wa	w a		430	430	w a
-1547	Khoina	flow	flow	xyj(ŋ)	xyj	x y j		429	429	x y j
+1547	Khoina	flow	flow	xyj(ŋ)	xyj	x y j		428	429	x y j
 1548	Jerigaon	flow	flow	hyŋ	hyŋ	h y ŋ		428	428	h y ŋ
 1549	Khoitam	flow	flow	hyŋ	hyŋ	h y ŋ		428	428	h y ŋ
-1551	Rupa	flow	flow	haw	haw	h a w		428	428	h a w
-1552	Shergaon	flow	flow	haw	haw	h a w		428	428	h a w
+1551	Rupa	flow	flow	haw	haw	h a w		430	428	h a w
+1552	Shergaon	flow	flow	haw	haw	h a w		430	428	h a w
 1555	Khoina	fly (n)	fly (n)	bə-ʨiŋ-ʨɔŋ ~ bə-ʨiŋ-pʰuŋ	bə+ʨiŋ+ʨɔŋ	b ə + tɕ i ŋ + tɕ ɔ ŋ		432 431 433	432 431 433	b ə - ◦ tɕ i ŋ ◦ tɕ ɔ ŋ
 1556	Jerigaon	fly (n)	fly (n)	pʰə-ʨiŋ-ʨɔŋ ~mə-ʨiŋ-ʨɔŋ	pʰə+ʨiŋ+ʨɔŋ	pʰ ə + tɕ i ŋ + tɕ ɔ ŋ		432 431 433	432 431 433	pʰ ə - ◦ tɕ i ŋ ◦ tɕ ɔ ŋ
 1557	Khoitam	fly (n)	fly (n)	pʰ-ʦiː ~ pʰ-ʨiː	pʰ+ʦiː	pʰ + ts iː		432 431	432 431	pʰ - - ◦ ts iː -
-1558	Rahung	fly (n)	fly (n)	ʨa-pim	ʨa+pim	tɕ a + p i m		431 432	431 432	tɕ a - ◦ p i m
+1558	Rahung	fly (n)	fly (n)	ʨa-pim	ʨa+pim	tɕ a + p i m		98 432	431 432	tɕ a - ◦ p i m
 1559	Rupa	fly (n)	fly (n)	bə-ʨiŋ	bə+ʨiŋ	b ə + tɕ i ŋ		432 431	432 431	b ə - ◦ tɕ i ŋ
 1560	Shergaon	fly (n)	fly (n)	bə-ʨiŋ	bə+ʨiŋ	b ə + tɕ i ŋ		432 431	432 431	b ə - ◦ tɕ i ŋ
-1561	Khispi	fly (vi)	fly (vi)	ɕɛl	ɕɛl	ɕ ɛ l		435	435	ɕ ɛ l
-1562	Duhumbi	fly (vi)	fly (vi)	ɕɛɹ	ɕɛɹ	ɕ ɛ ɹ		435	435	ɕ ɛ ɹ
+1561	Khispi	fly (vi)	fly (vi)	ɕɛl	ɕɛl	ɕ ɛ l		434	435	ɕ ɛ l
+1562	Duhumbi	fly (vi)	fly (vi)	ɕɛɹ	ɕɛɹ	ɕ ɛ ɹ		434	435	ɕ ɛ ɹ
 1563	Khoina	fly (vi)	fly (vi)	ʦʰɛn	ʦʰɛn	tsʰ ɛ n		434	434	tsʰ ɛ n
 1564	Jerigaon	fly (vi)	fly (vi)	ʨʰɛn	ʨʰɛn	tɕʰ ɛ n		434	434	tɕʰ ɛ n
 1565	Khoitam	fly (vi)	fly (vi)	ʨʰan	ʨʰan	tɕʰ a n		434	434	tɕʰ a n
@@ -1380,9 +1380,9 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 1625	Khispi	friend	friend	lɔk	lɔk	l ɔ k		447	447	l ɔ k
 1626	Duhumbi	friend	friend	lɔk	lɔk	l ɔ k		447	447	l ɔ k
 1627	Khoina	friend	friend	rɔk	rɔk	r ɔ k		447	447	r ɔ k
-1628	Jerigaon	friend	friend	kʰ-rɔ̃ː ~ kʰu-rɔ̃ː	kʰ+rɔ̃ː	kʰ + r ɔ̃ː		448 450	448 450	kʰ - ◦ r ɔ̃ː
-1629	Khoitam	friend	friend	kʰə-nũː	kʰə+nũː	kʰ ə + n ũː		448 449	448 449	kʰ ə ◦ n ũː
-1630	Rahung	friend	friend	kʰə-nũː	kʰə+nũː	kʰ ə + n ũː		448 449	448 449	kʰ ə ◦ n ũː
+1628	Jerigaon	friend	friend	kʰ-rɔ̃ː ~ kʰu-rɔ̃ː	kʰ+rɔ̃ː	kʰ + r ɔ̃ː		448 105	448 450	kʰ - ◦ r ɔ̃ː
+1629	Khoitam	friend	friend	kʰə-nũː	kʰə+nũː	kʰ ə + n ũː		448 105	448 449	kʰ ə ◦ n ũː
+1630	Rahung	friend	friend	kʰə-nũː	kʰə+nũː	kʰ ə + n ũː		448 105	448 449	kʰ ə ◦ n ũː
 1631	Rupa	friend	friend	rɔk	rɔk	r ɔ k		447	447	r ɔ k
 1632	Shergaon	friend	friend	rɔk	rɔk	r ɔ k		447	447	r ɔ k
 1633	Khispi	frog	frog	duŋ-ta	duŋ+ta	d u ŋ + t a		453 451	453 451	d u ŋ ◦ t a
@@ -1391,7 +1391,7 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 1636	Jerigaon	frog	frog	rɛk-tu	rɛk+tu	r ɛ k + t u		452 451	452 451	r ɛ k ◦ t u
 1637	Khoitam	frog	frog	rik-tu	rik+tu	r i k + t u		452 451	452 451	r i k ◦ t u
 1638	Rahung	frog	frog	rik-tu	rik+tu	r i k + t u		452 451	452 451	r i k ◦ t u
-1639	Rupa	frog	frog	riː-gə-tu	riː+gə+tu	r iː + g ə + t u		452 455 454	452 455 454	r iː - ◦ g ə ◦ t u
+1639	Rupa	frog	frog	riː-gə-tu	riː+gə+tu	r iː + g ə + t u		452 455 451	452 455 454	r iː - ◦ g ə ◦ t u
 1641	Khispi	frost	frost	nam-ba	nam+ba	n a m + b a		457 456	457 456	n a m ◦ b - a
 1645	Khoitam	frost	frost	nam-bluː	nam+bluː	n a m + b l uː		457 456	457 456	n a m ◦ b l uː
 1646	Rahung	frost	frost	nam-bruː	nam+bruː	n a m + b r uː		457 456	457 456	n a m ◦ b r uː
@@ -1407,10 +1407,10 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 1663	Rupa	frying pan	frying pan	kʰ-jaː	kʰ+jaː	kʰ + j aː		460 461	460 461	kʰ - ◦ j aː
 1665	Khispi	full	full	pɕiŋ- ~ ɕiŋ-ba	pɕiŋ+	p ɕ i ŋ		464	464	p ɕ i ŋ
 1666	Duhumbi	full	full	pɕiŋ-ba	pɕiŋ+ba	p ɕ i ŋ + b a		464 462	464 462	p ɕ i ŋ ◦ b a -
-1667	Khoina	full	full	a-pʰiŋ	a+pʰiŋ	a + pʰ i ŋ		463 462	463 462	a ◦ pʰ i ŋ
-1668	Jerigaon	full	full	a-pʰiŋ	a+pʰiŋ	a + pʰ i ŋ		463 462	463 462	a ◦ pʰ i ŋ
-1669	Khoitam	full	full	a-pʰiŋ	a+pʰiŋ	a + pʰ i ŋ		463 462	463 462	a ◦ pʰ i ŋ
-1670	Rahung	full	full	a-pʰiŋ	a+pʰiŋ	a + pʰ i ŋ		463 462	463 462	a ◦ pʰ i ŋ
+1667	Khoina	full	full	a-pʰiŋ	a+pʰiŋ	a + pʰ i ŋ		463 464	463 462	a ◦ pʰ i ŋ
+1668	Jerigaon	full	full	a-pʰiŋ	a+pʰiŋ	a + pʰ i ŋ		463 464	463 462	a ◦ pʰ i ŋ
+1669	Khoitam	full	full	a-pʰiŋ	a+pʰiŋ	a + pʰ i ŋ		463 464	463 462	a ◦ pʰ i ŋ
+1670	Rahung	full	full	a-pʰiŋ	a+pʰiŋ	a + pʰ i ŋ		463 464	463 462	a ◦ pʰ i ŋ
 1671	Rupa	full	full	pʰiŋ-ba	pʰiŋ+ba	pʰ i ŋ + b a		464 462	464 462	pʰ - i ŋ ◦ b a -
 1672	Shergaon	full	full	pʰiŋ	pʰiŋ	pʰ i ŋ		464	464	pʰ - i ŋ
 1673	Khispi	gall, bile	gall, bile	ɕa-ɕi	ɕa+ɕi	ɕ a + ɕ i		467 465	467 465	ɕ a ◦ ɕ i
@@ -1449,9 +1449,9 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 1715	Khoina	goat	goat	sy-ʣøː	sy+ʣøː	s y + dz øː		475 476	475 476	s y ◦ dz øː
 1716	Jerigaon	goat	goat	sə-ʥøː	sə+ʥøː	s ə + dʑ øː		475 476	475 476	s ə ◦ dʑ øː
 1717	Khoitam	goat	goat	ʥə-zĩː	ʥə+zĩː	dʑ ə + z ĩː		475 476	475 476	dʑ ə ◦ z ĩː
-1718	Rahung	goat	goat	zyː	zyː	z yː		475	475	z yː
-1719	Rupa	goat	goat	zøː ~ zɛ̃ː	zøː	z øː		475	475	z øː
-1720	Shergaon	goat	goat	zɛ̃ː	zɛ̃ː	z ɛ̃ː		475	475	z ɛ̃ː
+1718	Rahung	goat	goat	zyː	zyː	z yː		476	475	z yː
+1719	Rupa	goat	goat	zøː ~ zɛ̃ː	zøː	z øː		476	475	z øː
+1720	Shergaon	goat	goat	zɛ̃ː	zɛ̃ː	z ɛ̃ː		476	475	z ɛ̃ː
 1721	Khispi	goitre	goitre	du-lu	du+lu	d u + l u		477 478	477 478	d u ◦ l u -
 1722	Duhumbi	goitre	goitre	du-luˀ ~ dɔ-rɔˀ	du+luˀ	d u + l uˀ		477 478	477 478	d u ◦ l uˀ -
 1724	Jerigaon	goitre	goitre	d-rɔ	d+rɔ	d + r ɔ		477 478	477 478	d - ◦ r ɔ -
@@ -1478,9 +1478,9 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 1746	Duhumbi	goral	goral	ɕa-zɛɹ	ɕa+zɛɹ	ɕ a + z ɛ ɹ		482 483	482 483	ɕ a - ◦ z ɛ ɹ
 1748	Jerigaon	goral	goral	sə-zɛn	sə+zɛn	s ə + z ɛ n		482 483	482 483	s ə - ◦ z ɛ n
 1749	Khoitam	goral	goral	ʥə-zan	ʥə+zan	dʑ ə + z a n		482 483	482 483	dʑ ə - ◦ z a n
-1750	Rahung	goral	goral	zan	zan	z a n		482	482	z a n
-1751	Rupa	goral	goral	zan	zan	z a n		482	482	z a n
-1752	Shergaon	goral	goral	zan	zan	z a n		482	482	z a n
+1750	Rahung	goral	goral	zan	zan	z a n		483	482	z a n
+1751	Rupa	goral	goral	zan	zan	z a n		483	482	z a n
+1752	Shergaon	goral	goral	zan	zan	z a n		483	482	z a n
 1753	Khispi	gourd	gourd	kʰa-ʨʰɔŋ (law)	kʰa+ʨʰɔŋ	kʰ a + tɕʰ ɔ ŋ		484 485	484 485	kʰ a ◦ tɕʰ ɔ ŋ
 1755	Khoina	gourd	gourd	kʰ-ʨʰuŋ	kʰ+ʨʰuŋ	kʰ + tɕʰ u ŋ		484 485	484 485	kʰ - ◦ tɕʰ u ŋ
 1758	Rahung	gourd	gourd	kʰ-ʨʰuŋ	kʰ+ʨʰuŋ	kʰ + tɕʰ u ŋ		484 485	484 485	kʰ - ◦ tɕʰ u ŋ
@@ -1495,8 +1495,8 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 1774	Rahung	grandmother	grandmother	a-jɔʰ	a+jɔʰ	a + j ɔʰ		488 489	488 489	a ◦ j ɔʰ
 1775	Rupa	grandmother	grandmother	a-jɔʰ	a+jɔʰ	a + j ɔʰ		488 489	488 489	a ◦ j ɔʰ
 1776	Shergaon	grandmother	grandmother	a-jiː	a+jiː	a + j iː		488 489	488 489	a ◦ j iː
-1777	Khispi	green	green	jaŋ ~ ʥaŋ-ku	jaŋ	j a ŋ		492	492	j a ŋ
-1778	Duhumbi	green	green	jaŋ	jaŋ	j a ŋ		492	492	j a ŋ
+1777	Khispi	green	green	jaŋ ~ ʥaŋ-ku	jaŋ	j a ŋ		490	492	j a ŋ
+1778	Duhumbi	green	green	jaŋ	jaŋ	j a ŋ		490	492	j a ŋ
 1779	Khoina	green	green	ɔ-xɐ̃ː	ɔ+xɐ̃ː	ɔ + x ɐ̃ː		491 490	491 490	ɔ ◦ x ɐ̃ː
 1780	Jerigaon	green	green	ɔ-hɐ̃ː	ɔ+hɐ̃ː	ɔ + h ɐ̃ː		491 490	491 490	ɔ ◦ h ɐ̃ː
 1781	Khoitam	green	green	ɔ-hɔ̃ː	ɔ+hɔ̃ː	ɔ + h ɔ̃ː		491 490	491 490	ɔ ◦ h ɔ̃ː
@@ -1510,7 +1510,7 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 1791	Rupa	grind, pound	grind, pound	zyː(n)	zyː	z yː		493	493	z yː
 1792	Shergaon	grind, pound	grind, pound	ziː	ziː	z iː		493	493	z iː
 1794	Duhumbi	gum	gum	ɕa-ɲi-lum	ɕa+ɲi+lum	ɕ a + ɲ i + l u m		494 495 496	494 495 496	ɕ a ◦ ɲ i - ◦ l u m
-1795	Khoina	gum	gum	mə-ʂə-rĩː	mə+ʂə+rĩː	m ə + ʂ ə + r ĩː		497 494 496	497 494 496	m ə ◦ ʂ ə ◦ r ĩː -
+1795	Khoina	gum	gum	mə-ʂə-rĩː	mə+ʂə+rĩː	m ə + ʂ ə + r ĩː		497 494 495	497 494 496	m ə ◦ ʂ ə ◦ r ĩː -
 1798	Rahung	gum	gum	sə-niŋ	sə+niŋ	s ə + n i ŋ		494 495	494 495	s ə ◦ n i ŋ
 1799	Rupa	gum	gum	sə-ɲiŋ	sə+ɲiŋ	s ə + ɲ i ŋ		494 495	494 495	s ə ◦ ɲ i ŋ
 1803	Khoina	hail	hail	na-jyŋ	na+jyŋ	n a + j y ŋ		498 499	498 499	n a - ◦ j y ŋ
@@ -1536,8 +1536,8 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 1826	Duhumbi	halt, stop	halt, stop	kak	kak	k a k		504	504	k a k
 1827	Khoina	halt, stop	halt, stop	kʰɐk	kʰɐk	kʰ ɐ k		504	504	kʰ ɐ k
 1830	Rahung	halt, stop	halt, stop	gak	gak	g a k		504	504	g a k
-1833	Khispi	hand, arm	hand, arm	hut	hut	h u t		506	506	h u t
-1834	Duhumbi	hand, arm	hand, arm	hut	hut	h u t		506	506	h u t
+1833	Khispi	hand, arm	hand, arm	hut	hut	h u t		505	506	h u t
+1834	Duhumbi	hand, arm	hand, arm	hut	hut	h u t		505	506	h u t
 1835	Khoina	hand, arm	hand, arm	ik	ik	i k		505	505	i k
 1836	Jerigaon	hand, arm	hand, arm	ik	ik	i k		505	505	i k
 1837	Khoitam	hand, arm	hand, arm	ik	ik	i k		505	505	i k
@@ -1606,7 +1606,7 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 1914	Duhumbi	honey	honey	ʨʰi-ʨʰu ~ ʨʰu-ʨʰu	ʨʰi+ʨʰu	tɕʰ i + tɕʰ u		525 526	525 526	tɕʰ i ◦ tɕʰ u
 1915	Khoina	honey	honey	ʦʰiː	ʦʰiː	tsʰ iː		525	525	tsʰ iː
 1916	Jerigaon	honey	honey	ʨʰiː	ʨʰiː	tɕʰ iː		525	525	tɕʰ iː
-1917	Khoitam	honey	honey	ʦʰə-siː ~ ʦʰ-siː ~ ʦʰiː	ʦʰə+siː	tsʰ ə + s iː		525 526	525 526	tsʰ ə ◦ s iː
+1917	Khoitam	honey	honey	ʦʰə-siː ~ ʦʰ-siː ~ ʦʰiː	ʦʰə+siː	tsʰ ə + s iː		119 525	525 526	tsʰ ə ◦ s iː
 1919	Rupa	honey	honey	ʨʰiː	ʨʰiː	tɕʰ iː		525	525	tɕʰ iː
 1920	Shergaon	honey	honey	ʨʰiː	ʨʰiː	tɕʰ iː		525	525	tɕʰ iː
 1921	Khispi	horn	horn	kʰɛŋ	kʰɛŋ	kʰ ɛ ŋ		527	527	kʰ ɛ - - ŋ
@@ -1617,15 +1617,15 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 1926	Rahung	horn	horn	ʨʰɛŋ	ʨʰɛŋ	tɕʰ ɛ ŋ		527	527	tɕʰ ɛ - - ŋ
 1927	Rupa	horn	horn	kʰɛŋ	kʰɛŋ	kʰ ɛ ŋ		527	527	kʰ ɛ - - ŋ
 1928	Shergaon	horn	horn	kʰɛŋ	kʰɛŋ	kʰ ɛ ŋ		527	527	kʰ ɛ - - ŋ
-1931	Khoina	hornbill	hornbill	ʨʰa-lu-wɔ̃ː(ŋ)	ʨʰa+lu+wɔ̃ː	tɕʰ a + l u + w ɔ̃ː		529 528 532	529 528 532	tɕʰ a ◦ l u - ◦ w ɔ̃ː
+1931	Khoina	hornbill	hornbill	ʨʰa-lu-wɔ̃ː(ŋ)	ʨʰa+lu+wɔ̃ː	tɕʰ a + l u + w ɔ̃ː		130 528 532	529 528 532	tɕʰ a ◦ l u - ◦ w ɔ̃ː
 1933	Khoitam	hornbill	hornbill	pʰu-lũː(ŋ)	pʰu+lũː	pʰ u + l ũː		531 528	531 528	pʰ u ◦ l ũː -
-1934	Rahung	hornbill	hornbill	hu-lũŋ	hu+lũŋ	h u + l ũ ŋ		530 528	530 528	h u ◦ l ũ ŋ
-1935	Rupa	hornbill	hornbill	də-wɔŋ	də+wɔŋ	d ə + w ɔ ŋ		529 528	529 528	d ə ◦ w ɔ ŋ
+1934	Rahung	hornbill	hornbill	hu-lũŋ	hu+lũŋ	h u + l ũ ŋ		531 528	530 528	h u ◦ l ũ ŋ
+1935	Rupa	hornbill	hornbill	də-wɔŋ	də+wɔŋ	d ə + w ɔ ŋ		529 532	529 528	d ə ◦ w ɔ ŋ
 1938	Duhumbi	hornet	hornet	ʨʰik-ʨʰu kʰɔ-lɔk	ʨʰik+ʨʰu_kʰɔ+lɔk	tɕʰ i k + tɕʰ u _ kʰ ɔ + l ɔ k		533 534 535 536	533 534 535 536	tɕʰ i k ◦ tɕʰ u ◦ kʰ ɔ ◦ l ɔ k
-1939	Khoina	hornet	hornet	də-ʦʰyː	də+ʦʰyː	d ə + tsʰ yː		533 534	533 534	d ə - ◦ tsʰ yː
+1939	Khoina	hornet	hornet	də-ʦʰyː	də+ʦʰyː	d ə + tsʰ yː		135 534	533 534	d ə - ◦ tsʰ yː
 1940	Jerigaon	hornet	hornet	ʨʰyː ~ sə-ʨʰyː(ŋ)	ʨʰyː	tɕʰ yː		533	533	tɕʰ yː -
 1941	Khoitam	hornet	hornet	ʦʰ-syː ~ ʦʰə-syː	ʦʰ+syː	tsʰ + s yː		533 534	533 534	tsʰ - - ◦ s yː
-1943	Rupa	hornet	hornet	də-ʨʰøː	də+ʨʰøː	d ə + tɕʰ øː		533 534	533 534	d ə - ◦ tɕʰ øː
+1943	Rupa	hornet	hornet	də-ʨʰøː	də+ʨʰøː	d ə + tɕʰ øː		135 534	533 534	d ə - ◦ tɕʰ øː
 1945	Khispi	horse	horse	ɕ-ta	ɕ+ta	ɕ + t a		538 537	538 537	ɕ ◦ t a
 1946	Duhumbi	horse	horse	ɕ-taˀ ~ ɕip-taˀ	ɕ+taˀ	ɕ + t aˀ		538 537	538 537	ɕ ◦ t aˀ
 1947	Khoina	horse	horse	ʂ-tu	ʂ+tu	ʂ + t u		538 537	538 537	ʂ ◦ t u
@@ -1637,7 +1637,7 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 1954	Duhumbi	horsefly	horsefly	tam-pi	tam+pi	t a m + p i		540 539	540 539	t a m ◦ p i -
 1955	Khoina	horsefly	horsefly	tim-pu la-dʐɔː	tim+pu_la+dʐɔː	t i m + p u _ l a + ɖʐ ɔː		540 539 541 542	540 539 541 542	t i m ◦ p u - ◦ l a ◦ ɖʐ ɔː -
 1957	Khoitam	horsefly	horsefly	tam-pi la-ʥɔŋ	tam+pi_la+ʥɔŋ	t a m + p i _ l a + dʑ ɔ ŋ		540 539 541 542	540 539 541 542	t a m ◦ p i - ◦ l a ◦ dʑ ɔ ŋ
-1958	Rahung	horsefly	horsefly	ʨa-pim-ʥɔŋ	ʨa+pim+ʥɔŋ	tɕ a + p i m + dʑ ɔ ŋ		540 539 543	540 539 543	tɕ a - ◦ p i m ◦ dʑ ɔ ŋ
+1958	Rahung	horsefly	horsefly	ʨa-pim-ʥɔŋ	ʨa+pim+ʥɔŋ	tɕ a + p i m + dʑ ɔ ŋ		141 539 542	540 539 543	tɕ a - ◦ p i m ◦ dʑ ɔ ŋ
 1961	Khispi	house	house	wam	wam	w a m		544	544	w a m
 1962	Duhumbi	house	house	wam	wam	w a m		544	544	w a m
 1963	Khoina	house	house	jan	jan	j a n		544	544	j a n
@@ -1646,22 +1646,22 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 1966	Rahung	house	house	jam	jam	j a m		544	544	j a m
 1967	Rupa	house	house	jam	jam	j a m		544	544	j a m
 1968	Shergaon	house	house	jam	jam	j a m		544	544	j a m
-1969	Khispi	how many	how many	a-pʰi-n	a+pʰi+n	a + pʰ i + n		546 545 552	546 545 552	- a ◦ pʰ i - ◦ n
+1969	Khispi	how many	how many	a-pʰi-n	a+pʰi+n	a + pʰ i + n		546 545 548	546 545 552	- a ◦ pʰ i - ◦ n
 1970	Duhumbi	how many	how many	a-pʰi ~ a-pʰi-hin ~ a-pʰi-n	a+pʰi	a + pʰ i		546 545	546 545	- a ◦ pʰ i -
 1971	Khoina	how many	how many	nə-pʰaː hɛn	nə+pʰaː_hɛn	n ə + pʰ aː _ h ɛ n		547 545 548	547 545 548	n ə ◦ pʰ aː - ◦ h ɛ n
-1974	Rahung	how many	how many	mə-pʰɛː-hɛn	mə+pʰɛː+hɛn	m ə + pʰ ɛː + h ɛ n		551 545 548	551 545 548	m ə ◦ pʰ ɛː - ◦ h ɛ n
+1974	Rahung	how many	how many	mə-pʰɛː-hɛn	mə+pʰɛː+hɛn	m ə + pʰ ɛː + h ɛ n		547 545 548	551 545 548	m ə ◦ pʰ ɛː - ◦ h ɛ n
 1975	Rupa	how many	how many	ɲə-pãj-jaː-aː  ~ ja-pãj	ɲə+pãj+jaː+aː	ɲ ə + p ã j + j aː + aː		547 545 550 549	547 545 550 549	ɲ ə ◦ p ã j ◦ j aː ◦ aː
-1976	Shergaon	how many	how many	nə-pa-n	nə+pa+n	n ə + p a + n		547 545 546	547 545 546	n ə ◦ p a - ◦ n -
-1977	Khispi	human being	human being	bu-dun	bu+dun	b u + d u n		555 553	555 553	b u ◦ d u n
-1978	Duhumbi	human being	human being	bu-dun	bu+dun	b u + d u n		555 553	555 553	b u ◦ d u n
+1976	Shergaon	how many	how many	nə-pa-n	nə+pa+n	n ə + p a + n		547 545 548	547 545 546	n ə ◦ p a - ◦ n -
+1977	Khispi	human being	human being	bu-dun	bu+dun	b u + d u n		554 553	555 553	b u ◦ d u n
+1978	Duhumbi	human being	human being	bu-dun	bu+dun	b u + d u n		554 553	555 553	b u ◦ d u n
 1979	Khoina	human being	human being	ʥə-riŋ	ʥə+riŋ	dʑ ə + r i ŋ		554 553	554 553	dʑ ə ◦ r i ŋ
 1980	Jerigaon	human being	human being	ʥə-riŋ	ʥə+riŋ	dʑ ə + r i ŋ		554 553	554 553	dʑ ə ◦ r i ŋ
 1981	Khoitam	human being	human being	ʥə-riŋ	ʥə+riŋ	dʑ ə + r i ŋ		554 553	554 553	dʑ ə ◦ r i ŋ
 1982	Rahung	human being	human being	ʥə-riŋ	ʥə+riŋ	dʑ ə + r i ŋ		554 553	554 553	dʑ ə ◦ r i ŋ
 1983	Rupa	human being	human being	ʥə-rin	ʥə+rin	dʑ ə + r i n		554 553	554 553	dʑ ə ◦ r i n
 1984	Shergaon	human being	human being	ʥi-rin	ʥi+rin	dʑ i + r i n		554 553	554 553	dʑ i ◦ r i n
-1985	Khispi	human being prefix	human being prefix	bi-	bi+	b i		557	557	b i
-1986	Duhumbi	human being prefix	human being prefix	bi-	bi+	b i		557	557	b i
+1985	Khispi	human being prefix	human being prefix	bi-	bi+	b i		556	557	b i
+1986	Duhumbi	human being prefix	human being prefix	bi-	bi+	b i		556	557	b i
 1987	Khoina	human being prefix	human being prefix	ʣi- ~ ʥi-	ʣi+	dz i		556	556	dz i
 1988	Jerigaon	human being prefix	human being prefix	ʥi-	ʥi+	dʑ i		556	556	dʑ i
 1989	Khoitam	human being prefix	human being prefix	ʥi-	ʥi+	dʑ i		556	556	dʑ i
@@ -1720,7 +1720,7 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 2054	Rahung	insect	insect	pʰyː(j)	pʰyː	pʰ yː		570	570	pʰ yː
 2055	Rupa	insect	insect	pʰyː	pʰyː	pʰ yː		570	570	pʰ yː
 2056	Shergaon	insect	insect	pʰiː	pʰiː	pʰ iː		570	570	pʰ iː
-2059	Khoina	intestines	intestines	a-haː	a+haː	a + h aː		571 573	571 573	a ◦ h aː
+2059	Khoina	intestines	intestines	a-haː	a+haː	a + h aː		571 572	571 573	a ◦ h aː
 2060	Jerigaon	intestines	intestines	a-lɛːʰ	a+lɛːʰ	a + l ɛːʰ		571 572	571 572	a ◦ l ɛːʰ
 2061	Khoitam	intestines	intestines	a-lɛːʰ ~ a-rɛːʰ	a+lɛːʰ	a + l ɛːʰ		571 572	571 572	a ◦ l ɛːʰ
 2062	Rahung	intestines	intestines	a-lɛːʰ	a+lɛːʰ	a + l ɛːʰ		571 572	571 572	a ◦ l ɛːʰ
@@ -1732,8 +1732,8 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 2070	Rahung	iron	iron	ʨĩˀ	ʨĩˀ	tɕ ĩˀ		574	574	tɕ ĩˀ -
 2071	Rupa	iron	iron	sɛ̃ːˀ	sɛ̃ːˀ	s ɛ̃ˀː		574	574	s ɛ̃ˀː -
 2072	Shergaon	iron	iron	sɛ̃ː	sɛ̃ː	s ɛ̃ː		574	574	s ɛ̃ː -
-2073	Khispi	itch	itch	aw	aw	a w		576	576	a w
-2074	Duhumbi	itch	itch	aw	aw	a w		576	576	a w
+2073	Khispi	itch	itch	aw	aw	a w		575	576	a w
+2074	Duhumbi	itch	itch	aw	aw	a w		575	576	a w
 2075	Khoina	itch	itch	ɔː	ɔː	ɔː		575	575	ɔː
 2076	Jerigaon	itch	itch	ɔː	ɔː	ɔː		575	575	ɔː
 2077	Khoitam	itch	itch	oː	oː	oː		575	575	oː
@@ -1753,18 +1753,18 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 2103	Rupa	jump	jump	ʦʰaw	ʦʰaw	tsʰ a w		579	579	tsʰ a w
 2105	Khispi	keep, remain	keep, remain	da	da	d a		581	581	d a
 2106	Duhumbi	keep, remain	keep, remain	da	da	d a		581	581	d a
-2108	Jerigaon	keep, remain	keep, remain	ruː	ruː	r uː		580	580	r uː
-2111	Rupa	keep, remain	keep, remain	ruː	ruː	r uː		580	580	r uː
-2121	Khispi	kick (v)	kick (v)	lɛj tɔm	lɛj_tɔm	l ɛ j _ t ɔ m		582 583	582 583	l ɛ j ◦ t ɔ m
-2122	Duhumbi	kick (v)	kick (v)	lɛj tɔm	lɛj_tɔm	l ɛ j _ t ɔ m		582 583	582 583	l ɛ j ◦ t ɔ m
+2108	Jerigaon	keep, remain	keep, remain	ruː	ruː	r uː		581	580	r uː
+2111	Rupa	keep, remain	keep, remain	ruː	ruː	r uː		581	580	r uː
+2121	Khispi	kick (v)	kick (v)	lɛj tɔm	lɛj_tɔm	l ɛ j _ t ɔ m		582 584	582 583	l ɛ j ◦ t ɔ m
+2122	Duhumbi	kick (v)	kick (v)	lɛj tɔm	lɛj_tɔm	l ɛ j _ t ɔ m		582 584	582 583	l ɛ j ◦ t ɔ m
 2123	Khoina	kick (v)	kick (v)	la-tʂʰyː tuŋ	la+tʂʰyː_tuŋ	l a + ʈʂʰ yː _ t u ŋ		582 583 584	582 583 584	l a - ◦ ʈʂʰ yː - ◦ t u ŋ
 2124	Jerigaon	kick (v)	kick (v)	la-ʨʰyː tuŋ ~ la-ʨʰøː tuŋ	la+ʨʰyː_tuŋ	l a + tɕʰ yː _ t u ŋ		582 583 584	582 583 584	l a - ◦ tɕʰ yː - ◦ t u ŋ
-2125	Khoitam	kick (v)	kick (v)	la-ʨʰyː rɛˀ	la+ʨʰyː_rɛˀ	l a + tɕʰ yː _ r ɛˀ		582 583 584	582 583 584	l a - ◦ tɕʰ yː - ◦ r ɛˀ -
-2126	Rahung	kick (v)	kick (v)	la-ʨʰyː rɛˀ	la+ʨʰyː_rɛˀ	l a + tɕʰ yː _ r ɛˀ		582 583 584	582 583 584	l a - ◦ tɕʰ yː - ◦ r ɛˀ -
-2127	Rupa	kick (v)	kick (v)	la-kʰyː raˀ	la+kʰyː_raˀ	l a + kʰ yː _ r aˀ		582 583 584	582 583 584	l a - ◦ kʰ yː - ◦ r aˀ -
-2128	Shergaon	kick (v)	kick (v)	la-kʰiː raˀ	la+kʰiː_raˀ	l a + kʰ iː _ r aˀ		582 583 584	582 583 584	l a - ◦ kʰ iː - ◦ r aˀ -
-2129	Khispi	kill	kill	at	at	a t		586	586	a t
-2130	Duhumbi	kill	kill	at	at	a t		586	586	a t
+2125	Khoitam	kick (v)	kick (v)	la-ʨʰyː rɛˀ	la+ʨʰyː_rɛˀ	l a + tɕʰ yː _ r ɛˀ		582 583 148	582 583 584	l a - ◦ tɕʰ yː - ◦ r ɛˀ -
+2126	Rahung	kick (v)	kick (v)	la-ʨʰyː rɛˀ	la+ʨʰyː_rɛˀ	l a + tɕʰ yː _ r ɛˀ		582 583 148	582 583 584	l a - ◦ tɕʰ yː - ◦ r ɛˀ -
+2127	Rupa	kick (v)	kick (v)	la-kʰyː raˀ	la+kʰyː_raˀ	l a + kʰ yː _ r aˀ		582 583 148	582 583 584	l a - ◦ kʰ yː - ◦ r aˀ -
+2128	Shergaon	kick (v)	kick (v)	la-kʰiː raˀ	la+kʰiː_raˀ	l a + kʰ iː _ r aˀ		582 583 148	582 583 584	l a - ◦ kʰ iː - ◦ r aˀ -
+2129	Khispi	kill	kill	at	at	a t		585	586	a t
+2130	Duhumbi	kill	kill	at	at	a t		585	586	a t
 2131	Khoina	kill	kill	ɐˀ	ɐˀ	ɐˀ		585	585	ɐˀ
 2132	Jerigaon	kill	kill	ɐˀ	ɐˀ	ɐˀ		585	585	ɐˀ
 2133	Khoitam	kill	kill	ɔˀ	ɔˀ	ɔˀ		585	585	ɔˀ
@@ -1777,14 +1777,14 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 2141	Khoitam	kiss (n)	kiss (n)	ʨup	ʨup	tɕ u p		587	587	tɕ u p
 2142	Rahung	kiss (n)	kiss (n)	ʨup	ʨup	tɕ u p		587	587	tɕ u p
 2143	Rupa	kiss (n)	kiss (n)	ʦup	ʦup	ts u p		587	587	ts u p
-2145	Khispi	knee	knee	kɔː-lɔk-pa	kɔː+lɔk+pa	k ɔː + l ɔ k + p a		591 590 589	591 590 589	k - ɔː - ◦ l ɔ k ◦ p - a -
-2146	Duhumbi	knee	knee	kɔː-lɔk-pa	kɔː+lɔk+pa	k ɔː + l ɔ k + p a		591 590 589	591 590 589	k - ɔː - ◦ l ɔ k ◦ p - a -
-2147	Khoina	knee	knee	ja-pʰyk kɹaː	ja+pʰyk_kɹaː	j a + pʰ y k _ k ɹ aː		592 588 589	592 588 589	j a ◦ pʰ y k ◦ k ɹ aː -
-2148	Jerigaon	knee	knee	la-pʰyk kɹiː	la+pʰyk_kɹiː	l a + pʰ y k _ k ɹ iː		590 588 589	590 588 589	l a - ◦ pʰ y k ◦ k ɹ iː -
-2149	Khoitam	knee	knee	lə-pʰik-kʰɔm ~ lə-kʰyk-kʰɔm	lə+pʰik+kʰɔm	l ə + pʰ i k + kʰ ɔ m		590 588 589	590 588 589	l ə - ◦ pʰ i k ◦ kʰ - ɔ m
-2150	Rahung	knee	knee	la-pʰik-kʰɔm ~ la-pʰik-kʰøm	la+pʰik+kʰɔm	l a + pʰ i k + kʰ ɔ m		590 588 589	590 588 589	l a - ◦ pʰ i k ◦ kʰ - ɔ m
-2151	Rupa	knee	knee	lə-pʰyk ~ lə-fyk	lə+pʰyk	l ə + pʰ y k		590 588	590 588	l ə - ◦ pʰ y k
-2152	Shergaon	knee	knee	kʰlɔk-puː	kʰlɔk+puː	kʰ l ɔ k + p uː		591 588	591 588	kʰ l ɔ k ◦ p uː -
+2145	Khispi	knee	knee	kɔː-lɔk-pa	kɔː+lɔk+pa	k ɔː + l ɔ k + p a		591 590 151	591 590 589	k - ɔː - ◦ l ɔ k ◦ p - a -
+2146	Duhumbi	knee	knee	kɔː-lɔk-pa	kɔː+lɔk+pa	k ɔː + l ɔ k + p a		591 590 151	591 590 589	k - ɔː - ◦ l ɔ k ◦ p - a -
+2147	Khoina	knee	knee	ja-pʰyk kɹaː	ja+pʰyk_kɹaː	j a + pʰ y k _ k ɹ aː		592 588 169	592 588 589	j a ◦ pʰ y k ◦ k ɹ aː -
+2148	Jerigaon	knee	knee	la-pʰyk kɹiː	la+pʰyk_kɹiː	l a + pʰ y k _ k ɹ iː		156 588 169	590 588 589	l a - ◦ pʰ y k ◦ k ɹ iː -
+2149	Khoitam	knee	knee	lə-pʰik-kʰɔm ~ lə-kʰyk-kʰɔm	lə+pʰik+kʰɔm	l ə + pʰ i k + kʰ ɔ m		156 588 589	590 588 589	l ə - ◦ pʰ i k ◦ kʰ - ɔ m
+2150	Rahung	knee	knee	la-pʰik-kʰɔm ~ la-pʰik-kʰøm	la+pʰik+kʰɔm	l a + pʰ i k + kʰ ɔ m		156 588 589	590 588 589	l a - ◦ pʰ i k ◦ kʰ - ɔ m
+2151	Rupa	knee	knee	lə-pʰyk ~ lə-fyk	lə+pʰyk	l ə + pʰ y k		156 588	590 588	l ə - ◦ pʰ y k
+2152	Shergaon	knee	knee	kʰlɔk-puː	kʰlɔk+puː	kʰ l ɔ k + p uː		591 151	591 588	kʰ l ɔ k ◦ p uː -
 2153	Khispi	know	know	dɛn	dɛn	d ɛ n		593	593	d ɛ n
 2154	Duhumbi	know	know	dɛn	dɛn	d ɛ n		593	593	d ɛ n
 2155	Khoina	know	know	dɛn	dɛn	d ɛ n		593	593	d ɛ n
@@ -1814,9 +1814,9 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 2179	Khoina	langur	langur	zə-zu	zə+zu	z ə + z u		597 598	597 598	z ə ◦ z u -
 2180	Jerigaon	langur	langur	zə-zu	zə+zu	z ə + z u		597 598	597 598	z ə ◦ z u -
 2181	Khoitam	langur	langur	zə-zu ~ ʥə-zu	zə+zu	z ə + z u		597 598	597 598	z ə ◦ z u -
-2182	Rahung	langur	langur	zu	zu	z u		597	597	z u
+2182	Rahung	langur	langur	zu	zu	z u		598	597	z u
 2183	Rupa	langur	langur	zə-zu	zə+zu	z ə + z u		597 598	597 598	z ə ◦ z u -
-2184	Shergaon	langur	langur	zu	zu	z u		597	597	z u
+2184	Shergaon	langur	langur	zu	zu	z u		598	597	z u
 2185	Khispi	lap	lap	de-ma	de+ma	d e + m a		599 600	599 600	d e - - ◦ m a
 2186	Duhumbi	lap	lap	dɛm	dɛm	d ɛ m		599	599	d ɛ m -
 2187	Khoina	lap	lap	dɛ̃ː	dɛ̃ː	d ɛ̃ː		599	599	d ɛ̃ː - -
@@ -1854,19 +1854,19 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 2222	Rahung	leaf litter	leaf litter	sə-boː	sə+boː	s ə + b oː		606 605	606 605	s ə - ◦ b oː
 2223	Rupa	leaf litter	leaf litter	sɔɹ-bɔ	sɔɹ+bɔ	s ɔ ɹ + b ɔ		606 605	606 605	s ɔ ɹ ◦ b ɔ
 2224	Shergaon	leaf litter	leaf litter	sɛj-bu	sɛj+bu	s ɛ j + b u		606 605	606 605	s ɛ j ◦ b u
-2225	Khispi	leech, land	leech, land	pat-pa	pat+pa	p a t + p a		608 607	608 607	p a t ◦ p a -
-2226	Duhumbi	leech, land	leech, land	pat-pa	pat+pa	p a t + p a		608 607	608 607	p a t ◦ p a -
+2225	Khispi	leech, land	leech, land	pat-pa	pat+pa	p a t + p a		212 194	608 607	p a t ◦ p a -
+2226	Duhumbi	leech, land	leech, land	pat-pa	pat+pa	p a t + p a		212 194	608 607	p a t ◦ p a -
 2227	Khoina	leech, land	leech, land	pʰa-wɛ	pʰa+wɛ	pʰ a + w ɛ		608 607	608 607	pʰ a - ◦ w ɛ -
 2228	Jerigaon	leech, land	leech, land	pʰy-wɛ	pʰy+wɛ	pʰ y + w ɛ		608 607	608 607	pʰ y - ◦ w ɛ -
 2229	Khoitam	leech, land	leech, land	pʰu-wap	pʰu+wap	pʰ u + w a p		608 607	608 607	pʰ u - ◦ w a p
 2230	Rahung	leech, land	leech, land	pʰə-pʰɛ	pʰə+pʰɛ	pʰ ə + pʰ ɛ		608 607	608 607	pʰ ə - ◦ pʰ ɛ -
 2231	Rupa	leech, land	leech, land	pʰu-wat	pʰu+wat	pʰ u + w a t		608 607	608 607	pʰ u - ◦ w a t
-2232	Shergaon	leech, land	leech, land	pat-pu	pat+pu	p a t + p u		608 607	608 607	p a t ◦ p u -
+2232	Shergaon	leech, land	leech, land	pat-pu	pat+pu	p a t + p u		212 194	608 607	p a t ◦ p u -
 2233	Khispi	leech, water	leech, water	pʰu-tis	pʰu+tis	pʰ u + t i s		610 609	610 609	pʰ u ◦ t - i s
-2235	Khoina	leech, water	leech, water	di-ʦʰik	di+ʦʰik	d i + tsʰ i k		611 609	611 609	d i - ◦ tsʰ - i k
-2236	Jerigaon	leech, water	leech, water	pʰyː pʰ-ʨʰik	pʰyː_pʰ+ʨʰik	pʰ yː _ pʰ + tɕʰ i k		610 609 609	610 609 609	pʰ yː ◦ - - - pʰ ◦ - - - pʰ
-2237	Khoitam	leech, water	leech, water	pʰ-ʨʰik	pʰ+ʨʰik	pʰ + tɕʰ i k		610 609	610 609	pʰ - ◦ tɕʰ - i k
-2238	Rahung	leech, water	leech, water	pʰ-ʨʰik	pʰ+ʨʰik	pʰ + tɕʰ i k		610 609	610 609	pʰ - ◦ tɕʰ - i k
+2235	Khoina	leech, water	leech, water	di-ʦʰik	di+ʦʰik	d i + tsʰ i k		220 609	611 609	d i - ◦ tsʰ - i k
+2236	Jerigaon	leech, water	leech, water	pʰyː pʰ-ʨʰik	pʰyː_pʰ+ʨʰik	pʰ yː _ pʰ + tɕʰ i k		610 216 609	610 609 609	pʰ yː ◦ - - - pʰ ◦ - - - pʰ
+2237	Khoitam	leech, water	leech, water	pʰ-ʨʰik	pʰ+ʨʰik	pʰ + tɕʰ i k		216 609	610 609	pʰ - ◦ tɕʰ - i k
+2238	Rahung	leech, water	leech, water	pʰ-ʨʰik	pʰ+ʨʰik	pʰ + tɕʰ i k		216 609	610 609	pʰ - ◦ tɕʰ - i k
 2240	Shergaon	leech, water	leech, water	ʨʰin-ʨʰɹik	ʨʰin+ʨʰɹik	tɕʰ i n + tɕʰ ɹ i k		611 609	611 609	tɕʰ i n ◦ tɕʰ ɹ i k
 2241	Khispi	left (side)	left (side)	ɲim-lak-pa ~ ɲim-dak-pa	ɲim+lak+pa	ɲ i m + l a k + p a		618 615 614	618 615 614	ɲ i m ◦ l a k ◦ p a
 2242	Duhumbi	left (side)	left (side)	jɔm-lak-pa	jɔm+lak+pa	j ɔ m + l a k + p a		619 615 614	619 615 614	j ɔ m ◦ l a k ◦ p a
@@ -1909,15 +1909,15 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 2286	Rahung	light	light	a-ruŋ-du	a+ruŋ+du	a + r u ŋ + d u		627 625 626	627 625 626	a ◦ r u ŋ ◦ d u
 2287	Rupa	light	light	a-ruŋ-du	a+ruŋ+du	a + r u ŋ + d u		627 625 626	627 625 626	a ◦ r u ŋ ◦ d u
 2288	Shergaon	light	light	a-ruŋ-du	a+ruŋ+du	a + r u ŋ + d u		627 625 626	627 625 626	a ◦ r u ŋ ◦ d u
-2289	Khispi	lightning	lightning	nam-liŋ ~ nam-ki-liŋ waŋ	nam+liŋ	n a m + l i ŋ		630 631	630 631	n a m ◦ - l i ŋ
+2289	Khispi	lightning	lightning	nam-liŋ ~ nam-ki-liŋ waŋ	nam+liŋ	n a m + l i ŋ		630 226	630 631	n a m ◦ - l i ŋ
 2291	Khoina	lightning	lightning	nə-ʦʰaː	nə+ʦʰaː	n ə + tsʰ aː		630 631	630 631	n ə - ◦ - tsʰ aː -
-2292	Jerigaon	lightning	lightning	nam-bla kʰɛː	nam+bla_kʰɛː	n a m + b l a _ kʰ ɛː		630 631 632	630 631 632	n a m ◦ b l a - ◦ kʰ ɛː
-2293	Khoitam	lightning	lightning	nam tap	nam_tap	n a m _ t a p		630 631	630 631	n a m ◦ - t a p
-2294	Rahung	lightning	lightning	nam-ʨʰə-rɛː rɛt ~ ʨʰe	nam+ʨʰə+rɛː_rɛt	n a m + tɕʰ ə + r ɛː _ r ɛ t		630 631 632 633	630 631 632 633	n a m ◦ - tɕʰ ə - ◦ r ɛː ◦ r ɛ t
+2292	Jerigaon	lightning	lightning	nam-bla kʰɛː	nam+bla_kʰɛː	n a m + b l a _ kʰ ɛː		630 227 230	630 631 632	n a m ◦ b l a - ◦ kʰ ɛː
+2293	Khoitam	lightning	lightning	nam tap	nam_tap	n a m _ t a p		630 633	630 631	n a m ◦ - t a p
+2294	Rahung	lightning	lightning	nam-ʨʰə-rɛː rɛt ~ ʨʰe	nam+ʨʰə+rɛː_rɛt	n a m + tɕʰ ə + r ɛː _ r ɛ t		630 631 230 231	630 631 632 633	n a m ◦ - tɕʰ ə - ◦ r ɛː ◦ r ɛ t
 2295	Rupa	lightning	lightning	nə-myː ba tap	nə+myː_ba_tap	n ə + m yː _ b a _ t a p		630 634 632 633	630 634 632 633	n ə - ◦ m yː ◦ b a ◦ t a p
 2296	Shergaon	lightning	lightning	ni-mi ba tap	ni+mi_ba_tap	n i + m i _ b a _ t a p		630 634 632 633	630 634 632 633	n i - ◦ m i ◦ b a ◦ t a p
 2298	Duhumbi	like, love	like, love	hɔn	hɔn	h ɔ n		635	635	h ɔ n
-2299	Khoina	like, love	like, love	xøː	xøː	x øː		636	636	x øː
+2299	Khoina	like, love	like, love	xøː	xøː	x øː		635	636	x øː
 2301	Khoitam	like, love	like, love	hĩː	hĩː	h ĩː		635	635	h ĩː -
 2302	Rahung	like, love	like, love	hyː	hyː	h yː		635	635	h yː -
 2303	Rupa	like, love	like, love	høn	høn	h ø n		635	635	h ø n
@@ -1946,7 +1946,7 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 2328	Shergaon	live, stay	live, stay	ʥaw	ʥaw	dʑ a w		639	639	dʑ a w
 2329	Khispi	liver	liver	ɕa-pɕin	ɕa+pɕin	ɕ a + p ɕ i n		642 640	642 640	ɕ a - ◦ p ɕ i n
 2331	Khoina	liver	liver	də-ʦʰɛ̃ː	də+ʦʰɛ̃ː	d ə + tsʰ ɛ̃ː		643 640	643 640	d ə ◦ - tsʰ ɛ̃ː -
-2332	Jerigaon	liver	liver	sɛ̃ĩ	sɛ̃ĩ	s ɛ̃ ĩ		642	642	s ɛ̃ ĩ
+2332	Jerigaon	liver	liver	sɛ̃ĩ	sɛ̃ĩ	s ɛ̃ ĩ		640	642	s ɛ̃ ĩ
 2333	Khoitam	liver	liver	s-sĩː ~ sə-sĩː ~ ʦʰ-sĩː ~ ʦʰə-sĩː	s+sĩː	s + s ĩː		642 640	642 640	s - - ◦ - s ĩː -
 2334	Rahung	liver	liver	a-ʨʰĩː	a+ʨʰĩː	a + tɕʰ ĩː		641 640	641 640	a ◦ - tɕʰ ĩː -
 2335	Rupa	liver	liver	a-ʦʰɛ̃ː ~ a-ʨʰĩː	a+ʦʰɛ̃ː	a + tsʰ ɛ̃ː		641 640	641 640	a ◦ - tsʰ ɛ̃ː -
@@ -1977,7 +1977,7 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 2367	Rupa	look	look	lan	lan	l a n		648	648	l a n
 2369	Khispi	louse	louse	hɛk	hɛk	h ɛ k		649	649	h - ɛ k
 2370	Duhumbi	louse	louse	hjɛk	hjɛk	h j ɛ k		649	649	h j ɛ k
-2371	Khoina	louse	louse	xajk	xajk	x a j k		650	650	x a j k
+2371	Khoina	louse	louse	xajk	xajk	x a j k		649	650	x a j k
 2372	Jerigaon	louse	louse	hɛk ~ hɛʔ-mu	hɛk	h ɛ k		649	649	h - ɛ k
 2373	Khoitam	louse	louse	hɛk	hɛk	h ɛ k		649	649	h - ɛ k
 2374	Rahung	louse	louse	hɛk	hɛk	h ɛ k		649	649	h - ɛ k
@@ -1986,9 +1986,9 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 2379	Khoina	lungs	lungs	sə-rĩː sə-ruk	sə+rĩː_sə+ruk	s ə + r ĩː _ s ə + r u k		652 651 654 653	652 651 654 653	s ə ◦ r ĩː - - ◦ s ə ◦ r u k
 2380	Jerigaon	lungs	lungs	sə-rɛ̃ĩ sə-ruk	sə+rɛ̃ĩ_sə+ruk	s ə + r ɛ̃ ĩ _ s ə + r u k		652 651 654 653	652 651 654 653	s ə ◦ r ɛ̃ - ĩ ◦ s ə ◦ r u k
 2381	Khoitam	lungs	lungs	sə-rĩː sə-ruk	sə+rĩː_sə+ruk	s ə + r ĩː _ s ə + r u k		652 651 654 653	652 651 654 653	s ə ◦ r ĩː - - ◦ s ə ◦ r u k
-2382	Rahung	lungs	lungs	su sə-ruk	su_sə+ruk	s u _ s ə + r u k		652 654 651	652 654 651	s u ◦ s ə ◦ r u k -
-2383	Rupa	lungs	lungs	sə-lyŋ sə-ruk	sə+lyŋ_sə+ruk	s ə + l y ŋ _ s ə + r u k		652 651 655 653	652 651 655 653	s ə ◦ l y ŋ - ◦ s ə ◦ r u k
-2384	Shergaon	lungs	lungs	sə-luŋ sə-ruk	sə+luŋ_sə+ruk	s ə + l u ŋ _ s ə + r u k		652 651 655 653	652 651 655 653	s ə ◦ l u ŋ - ◦ s ə ◦ r u k
+2382	Rahung	lungs	lungs	su sə-ruk	su_sə+ruk	s u _ s ə + r u k		652 654 653	652 654 651	s u ◦ s ə ◦ r u k -
+2383	Rupa	lungs	lungs	sə-lyŋ sə-ruk	sə+lyŋ_sə+ruk	s ə + l y ŋ _ s ə + r u k		652 235 654 653	652 651 655 653	s ə ◦ l y ŋ - ◦ s ə ◦ r u k
+2384	Shergaon	lungs	lungs	sə-luŋ sə-ruk	sə+luŋ_sə+ruk	s ə + l u ŋ _ s ə + r u k		652 235 654 653	652 651 655 653	s ə ◦ l u ŋ - ◦ s ə ◦ r u k
 2386	Duhumbi	macaque	macaque	ɕa-dɔŋ	ɕa+dɔŋ	ɕ a + d ɔ ŋ		656 657	656 657	ɕ a ◦ d ɔ ŋ
 2387	Khoina	macaque	macaque	ʐy-duŋ	ʐy+duŋ	ʐ y + d u ŋ		656 657	656 657	ʐ y ◦ d u ŋ
 2388	Jerigaon	macaque	macaque	z(ə)-duŋ	z+duŋ	z + d u ŋ		656 657	656 657	z - ◦ d u ŋ
@@ -2005,11 +2005,11 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 2399	Rupa	machete	machete	han-duː	han+duː	h a n + d uː		658 659	658 659	h a n ◦ d uː
 2400	Shergaon	machete	machete	han-duː	han+duː	h a n + d uː		658 659	658 659	h a n ◦ d uː
 2401	Khispi	maize	maize	mɔː-ɕɔ	mɔː+ɕɔ	m ɔː + ɕ ɔ		662 661	662 661	m ɔː - ◦ ɕ ɔ -
-2402	Duhumbi	maize	maize	mɛj-ɕiŋ	mɛj+ɕiŋ	m ɛ j + ɕ i ŋ		662 661	662 661	m ɛ j ◦ ɕ i ŋ
+2402	Duhumbi	maize	maize	mɛj-ɕiŋ	mɛj+ɕiŋ	m ɛ j + ɕ i ŋ		245 661	662 661	m ɛ j ◦ ɕ i ŋ
 2403	Khoina	maize	maize	ma-ʦɛ̃ː	ma+ʦɛ̃ː	m a + ts ɛ̃ː		662 661	662 661	m a - ◦ ts ɛ̃ː -
 2404	Jerigaon	maize	maize	mə-ʨĩː	mə+ʨĩː	m ə + tɕ ĩː		662 661	662 661	m ə - ◦ tɕ ĩː -
 2405	Khoitam	maize	maize	mə-ʨĩː	mə+ʨĩː	m ə + tɕ ĩː		662 661	662 661	m ə - ◦ tɕ ĩː -
-2406	Rahung	maize	maize	pʰ-ʨĩː ~ bə-ʨĩː	pʰ+ʨĩː	pʰ + tɕ ĩː		663 661	663 661	pʰ ◦ tɕ ĩː -
+2406	Rahung	maize	maize	pʰ-ʨĩː ~ bə-ʨĩː	pʰ+ʨĩː	pʰ + tɕ ĩː		662 661	663 661	pʰ ◦ tɕ ĩː -
 2409	Khispi	make	make	ʨɔs	ʨɔs	tɕ ɔ s		664	664	tɕ ɔ s
 2410	Duhumbi	make	make	ʨʰɔt	ʨʰɔt	tɕʰ ɔ t		664	664	tɕʰ ɔ t
 2411	Khoina	make	make	ʨʰɛt	ʨʰɛt	tɕʰ ɛ t		664	664	tɕʰ ɛ t
@@ -2021,9 +2021,9 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 2422	Rahung	male	male	a-pʰuː	a+pʰuː	a + pʰ uː		666 665	666 665	a ◦ pʰ uː
 2423	Rupa	male	male	a-pʰuː	a+pʰuː	a + pʰ uː		666 665	666 665	a ◦ pʰ uː
 2424	Shergaon	male	male	a-pʰuː	a+pʰuː	a + pʰ uː		666 665	666 665	a ◦ pʰ uː
-2425	Khispi	man	man	ʑɔː-pʰa	ʑɔː+pʰa	ʑ ɔː + pʰ a		667 669	667 669	ʑ ɔː ◦ pʰ a
-2426	Duhumbi	man	man	ʑɔː-pʰa	ʑɔː+pʰa	ʑ ɔː + pʰ a		667 669	667 669	ʑ ɔː ◦ pʰ a
-2427	Khoina	man	man	ʥə-fuː	ʥə+fuː	dʑ ə + f uː		667 669	667 669	dʑ ə ◦ f uː
+2425	Khispi	man	man	ʑɔː-pʰa	ʑɔː+pʰa	ʑ ɔː + pʰ a		667 668	667 669	ʑ ɔː ◦ pʰ a
+2426	Duhumbi	man	man	ʑɔː-pʰa	ʑɔː+pʰa	ʑ ɔː + pʰ a		667 668	667 669	ʑ ɔː ◦ pʰ a
+2427	Khoina	man	man	ʥə-fuː	ʥə+fuː	dʑ ə + f uː		667 668	667 669	dʑ ə ◦ f uː
 2428	Jerigaon	man	man	ʥə-huː	ʥə+huː	dʑ ə + h uː		667 668	667 668	dʑ ə ◦ h uː
 2429	Khoitam	man	man	ʥə-huː	ʥə+huː	dʑ ə + h uː		667 668	667 668	dʑ ə ◦ h uː
 2430	Rahung	man	man	ʥə-huː	ʥə+huː	dʑ ə + h uː		667 668	667 668	dʑ ə ◦ h uː
@@ -2031,8 +2031,8 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 2432	Shergaon	man	man	ʥə-huː	ʥə+huː	dʑ ə + h uː		667 668	667 668	dʑ ə ◦ h uː
 2434	Duhumbi	manure	manure	he-ba	he+ba	h e + b a		670 671	670 671	h e ◦ b a
 2435	Khoina	manure	manure	ha-wuː	ha+wuː	h a + w uː		670 671	670 671	h a ◦ w uː
-2437	Khoitam	manure	manure	luː	luː	l uː		672	672	l uː
-2438	Rahung	manure	manure	la-wuː	la+wuː	l a + w uː		672 671	672 671	l a ◦ w uː
+2437	Khoitam	manure	manure	luː	luː	l uː		670	672	l uː
+2438	Rahung	manure	manure	la-wuː	la+wuː	l a + w uː		670 671	672 671	l a ◦ w uː
 2439	Rupa	manure	manure	hũ	hũ	h ũ		670	670	h ũ
 2443	Khoina	marrow	marrow	ma-ny	ma+ny	m a + n y		675 673	675 673	m a ◦ n y
 2444	Jerigaon	marrow	marrow	a-nyː	a+nyː	a + n yː		674 673	674 673	a ◦ n yː
@@ -2049,12 +2049,12 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 2456	Shergaon	marten	marten	taŋ-kuŋ	taŋ+kuŋ	t a ŋ + k u ŋ		677 676	677 676	t a ŋ ◦ k u ŋ
 2457	Khispi	meat, animal	meat, animal	ɕa	ɕa	ɕ a		678	678	ɕ a
 2458	Duhumbi	meat, animal	meat, animal	ɕa	ɕa	ɕ a		678	678	ɕ a
-2459	Khoina	meat, animal	meat, animal	a-xyː	a+xyː	a + x yː		681 679	681 679	a ◦ x yː
+2459	Khoina	meat, animal	meat, animal	a-xyː	a+xyː	a + x yː		681 678	681 679	a ◦ x yː
 2460	Jerigaon	meat, animal	meat, animal	suː	suː	s uː		678	678	s uː
 2461	Khoitam	meat, animal	meat, animal	suː	suː	s uː		678	678	s uː
 2462	Rahung	meat, animal	meat, animal	suː	suː	s uː		678	678	s uː
 2463	Rupa	meat, animal	meat, animal	suː	suː	s uː		678	678	s uː
-2464	Shergaon	meat, animal	meat, animal	suː a-tɛ̃ː	suː_a+tɛ̃ː	s uː _ a + t ɛ̃ː		678 679 680	678 679 680	s uː ◦ - a ◦ t ɛ̃ː
+2464	Shergaon	meat, animal	meat, animal	suː a-tɛ̃ː	suː_a+tɛ̃ː	s uː _ a + t ɛ̃ː		678 681 680	678 679 680	s uː ◦ - a ◦ t ɛ̃ː
 2465	Khispi	medicine	medicine	pɛn	pɛn	p ɛ n		682	682	p ɛ n
 2466	Duhumbi	medicine	medicine	man ~ mɛn	man	m a n		682	682	m a n
 2467	Khoina	medicine	medicine	mɛn	mɛn	m ɛ n		682	682	m ɛ n
@@ -2154,16 +2154,16 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 2598	Rahung	mouse, rat	mouse, rat	s-tøˀ	s+tøˀ	s + t øˀ		709 710	709 710	s - - ◦ t øˀ -
 2599	Rupa	mouse, rat	mouse, rat	s-tɔp	s+tɔp	s + t ɔ p		709 710	709 710	s - - ◦ t ɔ p
 2600	Shergaon	mouse, rat	mouse, rat	s-tɔp	s+tɔp	s + t ɔ p		709 710	709 710	s - - ◦ t ɔ p
-2601	Khispi	mouth	mouth	hɔ-ʨɔ	hɔ+ʨɔ	h ɔ + tɕ ɔ		712 711	712 711	h ɔ ◦ tɕ ɔ -
-2602	Duhumbi	mouth	mouth	hɔ-ʨu ~ hu-ʨu	hɔ+ʨu	h ɔ + tɕ u		712 711	712 711	h ɔ ◦ tɕ u -
-2603	Khoina	mouth	mouth	də-ʦʰɛː	də+ʦʰɛː	d ə + tsʰ ɛː		712 711	712 711	d ə ◦ tsʰ ɛː -
+2601	Khispi	mouth	mouth	hɔ-ʨɔ	hɔ+ʨɔ	h ɔ + tɕ ɔ		713 711	712 711	h ɔ ◦ tɕ ɔ -
+2602	Duhumbi	mouth	mouth	hɔ-ʨu ~ hu-ʨu	hɔ+ʨu	h ɔ + tɕ u		713 711	712 711	h ɔ ◦ tɕ u -
+2603	Khoina	mouth	mouth	də-ʦʰɛː	də+ʦʰɛː	d ə + tsʰ ɛː		248 711	712 711	d ə ◦ tsʰ ɛː -
 2604	Jerigaon	mouth	mouth	sɔː	sɔː	s ɔː		712	712	s ɔː
 2605	Khoitam	mouth	mouth	sə-sɔː ~ ʨʰə-sɔː	sə+sɔː	s ə + s ɔː		712 711	712 711	s ə ◦ s ɔː -
 2606	Rahung	mouth	mouth	ʨʰə-ʨʰoː	ʨʰə+ʨʰoː	tɕʰ ə + tɕʰ oː		712 711	712 711	tɕʰ ə ◦ tɕʰ oː -
 2607	Rupa	mouth	mouth	nə-ʦʰaw ~ də-ʦʰaw	nə+ʦʰaw	n ə + tsʰ a w		713 711	713 711	n ə ◦ tsʰ a w
 2608	Shergaon	mouth	mouth	nə-ʨʰaw	nə+ʨʰaw	n ə + tɕʰ a w		713 711	713 711	n ə ◦ tɕʰ a w
 2609	Khispi	much	much	me-ka	me+ka	m e + k a		714 716	714 716	m e - ◦ k a
-2610	Duhumbi	much	much	mjɛ-ka	mjɛ+ka	m j ɛ + k a		717 716	717 716	m j ɛ ◦ k a
+2610	Duhumbi	much	much	mjɛ-ka	mjɛ+ka	m j ɛ + k a		714 716	717 716	m j ɛ ◦ k a
 2611	Khoina	much	much	a-mɛ	a+mɛ	a + m ɛ		715 714	715 714	a ◦ m ɛ -
 2612	Jerigaon	much	much	a-mɛ	a+mɛ	a + m ɛ		715 714	715 714	a ◦ m ɛ -
 2613	Khoitam	much	much	a-mɛ	a+mɛ	a + m ɛ		715 714	715 714	a ◦ m ɛ -
@@ -2188,37 +2188,37 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 2632	Shergaon	mushroom	mushroom	miː	miː	m iː		720	720	m iː
 2633	Khispi	naga, serpent deity	naga, serpent deity	hu	hu	h u		721	721	h u
 2634	Duhumbi	naga, serpent deity	naga, serpent deity	hu	hu	h u		721	721	h u
-2639	Rupa	naga, serpent deity	naga, serpent deity	lyː	lyː	l yː		722	722	l yː
-2641	Khispi	nail	nail	hut-ʨʰin	hut+ʨʰin	h u t + tɕʰ i n		725 723	725 723	h u t ◦ tɕʰ i n
-2642	Duhumbi	nail	nail	hut-ʦun ~ hut-ʦum	hut+ʦun	h u t + ts u n		725 723	725 723	h u t ◦ ts u n
+2639	Rupa	naga, serpent deity	naga, serpent deity	lyː	lyː	l yː		721	722	l yː
+2641	Khispi	nail	nail	hut-ʨʰin	hut+ʨʰin	h u t + tɕʰ i n		724 723	725 723	h u t ◦ tɕʰ i n
+2642	Duhumbi	nail	nail	hut-ʦun ~ hut-ʦum	hut+ʦun	h u t + ts u n		724 723	725 723	h u t ◦ ts u n
 2643	Khoina	nail	nail	ik-ʦiŋ	ik+ʦiŋ	i k + ts i ŋ		724 723	724 723	i k ◦ ts i ŋ
 2644	Jerigaon	nail	nail	ik-ʨʰiŋ	ik+ʨʰiŋ	i k + tɕʰ i ŋ		724 723	724 723	i k ◦ tɕʰ i ŋ
 2645	Khoitam	nail	nail	ik-ʨiŋ	ik+ʨiŋ	i k + tɕ i ŋ		724 723	724 723	i k ◦ tɕ i ŋ
 2646	Rahung	nail	nail	ik-ʨiŋ	ik+ʨiŋ	i k + tɕ i ŋ		724 723	724 723	i k ◦ tɕ i ŋ
 2647	Rupa	nail	nail	ik-ʦiŋ ~ ik-ʦĩː(ŋ) ~ ik-ʨiŋ	ik+ʦiŋ	i k + ts i ŋ		724 723	724 723	i k ◦ ts i ŋ
 2648	Shergaon	nail	nail	ik-ʨiŋ	ik+ʨiŋ	i k + tɕ i ŋ		724 723	724 723	i k ◦ tɕ i ŋ
-2649	Khispi	name	name	biŋ	biŋ	b i ŋ		728	728	b i ŋ
-2650	Duhumbi	name	name	biŋ	biŋ	b i ŋ		728	728	b i ŋ
+2649	Khispi	name	name	biŋ	biŋ	b i ŋ		726	728	b i ŋ
+2650	Duhumbi	name	name	biŋ	biŋ	b i ŋ		726	728	b i ŋ
 2651	Khoina	name	name	a-ʣajŋ	a+ʣajŋ	a + dz a j ŋ		727 726	727 726	a ◦ dz a j ŋ
 2652	Jerigaon	name	name	a-ʥɛŋ	a+ʥɛŋ	a + dʑ ɛ ŋ		727 726	727 726	a ◦ dʑ ɛ - ŋ
 2653	Khoitam	name	name	a-ʥɛŋ	a+ʥɛŋ	a + dʑ ɛ ŋ		727 726	727 726	a ◦ dʑ ɛ - ŋ
 2654	Rahung	name	name	a-ʥɛŋ	a+ʥɛŋ	a + dʑ ɛ ŋ		727 726	727 726	a ◦ dʑ ɛ - ŋ
 2655	Rupa	name	name	a-zɛŋ	a+zɛŋ	a + z ɛ ŋ		727 726	727 726	a ◦ z ɛ - ŋ
 2656	Shergaon	name	name	a-zɛŋ	a+zɛŋ	a + z ɛ ŋ		727 726	727 726	a ◦ z ɛ - ŋ
-2665	Khispi	navel	navel	bɔ-di	bɔ+di	b ɔ + d i		729 731	729 731	b ɔ ◦ d i
-2666	Duhumbi	navel	navel	bɔ-di	bɔ+di	b ɔ + d i		729 731	729 731	b ɔ ◦ d i
+2665	Khispi	navel	navel	bɔ-di	bɔ+di	b ɔ + d i		729 730	729 731	b ɔ ◦ d i
+2666	Duhumbi	navel	navel	bɔ-di	bɔ+di	b ɔ + d i		729 730	729 731	b ɔ ◦ d i
 2667	Khoina	navel	navel	b-raː	b+raː	b + r aː		729 730	729 730	b - ◦ r aː
 2668	Jerigaon	navel	navel	(sə-riː) b-rɛː	b+rɛː	b + r ɛː		729 730	729 730	b - ◦ r ɛː
 2669	Khoitam	navel	navel	(pʰə-riŋ  ~ fɛ-riŋ) b-rɛː	b+rɛː	b + r ɛː		729 730	729 730	b - ◦ r ɛː
 2670	Rahung	navel	navel	(sə-riŋ) b-rɛː	b+rɛː	b + r ɛː		729 730	729 730	b - ◦ r ɛː
 2671	Rupa	navel	navel	(sə-riŋ) b-raː	b+raː	b + r aː		729 730	729 730	b - ◦ r aː
-2672	Shergaon	navel	navel	bu-ti-mu	bu+ti+mu	b u + t i + m u		729 731 732	729 731 732	b u ◦ t i ◦ m u
+2672	Shergaon	navel	navel	bu-ti-mu	bu+ti+mu	b u + t i + m u		729 730 732	729 731 732	b u ◦ t i ◦ m u
 2673	Khispi	neck	neck	hɛn-tʰɔŋ	hɛn+tʰɔŋ	h ɛ n + tʰ ɔ ŋ		734 733	734 733	h ɛ n ◦ tʰ ɔ ŋ
 2674	Duhumbi	neck	neck	hɛn-tʰɔŋ	hɛn+tʰɔŋ	h ɛ n + tʰ ɔ ŋ		734 733	734 733	h ɛ n ◦ tʰ ɔ ŋ
-2675	Khoina	neck	neck	nə-tu-xĩː	nə+tu+xĩː	n ə + t u + x ĩː		735 733 737	735 733 737	n ə ◦ t u - ◦ x ĩː
-2677	Khoitam	neck	neck	nə-tʰuŋ	nə+tʰuŋ	n ə + tʰ u ŋ		735 733	735 733	n ə ◦ tʰ u ŋ
-2678	Rahung	neck	neck	pʰ-tʰuŋ	pʰ+tʰuŋ	pʰ + tʰ u ŋ		736 733	736 733	pʰ ◦ tʰ u ŋ
-2679	Rupa	neck	neck	tʰuŋ-ʦɛ̃ː	tʰuŋ+ʦɛ̃ː	tʰ u ŋ + ts ɛ̃ː		734 733	734 733	tʰ u ŋ ◦ ts ɛ̃ː -
+2675	Khoina	neck	neck	nə-tu-xĩː	nə+tu+xĩː	n ə + t u + x ĩː		734 733 737	735 733 737	n ə ◦ t u - ◦ x ĩː
+2677	Khoitam	neck	neck	nə-tʰuŋ	nə+tʰuŋ	n ə + tʰ u ŋ		734 733	735 733	n ə ◦ tʰ u ŋ
+2678	Rahung	neck	neck	pʰ-tʰuŋ	pʰ+tʰuŋ	pʰ + tʰ u ŋ		734 733	736 733	pʰ ◦ tʰ u ŋ
+2679	Rupa	neck	neck	tʰuŋ-ʦɛ̃ː	tʰuŋ+ʦɛ̃ː	tʰ u ŋ + ts ɛ̃ː		733 254	734 733	tʰ u ŋ ◦ ts ɛ̃ː -
 2681	Khispi	need to, have to	need to, have to	ʦʰɛt	ʦʰɛt	tsʰ ɛ t		738	738	tsʰ ɛ t
 2682	Duhumbi	need to, have to	need to, have to	ʦʰɛt	ʦʰɛt	tsʰ ɛ t		738	738	tsʰ ɛ t
 2683	Khoina	need to, have to	need to, have to	ʦʰɛˀ	ʦʰɛˀ	tsʰ ɛˀ		738	738	tsʰ ɛˀ -
@@ -2296,20 +2296,20 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 2766	Rahung	noon	noon	ha-tɔ̃ː	ha+tɔ̃ː	h a + t ɔ̃ː		752 751	752 751	h a ◦ t ɔ̃ː -
 2767	Rupa	noon	noon	ha-tɔ̃ː	ha+tɔ̃ː	h a + t ɔ̃ː		752 751	752 751	h a ◦ t ɔ̃ː -
 2768	Shergaon	noon	noon	ha-tɔ̃ː	ha+tɔ̃ː	h a + t ɔ̃ː		752 751	752 751	h a ◦ t ɔ̃ː -
-2769	Khispi	nose	nose	hɛm-pʰɔŋ	hɛm+pʰɔŋ	h ɛ m + pʰ ɔ ŋ		756 754	756 754	h ɛ m ◦ pʰ ɔ ŋ
-2770	Duhumbi	nose	nose	hɛm-pʰɔŋ	hɛm+pʰɔŋ	h ɛ m + pʰ ɔ ŋ		756 754	756 754	h ɛ m ◦ pʰ ɔ ŋ
+2769	Khispi	nose	nose	hɛm-pʰɔŋ	hɛm+pʰɔŋ	h ɛ m + pʰ ɔ ŋ		755 754	756 754	h ɛ m ◦ pʰ ɔ ŋ
+2770	Duhumbi	nose	nose	hɛm-pʰɔŋ	hɛm+pʰɔŋ	h ɛ m + pʰ ɔ ŋ		755 754	756 754	h ɛ m ◦ pʰ ɔ ŋ
 2771	Khoina	nose	nose	nə-pʰuŋ	nə+pʰuŋ	n ə + pʰ u ŋ		755 754	755 754	n ə ◦ pʰ u ŋ
 2772	Jerigaon	nose	nose	nə-pʰuŋ	nə+pʰuŋ	n ə + pʰ u ŋ		755 754	755 754	n ə ◦ pʰ u ŋ
 2773	Khoitam	nose	nose	nu-pʰuŋ ~ nə-pʰuŋ	nu+pʰuŋ	n u + pʰ u ŋ		755 754	755 754	n u ◦ pʰ u ŋ
-2774	Rahung	nose	nose	ma-pʰuŋ	ma+pʰuŋ	m a + pʰ u ŋ		758 754	758 754	m a ◦ pʰ u ŋ
-2775	Rupa	nose	nose	lə-pʰuŋ ~ nə-pʰuŋ	lə+pʰuŋ	l ə + pʰ u ŋ		757 754	757 754	l ə ◦ pʰ u ŋ
+2774	Rahung	nose	nose	ma-pʰuŋ	ma+pʰuŋ	m a + pʰ u ŋ		264 754	758 754	m a ◦ pʰ u ŋ
+2775	Rupa	nose	nose	lə-pʰuŋ ~ nə-pʰuŋ	lə+pʰuŋ	l ə + pʰ u ŋ		257 754	757 754	l ə ◦ pʰ u ŋ
 2776	Shergaon	nose	nose	nə-pʰuŋ	nə+pʰuŋ	n ə + pʰ u ŋ		755 754	755 754	n ə ◦ pʰ u ŋ
 2781	Khoitam	oil	oil	tʰoː	tʰoː	tʰ oː		759	759	tʰ oː
 2782	Rahung	oil	oil	tʰoː	tʰoː	tʰ oː		759	759	tʰ oː
 2783	Rupa	oil	oil	tʰoː	tʰoː	tʰ oː		759	759	tʰ oː
 2784	Shergaon	oil	oil	tʰoː	tʰoː	tʰ oː		759	759	tʰ oː
-2785	Khispi	okay	okay	aj ~ e	aj	a j		761	761	a j
-2786	Duhumbi	okay	okay	aj	aj	a j		761	761	a j
+2785	Khispi	okay	okay	aj ~ e	aj	a j		760	761	a j
+2786	Duhumbi	okay	okay	aj	aj	a j		760	761	a j
 2788	Jerigaon	okay	okay	ɐː	ɐː	ɐː		760	760	ɐː
 2789	Khoitam	okay	okay	ɔː	ɔː	ɔː		760	760	ɔː
 2790	Rahung	okay	okay	ɔː	ɔː	ɔː		760	760	ɔː
@@ -2329,15 +2329,15 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 2806	Rahung	one	one	hɛn	hɛn	h ɛ n		764	764	h ɛ n
 2807	Rupa	one	one	han	han	h a n		764	764	h a n
 2808	Shergaon	one	one	han	han	h a n		764	764	h a n
-2809	Khispi	other	other	bi	bi	b i		766	766	b i
-2810	Duhumbi	other	other	bi	bi	b i		766	766	b i
+2809	Khispi	other	other	bi	bi	b i		765	766	b i
+2810	Duhumbi	other	other	bi	bi	b i		765	766	b i
 2811	Khoina	other	other	ʥi	ʥi	dʑ i		765	765	dʑ i
 2812	Jerigaon	other	other	ʥi	ʥi	dʑ i		765	765	dʑ i
 2813	Khoitam	other	other	ʥi	ʥi	dʑ i		765	765	dʑ i
 2814	Rahung	other	other	ʥi	ʥi	dʑ i		765	765	dʑ i
 2815	Rupa	other	other	ʥi	ʥi	dʑ i		765	765	dʑ i
 2816	Shergaon	other	other	ʥi	ʥi	dʑ i		765	765	dʑ i
-2819	Khoina	other	other	a-ga	a+ga	a + g a		767 765	767 765	a ◦ g a
+2819	Khoina	other	other	a-ga	a+ga	a + g a		767 293	767 765	a ◦ g a
 2820	Jerigaon	other	other	a-ʥiː ~ a-ga	a+ʥiː	a + dʑ iː		767 765	767 765	a ◦ dʑ iː
 2821	Khoitam	other	other	a-byː ~ a-biː	a+byː	a + b yː		767 766	767 766	a ◦ b yː
 2822	Rahung	other	other	a-byː	a+byː	a + b yː		767 766	767 766	a ◦ b yː
@@ -2348,17 +2348,17 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 2830	Rahung	otter	otter	ny-mak ~ ni-mak	ny+mak	n y + m a k		768 769	768 769	n y ◦ m a k
 2831	Rupa	otter	otter	ɲə-mak ~ ɲy-mak	ɲə+mak	ɲ ə + m a k		768 769	768 769	ɲ ə ◦ m a k
 2832	Shergaon	otter	otter	ɲu-mak	ɲu+mak	ɲ u + m a k		768 769	768 769	ɲ u ◦ m a k
-2835	Khoina	outside	outside	a-fũː-rɔ	a+fũː+rɔ	a + f ũː + r ɔ		770 773 772	770 773 772	a ◦ f ũː ◦ r ɔ
+2835	Khoina	outside	outside	a-fũː-rɔ	a+fũː+rɔ	a + f ũː + r ɔ		770 771 772	770 773 772	a ◦ f ũː ◦ r ɔ
 2836	Jerigaon	outside	outside	a-hɔ̃ː(ŋ)	a+hɔ̃ː	a + h ɔ̃ː		770 771	770 771	a ◦ h ɔ̃ː
 2837	Khoitam	outside	outside	a-hũː(ŋ)	a+hũː	a + h ũː		770 771	770 771	a ◦ h ũː
 2838	Rahung	outside	outside	u-hũː(ŋ)	u+hũː	u + h ũː		770 771	770 771	u ◦ h ũː
-2839	Rupa	outside	outside	a-hũː(ŋ)-gɔ	a+hũː+gɔ	a + h ũː + g ɔ		770 771 772	770 771 772	a ◦ h ũː ◦ g ɔ
+2839	Rupa	outside	outside	a-hũː(ŋ)-gɔ	a+hũː+gɔ	a + h ũː + g ɔ		770 771 294	770 771 772	a ◦ h ũː ◦ g ɔ
 2840	Shergaon	outside	outside	ɔ-hɔ̃ː	ɔ+hɔ̃ː	ɔ + h ɔ̃ː		770 771	770 771	ɔ ◦ h ɔ̃ː
 2841	Khispi	palm, sole	palm, sole1	pʰa-la	pʰa+la	pʰ a + l a		775 777	775 777	pʰ a - ◦ l a
 2842	Duhumbi	palm, sole	palm, sole1	pʰa-ɹa	pʰa+ɹa	pʰ a + ɹ a		775 777	775 777	pʰ a - ◦ ɹ a
 2845	Khoitam	palm, sole	palm, sole1	ik-paɹ	ik+paɹ	i k + p a ɹ		774 775	774 775	i k ◦ p a ɹ
 2846	Rahung	palm, sole	palm, sole1	ik-paɹ	ik+paɹ	i k + p a ɹ		774 775	774 775	i k ◦ p a ɹ
-2847	Rupa	palm, sole	palm, sole1	la ʦa-paɹ	la_ʦa+paɹ	l a _ ts a + p a ɹ		777 776 775	777 776 775	l a ◦ ts a ◦ p a ɹ
+2847	Rupa	palm, sole	palm, sole1	la ʦa-paɹ	la_ʦa+paɹ	l a _ ts a + p a ɹ		777 295 775	777 776 775	l a ◦ ts a ◦ p a ɹ
 2848	Shergaon	palm, sole	palm, sole1	ik-paɹ	ik+paɹ	i k + p a ɹ		774 775	774 775	i k ◦ p a ɹ
 2851	Khoina	palm, sole	palm, sole2	ik-tʰɔ̃ː	ik+tʰɔ̃ː	i k + tʰ ɔ̃ː		774 776	774 776	i k ◦ tʰ ɔ̃ː
 2852	Jerigaon	palm, sole	palm, sole2	ik-tʰɔ̃ː(ŋ)	ik+tʰɔ̃ː	i k + tʰ ɔ̃ː		774 776	774 776	i k ◦ tʰ ɔ̃ː
@@ -2368,25 +2368,25 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 2862	Rahung	pangolin	pangolin	su-wɛːʰ	su+wɛːʰ	s u + w ɛːʰ		779 778	779 778	s u ◦ w ɛːʰ
 2866	Duhumbi	partridge	partridge	kam-kɔw	kam+kɔw	k a m + k ɔ w		782 781	782 781	k a m ◦ k ɔ w
 2868	Jerigaon	partridge	partridge	hu-kʰøː	hu+kʰøː	h u + kʰ øː		786 781	786 781	h u ◦ kʰ øː -
-2869	Khoitam	partridge	partridge	f-kʰøː	f+kʰøː	f + kʰ øː		785 781	785 781	f ◦ kʰ øː -
+2869	Khoitam	partridge	partridge	f-kʰøː	f+kʰøː	f + kʰ øː		786 781	785 781	f ◦ kʰ øː -
 2870	Rahung	partridge	partridge	mɔ-kʰøː	mɔ+kʰøː	m ɔ + kʰ øː		784 781	784 781	m ɔ ◦ kʰ øː -
-2872	Shergaon	partridge	partridge	kʰɔj-kʰɔj-ma	kʰɔj+kʰɔj+ma	kʰ ɔ j + kʰ ɔ j + m a		782 781 783	782 781 783	kʰ ɔ j ◦ kʰ ɔ j ◦ m a
+2872	Shergaon	partridge	partridge	kʰɔj-kʰɔj-ma	kʰɔj+kʰɔj+ma	kʰ ɔ j + kʰ ɔ j + m a		299 781 783	782 781 783	kʰ ɔ j ◦ kʰ ɔ j ◦ m a
 2873	Khispi	path, road	path, road	hu-ma	hu+ma	h u + m a		788 787	788 787	h u - ◦ m a
 2874	Duhumbi	path, road	path, road	hu-ma	hu+ma	h u + m a		788 787	788 787	h u - ◦ m a
 2875	Khoina	path, road	path, road	ham	ham	h a m		788	788	h a m
 2876	Jerigaon	path, road	path, road	ha-mu ~ lə-mu	ha+mu	h a + m u		788 787	788 787	h a - ◦ m u
-2877	Khoitam	path, road	path, road	lym	lym	l y m		789	789	l y m
-2878	Rahung	path, road	path, road	lum ~ lym	lum	l u m		789	789	l u m
-2879	Rupa	path, road	path, road	nə-mu ~ lə-mu	nə+mu	n ə + m u		790 787	790 787	n ə ◦ m u
-2880	Shergaon	path, road	path, road	lə-mu	lə+mu	l ə + m u		789 787	789 787	l ə - ◦ m u
+2877	Khoitam	path, road	path, road	lym	lym	l y m		788	789	l y m
+2878	Rahung	path, road	path, road	lum ~ lym	lum	l u m		788	789	l u m
+2879	Rupa	path, road	path, road	nə-mu ~ lə-mu	nə+mu	n ə + m u		788 787	790 787	n ə ◦ m u
+2880	Shergaon	path, road	path, road	lə-mu	lə+mu	l ə + m u		788 787	789 787	l ə - ◦ m u
 2881	Khispi	patient marker	patient marker	-ɲi	+ɲi	ɲ i		791	791	ɲ i
 2882	Duhumbi	patient marker	patient marker	-ɲi	+ɲi	ɲ i		791	791	ɲ i
 2883	Khoina	patient marker	patient marker	-ɲiː	+ɲiː	ɲ iː		791	791	ɲ iː
 2885	Khoitam	patient marker	patient marker	-niː	+niː	n iː		791	791	n iː
 2886	Rahung	patient marker	patient marker	-niː	+niː	n iː		791	791	n iː
-2887	Rupa	patient marker	patient marker	-jiː ~ -iː	+jiː	j iː		792	792	j iː
-2889	Khispi	peas	peas	(ʥam) pʰo-bin	pʰo+bin	pʰ o + b i n		793 794	793 794	pʰ o - ◦ - b i n
-2890	Duhumbi	peas	peas	(ʥam) pʰop-liŋ	pʰop+liŋ	pʰ o p + l i ŋ		793 794	793 794	pʰ o p ◦ - l i ŋ
+2887	Rupa	patient marker	patient marker	-jiː ~ -iː	+jiː	j iː		791	792	j iː
+2889	Khispi	peas	peas	(ʥam) pʰo-bin	pʰo+bin	pʰ o + b i n		793 301	793 794	pʰ o - ◦ - b i n
+2890	Duhumbi	peas	peas	(ʥam) pʰop-liŋ	pʰop+liŋ	pʰ o p + l i ŋ		793 301	793 794	pʰ o p ◦ - l i ŋ
 2891	Khoina	peas	peas	(pʰuk) pʰɔŋ-ba	pʰɔŋ+ba	pʰ ɔ ŋ + b a		793 794	793 794	pʰ ɔ ŋ ◦ b - a -
 2892	Jerigaon	peas	peas	(pʰuk) pʰɔŋ-ba	pʰɔŋ+ba	pʰ ɔ ŋ + b a		793 794	793 794	pʰ ɔ ŋ ◦ b - a -
 2893	Khoitam	peas	peas	(pʰuk) pʰɔm-bɛ	pʰɔm+bɛ	pʰ ɔ m + b ɛ		793 794	793 794	pʰ ɔ m ◦ b - ɛ -
@@ -2402,15 +2402,15 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 2903	Rupa	penis	penis	lak	lak	l a k		795	795	l a k
 2904	Shergaon	penis	penis	lak	lak	l a k		795	795	l a k
 2907	Khoina	pheasant, kalij	pheasant, kalij	fə-tʂʰajk	fə+tʂʰajk	f ə + ʈʂʰ a j k		797 796	797 796	f ə ◦ ʈʂʰ a j k
-2908	Jerigaon	pheasant, kalij	pheasant, kalij	hu-ʨʰɛk	hu+ʨʰɛk	h u + tɕʰ ɛ k		798 796	798 796	h u ◦ tɕʰ ɛ - k
+2908	Jerigaon	pheasant, kalij	pheasant, kalij	hu-ʨʰɛk	hu+ʨʰɛk	h u + tɕʰ ɛ k		797 796	798 796	h u ◦ tɕʰ ɛ - k
 2909	Khoitam	pheasant, kalij	pheasant, kalij	f-ʨʰɛk	f+ʨʰɛk	f + tɕʰ ɛ k		797 796	797 796	f - ◦ tɕʰ ɛ - k
 2910	Rahung	pheasant, kalij	pheasant, kalij	pʰə-ʨʰɛk	pʰə+ʨʰɛk	pʰ ə + tɕʰ ɛ k		797 796	797 796	pʰ ə ◦ tɕʰ ɛ - k
 2911	Rupa	pheasant, kalij	pheasant, kalij	bə-kʰɛk	bə+kʰɛk	b ə + kʰ ɛ k		797 796	797 796	b ə ◦ kʰ ɛ - k
 2912	Shergaon	pheasant, kalij	pheasant, kalij	bə-kʰɛk	bə+kʰɛk	b ə + kʰ ɛ k		797 796	797 796	b ə ◦ kʰ ɛ - k
 2914	Duhumbi	pheasant, tragopan	pheasant, tragopan	bap	bap	b a p		801	801	b a p
-2916	Jerigaon	pheasant, tragopan	pheasant, tragopan	hu-ba	hu+ba	h u + b a		800 799	800 799	h u ◦ b a
-2917	Khoitam	pheasant, tragopan	pheasant, tragopan	hu-bɔ	hu+bɔ	h u + b ɔ		800 799	800 799	h u ◦ b ɔ
-2919	Rupa	pheasant, tragopan	pheasant, tragopan	hu-bɔ	hu+bɔ	h u + b ɔ		800 799	800 799	h u ◦ b ɔ
+2916	Jerigaon	pheasant, tragopan	pheasant, tragopan	hu-ba	hu+ba	h u + b a		800 801	800 799	h u ◦ b a
+2917	Khoitam	pheasant, tragopan	pheasant, tragopan	hu-bɔ	hu+bɔ	h u + b ɔ		800 801	800 799	h u ◦ b ɔ
+2919	Rupa	pheasant, tragopan	pheasant, tragopan	hu-bɔ	hu+bɔ	h u + b ɔ		800 801	800 799	h u ◦ b ɔ
 2920	Shergaon	pheasant, tragopan	pheasant, tragopan	bap	bap	b a p		801	801	b a p
 2921	Khispi	pig	pig	ɕa-bak	ɕa+bak	ɕ a + b a k		803 802	803 802	ɕ a ◦ b a k
 2922	Duhumbi	pig	pig	ɕa-bak	ɕa+bak	ɕ a + b a k		803 802	803 802	ɕ a ◦ b a k
@@ -2420,7 +2420,7 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 2926	Rahung	pig	pig	su-wak	su+wak	s u + w a k		803 802	803 802	s u ◦ w a k
 2927	Rupa	pig	pig	su-wak	su+wak	s u + w a k		803 802	803 802	s u ◦ w a k
 2928	Shergaon	pig	pig	su-wak	su+wak	s u + w a k		803 802	803 802	s u ◦ w a k
-2929	Khispi	pillow	pillow	kʰum-u	kʰum+u	kʰ u m + u		806 804	806 804	kʰ u m ◦ - u -
+2929	Khispi	pillow	pillow	kʰum-u	kʰum+u	kʰ u m + u		804 309	806 804	kʰ u m ◦ - u -
 2930	Duhumbi	pillow	pillow	kʰu-kʰum	kʰu+kʰum	kʰ u + kʰ u m		806 804	806 804	kʰ u - ◦ kʰ u m
 2931	Khoina	pillow	pillow	ʂaŋ-kʰɔn ~ ʂaŋ-kʰøn	ʂaŋ+kʰɔn	ʂ a ŋ + kʰ ɔ n		805 804	805 804	ʂ a ŋ ◦ kʰ ɔ n
 2932	Jerigaon	pillow	pillow	sa-kʰøn	sa+kʰøn	s a + kʰ ø n		805 804	805 804	s a - ◦ kʰ ø n
@@ -2440,7 +2440,7 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 2948	Jerigaon	pine kindle	pine kindle	ba-ʨi	ba+ʨi	b a + tɕ i		808 809	808 809	b a - ◦ tɕ i
 2949	Khoitam	pine kindle	pine kindle	ba-ʨi	ba+ʨi	b a + tɕ i		808 809	808 809	b a - ◦ tɕ i
 2950	Rahung	pine kindle	pine kindle	ba-ʨi	ba+ʨi	b a + tɕ i		808 809	808 809	b a - ◦ tɕ i
-2951	Rupa	pine kindle	pine kindle	baː bə-ʦi	baː_bə+ʦi	b aː _ b ə + ts i		808 811 810	808 811 810	b aː - ◦ b ə ◦ ts i
+2951	Rupa	pine kindle	pine kindle	baː bə-ʦi	baː_bə+ʦi	b aː _ b ə + ts i		317 808 809	808 811 810	b aː - ◦ b ə ◦ ts i
 2952	Shergaon	pine kindle	pine kindle	bap-ʨi	bap+ʨi	b a p + tɕ i		808 809	808 809	b a p ◦ tɕ i
 2953	Khispi	plait	plait	pʰa	pʰa	pʰ a		812	812	pʰ - a
 2954	Duhumbi	plait	plait	pʰa	pʰa	pʰ a		812	812	pʰ - a
@@ -2451,9 +2451,9 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 2961	Khispi	plant  (vt)	plant  (vt)	haj	haj	h a j		814	814	h a j
 2962	Duhumbi	plant  (vt)	plant  (vt)	haj	haj	h a j		814	814	h a j
 2963	Khoina	plant  (vt)	plant  (vt)	hɐː	hɐː	h ɐː		814	814	h ɐː -
-2965	Khoitam	plant  (vt)	plant  (vt)	lɔː	lɔː	l ɔː		813	813	l ɔː
-2966	Rahung	plant  (vt)	plant  (vt)	lɔː	lɔː	l ɔː		813	813	l ɔː
-2967	Rupa	plant  (vt)	plant  (vt)	lɔ	lɔ	l ɔ		813	813	l ɔ
+2965	Khoitam	plant  (vt)	plant  (vt)	lɔː	lɔː	l ɔː		814	813	l ɔː
+2966	Rahung	plant  (vt)	plant  (vt)	lɔː	lɔː	l ɔː		814	813	l ɔː
+2967	Rupa	plant  (vt)	plant  (vt)	lɔ	lɔ	l ɔ		814	813	l ɔ
 2969	Khispi	play	play	lej	lej	l e j		815	815	l e j
 2970	Duhumbi	play	play	lɛj	lɛj	l ɛ j		815	815	l ɛ j
 2971	Khoina	play	play	lɐː	lɐː	l ɐː		815	815	l ɐː -
@@ -2513,10 +2513,10 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 3046	Rahung	pull	pull1	ʨʰɛŋ	ʨʰɛŋ	tɕʰ ɛ ŋ		826	826	tɕʰ - ɛ ŋ
 3047	Rupa	pull	pull1	kʰɛŋ	kʰɛŋ	kʰ ɛ ŋ		826	826	kʰ - ɛ ŋ
 3048	Shergaon	pull	pull1	kʰɛŋ	kʰɛŋ	kʰ ɛ ŋ		826	826	kʰ - ɛ ŋ
-3051	Khoina	pull	pull2	giː	giː	g iː		826	826	g - iː -
-3052	Jerigaon	pull	pull2	giː	giː	g iː		826	826	g - iː -
-3053	Khoitam	pull	pull2	giː	giː	g iː		826	826	g - iː -
-3054	Rahung	pull	pull2	giː	giː	g iː		826	826	g - iː -
+3051	Khoina	pull	pull2	giː	giː	g iː		326	826	g - iː -
+3052	Jerigaon	pull	pull2	giː	giː	g iː		326	826	g - iː -
+3053	Khoitam	pull	pull2	giː	giː	g iː		326	826	g - iː -
+3054	Rahung	pull	pull2	giː	giː	g iː		326	826	g - iː -
 3057	Khispi	pulse	pulse	ɕak-pu	ɕak+pu	ɕ a k + p u		828 827	828 827	ɕ a k ◦ p u
 3058	Duhumbi	pulse	pulse	ɕak-pu	ɕak+pu	ɕ a k + p u		828 827	828 827	ɕ a k ◦ p u
 3059	Khoina	pulse	pulse	ɕɐk-pyː	ɕɐk+pyː	ɕ ɐ k + p yː		828 827	828 827	ɕ ɐ k ◦ p yː
@@ -2525,24 +2525,24 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 3062	Rahung	pulse	pulse	sak-pyː	sak+pyː	s a k + p yː		828 827	828 827	s a k ◦ p yː
 3063	Rupa	pulse	pulse	sak-pyː	sak+pyː	s a k + p yː		828 827	828 827	s a k ◦ p yː
 3064	Shergaon	pulse	pulse	sak-piː	sak+piː	s a k + p iː		828 827	828 827	s a k ◦ p iː
-3065	Khispi	pumpkin	pumpkin	buŋ-ɕa	buŋ+ɕa	b u ŋ + ɕ a		832 831	832 831	b u ŋ ◦ ɕ a
+3065	Khispi	pumpkin	pumpkin	buŋ-ɕa	buŋ+ɕa	b u ŋ + ɕ a		833 831	832 831	b u ŋ ◦ ɕ a
 3066	Duhumbi	pumpkin	pumpkin	brum-ɕa	brum+ɕa	b r u m + ɕ a		833 831	833 831	b r u m ◦ ɕ a
 3067	Khoina	pumpkin	pumpkin	ma-pʰluŋ	ma+pʰluŋ	m a + pʰ l u ŋ		830 829	830 829	m a ◦ pʰ l u ŋ
 3068	Jerigaon	pumpkin	pumpkin	ma-pʰluŋ	ma+pʰluŋ	m a + pʰ l u ŋ		830 829	830 829	m a ◦ pʰ l u ŋ
 3069	Khoitam	pumpkin	pumpkin	ma-pʰluŋ	ma+pʰluŋ	m a + pʰ l u ŋ		830 829	830 829	m a ◦ pʰ l u ŋ
 3070	Rahung	pumpkin	pumpkin	ma-pʰluŋ	ma+pʰluŋ	m a + pʰ l u ŋ		830 829	830 829	m a ◦ pʰ l u ŋ
-3071	Rupa	pumpkin	pumpkin	buŋ-glɔ̃ ~ buŋ-blɔ̃	buŋ+glɔ̃	b u ŋ + g l ɔ̃		832 829	832 829	b u ŋ ◦ g l ɔ̃ -
+3071	Rupa	pumpkin	pumpkin	buŋ-glɔ̃ ~ buŋ-blɔ̃	buŋ+glɔ̃	b u ŋ + g l ɔ̃		833 340	832 829	b u ŋ ◦ g l ɔ̃ -
 3072	Shergaon	pumpkin	pumpkin	brum-sɔː	brum+sɔː	b r u m + s ɔː		833 831	833 831	b r u m ◦ s ɔː
-3081	Khispi	pus	pus	haj	haj	h a j		836	836	h a j
-3082	Duhumbi	pus	pus	haj	haj	h a j		836	836	h a j
+3081	Khispi	pus	pus	haj	haj	h a j		835	836	h a j
+3082	Duhumbi	pus	pus	haj	haj	h a j		835	836	h a j
 3083	Khoina	pus	pus	a-nɐ̃ʰ	a+nɐ̃ʰ	a + n ɐ̃ʰ		834 835	834 835	a ◦ n ɐ̃ʰ
 3084	Jerigaon	pus	pus	a-nɐ̃ʰ	a+nɐ̃ʰ	a + n ɐ̃ʰ		834 835	834 835	a ◦ n ɐ̃ʰ
 3085	Khoitam	pus	pus	a-nɔ̃ʰ	a+nɔ̃ʰ	a + n ɔ̃ʰ		834 835	834 835	a ◦ n ɔ̃ʰ
 3086	Rahung	pus	pus	a-nɔ̃ʰ	a+nɔ̃ʰ	a + n ɔ̃ʰ		834 835	834 835	a ◦ n ɔ̃ʰ
 3087	Rupa	pus	pus	a-nɔ ~ ɔ-nɔ	a+nɔ	a + n ɔ		834 835	834 835	a ◦ n ɔ
 3088	Shergaon	pus	pus	a-nɔ	a+nɔ	a + n ɔ		834 835	834 835	a ◦ n ɔ
-3089	Khispi	push	push	du	du	d u		838	838	d u
-3090	Duhumbi	push	push	du	du	d u		838	838	d u
+3089	Khispi	push	push	du	du	d u		837	838	d u
+3090	Duhumbi	push	push	du	du	d u		837	838	d u
 3091	Khoina	push	push	ryː(j)	ryː	r yː		837	837	r yː
 3092	Jerigaon	push	push	ryː	ryː	r yː		837	837	r yː
 3093	Khoitam	push	push	ryː	ryː	r yː		837	837	r yː
@@ -2556,13 +2556,13 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 3102	Rahung	put	put	ʨʰɔʰ	ʨʰɔʰ	tɕʰ ɔʰ		839	839	tɕʰ ɔʰ -
 3103	Rupa	put	put	ʨʰɔʰ	ʨʰɔʰ	tɕʰ ɔʰ		839	839	tɕʰ ɔʰ -
 3104	Shergaon	put	put	ʨʰɔʰ	ʨʰɔʰ	tɕʰ ɔʰ		839	839	tɕʰ ɔʰ -
-3105	Khispi	quarrel (v)	quarrel (v)	aj ɕɔŋ	aj_ɕɔŋ	a j _ ɕ ɔ ŋ		842 840	842 840	a j ◦ ɕ ɔ ŋ
-3106	Duhumbi	quarrel (v)	quarrel (v)	aj ɕɔŋ	aj_ɕɔŋ	a j _ ɕ ɔ ŋ		842 840	842 840	a j ◦ ɕ ɔ ŋ
+3105	Khispi	quarrel (v)	quarrel (v)	aj ɕɔŋ	aj_ɕɔŋ	a j _ ɕ ɔ ŋ		841 347	842 840	a j ◦ ɕ ɔ ŋ
+3106	Duhumbi	quarrel (v)	quarrel (v)	aj ɕɔŋ	aj_ɕɔŋ	a j _ ɕ ɔ ŋ		841 347	842 840	a j ◦ ɕ ɔ ŋ
 3107	Khoina	quarrel (v)	quarrel (v)	ja iː	ja_iː	j a _ iː		841 840	841 840	j a ◦ - iː -
 3108	Jerigaon	quarrel (v)	quarrel (v)	jɛˀ iː ~ aˀ iː	jɛˀ_iː	j ɛˀ _ iː		841 840	841 840	j ɛˀ ◦ - iː -
 3109	Khoitam	quarrel (v)	quarrel (v)	jɛˀ iː	jɛˀ_iː	j ɛˀ _ iː		841 840	841 840	j ɛˀ ◦ - iː -
 3110	Rahung	quarrel (v)	quarrel (v)	jɛˀ iː	jɛˀ_iː	j ɛˀ _ iː		841 840	841 840	j ɛˀ ◦ - iː -
-3111	Rupa	quarrel (v)	quarrel (v)	ja di	ja_di	j a _ d i		841 840	841 840	j a ◦ d i -
+3111	Rupa	quarrel (v)	quarrel (v)	ja di	ja_di	j a _ d i		841 343	841 840	j a ◦ d i -
 3113	Khispi	question	question	ja	ja	j a		843	843	j a
 3114	Duhumbi	question	question	ja	ja	j a		843	843	j a
 3117	Khoitam	question	question	ja ~ a	ja	j a		843	843	j a
@@ -2588,34 +2588,34 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 3147	Khoina	rain (n)	rain (n)	na-ʦʰuː	na+ʦʰuː	n a + tsʰ uː		850 849	850 849	n a - ◦ tsʰ uː
 3148	Jerigaon	rain (n)	rain (n)	nə-ʨʰuː	nə+ʨʰuː	n ə + tɕʰ uː		850 849	850 849	n ə - ◦ tɕʰ uː
 3149	Khoitam	rain (n)	rain (n)	nə-ʨʰuː	nə+ʨʰuː	n ə + tɕʰ uː		850 849	850 849	n ə - ◦ tɕʰ uː
-3150	Rahung	rain (n)	rain (n)	pʰ-ʨʰuː	pʰ+ʨʰuː	pʰ + tɕʰ uː		851 849	851 849	pʰ ◦ tɕʰ uː
+3150	Rahung	rain (n)	rain (n)	pʰ-ʨʰuː	pʰ+ʨʰuː	pʰ + tɕʰ uː		850 849	851 849	pʰ ◦ tɕʰ uː
 3151	Rupa	rain (n)	rain (n)	nə-ʦʰoː ~ nə-ʦʰuː	nə+ʦʰoː	n ə + tsʰ oː		850 849	850 849	n ə - ◦ tsʰ oː
 3155	Khoina	rainbow	rainbow	paː-hu	paː+hu	p aː + h u		852 853	852 853	p aː - ◦ h u -
 3156	Jerigaon	rainbow	rainbow	pʰaŋ-lu	pʰaŋ+lu	pʰ a ŋ + l u		852 853	852 853	pʰ a ŋ ◦ l u -
 3157	Khoitam	rainbow	rainbow	pʰaŋ-lu	pʰaŋ+lu	pʰ a ŋ + l u		852 853	852 853	pʰ a ŋ ◦ l u -
 3158	Rahung	rainbow	rainbow	pʰaŋ-ruŋ	pʰaŋ+ruŋ	pʰ a ŋ + r u ŋ		852 853	852 853	pʰ a ŋ ◦ r u ŋ
-3159	Rupa	rainbow	rainbow	pʰaŋ-kʰ- lũ(ŋ) ~ pʰaŋ-kʰə-lu	pʰaŋ+kʰ+_lũ	pʰ a ŋ + kʰ + l ũ		852 853 854	852 853 854	pʰ a ŋ ◦ - - kʰ ◦ l ũ
+3159	Rupa	rainbow	rainbow	pʰaŋ-kʰ- lũ(ŋ) ~ pʰaŋ-kʰə-lu	pʰaŋ+kʰ+_lũ	pʰ a ŋ + kʰ + l ũ		852 855 853	852 853 854	pʰ a ŋ ◦ - - kʰ ◦ l ũ
 3160	Shergaon	rainbow	rainbow	pʰaŋ-kʰə-lu	pʰaŋ+kʰə+lu	pʰ a ŋ + kʰ ə + l u		852 855 853	852 855 853	pʰ a ŋ ◦ kʰ ə ◦ l u -
 3162	Duhumbi	reap	reap	ram	ram	r a m		856	856	r a m
 3165	Khoitam	reap	reap	rũː(ŋ)	rũː	r ũː		856	856	r ũː -
 3166	Rahung	reap	reap	rũː(ŋ)	rũː	r ũː		856	856	r ũː -
 3167	Rupa	reap	reap	rũː(ŋ)	rũː	r ũː		856	856	r ũː -
-3169	Khispi	recognise	recognise	is	is	i s		858	858	i s
-3170	Duhumbi	recognise	recognise	is	is	i s		858	858	i s
+3169	Khispi	recognise	recognise	is	is	i s		857	858	i s
+3170	Duhumbi	recognise	recognise	is	is	i s		857	858	i s
 3171	Khoina	recognise	recognise	ɛ̃ˀ	ɛ̃ˀ	ɛ̃ˀ		857	857	ɛ̃ˀ
 3173	Khoitam	recognise	recognise	ĩˀ	ĩˀ	ĩˀ		857	857	ĩˀ
 3174	Rahung	recognise	recognise	ĩˀ	ĩˀ	ĩˀ		857	857	ĩˀ
 3175	Rupa	recognise	recognise	ɛ̃ˀ	ɛ̃ˀ	ɛ̃ˀ		857	857	ɛ̃ˀ
 3177	Khispi	red	red	ɔ--hɛk	ɔ++hɛk	ɔ + h ɛ k		859 860	859 860	ɔ ◦ h - ɛ k
 3178	Duhumbi	red	red	ɔ-hjɛk ~ ɔ-kʰjɛk	ɔ+hjɛk	ɔ + h j ɛ k		859 860	859 860	ɔ ◦ h j ɛ k
-3179	Khoina	red	red	a-xajk	a+xajk	a + x a j k		859 861	859 861	a ◦ x a j k
+3179	Khoina	red	red	a-xajk	a+xajk	a + x a j k		859 860	859 861	a ◦ x a j k
 3180	Jerigaon	red	red	ə-hɛk ~ a-hɛk	ə+hɛk	ə + h ɛ k		859 860	859 860	ə ◦ h - ɛ k
 3181	Khoitam	red	red	ə-hɛk ~ a-hɛk	ə+hɛk	ə + h ɛ k		859 860	859 860	ə ◦ h - ɛ k
 3182	Rahung	red	red	ə-hɛk	ə+hɛk	ə + h ɛ k		859 860	859 860	ə ◦ h - ɛ k
 3183	Rupa	red	red	ə-hɛk	ə+hɛk	ə + h ɛ k		859 860	859 860	ə ◦ h - ɛ k
 3184	Shergaon	red	red	ə-hɛk	ə+hɛk	ə + h ɛ k		859 860	859 860	ə ◦ h - ɛ k
-3185	Khispi	reflexive marker	reflexive marker	-bi	+bi	b i		863	863	b i
-3186	Duhumbi	reflexive marker	reflexive marker	-bi	+bi	b i		863	863	b i
+3185	Khispi	reflexive marker	reflexive marker	-bi	+bi	b i		862	863	b i
+3186	Duhumbi	reflexive marker	reflexive marker	-bi	+bi	b i		862	863	b i
 3187	Khoina	reflexive marker	reflexive marker	-ʥi	+ʥi	dʑ i		862	862	dʑ i
 3188	Jerigaon	reflexive marker	reflexive marker	-ʥi	+ʥi	dʑ i		862	862	dʑ i
 3189	Khoitam	reflexive marker	reflexive marker	-ʥi	+ʥi	dʑ i		862	862	dʑ i
@@ -2646,7 +2646,7 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 3224	Shergaon	rice, unhusked, paddy	rice, unhusked, paddy	ni-seː	ni+seː	n i + s eː		872 871	872 871	n i ◦ s eː
 3225	Khispi	ride, mount	ride, mount	il	il	i l		874	874	i l
 3226	Duhumbi	ride, mount	ride, mount	iɹ	iɹ	i ɹ		874	874	i ɹ
-3231	Rupa	ride, mount	ride, mount	ɛ̃ː(n)	ɛ̃ː	ɛ̃ː		875	875	ɛ̃ː
+3231	Rupa	ride, mount	ride, mount	ɛ̃ː(n)	ɛ̃ː	ɛ̃ː		874	875	ɛ̃ː
 3233	Khispi	right	right	u-ɕu	u+ɕu	u + ɕ u		877 876	877 876	u ◦ ɕ u
 3234	Duhumbi	right	right	u-ɕu	u+ɕu	u + ɕ u		877 876	877 876	u ◦ ɕ u
 3235	Khoina	right	right	a-ʦɐ̃ː	a+ʦɐ̃ː	a + ts ɐ̃ː		877 876	877 876	a ◦ ts ɐ̃ː
@@ -2666,7 +2666,7 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 3249	Khispi	roof	roof	wam-ʨʰa	wam+ʨʰa	w a m + tɕʰ a		881 882	881 882	w a m ◦ tɕʰ a -
 3250	Duhumbi	roof	roof	wam-ʨʰa	wam+ʨʰa	w a m + tɕʰ a		881 882	881 882	w a m ◦ tɕʰ a -
 3251	Khoina	roof	roof	jam ʦʰɔ̃ː(ŋ)	jam_ʦʰɔ̃ː	j a m _ tsʰ ɔ̃ː		881 882	881 882	j a m ◦ tsʰ ɔ̃ː -
-3253	Khoitam	roof	roof	nam bə-ʨʰũː	nam_bə+ʨʰũː	n a m _ b ə + tɕʰ ũː		881 884 883	881 884 883	n a m ◦ b ə ◦ tɕʰ ũː
+3253	Khoitam	roof	roof	nam bə-ʨʰũː	nam_bə+ʨʰũː	n a m _ b ə + tɕʰ ũː		881 884 882	881 884 883	n a m ◦ b ə ◦ tɕʰ ũː
 3254	Rahung	roof	roof	jam-ʨʰũː(ŋ)	jam+ʨʰũː	j a m + tɕʰ ũː		881 882	881 882	j a m ◦ tɕʰ ũː -
 3255	Rupa	roof	roof	jam-ʦʰɔŋ	jam+ʦʰɔŋ	j a m + tsʰ ɔ ŋ		881 882	881 882	j a m ◦ tsʰ ɔ ŋ
 3259	Khoina	root	root	a-xĩː	a+xĩː	a + x ĩː		885 886	885 886	a ◦ x ĩː
@@ -2684,7 +2684,7 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 3272	Shergaon	rope	rope	tʰak	tʰak	tʰ a k		887	887	tʰ a k
 3273	Khispi	rot (vi)	rot (vi)	ham	ham	h a m		889	889	h a m
 3274	Duhumbi	rot (vi)	rot (vi)	ham	ham	h a m		889	889	h a m
-3275	Khoina	rot (vi)	rot (vi)	xũː	xũː	x ũː		890	890	x ũː
+3275	Khoina	rot (vi)	rot (vi)	xũː	xũː	x ũː		889	890	x ũː
 3276	Jerigaon	rot (vi)	rot (vi)	hɔ̃ː(ŋ)	hɔ̃ː	h ɔ̃ː		889	889	h ɔ̃ː -
 3277	Khoitam	rot (vi)	rot (vi)	hũː(ŋ)	hũː	h ũː		889	889	h ũː -
 3278	Rahung	rot (vi)	rot (vi)	hũːŋ	hũːŋ	h ũː ŋ		889	889	h ũː ŋ
@@ -2692,11 +2692,11 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 3280	Shergaon	rot (vi)	rot (vi)	hɔ̃ː	hɔ̃ː	h ɔ̃ː		889	889	h ɔ̃ː -
 3281	Khispi	round, small object	round, small object	bu	bu	b u		894	894	b - u
 3282	Duhumbi	round, small object	round, small object	bɹu	bɹu	b ɹ u		894	894	b ɹ u
-3283	Khoina	round, small object	round, small object	lak a-byː	lak_a+byː	l a k _ a + b yː		891 893 892	891 893 892	l a k ◦ a ◦ b - yː
+3283	Khoina	round, small object	round, small object	lak a-byː	lak_a+byː	l a k _ a + b yː		891 893 894	891 893 892	l a k ◦ a ◦ b - yː
 3285	Khoitam	round, small object	round, small object	bɹɔː	bɹɔː	b ɹ ɔː		894	894	b ɹ ɔː
-3286	Rahung	round, small object	round, small object	suk a-byː	suk_a+byː	s u k _ a + b yː		891 893 892	891 893 892	s u k ◦ a ◦ b - yː
-3287	Rupa	round, small object	round, small object	lak a-bɹyː	lak_a+bɹyː	l a k _ a + b ɹ yː		891 893 892	891 893 892	l a k ◦ a ◦ b ɹ yː
-3288	Shergaon	round, small object	round, small object	lak a-bɹyː	lak_a+bɹyː	l a k _ a + b ɹ yː		891 893 892	891 893 892	l a k ◦ a ◦ b ɹ yː
+3286	Rahung	round, small object	round, small object	suk a-byː	suk_a+byː	s u k _ a + b yː		362 893 894	891 893 892	s u k ◦ a ◦ b - yː
+3287	Rupa	round, small object	round, small object	lak a-bɹyː	lak_a+bɹyː	l a k _ a + b ɹ yː		891 893 894	891 893 892	l a k ◦ a ◦ b ɹ yː
+3288	Shergaon	round, small object	round, small object	lak a-bɹyː	lak_a+bɹyː	l a k _ a + b ɹ yː		891 893 894	891 893 892	l a k ◦ a ◦ b ɹ yː
 3291	Khoina	rub	rub	nyŋ	nyŋ	n y ŋ		895	895	n y ŋ
 3292	Jerigaon	rub	rub	nyŋ	nyŋ	n y ŋ		895	895	n y ŋ
 3294	Rahung	rub	rub	nyŋ	nyŋ	n y ŋ		895	895	n y ŋ
@@ -2764,8 +2764,8 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 3381	Khoitam	search	search	sɔː	sɔː	s ɔː		913	913	s ɔː -
 3382	Rahung	search	search	soː	soː	s oː		913	913	s oː -
 3383	Rupa	search	search	saw	saw	s a w		913	913	s a w
-3385	Khispi	see	see	aj	aj	a j		915	915	a j
-3386	Duhumbi	see	see	aj	aj	a j		915	915	a j
+3385	Khispi	see	see	aj	aj	a j		914	915	a j
+3386	Duhumbi	see	see	aj	aj	a j		914	915	a j
 3390	Rahung	see	see	ɔː	ɔː	ɔː		914	914	ɔː
 3391	Rupa	see	see	oː	oː	oː		914	914	oː
 3392	Shergaon	see	see	oː	oː	oː		914	914	oː
@@ -2788,7 +2788,7 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 3409	Khispi	settle	settle	ʨʰak	ʨʰak	tɕʰ a k		920	920	tɕʰ - a k
 3410	Duhumbi	settle	settle	ʨʰak	ʨʰak	tɕʰ a k		920	920	tɕʰ - a k
 3411	Khoina	settle	settle	ʐɔ	ʐɔ	ʐ ɔ		921	921	ʐ ɔ
-3412	Jerigaon	settle	settle	tɹɔk	tɹɔk	t ɹ ɔ k		920	920	t ɹ ɔ k
+3412	Jerigaon	settle	settle	tɹɔk	tɹɔk	t ɹ ɔ k		385	920	t ɹ ɔ k
 3413	Khoitam	settle	settle	ʨʰak	ʨʰak	tɕʰ a k		920	920	tɕʰ - a k
 3414	Rahung	settle	settle	ʨʰak	ʨʰak	tɕʰ a k		920	920	tɕʰ - a k
 3415	Rupa	settle	settle	ʦʰak ~ ʨʰak	ʦʰak	tsʰ a k		920	920	tsʰ - a k
@@ -2814,10 +2814,10 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 3445	Khoitam	shake	shake1	kʰuː	kʰuː	kʰ uː		925	925	kʰ - uː -
 3446	Rahung	shake	shake1	kʰuː	kʰuː	kʰ uː		925	925	kʰ - uː -
 3447	Rupa	shake	shake1	kʰuː	kʰuː	kʰ uː		925	925	kʰ - uː -
-3449	Khispi	shake	shake2	tʰup kʰin	tʰup_kʰin	tʰ u p _ kʰ i n		929 925	929 925	tʰ u p ◦ kʰ - i n
-3450	Duhumbi	shake	shake2	kʰin	kʰin	kʰ i n		925	925	kʰ - i n
-3451	Khoina	shake	shake2	maŋ-kʰi kʰi	maŋ+kʰi_kʰi	m a ŋ + kʰ i _ kʰ i		925 925 926	925 925 926	m - a ŋ ◦ m - a ŋ ◦ kʰ i
-3453	Khoitam	shake	shake2	nam kɹi	nam_kɹi	n a m _ k ɹ i		927 925	927 925	n a m ◦ k ɹ i -
+3449	Khispi	shake	shake2	tʰup kʰin	tʰup_kʰin	tʰ u p _ kʰ i n		929 926	929 925	tʰ u p ◦ kʰ - i n
+3450	Duhumbi	shake	shake2	kʰin	kʰin	kʰ i n		926	925	kʰ - i n
+3451	Khoina	shake	shake2	maŋ-kʰi kʰi	maŋ+kʰi_kʰi	m a ŋ + kʰ i _ kʰ i		425 425 926	925 925 926	m - a ŋ ◦ m - a ŋ ◦ kʰ i
+3453	Khoitam	shake	shake2	nam kɹi	nam_kɹi	n a m _ k ɹ i		927 414	927 925	n a m ◦ k ɹ i -
 3455	Rupa	shake	shake2	nə-myː kʰi	nə+myː_kʰi	n ə + m yː _ kʰ i		927 928 926	927 928 926	n ə - ◦ m yː ◦ kʰ i
 3457	Khispi	sharp	sharp1	u-ɕu ~ u-ɕaŋ	u+ɕu	u + ɕ u		931 930	931 930	u ◦ ɕ u -
 3458	Duhumbi	sharp	sharp1	u-ʨʰu	u+ʨʰu	u + tɕʰ u		931 930	931 930	u ◦ tɕʰ u -
@@ -2839,7 +2839,7 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 3474	Duhumbi	sheep	sheep	ɕa-kɛj	ɕa+kɛj	ɕ a + k ɛ j		932 933	932 933	ɕ a ◦ k ɛ j
 3475	Khoina	sheep	sheep	ʂ-kʰaː	ʂ+kʰaː	ʂ + kʰ aː		932 933	932 933	ʂ - ◦ kʰ aː -
 3476	Jerigaon	sheep	sheep	s-kʰɛː	s+kʰɛː	s + kʰ ɛː		932 933	932 933	s - ◦ kʰ ɛː -
-3477	Khoitam	sheep	sheep	hɛ̃ː	hɛ̃ː	h ɛ̃ː		932	932	h ɛ̃ː
+3477	Khoitam	sheep	sheep	hɛ̃ː	hɛ̃ː	h ɛ̃ː		933	932	h ɛ̃ː
 3478	Rahung	sheep	sheep	s-kʰɛˀ ~ s-kɛˀ	s+kʰɛˀ	s + kʰ ɛˀ		932 933	932 933	s - ◦ kʰ ɛˀ -
 3479	Rupa	sheep	sheep	s-kaː	s+kaː	s + k aː		932 933	932 933	s - ◦ k aː -
 3480	Shergaon	sheep	sheep	s-kaː	s+kaː	s + k aː		932 933	932 933	s - ◦ k aː -
@@ -2848,7 +2848,7 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 3487	Rupa	shelf	shelf	pʰaŋ	pʰaŋ	pʰ a ŋ		934	934	pʰ a ŋ
 3505	Khispi	shoe, footwear	shoe, footwear	le-ham	le+ham	l e + h a m		936 937	936 937	l e ◦ h a m
 3506	Duhumbi	shoe, footwear	shoe, footwear	le-ham	le+ham	l e + h a m		936 937	936 937	l e ◦ h a m
-3511	Rupa	shoe, footwear	shoe, footwear	lə-lũː(ŋ)	lə+lũː	l ə + l ũː		936 938	936 938	l ə ◦ l ũː
+3511	Rupa	shoe, footwear	shoe, footwear	lə-lũː(ŋ)	lə+lũː	l ə + l ũː		936 937	936 938	l ə ◦ l ũː
 3513	Khispi	shoot	shoot	dik	dik	d i k		939	939	d - i k
 3514	Duhumbi	shoot	shoot	djɛk	djɛk	d j ɛ k		939	939	d j ɛ k
 3515	Khoina	shoot	shoot	ruk	ruk	r u k		939	939	- r u k
@@ -2864,7 +2864,7 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 3528	Shergaon	short	short	a-tʰuŋ-du	a+tʰuŋ+du	a + tʰ u ŋ + d u		940 941 942	940 941 942	a ◦ tʰ u ŋ ◦ d u
 3529	Khispi	shoulder	shoulder	pʰak-tuŋ	pʰak+tuŋ	pʰ a k + t u ŋ		943 944	943 944	pʰ a k ◦ t u ŋ
 3530	Duhumbi	shoulder	shoulder	pʰak-tuŋ	pʰak+tuŋ	pʰ a k + t u ŋ		943 944	943 944	pʰ a k ◦ t u ŋ
-3532	Jerigaon	shoulder	shoulder	pʰa-nyŋ	pʰa+nyŋ	pʰ a + n y ŋ		943 944	943 944	pʰ a - ◦ n y ŋ
+3532	Jerigaon	shoulder	shoulder	pʰa-nyŋ	pʰa+nyŋ	pʰ a + n y ŋ		943 426	943 944	pʰ a - ◦ n y ŋ
 3533	Khoitam	shoulder	shoulder	jə-pʰak	jə+pʰak	j ə + pʰ a k		946 943	946 943	j ə ◦ pʰ a k
 3534	Rahung	shoulder	shoulder	ja-pʰak	ja+pʰak	j a + pʰ a k		946 943	946 943	j a ◦ pʰ a k
 3535	Rupa	shoulder	shoulder	lə-pʰak ~ lə-fak	lə+pʰak	l ə + pʰ a k		945 943	945 943	l ə ◦ pʰ a k
@@ -2908,11 +2908,11 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 3589	Khoitam	sister, younger	sister, younger1	a-num	a+num	a + n u m		956 955	956 955	a ◦ n u m
 3590	Rahung	sister, younger	sister, younger1	a-num	a+num	a + n u m		956 955	956 955	a ◦ n u m
 3591	Rupa	sister, younger	sister, younger1	a-nuː a-ʨan-du	a+nuː_a+ʨan+du	a + n uː _ a + tɕ a n + d u		956 955 959 960 961	956 955 959 960 961	a ◦ n uː - ◦ a ◦ tɕ a n ◦ d u
-3596	Jerigaon	sister, younger	sister, younger2	mə-riŋ	mə+riŋ	m ə + r i ŋ		957 955	957 955	m ə ◦ r i ŋ
-3597	Khoitam	sister, younger	sister, younger2	mə-riŋ	mə+riŋ	m ə + r i ŋ		957 955	957 955	m ə ◦ r i ŋ
-3598	Rahung	sister, younger	sister, younger2	mə-riŋ	mə+riŋ	m ə + r i ŋ		957 955	957 955	m ə ◦ r i ŋ
-3599	Rupa	sister, younger	sister, younger2	mə-riŋ	mə+riŋ	m ə + r i ŋ		957 955	957 955	m ə ◦ r i ŋ
-3600	Shergaon	sister, younger	sister, younger2	mə-riŋ	mə+riŋ	m ə + r i ŋ		957 955	957 955	m ə ◦ r i ŋ
+3596	Jerigaon	sister, younger	sister, younger2	mə-riŋ	mə+riŋ	m ə + r i ŋ		957 427	957 955	m ə ◦ r i ŋ
+3597	Khoitam	sister, younger	sister, younger2	mə-riŋ	mə+riŋ	m ə + r i ŋ		957 427	957 955	m ə ◦ r i ŋ
+3598	Rahung	sister, younger	sister, younger2	mə-riŋ	mə+riŋ	m ə + r i ŋ		957 427	957 955	m ə ◦ r i ŋ
+3599	Rupa	sister, younger	sister, younger2	mə-riŋ	mə+riŋ	m ə + r i ŋ		957 427	957 955	m ə ◦ r i ŋ
+3600	Shergaon	sister, younger	sister, younger2	mə-riŋ	mə+riŋ	m ə + r i ŋ		957 427	957 955	m ə ◦ r i ŋ
 3569	Khispi	sister-in-law	sister-in-law	a-ʑa	a+ʑa	a + ʑ a		962 963	962 963	a ◦ ʑ a
 3570	Duhumbi	sister-in-law	sister-in-law	a-ʑa	a+ʑa	a + ʑ a		962 963	962 963	a ◦ ʑ a
 3571	Khoina	sister-in-law	sister-in-law	a-ʐuː	a+ʐuː	a + ʐ uː		962 963	962 963	a ◦ ʐ uː
@@ -2934,7 +2934,7 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 3612	Jerigaon	six	six	ʨʰyk	ʨʰyk	tɕʰ y k		967	967	tɕʰ y k
 3613	Khoitam	six	six	ʨʰyk	ʨʰyk	tɕʰ y k		967	967	tɕʰ y k
 3614	Rahung	six	six	ʨʰyk	ʨʰyk	tɕʰ y k		967	967	tɕʰ y k
-3615	Rupa	six	six	kʰyt	kʰyt	kʰ y t		968	968	kʰ y t
+3615	Rupa	six	six	kʰyt	kʰyt	kʰ y t		967	968	kʰ y t
 3616	Shergaon	six	six	ʨʰuk	ʨʰuk	tɕʰ u k		967	967	tɕʰ u k
 3617	Khispi	skin, bark	skin, bark	ɕa-kʰɔk	ɕa+kʰɔk	ɕ a + kʰ ɔ k		969 970	969 970	ɕ a ◦ kʰ ɔ k
 3618	Duhumbi	skin, bark	skin, bark	ɕa-kʰɔk	ɕa+kʰɔk	ɕ a + kʰ ɔ k		969 970	969 970	ɕ a ◦ kʰ ɔ k
@@ -2960,25 +2960,25 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 3638	Rahung	sleep	sleep	ʥiŋ	ʥiŋ	dʑ i ŋ		973	973	dʑ i ŋ
 3639	Rupa	sleep	sleep	ʣiŋ	ʣiŋ	dz i ŋ		973	973	dz i ŋ
 3640	Shergaon	sleep	sleep	ʣiŋ	ʣiŋ	dz i ŋ		973	973	dz i ŋ
-3641	Khispi	slowly	slowly	haɕ-ta	haɕ+ta	h a ɕ + t a		978 975	978 975	h a ɕ ◦ t a
-3642	Duhumbi	slowly	slowly	has-ta	has+ta	h a s + t a		978 975	978 975	h a s ◦ t a
+3641	Khispi	slowly	slowly	haɕ-ta	haɕ+ta	h a ɕ + t a		974 975	978 975	h a ɕ ◦ t a
+3642	Duhumbi	slowly	slowly	has-ta	has+ta	h a s + t a		974 975	978 975	h a s ◦ t a
 3643	Khoina	slowly	slowly	nɐ̃-du	nɐ̃+du	n ɐ̃ + d u		974 975	974 975	n ɐ̃ ◦ d u
-3644	Jerigaon	slowly	slowly	a-nɐ̃-du	a+nɐ̃+du	a + n ɐ̃ + d u		976 974 977	976 974 977	a ◦ n ɐ̃ ◦ d u
-3645	Khoitam	slowly	slowly	a-nɔ̃-du	a+nɔ̃+du	a + n ɔ̃ + d u		976 974 977	976 974 977	a ◦ n ɔ̃ ◦ d u
+3644	Jerigaon	slowly	slowly	a-nɐ̃-du	a+nɐ̃+du	a + n ɐ̃ + d u		976 974 975	976 974 977	a ◦ n ɐ̃ ◦ d u
+3645	Khoitam	slowly	slowly	a-nɔ̃-du	a+nɔ̃+du	a + n ɔ̃ + d u		976 974 975	976 974 977	a ◦ n ɔ̃ ◦ d u
 3646	Rahung	slowly	slowly	nɔ̃-du	nɔ̃+du	n ɔ̃ + d u		974 975	974 975	n ɔ̃ ◦ d u
 3647	Rupa	slowly	slowly	(a-) nɔ̃-du	nɔ̃+du	n ɔ̃ + d u		974 975	974 975	n ɔ̃ ◦ d u
-3648	Shergaon	slowly	slowly	a-nɔ̃-du	a+nɔ̃+du	a + n ɔ̃ + d u		976 974 977	976 974 977	a ◦ n ɔ̃ ◦ d u
+3648	Shergaon	slowly	slowly	a-nɔ̃-du	a+nɔ̃+du	a + n ɔ̃ + d u		976 974 975	976 974 977	a ◦ n ɔ̃ ◦ d u
 3649	Khispi	small	small1	ʥɛn-	ʥɛn+	dʑ ɛ n		979	979	dʑ ɛ n
 3650	Duhumbi	small	small1	ʥɛn-	ʥɛn+	dʑ ɛ n		979	979	dʑ ɛ n
-3651	Khoina	small	small1	a-ʣɐ̃ː-du	a+ʣɐ̃ː+du	a + dz ɐ̃ː + d u		980 979 982	980 979 982	a ◦ dz ɐ̃ː - ◦ d u
+3651	Khoina	small	small1	a-ʣɐ̃ː-du	a+ʣɐ̃ː+du	a + dz ɐ̃ː + d u		980 979 981	980 979 982	a ◦ dz ɐ̃ː - ◦ d u
 3652	Jerigaon	small	small1	a-ʨɐ̃ː(n)	a+ʨɐ̃ː	a + tɕ ɐ̃ː		980 979	980 979	a ◦ tɕ ɐ̃ː -
 3653	Khoitam	small	small1	a-ʥan-du	a+ʥan+du	a + dʑ a n + d u		980 979 981	980 979 981	a ◦ dʑ a n ◦ d u
-3654	Rahung	small	small1	ʨɔ̃ː(n)-du	ʨɔ̃ː+du	tɕ ɔ̃ː + d u		983 979	983 979	tɕ ɔ̃ː ◦ d u -
+3654	Rahung	small	small1	ʨɔ̃ː(n)-du	ʨɔ̃ː+du	tɕ ɔ̃ː + d u		979 981	983 979	tɕ ɔ̃ː ◦ d u -
 3655	Rupa	small	small1	a-ʨan-du ~ a-ʦan-du	a+ʨan+du	a + tɕ a n + d u		980 979 981	980 979 981	a ◦ tɕ a n ◦ d u
 3656	Shergaon	small	small1	a-ʨan-du	a+ʨan+du	a + tɕ a n + d u		980 979 981	980 979 981	a ◦ tɕ a n ◦ d u
-3657	Khispi	small	small2	ɕa-da	ɕa+da	ɕ a + d a		983 979	983 979	ɕ a ◦ d a -
-3660	Jerigaon	small	small2	a-duː-du	a+duː+du	a + d uː + d u		980 979 982	980 979 982	a ◦ d uː - ◦ d u
-3662	Rahung	small	small2	a-duː	a+duː	a + d uː		980 979	980 979	a ◦ d uː -
+3657	Khispi	small	small2	ɕa-da	ɕa+da	ɕ a + d a		983 981	983 979	ɕ a ◦ d a -
+3660	Jerigaon	small	small2	a-duː-du	a+duː+du	a + d uː + d u		980 981 981	980 979 982	a ◦ d uː - ◦ d u
+3662	Rahung	small	small2	a-duː	a+duː	a + d uː		980 981	980 979	a ◦ d uː -
 3665	Khispi	smell (n)	smell (n)	ɕis	ɕis	ɕ i s		984	984	ɕ i s
 3666	Duhumbi	smell (n)	smell (n)	ɕis	ɕis	ɕ i s		984	984	ɕ i s
 3671	Rupa	smell (n)	smell (n)	sĩː	sĩː	s ĩː		984	984	s ĩː -
@@ -3007,8 +3007,8 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 3704	Shergaon	snake	snake	pʰ-ʨʰam	pʰ+ʨʰam	pʰ + tɕʰ a m		991 990	991 990	pʰ - ◦ tɕʰ a m
 3706	Duhumbi	snatch away	snatch away	kʰɔw	kʰɔw	kʰ ɔ w		992	992	kʰ ɔ w
 3711	Rupa	snatch away	snatch away	kʰaw	kʰaw	kʰ a w		992	992	kʰ a w
-3713	Khispi	snow	snow	nam-ʑu	nam+ʑu	n a m + ʑ u		993 995	993 995	n a m ◦ ʑ u
-3714	Duhumbi	snow	snow	nam-ʑu	nam+ʑu	n a m + ʑ u		993 995	993 995	n a m ◦ ʑ u
+3713	Khispi	snow	snow	nam-ʑu	nam+ʑu	n a m + ʑ u		993 994	993 995	n a m ◦ ʑ u
+3714	Duhumbi	snow	snow	nam-ʑu	nam+ʑu	n a m + ʑ u		993 994	993 995	n a m ◦ ʑ u
 3715	Khoina	snow	snow	na-jyː	na+jyː	n a + j yː		993 994	993 994	n a - ◦ j yː
 3716	Jerigaon	snow	snow	nə-jyː	nə+jyː	n ə + j yː		993 994	993 994	n ə - ◦ j yː
 3717	Khoitam	snow	snow	nə-jyː	nə+jyː	n ə + j yː		993 994	993 994	n ə - ◦ j yː
@@ -3051,34 +3051,34 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 3760	Shergaon	son-in-law	son-in-law	a-ʨʰiː	a+ʨʰiː	a + tɕʰ iː		1004 1005	1004 1005	a ◦ tɕʰ iː -
 3761	Khispi	song	song1	lu	lu	l u		1008	1008	l u
 3762	Duhumbi	song	song1	lu	lu	l u		1008	1008	l u
-3765	Khoitam	song	song1	hũ	hũ	h ũ		1007	1007	h ũ
-3766	Rahung	song	song1	hũ	hũ	h ũ		1007	1007	h ũ
-3767	Rupa	song	song1	hũ	hũ	h ũ		1007	1007	h ũ
-3768	Shergaon	song	song1	hɔ	hɔ	h ɔ		1007	1007	h ɔ
+3765	Khoitam	song	song1	hũ	hũ	h ũ		1008	1007	h ũ
+3766	Rahung	song	song1	hũ	hũ	h ũ		1008	1007	h ũ
+3767	Rupa	song	song1	hũ	hũ	h ũ		1008	1007	h ũ
+3768	Shergaon	song	song1	hɔ	hɔ	h ɔ		1008	1007	h ɔ
 3769	Khispi	song	song2	bɔː	bɔː	b ɔː		1006	1006	b - ɔː
 3770	Duhumbi	song	song2	bɹɔː	bɹɔː	b ɹ ɔː		1006	1006	b ɹ ɔː
 3774	Rahung	song	song2	bɹoː	bɹoː	b ɹ oː		1006	1006	b ɹ oː
 3775	Rupa	song	song2	bɹoː	bɹoː	b ɹ oː		1006	1006	b ɹ oː
 3777	Khispi	soup, liquid, broth, juice	soup, liquid, broth, juice	ɔ-kʰaw	ɔ+kʰaw	ɔ + kʰ a w		1010 1009	1010 1009	ɔ ◦ kʰ a w
 3778	Duhumbi	soup, liquid, broth, juice	soup, liquid, broth, juice	ɔ-kʰɔw	ɔ+kʰɔw	ɔ + kʰ ɔ w		1010 1009	1010 1009	ɔ ◦ kʰ ɔ w
-3779	Khoina	soup, liquid, broth, juice	soup, liquid, broth, juice	daŋ a-kʰɔː	daŋ_a+kʰɔː	d a ŋ _ a + kʰ ɔː		1012 1009 1011	1012 1009 1011	d a ŋ ◦ - a - ◦ kʰ ɔː
+3779	Khoina	soup, liquid, broth, juice	soup, liquid, broth, juice	daŋ a-kʰɔː	daŋ_a+kʰɔː	d a ŋ _ a + kʰ ɔː		1012 1010 1009	1012 1009 1011	d a ŋ ◦ - a - ◦ kʰ ɔː
 3781	Khoitam	soup, liquid, broth, juice	soup, liquid, broth, juice	a-kʰoː	a+kʰoː	a + kʰ oː		1010 1009	1010 1009	a ◦ kʰ oː -
 3783	Rupa	soup, liquid, broth, juice	soup, liquid, broth, juice	a-kʰoː ~ ɔ-kʰoː	a+kʰoː	a + kʰ oː		1010 1009	1010 1009	a ◦ kʰ oː -
-3785	Khispi	sour	sour	ʨum-pa	ʨum+pa	tɕ u m + p a		1014 1013	1014 1013	tɕ u m - ◦ p a
-3786	Duhumbi	sour	sour	ʨum-pa ~ ʨuɹ-pu	ʨum+pa	tɕ u m + p a		1014 1013	1014 1013	tɕ u m - ◦ p a
-3787	Khoina	sour	sour	ba-ʨʰɛ̃ː	ba+ʨʰɛ̃ː	b a + tɕʰ ɛ̃ː		1013 1015	1013 1015	b a ◦ tɕʰ ɛ̃ː -
+3785	Khispi	sour	sour	ʨum-pa	ʨum+pa	tɕ u m + p a		429 1013	1014 1013	tɕ u m - ◦ p a
+3786	Duhumbi	sour	sour	ʨum-pa ~ ʨuɹ-pu	ʨum+pa	tɕ u m + p a		429 1013	1014 1013	tɕ u m - ◦ p a
+3787	Khoina	sour	sour	ba-ʨʰɛ̃ː	ba+ʨʰɛ̃ː	b a + tɕʰ ɛ̃ː		1013 1014	1013 1015	b a ◦ tɕʰ ɛ̃ː -
 3788	Jerigaon	sour	sour	ʨʰɛ̃ĩ-ba ~ ʨʰɛ̃ĩ-kʰɛn	ʨʰɛ̃ĩ+ba	tɕʰ ɛ̃ ĩ + b a		1014 1013	1014 1013	tɕʰ ɛ̃ - ĩ ◦ b a
 3789	Khoitam	sour	sour	ʨʰĩː-kʰan ~ ʨʰĩː-tĩː	ʨʰĩː+kʰan	tɕʰ ĩː + kʰ a n		1014 1015	1014 1015	tɕʰ ĩː - - ◦ kʰ a n
 3790	Rahung	sour	sour	ʨʰĩː-ba ~ ʨʰĩː-kʰɛn	ʨʰĩː+ba	tɕʰ ĩː + b a		1014 1013	1014 1013	tɕʰ ĩː - - ◦ b a
-3791	Rupa	sour	sour	kʰɛ̃ː-baˀ ~ kʰɛ̃ː-ti	kʰɛ̃ː+baˀ	kʰ ɛ̃ː + b aˀ		1015 1013	1015 1013	kʰ ɛ̃ː - ◦ b aˀ
-3792	Shergaon	sour	sour	a-kʰɛ̃ː	a+kʰɛ̃ː	a + kʰ ɛ̃ː		1016 1015	1016 1015	a ◦ kʰ ɛ̃ː -
+3791	Rupa	sour	sour	kʰɛ̃ː-baˀ ~ kʰɛ̃ː-ti	kʰɛ̃ː+baˀ	kʰ ɛ̃ː + b aˀ		1014 1013	1015 1013	kʰ ɛ̃ː - ◦ b aˀ
+3792	Shergaon	sour	sour	a-kʰɛ̃ː	a+kʰɛ̃ː	a + kʰ ɛ̃ː		1016 1014	1016 1015	a ◦ kʰ ɛ̃ː -
 3793	Khispi	sow, broadcast	sow, broadcast1	pʰus	pʰus	pʰ u s		1017	1017	pʰ u s
 3794	Duhumbi	sow, broadcast	sow, broadcast1	pʰus	pʰus	pʰ u s		1017	1017	pʰ u s
 3795	Khoina	sow, broadcast	sow, broadcast1	pʰik	pʰik	pʰ i k		1017	1017	pʰ i k
 3797	Khoitam	sow, broadcast	sow, broadcast1	pʰik	pʰik	pʰ i k		1017	1017	pʰ i k
 3799	Rupa	sow, broadcast	sow, broadcast1	pʰik	pʰik	pʰ i k		1017	1017	pʰ i k
 3802	Duhumbi	sow, broadcast	sow, broadcast2	mɛɹ	mɛɹ	m ɛ ɹ		1020	1020	m ɛ ɹ
-3803	Khoina	sow, broadcast	sow, broadcast2	xɛˀ	xɛˀ	x ɛˀ		1019	1019	x ɛˀ
+3803	Khoina	sow, broadcast	sow, broadcast2	xɛˀ	xɛˀ	x ɛˀ		1018	1019	x ɛˀ
 3805	Khoitam	sow, broadcast	sow, broadcast2	heˀ	heˀ	h eˀ		1018	1018	h eˀ
 3806	Rahung	sow, broadcast	sow, broadcast2	heˀ	heˀ	h eˀ		1018	1018	h eˀ
 3807	Rupa	sow, broadcast	sow, broadcast2	heˀ	heˀ	h eˀ		1018	1018	h eˀ
@@ -3092,12 +3092,12 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 3816	Shergaon	soybean	soybean	s-uk	s+uk	s + u k		1022 1021	1022 1021	s - ◦ - u k
 3817	Khispi	sparrow	sparrow	dak-ʨʰi-liŋ	dak+ʨʰi+liŋ	d a k + tɕʰ i + l i ŋ		1025 1023 1024	1025 1023 1024	d a k ◦ tɕʰ i - ◦ - l i ŋ
 3818	Duhumbi	sparrow	sparrow	dak-ʨʰi-liŋ	dak+ʨʰi+liŋ	d a k + tɕʰ i + l i ŋ		1025 1023 1024	1025 1023 1024	d a k ◦ tɕʰ i - ◦ - l i ŋ
-3820	Jerigaon	sparrow	sparrow	hu-ʥiŋ	hu+ʥiŋ	h u + dʑ i ŋ		1027 1023	1027 1023	h u ◦ dʑ i ŋ
-3821	Khoitam	sparrow	sparrow	ʨɔm-ʨə-rɛː	ʨɔm+ʨə+rɛː	tɕ ɔ m + tɕ ə + r ɛː		1023 1023 1024	1023 1023 1024	tɕ ɔ m ◦ tɕ ɔ m ◦ - r ɛː -
-3822	Rahung	sparrow	sparrow	ʨam-ʨə-rɛː	ʨam+ʨə+rɛː	tɕ a m + tɕ ə + r ɛː		1023 1023 1024	1023 1023 1024	tɕ a m ◦ tɕ a m ◦ - r ɛː -
-3823	Rupa	sparrow	sparrow	bə-ʦə-lɔː	bə+ʦə+lɔː	b ə + ts ə + l ɔː		1026 1023 1024	1026 1023 1024	b ə ◦ ts ə - ◦ - l ɔː -
-3824	Shergaon	sparrow	sparrow	ʨi-plɔː	ʨi+plɔː	tɕ i + p l ɔː		1023 1024	1023 1024	tɕ i - ◦ p l ɔː -
-3826	Duhumbi	speak	speak	haw	haw	h a w		1030	1030	h a w
+3820	Jerigaon	sparrow	sparrow	hu-ʥiŋ	hu+ʥiŋ	h u + dʑ i ŋ		1027 450	1027 1023	h u ◦ dʑ i ŋ
+3821	Khoitam	sparrow	sparrow	ʨɔm-ʨə-rɛː	ʨɔm+ʨə+rɛː	tɕ ɔ m + tɕ ə + r ɛː		449 1023 454	1023 1023 1024	tɕ ɔ m ◦ tɕ ɔ m ◦ - r ɛː -
+3822	Rahung	sparrow	sparrow	ʨam-ʨə-rɛː	ʨam+ʨə+rɛː	tɕ a m + tɕ ə + r ɛː		449 1023 454	1023 1023 1024	tɕ a m ◦ tɕ a m ◦ - r ɛː -
+3823	Rupa	sparrow	sparrow	bə-ʦə-lɔː	bə+ʦə+lɔː	b ə + ts ə + l ɔː		1026 1023 435	1026 1023 1024	b ə ◦ ts ə - ◦ - l ɔː -
+3824	Shergaon	sparrow	sparrow	ʨi-plɔː	ʨi+plɔː	tɕ i + p l ɔː		1023 435	1023 1024	tɕ i - ◦ p l ɔː -
+3826	Duhumbi	speak	speak	haw	haw	h a w		1028	1030	h a w
 3827	Khoina	speak	speak	gɐ̃ː	gɐ̃ː	g ɐ̃ː		1028	1028	g ɐ̃ː
 3828	Jerigaon	speak	speak	gɐ̃ː	gɐ̃ː	g ɐ̃ː		1028	1028	g ɐ̃ː
 3830	Rahung	speak	speak	steː gɔ̃ː	steː_gɔ̃ː	s t eː _ g ɔ̃ː		1029 1028	1029 1028	s t eː ◦ g ɔ̃ː
@@ -3112,23 +3112,23 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 3841	Khispi	spicy, pungent	spicy, pungent	jej-ba	jej+ba	j e j + b a		1034 1035	1034 1035	j e j ◦ b a
 3842	Duhumbi	spicy, pungent	spicy, pungent	jɛj-ba	jɛj+ba	j ɛ j + b a		1034 1035	1034 1035	j ɛ j ◦ b a
 3843	Khoina	spicy, pungent	spicy, pungent	jɐ-di	jɐ+di	j ɐ + d i		1034 1036	1034 1036	j ɐ - ◦ d i
-3844	Jerigaon	spicy, pungent	spicy, pungent	hɐ	hɐ	h ɐ		1033	1033	h ɐ
-3845	Khoitam	spicy, pungent	spicy, pungent	hɔ	hɔ	h ɔ		1033	1033	h ɔ
-3846	Rahung	spicy, pungent	spicy, pungent	hɔ-ba	hɔ+ba	h ɔ + b a		1033 1035	1033 1035	h ɔ ◦ b a
+3844	Jerigaon	spicy, pungent	spicy, pungent	hɐ	hɐ	h ɐ		1034	1033	h ɐ
+3845	Khoitam	spicy, pungent	spicy, pungent	hɔ	hɔ	h ɔ		1034	1033	h ɔ
+3846	Rahung	spicy, pungent	spicy, pungent	hɔ-ba	hɔ+ba	h ɔ + b a		1034 1035	1033 1035	h ɔ ◦ b a
 3849	Khispi	spider	spider	(pʰu) saŋ-gɔm-pa ~ saŋ-kɔː-pa	saŋ+gɔm+pa	s a ŋ + g ɔ m + p a		1039 1037 1040	1039 1037 1040	s a ŋ ◦ g ɔ m ◦ p a
 3850	Duhumbi	spider	spider	(pʰu) saŋ-gom-bu ~ (pʰu) aŋ-zɔm	saŋ+gom+bu	s a ŋ + g o m + b u		1039 1037 1040	1039 1037 1040	s a ŋ ◦ g o m ◦ b u
-3851	Khoina	spider	spider	ga-pøː	ga+pøː	g a + p øː		1037 1042	1037 1042	g a - ◦ p øː
-3852	Jerigaon	spider	spider	na-tɹøŋ-zaŋ	na+tɹøŋ+zaŋ	n a + t ɹ ø ŋ + z a ŋ		1041 1038 1037	1041 1038 1037	n a ◦ t ɹ ø ŋ ◦ z a ŋ
-3853	Khoitam	spider	spider	tan-tɹĩ-sũŋ	tan+tɹĩ+sũŋ	t a n + t ɹ ĩ + s ũ ŋ		1039 1038 1037	1039 1038 1037	t a n ◦ t ɹ ĩ - ◦ s ũ ŋ
-3854	Rahung	spider	spider	na(ŋ)-tɹyː(ŋ) sɔŋ-sɔŋ	na+tɹyː_sɔŋ+sɔŋ	n a + t ɹ yː _ s ɔ ŋ + s ɔ ŋ		1041 1038 1037 1037	1041 1038 1037 1037	n a ◦ t ɹ yː - ◦ s ɔ ŋ ◦ s ɔ ŋ
-3855	Rupa	spider	spider	pɹeː-suŋ	pɹeː+suŋ	p ɹ eː + s u ŋ		1038 1037	1038 1037	p ɹ eː - ◦ s u ŋ
-3856	Shergaon	spider	spider	tɹeː-sum	tɹeː+sum	t ɹ eː + s u m		1038 1037	1038 1037	t ɹ eː - ◦ s u m
+3851	Khoina	spider	spider	ga-pøː	ga+pøː	g a + p øː		1037 1040	1037 1042	g a - ◦ p øː
+3852	Jerigaon	spider	spider	na-tɹøŋ-zaŋ	na+tɹøŋ+zaŋ	n a + t ɹ ø ŋ + z a ŋ		1041 1038 1039	1041 1038 1037	n a ◦ t ɹ ø ŋ ◦ z a ŋ
+3853	Khoitam	spider	spider	tan-tɹĩ-sũŋ	tan+tɹĩ+sũŋ	t a n + t ɹ ĩ + s ũ ŋ		492 1038 1039	1039 1038 1037	t a n ◦ t ɹ ĩ - ◦ s ũ ŋ
+3854	Rahung	spider	spider	na(ŋ)-tɹyː(ŋ) sɔŋ-sɔŋ	na+tɹyː_sɔŋ+sɔŋ	n a + t ɹ yː _ s ɔ ŋ + s ɔ ŋ		1041 1038 1039 0	1041 1038 1037 1037	n a ◦ t ɹ yː - ◦ s ɔ ŋ ◦ s ɔ ŋ
+3855	Rupa	spider	spider	pɹeː-suŋ	pɹeː+suŋ	p ɹ eː + s u ŋ		1038 1039	1038 1037	p ɹ eː - ◦ s u ŋ
+3856	Shergaon	spider	spider	tɹeː-sum	tɹeː+sum	t ɹ eː + s u m		1038 1039	1038 1037	t ɹ eː - ◦ s u m
 3857	Khispi	spirit, soul, shadow	spirit, soul, shadow	ɔ-guŋ	ɔ+guŋ	ɔ + g u ŋ		1044 1043	1044 1043	ɔ ◦ g u ŋ
 3858	Duhumbi	spirit, soul, shadow	spirit, soul, shadow	u-guŋ	u+guŋ	u + g u ŋ		1044 1043	1044 1043	u ◦ g u ŋ
 3859	Khoina	spirit, soul, shadow	spirit, soul, shadow	a-wuŋ	a+wuŋ	a + w u ŋ		1044 1043	1044 1043	a ◦ w u ŋ
 3860	Jerigaon	spirit, soul, shadow	spirit, soul, shadow	a-wuŋ	a+wuŋ	a + w u ŋ		1044 1043	1044 1043	a ◦ w u ŋ
 3861	Khoitam	spirit, soul, shadow	spirit, soul, shadow	a-wuŋ	a+wuŋ	a + w u ŋ		1044 1043	1044 1043	a ◦ w u ŋ
-3862	Rahung	spirit, soul, shadow	spirit, soul, shadow	uŋ	uŋ	u ŋ		1045	1045	u ŋ
+3862	Rahung	spirit, soul, shadow	spirit, soul, shadow	uŋ	uŋ	u ŋ		1043	1045	u ŋ
 3863	Rupa	spirit, soul, shadow	spirit, soul, shadow	u-juŋ	u+juŋ	u + j u ŋ		1044 1043	1044 1043	u ◦ j u ŋ
 3864	Shergaon	spirit, soul, shadow	spirit, soul, shadow	u-juŋ	u+juŋ	u + j u ŋ		1044 1043	1044 1043	u ◦ j u ŋ
 3865	Khispi	spit	spit	hin-tus tɔs	hin+tus_tɔs	h i n + t u s _ t ɔ s		1047 1049 1048	1047 1049 1048	h i n ◦ t u s ◦ t ɔ s
@@ -3155,20 +3155,20 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 3891	Khoina	split	split2	jɔ	jɔ	j ɔ		1053	1053	j ɔ
 3892	Jerigaon	split	split2	jɔ	jɔ	j ɔ		1053	1053	j ɔ
 3893	Khoitam	split	split2	jɔ	jɔ	j ɔ		1053	1053	j ɔ
-3896	Shergaon	split	split2	ho	ho	h o		1054	1054	h o
-3898	Duhumbi	squirrel	squirrel	ʦɔː-ʦɔː gɹɔŋ-tʰaŋ	ʦɔː+ʦɔː_gɹɔŋ+tʰaŋ	ts ɔː + ts ɔː _ g ɹ ɔ ŋ + tʰ a ŋ		1056 1055 1059 1057	1056 1055 1059 1057	ts ɔː - ◦ ts ɔː - ◦ g ɹ ɔ ŋ ◦ tʰ a ŋ
-3899	Khoina	squirrel	squirrel	ʦaŋ-kʰa	ʦaŋ+kʰa	ts a ŋ + kʰ a		1056 1055	1056 1055	ts a ŋ ◦ kʰ a -
-3900	Jerigaon	squirrel	squirrel	ʨaŋ-ka	ʨaŋ+ka	tɕ a ŋ + k a		1056 1055	1056 1055	tɕ a ŋ ◦ k a -
-3901	Khoitam	squirrel	squirrel	ʨaŋ-kɛ	ʨaŋ+kɛ	tɕ a ŋ + k ɛ		1056 1055	1056 1055	tɕ a ŋ ◦ k ɛ -
-3903	Rupa	squirrel	squirrel	stɔp ʦaŋ-kʰa ~ stɔp ʨaŋ-kʰa	stɔp_ʦaŋ+kʰa	s t ɔ p _ ts a ŋ + kʰ a		1058 1055 1057	1058 1055 1057	s t ɔ p ◦ ts a ŋ ◦ kʰ a -
-3904	Shergaon	squirrel	squirrel	stɔp ʨaŋ-ka	stɔp_ʨaŋ+ka	s t ɔ p _ tɕ a ŋ + k a		1058 1055 1057	1058 1055 1057	s t ɔ p ◦ tɕ a ŋ ◦ k a -
+3896	Shergaon	split	split2	ho	ho	h o		1053	1054	h o
+3898	Duhumbi	squirrel	squirrel	ʦɔː-ʦɔː gɹɔŋ-tʰaŋ	ʦɔː+ʦɔː_gɹɔŋ+tʰaŋ	ts ɔː + ts ɔː _ g ɹ ɔ ŋ + tʰ a ŋ		1056 1055 1059 506	1056 1055 1059 1057	ts ɔː - ◦ ts ɔː - ◦ g ɹ ɔ ŋ ◦ tʰ a ŋ
+3899	Khoina	squirrel	squirrel	ʦaŋ-kʰa	ʦaŋ+kʰa	ts a ŋ + kʰ a		1056 1057	1056 1055	ts a ŋ ◦ kʰ a -
+3900	Jerigaon	squirrel	squirrel	ʨaŋ-ka	ʨaŋ+ka	tɕ a ŋ + k a		1056 1057	1056 1055	tɕ a ŋ ◦ k a -
+3901	Khoitam	squirrel	squirrel	ʨaŋ-kɛ	ʨaŋ+kɛ	tɕ a ŋ + k ɛ		1056 1057	1056 1055	tɕ a ŋ ◦ k ɛ -
+3903	Rupa	squirrel	squirrel	stɔp ʦaŋ-kʰa ~ stɔp ʨaŋ-kʰa	stɔp_ʦaŋ+kʰa	s t ɔ p _ ts a ŋ + kʰ a		1058 1056 1057	1058 1055 1057	s t ɔ p ◦ ts a ŋ ◦ kʰ a -
+3904	Shergaon	squirrel	squirrel	stɔp ʨaŋ-ka	stɔp_ʨaŋ+ka	s t ɔ p _ tɕ a ŋ + k a		1058 1056 1057	1058 1055 1057	s t ɔ p ◦ tɕ a ŋ ◦ k a -
 3906	Duhumbi	squirrel, flying	squirrel, flying	ʨʰɛɹ-gɛn	ʨʰɛɹ+gɛn	tɕʰ ɛ ɹ + g ɛ n		1060 1061	1060 1061	tɕʰ ɛ ɹ ◦ g - ɛ n
 3907	Khoina	squirrel, flying	squirrel, flying	ʨʰy-jɔ̃ː	ʨʰy+jɔ̃ː	tɕʰ y + j ɔ̃ː		1060 1062	1060 1062	tɕʰ y - ◦ j ɔ̃ː
 3908	Jerigaon	squirrel, flying	squirrel, flying	ʨʰy-jɔ̃ː	ʨʰy+jɔ̃ː	tɕʰ y + j ɔ̃ː		1060 1062	1060 1062	tɕʰ y - ◦ j ɔ̃ː
 3909	Khoitam	squirrel, flying	squirrel, flying	ʨʰy-jɔ̃ː	ʨʰy+jɔ̃ː	tɕʰ y + j ɔ̃ː		1060 1062	1060 1062	tɕʰ y - ◦ j ɔ̃ː
-3910	Rahung	squirrel, flying	squirrel, flying	ʨʰə-ʨʰow ~ ʨʰə-ʨʰoː	ʨʰə+ʨʰow	tɕʰ ə + tɕʰ o w		1060 1061	1060 1061	tɕʰ ə - ◦ tɕʰ - o w
+3910	Rahung	squirrel, flying	squirrel, flying	ʨʰə-ʨʰow ~ ʨʰə-ʨʰoː	ʨʰə+ʨʰow	tɕʰ ə + tɕʰ o w		1060 1063	1060 1061	tɕʰ ə - ◦ tɕʰ - o w
 3911	Rupa	squirrel, flying	squirrel, flying	kʰjaw	kʰjaw	kʰ j a w		1063	1063	kʰ j a w
-3912	Shergaon	squirrel, flying	squirrel, flying	kʰlɛː	kʰlɛː	kʰ l ɛː		1061	1061	kʰ l ɛː -
+3912	Shergaon	squirrel, flying	squirrel, flying	kʰlɛː	kʰlɛː	kʰ l ɛː		530	1061	kʰ l ɛː -
 3913	Khispi	stab	stab	ʥɔk	ʥɔk	dʑ ɔ k		1064	1064	dʑ ɔ k
 3914	Duhumbi	stab	stab	ʥɔk	ʥɔk	dʑ ɔ k		1064	1064	dʑ ɔ k
 3915	Khoina	stab	stab	dʐuk	dʐuk	ɖʐ u k		1064	1064	ɖʐ u k
@@ -3183,14 +3183,14 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 3926	Rahung	stand (up)	stand (up)	ʨʰĩː	ʨʰĩː	tɕʰ ĩː		1065	1065	tɕʰ ĩː -
 3927	Rupa	stand (up)	stand (up)	kʰĩː	kʰĩː	kʰ ĩː		1065	1065	kʰ ĩː -
 3928	Shergaon	stand (up)	stand (up)	kʰĩː	kʰĩː	kʰ ĩː		1065	1065	kʰ ĩː -
-3931	Khoina	star	star	dy-ʐyk	dy+ʐyk	d y + ʐ y k		1067 1066	1067 1066	d y - ◦ ʐ y k
-3932	Jerigaon	star	star	də-zyk	də+zyk	d ə + z y k		1067 1066	1067 1066	d ə - ◦ z y k
+3931	Khoina	star	star	dy-ʐyk	dy+ʐyk	d y + ʐ y k		543 1066	1067 1066	d y - ◦ ʐ y k
+3932	Jerigaon	star	star	də-zyk	də+zyk	d ə + z y k		543 1066	1067 1066	d ə - ◦ z y k
 3933	Khoitam	star	star	ʨʰyŋ-zyk	ʨʰyŋ+zyk	tɕʰ y ŋ + z y k		1067 1066	1067 1066	tɕʰ y ŋ ◦ z y k
 3934	Rahung	star	star	ʨʰyŋ-zyk	ʨʰyŋ+zyk	tɕʰ y ŋ + z y k		1067 1066	1067 1066	tɕʰ y ŋ ◦ z y k
 3935	Rupa	star	star	zyk	zyk	z y k		1066	1066	z y k
 3936	Shergaon	star	star	ʨʰuŋ-zuk	ʨʰuŋ+zuk	tɕʰ u ŋ + z u k		1067 1066	1067 1066	tɕʰ u ŋ ◦ z u k
-3937	Khispi	steal	steal	wu	wu	w u		1069	1069	w u
-3938	Duhumbi	steal	steal	wu	wu	w u		1069	1069	w u
+3937	Khispi	steal	steal	wu	wu	w u		1068	1069	w u
+3938	Duhumbi	steal	steal	wu	wu	w u		1068	1069	w u
 3939	Khoina	steal	steal	jɔː	jɔː	j ɔː		1068	1068	j ɔː -
 3940	Jerigaon	steal	steal	jɔː	jɔː	j ɔː		1068	1068	j ɔː -
 3941	Khoitam	steal	steal	jɔː	jɔː	j ɔː		1068	1068	j ɔː -
@@ -3198,7 +3198,7 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 3943	Rupa	steal	steal	jaw	jaw	j a w		1068	1068	j a w
 3944	Shergaon	steal	steal	jaw	jaw	j a w		1068	1068	j a w
 3946	Duhumbi	steam	steam	haŋ-pa ~ ɬaŋ-pa	haŋ+pa	h a ŋ + p a		1070 1071	1070 1071	h a ŋ ◦ p a
-3947	Khoina	steam	steam	kɔ-hɔ̃ː	kɔ+hɔ̃ː	k ɔ + h ɔ̃ː		1074 1073	1074 1073	k ɔ ◦ h ɔ̃ː
+3947	Khoina	steam	steam	kɔ-hɔ̃ː	kɔ+hɔ̃ː	k ɔ + h ɔ̃ː		1074 1070	1074 1073	k ɔ ◦ h ɔ̃ː
 3949	Khoitam	steam	steam	a-lũːŋ	a+lũːŋ	a + l ũː ŋ		1072 1070	1072 1070	a ◦ l ũː ŋ
 3950	Rahung	steam	steam	laŋ-poː	laŋ+poː	l a ŋ + p oː		1070 1071	1070 1071	l a ŋ ◦ p oː
 3955	Khoina	stich	stich	ʦɐk	ʦɐk	ts ɐ k		1075	1075	ts ɐ k
@@ -3251,15 +3251,15 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 4019	Khoina	sugarcane	sugarcane	ma-ʦʰiː	ma+ʦʰiː	m a + tsʰ iː		1092 1091	1092 1091	m a - ◦ tsʰ iː
 4020	Jerigaon	sugarcane	sugarcane	mə-ʨʰiː-sɔː	mə+ʨʰiː+sɔː	m ə + tɕʰ iː + s ɔː		1092 1091 1094	1092 1091 1094	m ə - ◦ tɕʰ iː ◦ s ɔː
 4021	Khoitam	sugarcane	sugarcane	mə-ʦʰiː/-ʨʰiː	mə+ʦʰiː	m ə + tsʰ iː		1092 1091	1092 1091	m ə - ◦ tsʰ iː
-4022	Rahung	sugarcane	sugarcane	pʰ-ʨʰiː	pʰ+ʨʰiː	pʰ + tɕʰ iː		1093 1091	1093 1091	pʰ ◦ tɕʰ iː
+4022	Rahung	sugarcane	sugarcane	pʰ-ʨʰiː	pʰ+ʨʰiː	pʰ + tɕʰ iː		1092 1091	1093 1091	pʰ ◦ tɕʰ iː
 4023	Rupa	sugarcane	sugarcane	mə-ʦʰyː ~ mə-ʨʰiː ~ bə-ʨʰiː	mə+ʦʰyː	m ə + tsʰ yː		1092 1091	1092 1091	m ə - ◦ tsʰ yː
 4024	Shergaon	sugarcane	sugarcane	mi-ʨʰiː	mi+ʨʰiː	m i + tɕʰ iː		1092 1091	1092 1091	m i - ◦ tɕʰ iː
-4025	Khispi	sun, day	sun, day	na-mi ~ na-me	na+mi	n a + m i		1096 1095	1096 1095	n a ◦ m i
-4026	Duhumbi	sun, day	sun, day	na-mi	na+mi	n a + m i		1096 1095	1096 1095	n a ◦ m i
+4025	Khispi	sun, day	sun, day	na-mi ~ na-me	na+mi	n a + m i		1096 551	1096 1095	n a ◦ m i
+4026	Duhumbi	sun, day	sun, day	na-mi	na+mi	n a + m i		1096 551	1096 1095	n a ◦ m i
 4027	Khoina	sun, day	sun, day	na-nyː	na+nyː	n a + n yː		1096 1095	1096 1095	n a ◦ n yː
 4028	Jerigaon	sun, day	sun, day	nə-nyː	nə+nyː	n ə + n yː		1096 1095	1096 1095	n ə ◦ n yː
-4029	Khoitam	sun, day	sun, day	nə-myː ~ nə-miː	nə+myː	n ə + m yː		1096 1095	1096 1095	n ə ◦ m yː
-4030	Rahung	sun, day	sun, day	nə-myː ~ nə-miː	nə+myː	n ə + m yː		1096 1095	1096 1095	n ə ◦ m yː
+4029	Khoitam	sun, day	sun, day	nə-myː ~ nə-miː	nə+myː	n ə + m yː		1096 551	1096 1095	n ə ◦ m yː
+4030	Rahung	sun, day	sun, day	nə-myː ~ nə-miː	nə+myː	n ə + m yː		1096 551	1096 1095	n ə ◦ m yː
 4031	Rupa	sun, day	sun, day	nə-nyː	nə+nyː	n ə + n yː		1096 1095	1096 1095	n ə ◦ n yː
 4032	Shergaon	sun, day	sun, day	nə-niː	nə+niː	n ə + n iː		1096 1095	1096 1095	n ə ◦ n iː
 4033	Khispi	swallow	swallow	ʥu	ʥu	dʑ u		1097	1097	dʑ u
@@ -3283,8 +3283,8 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 4054	Rahung	swell	swell	pʰiŋ	pʰiŋ	pʰ i ŋ		1100	1100	pʰ - i ŋ
 4055	Rupa	swell	swell	pʰiŋ	pʰiŋ	pʰ i ŋ		1100	1100	pʰ - i ŋ
 4056	Shergaon	swell	swell	pʰiŋ	pʰiŋ	pʰ i ŋ		1100	1100	pʰ - i ŋ
-4057	Khispi	tail	tail	ɲuj	ɲuj	ɲ u j		1103	1103	ɲ u j
-4058	Duhumbi	tail	tail	ɲɔj	ɲɔj	ɲ ɔ j		1103	1103	ɲ ɔ j
+4057	Khispi	tail	tail	ɲuj	ɲuj	ɲ u j		1102	1103	ɲ u j
+4058	Duhumbi	tail	tail	ɲɔj	ɲɔj	ɲ ɔ j		1102	1103	ɲ ɔ j
 4059	Khoina	tail	tail	a-naː	a+naː	a + n aː		1101 1102	1101 1102	a ◦ n aː
 4060	Jerigaon	tail	tail	a-nɛːʰ	a+nɛːʰ	a + n ɛːʰ		1101 1102	1101 1102	a ◦ n ɛːʰ
 4061	Khoitam	tail	tail	a-nɛːʰ	a+nɛːʰ	a + n ɛːʰ		1101 1102	1101 1102	a ◦ n ɛːʰ
@@ -3307,13 +3307,13 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 4084	Jerigaon	taro	taro	ʨʰɐk	ʨʰɐk	tɕʰ ɐ k		1108	1108	tɕʰ ɐ k
 4085	Khoitam	taro	taro	ʨʰak	ʨʰak	tɕʰ a k		1108	1108	tɕʰ a k
 4086	Rahung	taro	taro	ʨʰak	ʨʰak	tɕʰ a k		1108	1108	tɕʰ a k
-4087	Rupa	taro	taro	ʥuː-ʦʰak ~ ʥuː-ʨʰak	ʥuː+ʦʰak	dʑ uː + tsʰ a k		1108 1109	1108 1109	dʑ uː - ◦ tsʰ a k
-4088	Shergaon	taro	taro	ʥuː-ʨʰak	ʥuː+ʨʰak	dʑ uː + tɕʰ a k		1108 1109	1108 1109	dʑ uː - ◦ tɕʰ a k
+4087	Rupa	taro	taro	ʥuː-ʦʰak ~ ʥuː-ʨʰak	ʥuː+ʦʰak	dʑ uː + tsʰ a k		552 1108	1108 1109	dʑ uː - ◦ tsʰ a k
+4088	Shergaon	taro	taro	ʥuː-ʨʰak	ʥuː+ʨʰak	dʑ uː + tɕʰ a k		552 1108	1108 1109	dʑ uː - ◦ tɕʰ a k
 4089	Khispi	tasty	tasty	ɔ-bej-da	ɔ+bej+da	ɔ + b e j + d a		1110 1111 1113	1110 1111 1113	ɔ ◦ b - e j ◦ d a
 4090	Duhumbi	tasty	tasty	ɔ-bɛj	ɔ+bɛj	ɔ + b ɛ j		1110 1111	1110 1111	ɔ ◦ b - ɛ j
 4091	Khoina	tasty	tasty	a-blɐːʰ	a+blɐːʰ	a + b l ɐːʰ		1110 1111	1110 1111	a ◦ b l ɐːʰ -
 4092	Jerigaon	tasty	tasty	a-blɐːʰ	a+blɐːʰ	a + b l ɐːʰ		1110 1111	1110 1111	a ◦ b l ɐːʰ -
-4093	Khoitam	tasty	tasty	a-blɔːʰ-du	a+blɔːʰ+du	a + b l ɔːʰ + d u		1110 1111 1112	1110 1111 1112	a ◦ b l ɔːʰ - ◦ d u
+4093	Khoitam	tasty	tasty	a-blɔːʰ-du	a+blɔːʰ+du	a + b l ɔːʰ + d u		1110 1111 1113	1110 1111 1112	a ◦ b l ɔːʰ - ◦ d u
 4094	Rahung	tasty	tasty	a-bɹɔːʰ	a+bɹɔːʰ	a + b ɹ ɔːʰ		1110 1111	1110 1111	a ◦ b ɹ ɔːʰ -
 4095	Rupa	tasty	tasty	a-blɔːʰ	a+blɔːʰ	a + b l ɔːʰ		1110 1111	1110 1111	a ◦ b l ɔːʰ -
 4096	Shergaon	tasty	tasty	a-blɔː	a+blɔː	a + b l ɔː		1110 1111	1110 1111	a ◦ b l ɔː -
@@ -3344,11 +3344,11 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 4127	Rupa	that	that	tʰyː	tʰyː	tʰ yː		1117	1117	tʰ yː
 4128	Shergaon	that	that	tʰuː	tʰuː	tʰ uː		1117	1117	tʰ uː
 4129	Khispi	that side	that side	ɔ-tʰja ~ tʰej ~ tʰaj	ɔ+tʰja	ɔ + tʰ j a		1123 1119	1123 1119	ɔ ◦ tʰ j a
-4130	Duhumbi	that side	that side	tʰe- ~ ɔw-tʰja ~ tʰɛj-	tʰe+	tʰ e		1121	1121	tʰ e
+4130	Duhumbi	that side	that side	tʰe- ~ ɔw-tʰja ~ tʰɛj-	tʰe+	tʰ e		1119	1121	tʰ e
 4131	Khoina	that side	that side	kʰaː	kʰaː	kʰ aː		1120	1120	kʰ aː
 4132	Jerigaon	that side	that side	tʰiː-tʰɛː-lɔ	tʰiː+tʰɛː+lɔ	tʰ iː + tʰ ɛː + l ɔ		1121 1119 1122	1121 1119 1122	tʰ iː ◦ tʰ - ɛː ◦ l ɔ
 4133	Khoitam	that side	that side	ɔ-tʰɛː-lɔ	ɔ+tʰɛː+lɔ	ɔ + tʰ ɛː + l ɔ		1123 1119 1122	1123 1119 1122	ɔ ◦ tʰ - ɛː ◦ l ɔ
-4134	Rahung	that side	that side	tʰɛː ~ kʰlaŋ ~ kʰaː	tʰɛː	tʰ ɛː		1121	1121	tʰ ɛː
+4134	Rahung	that side	that side	tʰɛː ~ kʰlaŋ ~ kʰaː	tʰɛː	tʰ ɛː		1119	1121	tʰ ɛː
 4135	Rupa	that side	that side	kʰɔː ~ kʰlaː	kʰɔː	kʰ ɔː		1120	1120	kʰ ɔː
 4136	Shergaon	that side	that side	kʰaː	kʰaː	kʰ aː		1120	1120	kʰ aː
 4137	Khispi	that side	that side	ɔ-tʰja ~ tʰej-  ~ tʰaj-	ɔ+tʰja	ɔ + tʰ j a		1123 1119	1123 1119	ɔ ◦ tʰ j a
@@ -3356,7 +3356,7 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 4139	Khoina	that side	that side	kʰaː	kʰaː	kʰ aː		1120	1120	kʰ aː
 4140	Jerigaon	that side	that side	tʰiː-tʰɛː-lɔ	tʰiː+tʰɛː+lɔ	tʰ iː + tʰ ɛː + l ɔ		1121 1119 1122	1121 1119 1122	tʰ iː ◦ tʰ - ɛː ◦ l ɔ
 4141	Khoitam	that side	that side	ɔ-tʰɛː-lɔ	ɔ+tʰɛː+lɔ	ɔ + tʰ ɛː + l ɔ		1123 1119 1122	1123 1119 1122	ɔ ◦ tʰ - ɛː ◦ l ɔ
-4142	Rahung	that side	that side	tʰɛː ~ kʰlaŋ ~ kʰaː	tʰɛː	tʰ ɛː		1121	1121	tʰ ɛː
+4142	Rahung	that side	that side	tʰɛː ~ kʰlaŋ ~ kʰaː	tʰɛː	tʰ ɛː		1119	1121	tʰ ɛː
 4143	Rupa	that side	that side	kʰɔː ~ kʰlaː	kʰɔː	kʰ ɔː		1120	1120	kʰ ɔː
 4144	Shergaon	that side	that side	kʰaː	kʰaː	kʰ aː		1120	1120	kʰ aː
 4154	Duhumbi	thick	thick	ɔ-tʰɛs	ɔ+tʰɛs	ɔ + tʰ ɛ s		1125 1126	1125 1126	ɔ ◦ tʰ ɛ s
@@ -3368,9 +3368,9 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 4160	Shergaon	thick	thick	a-tʰɛt	a+tʰɛt	a + tʰ ɛ t		1125 1126	1125 1126	a ◦ tʰ ɛ t
 4161	Khispi	thief	thief	bu-ju	bu+ju	b u + j u		1129 1127	1129 1127	b u ◦ - j u -
 4162	Duhumbi	thief	thief	bi-ju	bi+ju	b i + j u		1129 1127	1129 1127	b i ◦ - j u -
-4163	Khoina	thief	thief	ʥy-jɔː	ʥy+jɔː	dʑ y + j ɔː		1128 1127	1128 1127	dʑ y ◦ - j ɔː -
-4165	Khoitam	thief	thief	ʥy-wjɔː	ʥy+wjɔː	dʑ y + w j ɔː		1128 1127	1128 1127	dʑ y ◦ w j ɔː -
-4167	Rupa	thief	thief	ʥi-jaw	ʥi+jaw	dʑ i + j a w		1128 1127	1128 1127	dʑ i ◦ - j a w
+4163	Khoina	thief	thief	ʥy-jɔː	ʥy+jɔː	dʑ y + j ɔː		1129 1127	1128 1127	dʑ y ◦ - j ɔː -
+4165	Khoitam	thief	thief	ʥy-wjɔː	ʥy+wjɔː	dʑ y + w j ɔː		1129 1127	1128 1127	dʑ y ◦ w j ɔː -
+4167	Rupa	thief	thief	ʥi-jaw	ʥi+jaw	dʑ i + j a w		1129 1127	1128 1127	dʑ i ◦ - j a w
 4169	Khispi	thigh	thigh	le-pʰa	le+pʰa	l e + pʰ a		1130 1131	1130 1131	l e ◦ pʰ - a
 4170	Duhumbi	thigh	thigh	le-pʰa	le+pʰa	l e + pʰ a		1130 1131	1130 1131	l e ◦ pʰ - a
 4172	Jerigaon	thigh	thigh	la-pʰluː	la+pʰluː	l a + pʰ l uː		1130 1131	1130 1131	l a ◦ pʰ l uː
@@ -3379,8 +3379,8 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 4175	Rupa	thigh	thigh	lə-pʰuː	lə+pʰuː	l ə + pʰ uː		1130 1131	1130 1131	l ə ◦ pʰ - uː
 4176	Shergaon	thigh	thigh	lə-pʰuː	lə+pʰuː	l ə + pʰ uː		1130 1131	1130 1131	l ə ◦ pʰ - uː
 4178	Duhumbi	thin	thin	ʨʰap-bu	ʨʰap+bu	tɕʰ a p + b u		1132 1136	1132 1136	tɕʰ a p ◦ b u
-4179	Khoina	thin	thin	a-ʨʰa-du	a+ʨʰa+du	a + tɕʰ a + d u		1133 1132 1135	1133 1132 1135	a ◦ tɕʰ a - ◦ d u
-4180	Jerigaon	thin	thin	a-ʨʰɛˀ-du	a+ʨʰɛˀ+du	a + tɕʰ ɛˀ + d u		1133 1132 1135	1133 1132 1135	a ◦ tɕʰ ɛˀ - ◦ d u
+4179	Khoina	thin	thin	a-ʨʰa-du	a+ʨʰa+du	a + tɕʰ a + d u		1133 1132 1134	1133 1132 1135	a ◦ tɕʰ a - ◦ d u
+4180	Jerigaon	thin	thin	a-ʨʰɛˀ-du	a+ʨʰɛˀ+du	a + tɕʰ ɛˀ + d u		1133 1132 1134	1133 1132 1135	a ◦ tɕʰ ɛˀ - ◦ d u
 4181	Khoitam	thin	thin	a-ʨʰap-du	a+ʨʰap+du	a + tɕʰ a p + d u		1133 1132 1134	1133 1132 1134	a ◦ tɕʰ a p ◦ d u
 4182	Rahung	thin	thin	a-ʨʰap-du	a+ʨʰap+du	a + tɕʰ a p + d u		1133 1132 1134	1133 1132 1134	a ◦ tɕʰ a p ◦ d u
 4183	Rupa	thin	thin	a-ʦʰap ~ a-ʨʰap ~ a-ʦʰap-du	a+ʦʰap	a + tsʰ a p		1133 1132	1133 1132	a ◦ tsʰ a p
@@ -3388,7 +3388,7 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 4185	Khispi	thing	thing	ma	ma	m a		1137	1137	m a
 4186	Duhumbi	thing	thing	ma	ma	m a		1137	1137	m a
 4189	Khoitam	thing	thing	mə-ʨʰiŋ	mə+ʨʰiŋ	m ə + tɕʰ i ŋ		1137 1138	1137 1138	m ə ◦ tɕʰ i ŋ
-4190	Rahung	thing	thing	pʰ-ʨʰiŋ	pʰ+ʨʰiŋ	pʰ + tɕʰ i ŋ		1139 1138	1139 1138	pʰ ◦ tɕʰ i ŋ
+4190	Rahung	thing	thing	pʰ-ʨʰiŋ	pʰ+ʨʰiŋ	pʰ + tɕʰ i ŋ		1137 1138	1139 1138	pʰ ◦ tɕʰ i ŋ
 4191	Rupa	thing	thing	mə-ʨʰiŋ ~ pʰ-ʨʰiŋ	mə+ʨʰiŋ	m ə + tɕʰ i ŋ		1137 1138	1137 1138	m ə ◦ tɕʰ i ŋ
 4195	Khoina	think	think	tʰiŋ	tʰiŋ	tʰ i ŋ		1140	1140	tʰ i ŋ
 4196	Jerigaon	think	think	tʰiŋ	tʰiŋ	tʰ i ŋ		1140	1140	tʰ i ŋ
@@ -3406,10 +3406,10 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 4208	Shergaon	thirsty (vi)	thirsty (vi)	(kʰoː) jɔ̃ː	jɔ̃ː	j ɔ̃ː		1141	1141	j ɔ̃ː -
 4211	Khoina	this	this	tʰaː-ʥi	tʰaː+ʥi	tʰ aː + dʑ i		1143 1144	1143 1144	tʰ - aː ◦ dʑ i
 4212	Jerigaon	this	this	tʰaː-ʥi	tʰaː+ʥi	tʰ aː + dʑ i		1143 1144	1143 1144	tʰ - aː ◦ dʑ i
-4213	Khoitam	this	this	ɔ-tʰɛː	ɔ+tʰɛː	ɔ + tʰ ɛː		1145 1144	1145 1144	ɔ ◦ tʰ ɛː
-4214	Rahung	this	this	tʰə-ɛː	tʰə+ɛː	tʰ ə + ɛː		1143 1144	1143 1144	tʰ - ə ◦ - ɛː
+4213	Khoitam	this	this	ɔ-tʰɛː	ɔ+tʰɛː	ɔ + tʰ ɛː		1145 1143	1145 1144	ɔ ◦ tʰ ɛː
+4214	Rahung	this	this	tʰə-ɛː	tʰə+ɛː	tʰ ə + ɛː		1143 557	1143 1144	tʰ - ə ◦ - ɛː
 4215	Rupa	this	this	tʰwaː ~ tʰu-waː ~ tʰaː ~ ɔ-tʰ-gɔː ~ tʰū-gɔː ~ tʰə-gɔː	tʰwaː	tʰ w aː		1143	1143	tʰ w aː
-4216	Shergaon	this	this	tʰaː-ji	tʰaː+ji	tʰ aː + j i		1143 1144	1143 1144	tʰ - aː ◦ j i
+4216	Shergaon	this	this	tʰaː-ji	tʰaː+ji	tʰ aː + j i		1143 555	1143 1144	tʰ - aː ◦ j i
 4217	Khispi	thorn	thorn	pʰe-zɔ ~ pʰe-ʥɔ	pʰe+zɔ	pʰ e + z ɔ		1147 1146	1147 1146	pʰ e ◦ z ɔ -
 4218	Duhumbi	thorn	thorn	pʰi-ʥɔˀ	pʰi+ʥɔˀ	pʰ i + dʑ ɔˀ		1147 1146	1147 1146	pʰ i ◦ dʑ ɔˀ -
 4219	Khoina	thorn	thorn	ba-zɔ	ba+zɔ	b a + z ɔ		1147 1146	1147 1146	b a ◦ z ɔ -
@@ -3432,9 +3432,9 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 4238	Rahung	thread	thread	haŋ	haŋ	h a ŋ		1150	1150	h a ŋ
 4239	Rupa	thread	thread	haŋ	haŋ	h a ŋ		1150	1150	h a ŋ
 4240	Shergaon	thread	thread	haŋ	haŋ	h a ŋ		1150	1150	h a ŋ
-4241	Khispi	three	three	ɔm	ɔm	ɔ m		1152	1152	ɔ m
-4242	Duhumbi	three	three	ɔm	ɔm	ɔ m		1152	1152	ɔ m
-4243	Khoina	three	three	ũː	ũː	ũː		1153	1153	ũː
+4241	Khispi	three	three	ɔm	ɔm	ɔ m		1151	1152	ɔ m
+4242	Duhumbi	three	three	ɔm	ɔm	ɔ m		1151	1152	ɔ m
+4243	Khoina	three	three	ũː	ũː	ũː		1151	1153	ũː
 4244	Jerigaon	three	three	uŋ	uŋ	u ŋ		1151	1151	u ŋ
 4245	Khoitam	three	three	uŋ	uŋ	u ŋ		1151	1151	u ŋ
 4246	Rahung	three	three	uŋ	uŋ	u ŋ		1151	1151	u ŋ
@@ -3491,14 +3491,14 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 4310	Rahung	together with	together with	dɛp-kʰɔ ~ dɛˀ-kʰɔ	dɛp+kʰɔ	d ɛ p + kʰ ɔ		1166 1165	1166 1165	d ɛ p ◦ kʰ ɔ
 4311	Rupa	together with	together with	dɛp-gɔ ~ dɛk-gɔ	dɛp+gɔ	d ɛ p + g ɔ		1166 1165	1166 1165	d ɛ p ◦ g ɔ
 4312	Shergaon	together with	together with	dɛp-kʰɔ	dɛp+kʰɔ	d ɛ p + kʰ ɔ		1166 1165	1166 1165	d ɛ p ◦ kʰ ɔ
-4313	Khispi	tomorrow	tomorrow	nam-saŋ	nam+saŋ	n a m + s a ŋ		1169 1167	1169 1167	n a m ◦ s a ŋ
-4314	Duhumbi	tomorrow	tomorrow	nam-saŋ	nam+saŋ	n a m + s a ŋ		1169 1167	1169 1167	n a m ◦ s a ŋ
-4315	Khoina	tomorrow	tomorrow	bə-saŋ	bə+saŋ	b ə + s a ŋ		1170 1167	1170 1167	b ə ◦ s a ŋ
-4316	Jerigaon	tomorrow	tomorrow	mə-saŋ	mə+saŋ	m ə + s a ŋ		1168 1167	1168 1167	m ə ◦ s a ŋ
-4317	Khoitam	tomorrow	tomorrow	my-saŋ	my+saŋ	m y + s a ŋ		1168 1167	1168 1167	m y ◦ s a ŋ
-4318	Rahung	tomorrow	tomorrow	p-saŋ	p+saŋ	p + s a ŋ		1170 1167	1170 1167	p - ◦ s a ŋ
-4319	Rupa	tomorrow	tomorrow	mə-saŋ ~ bə-saŋ-la	mə+saŋ	m ə + s a ŋ		1168 1167	1168 1167	m ə ◦ s a ŋ
-4320	Shergaon	tomorrow	tomorrow	mə-saŋ	mə+saŋ	m ə + s a ŋ		1168 1167	1168 1167	m ə ◦ s a ŋ
+4313	Khispi	tomorrow	tomorrow	nam-saŋ	nam+saŋ	n a m + s a ŋ		573 1167	1169 1167	n a m ◦ s a ŋ
+4314	Duhumbi	tomorrow	tomorrow	nam-saŋ	nam+saŋ	n a m + s a ŋ		573 1167	1169 1167	n a m ◦ s a ŋ
+4315	Khoina	tomorrow	tomorrow	bə-saŋ	bə+saŋ	b ə + s a ŋ		1169 1167	1170 1167	b ə ◦ s a ŋ
+4316	Jerigaon	tomorrow	tomorrow	mə-saŋ	mə+saŋ	m ə + s a ŋ		1169 1167	1168 1167	m ə ◦ s a ŋ
+4317	Khoitam	tomorrow	tomorrow	my-saŋ	my+saŋ	m y + s a ŋ		1169 1167	1168 1167	m y ◦ s a ŋ
+4318	Rahung	tomorrow	tomorrow	p-saŋ	p+saŋ	p + s a ŋ		1169 1167	1170 1167	p - ◦ s a ŋ
+4319	Rupa	tomorrow	tomorrow	mə-saŋ ~ bə-saŋ-la	mə+saŋ	m ə + s a ŋ		1169 1167	1168 1167	m ə ◦ s a ŋ
+4320	Shergaon	tomorrow	tomorrow	mə-saŋ	mə+saŋ	m ə + s a ŋ		1169 1167	1168 1167	m ə ◦ s a ŋ
 4321	Khispi	tongue	tongue	luj	luj	l u j		1171	1171	l u j
 4322	Duhumbi	tongue	tongue	lɔj	lɔj	l ɔ j		1171	1171	l ɔ j
 4323	Khoina	tongue	tongue	laː	laː	l aː		1171	1171	l aː -
@@ -3509,19 +3509,19 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 4328	Shergaon	tongue	tongue	laː	laː	l aː		1171	1171	l aː -
 4329	Khispi	tooth	tooth	ɕin-tuŋ	ɕin+tuŋ	ɕ i n + t u ŋ		1175 1173	1175 1173	ɕ i n ◦ t u ŋ
 4330	Duhumbi	tooth	tooth	hin-tuŋ	hin+tuŋ	h i n + t u ŋ		1175 1173	1175 1173	h i n ◦ t u ŋ
-4331	Khoina	tooth	tooth	ny-tʰyŋ	ny+tʰyŋ	n y + tʰ y ŋ		1174 1173	1174 1173	n y ◦ tʰ y ŋ
-4332	Jerigaon	tooth	tooth	nə-tʰyŋ	nə+tʰyŋ	n ə + tʰ y ŋ		1174 1173	1174 1173	n ə ◦ tʰ y ŋ
-4333	Khoitam	tooth	tooth	nə-tʰyŋ	nə+tʰyŋ	n ə + tʰ y ŋ		1174 1173	1174 1173	n ə ◦ tʰ y ŋ
-4334	Rahung	tooth	tooth	pʰ-tʰyŋ	pʰ+tʰyŋ	pʰ + tʰ y ŋ		1176 1173	1176 1173	pʰ ◦ tʰ y ŋ
-4336	Shergaon	tooth	tooth	nə-tʰuŋ	nə+tʰuŋ	n ə + tʰ u ŋ		1174 1173	1174 1173	n ə ◦ tʰ u ŋ
-4337	Khispi	trivet	trivet	pɛɹ-ʨʰu-du ~ pɛl-ʨʰu-lu	pɛɹ+ʨʰu+du	p ɛ ɹ + tɕʰ u + d u		1179 1177 1181	1179 1177 1181	p ɛ ɹ ◦ tɕʰ u - ◦ d u
-4338	Duhumbi	trivet	trivet	pɛɹ-ʑam-ɕup ~ pɛɹ-ʑam-ʑu	pɛɹ+ʑam+ɕup	p ɛ ɹ + ʑ a m + ɕ u p		1179 1177 1180	1179 1177 1180	p ɛ ɹ ◦ ʑ a m ◦ ɕ u p
+4331	Khoina	tooth	tooth	ny-tʰyŋ	ny+tʰyŋ	n y + tʰ y ŋ		1175 1173	1174 1173	n y ◦ tʰ y ŋ
+4332	Jerigaon	tooth	tooth	nə-tʰyŋ	nə+tʰyŋ	n ə + tʰ y ŋ		1175 1173	1174 1173	n ə ◦ tʰ y ŋ
+4333	Khoitam	tooth	tooth	nə-tʰyŋ	nə+tʰyŋ	n ə + tʰ y ŋ		1175 1173	1174 1173	n ə ◦ tʰ y ŋ
+4334	Rahung	tooth	tooth	pʰ-tʰyŋ	pʰ+tʰyŋ	pʰ + tʰ y ŋ		1175 1173	1176 1173	pʰ ◦ tʰ y ŋ
+4336	Shergaon	tooth	tooth	nə-tʰuŋ	nə+tʰuŋ	n ə + tʰ u ŋ		1175 1173	1174 1173	n ə ◦ tʰ u ŋ
+4337	Khispi	trivet	trivet	pɛɹ-ʨʰu-du ~ pɛl-ʨʰu-lu	pɛɹ+ʨʰu+du	p ɛ ɹ + tɕʰ u + d u		1179 1177 1178	1179 1177 1181	p ɛ ɹ ◦ tɕʰ u - ◦ d u
+4338	Duhumbi	trivet	trivet	pɛɹ-ʑam-ɕup ~ pɛɹ-ʑam-ʑu	pɛɹ+ʑam+ɕup	p ɛ ɹ + ʑ a m + ɕ u p		1179 580 1177	1179 1177 1180	p ɛ ɹ ◦ ʑ a m ◦ ɕ u p
 4339	Khoina	trivet	trivet	dy-ʐyː	dy+ʐyː	d y + ʐ yː		1178 1177	1178 1177	d y ◦ ʐ yː -
 4340	Jerigaon	trivet	trivet	də-zyː	də+zyː	d ə + z yː		1178 1177	1178 1177	d ə ◦ z yː -
-4341	Khoitam	trivet	trivet	ʨĩ(ŋ)-zyː	ʨĩ+zyː	tɕ ĩ + z yː		1178 1177	1178 1177	tɕ ĩ ◦ z yː -
-4342	Rahung	trivet	trivet	ʨĩ(ŋ)-zyː	ʨĩ+zyː	tɕ ĩ + z yː		1178 1177	1178 1177	tɕ ĩ ◦ z yː -
-4343	Rupa	trivet	trivet	zə-zyː	zə+zyː	z ə + z yː		1178 1177	1178 1177	z ə ◦ z yː -
-4344	Shergaon	trivet	trivet	ʨi-zi	ʨi+zi	tɕ i + z i		1178 1177	1178 1177	tɕ i ◦ z i -
+4341	Khoitam	trivet	trivet	ʨĩ(ŋ)-zyː	ʨĩ+zyː	tɕ ĩ + z yː		586 1177	1178 1177	tɕ ĩ ◦ z yː -
+4342	Rahung	trivet	trivet	ʨĩ(ŋ)-zyː	ʨĩ+zyː	tɕ ĩ + z yː		586 1177	1178 1177	tɕ ĩ ◦ z yː -
+4343	Rupa	trivet	trivet	zə-zyː	zə+zyː	z ə + z yː		586 1177	1178 1177	z ə ◦ z yː -
+4344	Shergaon	trivet	trivet	ʨi-zi	ʨi+zi	tɕ i + z i		586 1177	1178 1177	tɕ i ◦ z i -
 4347	Khoina	trunk (tree)	trunk (tree)	hiŋ la-tʰyŋ	hiŋ_la+tʰyŋ	h i ŋ _ l a + tʰ y ŋ		1183 1184 1182	1183 1184 1182	h i ŋ ◦ l a ◦ tʰ y ŋ
 4348	Jerigaon	trunk (tree)	trunk (tree)	hiŋ lə-tʰyŋ	hiŋ_lə+tʰyŋ	h i ŋ _ l ə + tʰ y ŋ		1183 1184 1182	1183 1184 1182	h i ŋ ◦ l ə ◦ tʰ y ŋ
 4349	Khoitam	trunk (tree)	trunk (tree)	hiŋ lə-tʰyŋ	hiŋ_lə+tʰyŋ	h i ŋ _ l ə + tʰ y ŋ		1183 1184 1182	1183 1184 1182	h i ŋ ◦ l ə ◦ tʰ y ŋ
@@ -3575,11 +3575,11 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 4405	Khoitam	up there	up there1	laŋ	laŋ	l a ŋ		1191	1191	l - a ŋ
 4407	Rupa	up there	up there1	laŋ	laŋ	l a ŋ		1191	1191	l - a ŋ
 4408	Shergaon	up there	up there1	laŋ	laŋ	l a ŋ		1191	1191	l - a ŋ
-4412	Jerigaon	up there	up there2	tʰaŋ	tʰaŋ	tʰ a ŋ		1191	1191	- tʰ a ŋ
-4413	Khoitam	up there	up there2	tʰaŋ	tʰaŋ	tʰ a ŋ		1191	1191	- tʰ a ŋ
-4414	Rahung	up there	up there2	tʰaŋ	tʰaŋ	tʰ a ŋ		1191	1191	- tʰ a ŋ
-4415	Rupa	up there	up there2	tʰaŋ	tʰaŋ	tʰ a ŋ		1191	1191	- tʰ a ŋ
-4416	Shergaon	up there	up there2	tʰaŋ	tʰaŋ	tʰ a ŋ		1191	1191	- tʰ a ŋ
+4412	Jerigaon	up there	up there2	tʰaŋ	tʰaŋ	tʰ a ŋ		576	1191	- tʰ a ŋ
+4413	Khoitam	up there	up there2	tʰaŋ	tʰaŋ	tʰ a ŋ		576	1191	- tʰ a ŋ
+4414	Rahung	up there	up there2	tʰaŋ	tʰaŋ	tʰ a ŋ		576	1191	- tʰ a ŋ
+4415	Rupa	up there	up there2	tʰaŋ	tʰaŋ	tʰ a ŋ		576	1191	- tʰ a ŋ
+4416	Shergaon	up there	up there2	tʰaŋ	tʰaŋ	tʰ a ŋ		576	1191	- tʰ a ŋ
 4417	Khispi	up; ascend	up; ascend	kʰuŋ	kʰuŋ	kʰ u ŋ		1192	1192	kʰ u ŋ
 4418	Duhumbi	up; ascend	up; ascend	kʰuŋ	kʰuŋ	kʰ u ŋ		1192	1192	kʰ u ŋ
 4419	Khoina	up; ascend	up; ascend	kʰyŋ	kʰyŋ	kʰ y ŋ		1192	1192	kʰ y ŋ
@@ -3590,8 +3590,8 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 4424	Shergaon	up; ascend	up; ascend	kʰuŋ	kʰuŋ	kʰ u ŋ		1192	1192	kʰ u ŋ
 4425	Khispi	uproot	uproot	pʰɔk	pʰɔk	pʰ ɔ k		1194	1194	pʰ ɔ k
 4426	Duhumbi	uproot	uproot	pʰɔk	pʰɔk	pʰ ɔ k		1194	1194	pʰ ɔ k
-4429	Khoitam	uproot	uproot	pʰiŋ	pʰiŋ	pʰ i ŋ		1193	1193	pʰ i ŋ
-4431	Rupa	uproot	uproot	pʰiŋ ~ pʰyŋ	pʰiŋ	pʰ i ŋ		1193	1193	pʰ i ŋ
+4429	Khoitam	uproot	uproot	pʰiŋ	pʰiŋ	pʰ i ŋ		1194	1193	pʰ i ŋ
+4431	Rupa	uproot	uproot	pʰiŋ ~ pʰyŋ	pʰiŋ	pʰ i ŋ		1194	1193	pʰ i ŋ
 4433	Khispi	urine	urine	ʑi	ʑi	ʑ i		1195	1195	ʑ i
 4434	Duhumbi	urine	urine	ʑi	ʑi	ʑ i		1195	1195	ʑ i
 4435	Khoina	urine	urine	ziː	ziː	z iː		1195	1195	z iː
@@ -3616,10 +3616,10 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 4458	Duhumbi	veranda	veranda	jaŋ-ʨʰɔŋ	jaŋ+ʨʰɔŋ	j a ŋ + tɕʰ ɔ ŋ		1201 1199	1201 1199	j a ŋ ◦ tɕʰ ɔ ŋ
 4459	Khoina	veranda	veranda	da-ʣɔ̃ː	da+ʣɔ̃ː	d a + dz ɔ̃ː		1200 1199	1200 1199	d a ◦ dz ɔ̃ː -
 4460	Jerigaon	veranda	veranda	da-ʥɔ̃ːŋ	da+ʥɔ̃ːŋ	d a + dʑ ɔ̃ː ŋ		1200 1199	1200 1199	d a ◦ dʑ ɔ̃ː ŋ
-4461	Khoitam	veranda	veranda	ʥũːŋ	ʥũːŋ	dʑ ũː ŋ		1201	1201	dʑ ũː ŋ
-4462	Rahung	veranda	veranda	la-pʰɔŋ	la+pʰɔŋ	l a + pʰ ɔ ŋ		1202 1199	1202 1199	l a ◦ pʰ ɔ ŋ
-4463	Rupa	veranda	veranda	ʥũː(ŋ)-baw	ʥũː+baw	dʑ ũː + b a w		1200 1199	1200 1199	dʑ ũː ◦ b a w
-4464	Shergaon	veranda	veranda	ʥɔ̃ː-kʰiŋ	ʥɔ̃ː+kʰiŋ	dʑ ɔ̃ː + kʰ i ŋ		1200 1199	1200 1199	dʑ ɔ̃ː ◦ kʰ i ŋ
+4461	Khoitam	veranda	veranda	ʥũːŋ	ʥũːŋ	dʑ ũː ŋ		1199	1201	dʑ ũː ŋ
+4462	Rahung	veranda	veranda	la-pʰɔŋ	la+pʰɔŋ	l a + pʰ ɔ ŋ		1200 655	1202 1199	l a ◦ pʰ ɔ ŋ
+4463	Rupa	veranda	veranda	ʥũː(ŋ)-baw	ʥũː+baw	dʑ ũː + b a w		1199 650	1200 1199	dʑ ũː ◦ b a w
+4464	Shergaon	veranda	veranda	ʥɔ̃ː-kʰiŋ	ʥɔ̃ː+kʰiŋ	dʑ ɔ̃ː + kʰ i ŋ		1199 636	1200 1199	dʑ ɔ̃ː ◦ kʰ i ŋ
 4465	Khispi	village	village	tʰup	tʰup	tʰ u p		1203	1203	tʰ u p
 4466	Duhumbi	village	village	tʰup ~ tʰuk	tʰup	tʰ u p		1203	1203	tʰ u p
 4467	Khoina	village	village	tʰyk	tʰyk	tʰ y k		1203	1203	tʰ y k
@@ -3659,8 +3659,8 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 4510	Rahung	wake up	wake up	jo	jo	j o		1211	1211	j o -
 4511	Rupa	wake up	wake up	jaw	jaw	j a w		1211	1211	j a w
 4512	Shergaon	wake up	wake up	jaw	jaw	j a w		1211	1211	j a w
-4513	Khispi	walk, move, go	walk, move, go	wa	wa	w a		1213	1213	w a
-4514	Duhumbi	walk, move, go	walk, move, go	wa	wa	w a		1213	1213	w a
+4513	Khispi	walk, move, go	walk, move, go	wa	wa	w a		1212	1213	w a
+4514	Duhumbi	walk, move, go	walk, move, go	wa	wa	w a		1212	1213	w a
 4515	Khoina	walk, move, go	walk, move, go	rɐˀ	rɐˀ	r ɐˀ		1212	1212	r ɐˀ
 4516	Jerigaon	walk, move, go	walk, move, go	rɐˀ	rɐˀ	r ɐˀ		1212	1212	r ɐˀ
 4517	Khoitam	walk, move, go	walk, move, go	rɔˀ	rɔˀ	r ɔˀ		1212	1212	r ɔˀ
@@ -3682,7 +3682,7 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 4536	Shergaon	walnut	walnut	mə-kʰuː	mə+kʰuː	m ə + kʰ uː		1217 1216	1217 1216	m ə - ◦ kʰ uː
 4537	Khispi	warm, hot (adj.)	warm, hot (adj.)	u-ʨʰik	u+ʨʰik	u + tɕʰ i k		1219 1218	1219 1218	u ◦ tɕʰ i k
 4538	Duhumbi	warm, hot (adj.)	warm, hot (adj.)	u-ʨʰik	u+ʨʰik	u + tɕʰ i k		1219 1218	1219 1218	u ◦ tɕʰ i k
-4539	Khoina	warm, hot (adj.)	warm, hot (adj.)	ʦʰik-dy ~ a-ʦʰik	ʦʰik+dy	tsʰ i k + d y		1220 1218	1220 1218	tsʰ i k ◦ d y -
+4539	Khoina	warm, hot (adj.)	warm, hot (adj.)	ʦʰik-dy ~ a-ʦʰik	ʦʰik+dy	tsʰ i k + d y		1218 663	1220 1218	tsʰ i k ◦ d y -
 4540	Jerigaon	warm, hot (adj.)	warm, hot (adj.)	a-ʨʰik	a+ʨʰik	a + tɕʰ i k		1219 1218	1219 1218	a ◦ tɕʰ i k
 4541	Khoitam	warm, hot (adj.)	warm, hot (adj.)	a-ʨʰik	a+ʨʰik	a + tɕʰ i k		1219 1218	1219 1218	a ◦ tɕʰ i k
 4542	Rahung	warm, hot (adj.)	warm, hot (adj.)	a-ʨʰik	a+ʨʰik	a + tɕʰ i k		1219 1218	1219 1218	a ◦ tɕʰ i k
@@ -3716,8 +3716,8 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 4581	Khoitam	wealthy	wealthy	ʨʰyk-pu	ʨʰyk+pu	tɕʰ y k + p u		1224 1225	1224 1225	tɕʰ y k ◦ p u
 4582	Rahung	wealthy	wealthy	ʨʰyk-pu	ʨʰyk+pu	tɕʰ y k + p u		1224 1225	1224 1225	tɕʰ y k ◦ p u
 4583	Rupa	wealthy	wealthy	ʨʰik-pu	ʨʰik+pu	tɕʰ i k + p u		1224 1225	1224 1225	tɕʰ i k ◦ p u
-4585	Khispi	wear	wear	was	was	w a s		1227	1227	w a s
-4586	Duhumbi	wear	wear	was	was	w a s		1227	1227	w a s
+4585	Khispi	wear	wear	was	was	w a s		1226	1227	w a s
+4586	Duhumbi	wear	wear	was	was	w a s		1226	1227	w a s
 4587	Khoina	wear	wear	jɐ̃	jɐ̃	j ɐ̃		1226	1226	j ɐ̃
 4588	Jerigaon	wear	wear	jɐ̃	jɐ̃	j ɐ̃		1226	1226	j ɐ̃
 4591	Rupa	wear	wear	jɔ̃	jɔ̃	j ɔ̃		1226	1226	j ɔ̃
@@ -3744,11 +3744,11 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 4619	Khoina	wet	wet2	kʰa-lɛˀ	kʰa+lɛˀ	kʰ a + l ɛˀ		1233 1232	1233 1232	kʰ a ◦ l ɛˀ
 4620	Jerigaon	wet	wet2	kʰ-leˀ	kʰ+leˀ	kʰ + l eˀ		1233 1232	1233 1232	kʰ - ◦ l eˀ
 4621	Khoitam	wet	wet2	kʰ-leˀ	kʰ+leˀ	kʰ + l eˀ		1233 1232	1233 1232	kʰ - ◦ l eˀ
-4622	Rahung	wet	wet2	pʰ-lɛˀ	pʰ+lɛˀ	pʰ + l ɛˀ		1234 1232	1234 1232	pʰ ◦ l ɛˀ
+4622	Rahung	wet	wet2	pʰ-lɛˀ	pʰ+lɛˀ	pʰ + l ɛˀ		1233 1232	1234 1232	pʰ ◦ l ɛˀ
 4629	Khoitam	wheat	wheat	mu-kuː	mu+kuː	m u + k uː		1237 1235	1237 1235	m u ◦ k uː
 4630	Rahung	wheat	wheat	mə-kuː	mə+kuː	m ə + k uː		1237 1235	1237 1235	m ə ◦ k uː
-4631	Rupa	wheat	wheat	bə-kuː	bə+kuː	b ə + k uː		1236 1235	1236 1235	b ə ◦ k uː
-4632	Shergaon	wheat	wheat	bə-kuː	bə+kuː	b ə + k uː		1236 1235	1236 1235	b ə ◦ k uː
+4631	Rupa	wheat	wheat	bə-kuː	bə+kuː	b ə + k uː		1237 1235	1236 1235	b ə ◦ k uː
+4632	Shergaon	wheat	wheat	bə-kuː	bə+kuː	b ə + k uː		1237 1235	1236 1235	b ə ◦ k uː
 4633	Khispi	when	when	a-daŋ	a+daŋ	a + d a ŋ		1239 1238	1239 1238	a ◦ d a ŋ
 4634	Duhumbi	when	when	a-daŋ	a+daŋ	a + d a ŋ		1239 1238	1239 1238	a ◦ d a ŋ
 4635	Khoina	when	when	a-dɔ̃ː(ŋ)	a+dɔ̃ː	a + d ɔ̃ː		1239 1238	1239 1238	a ◦ d ɔ̃ː -
@@ -3758,9 +3758,9 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 4639	Rupa	when	when	a-dũː(ŋ)	a+dũː	a + d ũː		1239 1238	1239 1238	a ◦ d ũː -
 4640	Shergaon	when	when	a-dɔ̃ː	a+dɔ̃ː	a + d ɔ̃ː		1239 1238	1239 1238	a ◦ d ɔ̃ː -
 4641	Khispi	where	where	a	a	a		1241	1241	a
-4642	Duhumbi	where	where	ha	ha	h a		1242	1242	h a
+4642	Duhumbi	where	where	ha	ha	h a		1241	1242	h a
 4643	Khoina	where	where	a-lɔː	a+lɔː	a + l ɔː		1241 1240	1241 1240	a ◦ l ɔː
-4645	Khoitam	where	where	tʰa-a-lɔː	tʰa+a+lɔː	tʰ a + a + l ɔː		1244 1240 1243	1244 1240 1243	tʰ a ◦ - a ◦ l ɔː
+4645	Khoitam	where	where	tʰa-a-lɔː	tʰa+a+lɔː	tʰ a + a + l ɔː		1244 1241 1240	1244 1240 1243	tʰ a ◦ - a ◦ l ɔː
 4649	Khispi	white	white	jaŋ-kal	jaŋ+kal	j a ŋ + k a l		1247 1248	1247 1248	j a ŋ ◦ k a l
 4650	Duhumbi	white	white	jaŋ-kaɹ	jaŋ+kaɹ	j a ŋ + k a ɹ		1247 1248	1247 1248	j a ŋ ◦ k a ɹ
 4651	Khoina	white	white	a-zɐ̃ː	a+zɐ̃ː	a + z ɐ̃ː		1245 1246	1245 1246	a ◦ z ɐ̃ː
@@ -3771,12 +3771,12 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 4656	Shergaon	white	white	a-zɔ̃ː	a+zɔ̃ː	a + z ɔ̃ː		1245 1246	1245 1246	a ◦ z ɔ̃ː
 4657	Khispi	who	who	mi	mi	m i		1249	1249	m i
 4658	Duhumbi	who	who	mi	mi	m i		1249	1249	m i
-4659	Khoina	who	who	niː	niː	n iː		1250	1250	n iː
-4660	Jerigaon	who	who	niː	niː	n iː		1250	1250	n iː
+4659	Khoina	who	who	niː	niː	n iː		1249	1250	n iː
+4660	Jerigaon	who	who	niː	niː	n iː		1249	1250	n iː
 4661	Khoitam	who	who	miː	miː	m iː		1249	1249	m iː
 4662	Rahung	who	who	miː	miː	m iː		1249	1249	m iː
-4663	Rupa	who	who	ɲiː	ɲiː	ɲ iː		1250	1250	ɲ iː
-4664	Shergaon	who	who	ɲiː	ɲiː	ɲ iː		1250	1250	ɲ iː
+4663	Rupa	who	who	ɲiː	ɲiː	ɲ iː		1249	1250	ɲ iː
+4664	Shergaon	who	who	ɲiː	ɲiː	ɲ iː		1249	1250	ɲ iː
 4665	Khispi	wife	wife	u-ja	u+ja	u + j a		1251 1252	1251 1252	u ◦ j a
 4666	Duhumbi	wife	wife	u-ja	u+ja	u + j a		1251 1252	1251 1252	u ◦ j a
 4667	Khoina	wife	wife	a-juː	a+juː	a + j uː		1251 1252	1251 1252	a ◦ j uː
@@ -3790,7 +3790,7 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 4675	Khoina	wind	wind	na-søn	na+søn	n a + s ø n		1254 1253	1254 1253	n a - ◦ s ø n
 4676	Jerigaon	wind	wind	nə-søn ~ ny-søn	nə+søn	n ə + s ø n		1254 1253	1254 1253	n ə - ◦ s ø n
 4677	Khoitam	wind	wind	ny-sɔm ~ nə-sɔm	ny+sɔm	n y + s ɔ m		1254 1253	1254 1253	n y - ◦ s ɔ m
-4678	Rahung	wind	wind	p-søm	p+søm	p + s ø m		1255 1253	1255 1253	p ◦ s ø m
+4678	Rahung	wind	wind	p-søm	p+søm	p + s ø m		1254 1253	1255 1253	p ◦ s ø m
 4679	Rupa	wind	wind	nə-sɔm	nə+sɔm	n ə + s ɔ m		1254 1253	1254 1253	n ə - ◦ s ɔ m
 4680	Shergaon	wind	wind	nə-sɔm	nə+sɔm	n ə + s ɔ m		1254 1253	1254 1253	n ə - ◦ s ɔ m
 4681	Khispi	window	window	kal-ʨuŋ	kal+ʨuŋ	k a l + tɕ u ŋ		1257 1256	1257 1256	k a l ◦ tɕ u ŋ
@@ -3799,7 +3799,7 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 4684	Jerigaon	window	window	kɔː-ʨyŋ	kɔː+ʨyŋ	k ɔː + tɕ y ŋ		1257 1256	1257 1256	k ɔː - ◦ tɕ y ŋ
 4685	Khoitam	window	window	kɔː-ʨyŋ	kɔː+ʨyŋ	k ɔː + tɕ y ŋ		1257 1256	1257 1256	k ɔː - ◦ tɕ y ŋ
 4686	Rahung	window	window	koː-ʨyŋ	koː+ʨyŋ	k oː + tɕ y ŋ		1257 1256	1257 1256	k oː - ◦ tɕ y ŋ
-4687	Rupa	window	window	kaw-du	kaw+du	k a w + d u		1257 1256	1257 1256	k a w ◦ d u -
+4687	Rupa	window	window	kaw-du	kaw+du	k a w + d u		1257 669	1257 1256	k a w ◦ d u -
 4688	Shergaon	window	window	koː-ʨuŋ	koː+ʨuŋ	k oː + tɕ u ŋ		1257 1256	1257 1256	k oː - ◦ tɕ u ŋ
 4689	Khispi	wing	wing	ɲuj-pʰa	ɲuj+pʰa	ɲ u j + pʰ a		1259 1258	1259 1258	ɲ u j ◦ pʰ a -
 4691	Khoina	wing	wing	ny-pʰaŋ	ny+pʰaŋ	n y + pʰ a ŋ		1259 1258	1259 1258	n y - ◦ pʰ a ŋ
@@ -3862,7 +3862,7 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 4761	Khispi	year, next	year, next	nam-saŋ-ba	nam+saŋ+ba	n a m + s a ŋ + b a		1274 1273 1272	1274 1273 1272	n a m ◦ s a ŋ ◦ b a
 4762	Duhumbi	year, next	year, next	nam-saŋ-pa	nam+saŋ+pa	n a m + s a ŋ + p a		1274 1273 1272	1274 1273 1272	n a m ◦ s a ŋ ◦ p a
 4765	Khoitam	year, next	year, next	mə-saŋ-bu	mə+saŋ+bu	m ə + s a ŋ + b u		1276 1273 1272	1276 1273 1272	m ə ◦ s a ŋ ◦ b u
-4766	Rahung	year, next	year, next	p-saŋ-bu	p+saŋ+bu	p + s a ŋ + b u		1275 1273 1272	1275 1273 1272	p ◦ s a ŋ ◦ b u
+4766	Rahung	year, next	year, next	p-saŋ-bu	p+saŋ+bu	p + s a ŋ + b u		1276 1273 1272	1275 1273 1272	p ◦ s a ŋ ◦ b u
 4769	Khispi	year, this	year, this	tʰal-pu	tʰal+pu	tʰ a l + p u		1278 1277	1278 1277	tʰ a l ◦ p u
 4770	Duhumbi	year, this	year, this	tʰaɹ-pu	tʰaɹ+pu	tʰ a ɹ + p u		1278 1277	1278 1277	tʰ a ɹ ◦ p u
 4771	Khoina	year, this	year, this	tʰam-bu tuŋ	tʰam+bu_tuŋ	tʰ a m + b u _ t u ŋ		1278 1277 1279	1278 1277 1279	tʰ a m ◦ b u ◦ t u ŋ
@@ -3880,5 +3880,27 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 4787	Khoina	yesterday	yesterday	dy-jɔː	dy+jɔː	d y + j ɔː		1282 1283	1282 1283	d y - ◦ j ɔː -
 4788	Jerigaon	yesterday	yesterday	dy-jɔː	dy+jɔː	d y + j ɔː		1282 1283	1282 1283	d y - ◦ j ɔː -
 4789	Khoitam	yesterday	yesterday	ʥy-jɔː	ʥy+jɔː	dʑ y + j ɔː		1282 1283	1282 1283	dʑ y - ◦ j ɔː -
-4790	Rahung	yesterday	yesterday	ʥoː-hɔː ~ ʥoː	ʥoː+hɔː	dʑ oː + h ɔː		1282 1284	1282 1284	dʑ oː - ◦ h ɔː
+4790	Rahung	yesterday	yesterday	ʥoː-hɔː ~ ʥoː	ʥoː+hɔː	dʑ oː + h ɔː		1282 1283	1282 1284	dʑ oː - ◦ h ɔː
 4791	Rupa	yesterday	yesterday	dy-jaw	dy+jaw	d y + j a w		1282 1283	1282 1283	d y - ◦ j a w
+#@highlight=TOKENS|ALIGNMENT|SEGMENTS
+#@sampa=IPA|TOKENS|SEGMENTS|TRANSCRIPTION
+#@pinyin=CHINESE
+#@css=menu:show|database:hide
+#@basics=COGIDS|CONCEPT|DOCULECT|NOTE|TOKENS
+#@_selected_doculects=Khispi|Duhumbi|Khoina|Jerigaon|Khoitam|Rahung|Rupa|Shergaon
+#@_selected_concepts=1sg
+#@sorted_taxa=Khispi|Duhumbi|Khoina|Jerigaon|Khoitam|Rahung|Rupa|Shergaon
+#@sorted_concepts=1sg|2pl.excl|2pl.incl|2sg|3sg|Bugun|Indo-Aryan person|Jerigaon people|Khoitam people|Miji people|Monpa|Namshu people|Puroik|Rahung, people of|Sherdukpen|Shergaon, people of|Thembang people|ablative|above, top|achieve, obtain|aconite|after|afternoon|agent|alive, healthy|all|allative|amaranth|angry (vi)|ant|arrive|arrow|ascend|ash|ask|associative|attic|axe|back (n)|back (wards)|bad|bamboo|banana|barley|bastard|bat|beans|bear|beat, hit|beautiful|bee|beer filter|beer strainer|behind|belly, abdomen|belt|big|bind (v)|bird|bite|bitter (vi)|black|blood|blow|blow (wind)|boar, wild|boil  (water)|boil (n)|bone|borrow|bow|brain|branch|break|breast, milk|breath|bridge|bridge, hanging|bring|brother (elder)|brother, younger|brother-in-law|buckwheat, bitter|buckwheat, sweet|buffalo|burn (vi)|burn, roast (vt)|butter|butterfly|buy|call for|cane|cap, hat|carry|cat|cattle, cow|cave|charcoal|chest|chew|chicken|child|chili|chin|civet or spotted wild cat|civet, palm|clean|cliff, ravine|clitoris|clothing|cloud, mist, fog|cockroach|cold|cold (vi)|comb|come|comparative degree|cook|copula, existential|copula, negative|corpse|cotton|cough (vi)|count|cover (v)|creeper, vine|crow|cry|cucumber|curcuma sp.|cure (vi)|cut|dance|daughter|daughter-in-law|day after tomorrow|day after two days|day before two days|day before yesterday|deaf|deep|deer, barking|deer, sambar|defeat (vi)|deity, ghost|descend|die|dig|dirty|disease|do|dog|dog, wild|door|down|down (visible)|dragon, thunder, lightning|dream (n)|drink|dry (adj.)|dry, dry up (v.i.)|dual|eagle, buzzard|ear|earthworm|eat|egg|eggplant|eight|elbow|elephant|empty|excrement|excrete|exit|eye|face|falcon|fall|far|fast|fat (n)|father|fear (vi)|female|fence|fern, fiddlehead|fetch|few, little|field|finger|fire|fire prefix|fish|five|flame|flee|float|flour|flow|fly (n)|fly (vi)|fodder|food|forehead|forest|forget|four|friend|frog|frost|fruit|frying pan|full|gall, bile|garden|garlic|give|go|goat|goitre|gold|good|goral|gourd|grandfather|grandmother|green|grind, pound|gum|hail|hair (body): feather|hair (head)|halt, stop|hand, arm|hard|hatch|head|heart|hearth, fireplace|heavy|here|hide|hold|honey|horn|hornbill|hornet|horse|horsefly|house|how many|human being|human being prefix|hungry (vi)|hunter|husband|ice|imperative|in|insect|intestines|iron|itch|jackal|jump|keep, remain|kick (v)|kill|kiss (n)|knee|know|ladder|language|langur|lap|late (vi)|laugh|leaf|leaf litter|leech, land|leech, water|left (side)|leg|lick|lie (n)|lift completely, carry|light|lightning|like, love|liquor|listen, heed|live, stay|liver|load (n)|locative|long|look|louse|lungs|macaque|machete|maize|make|male|man|manure|marrow|marten|meat, animal|medicine|meet|melt|middle / centre|millet, broomcorn|millet, finger|millet, foxtail|mithun|moon, month|morning|mortar (wood)|mother|mountain|mountain peak|mouse, rat|mouth|much|mud|mushroom|naga, serpent deity|nail|name|navel|neck|need to, have to|needle|negative prefix|nest, hive, womb|net for fishing|new|night|nine|nomen agentis|nominaliser|noon|nose|oil|okay|old|one|other|otter|outside|palm, sole|pangolin|partridge|path, road|patient marker|peas|penis|pheasant, kalij|pheasant, tragopan|pig|pillow|pinch|pine kindle|plait|plant  (vt)|play|plough (v)|plural|poison|porcupine|potato-bean|pour|present|prohibitive prefix|pull|pulse|pumpkin|pus|push|put|quarrel (v)|question|quiver|radish|rain (n)|rainbow|reap|recognise|red|reflexive marker|rest (n)|rib|rice, husked|rice, unhusked, paddy|ride, mount|right|ripe|roof|root|rope|rot (vi)|round, small object|rub|rub; sharpen|run|sago|saliva|salt|same, equal|sand|say|scratch|search|see|seed|serow|settle|seven|sew|shade|shake|sharp|sheep|shelf|shoe, footwear|shoot|short|shoulder|shy, ashamed (vi)|sick (vi)|silver|sing|sister, elder|sister, younger|sister-in-law|sit|six|skin, bark|sky|sleep|slowly|small|smell (n)|smell1 (vi)|smell2 (vi)|smoke|snake|snatch away|snow|soda ash|soft / smooth|soil, earth|son|son-in-law|song|soup, liquid, broth, juice|sour|sow, broadcast|soybean|sparrow|speak|spear|spicy, pungent|spider|spirit, soul, shadow|spit|spittle, spit|split|squirrel|squirrel, flying|stab|stand (up)|star|steal|steam|stich|stick|stone|story|straight|stump (tree)|suck|sugarcane|sun, day|swallow|sweet|swell|tail|take|takin|taro|tasty|tear (vt)|tell|ten|that|that side|thick|thief|thigh|thin|thing|think|thirsty (vi)|this|thorn|thousand|thread|three|throw|thunder (vi)|tie (vt)|tiger|till (hoe)|tired (vi)|today|together with|tomorrow|tongue|tooth|trivet|trunk (tree)|tuber|tusk|twenty|twist|two|under, below|up there|up; ascend|uproot|urine|vagina|vegetable, leafy|veranda|village|vomit|waist|wait|wake up|walk, move, go|walking stick|walnut|warm, hot (adj.)|warm, hot (vi)|wash|water|wealthy|wear|weave|weed, grass|wet|wheat|when|where|white|who|wife|wind|window|wing|wipe|woman|wood|wool|word|work|wring, squeeze|year|year, next|year, this|yellow|yesterday
+#@display=filedisplay|partial
+#@missing_marker=Ø
+#@separator=	
+#@gap_marker=-
+#@formatter=false
+#@root_formatter=COGIDS
+#@note_formatter=NOTE
+#@pattern_formatter=undefined
+#@publish=undefined
+#@_almcol=ALIGNMENT
+#@filename=wordlist-pcogs.tsv
+#@navbar=true
+#@_morphology_mode=full
