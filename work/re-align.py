@@ -7,7 +7,7 @@ alms = Alignments(argv[1], ref='cogids')
 
 
 add_c_structure(alms)
-align_by_structure(alms, segments='tokens', template="imncIMNC")
+align_by_structure(alms, segments='tokens', template="imnc")
 
 for idx, concept, tokens, structure in alms.iter_rows('concept', 'tokens',
         'structure'):
