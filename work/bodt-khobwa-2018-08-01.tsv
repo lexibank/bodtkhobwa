@@ -537,11 +537,11 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 568	Shergaon	brother-in-law	brother-in-law	a-raː	a+raː	a + r aː		184 183	184 183	a + r aː -	n + i n	124 183
 577	Khispi	buckwheat, bitter	buckwheat, bitter	jɛs-ma	jɛs+ma	j ɛ s + m a		187 185	187 185	j ɛ s + m a	i n c + i n	187 185
 578	Duhumbi	buckwheat, bitter	buckwheat, bitter	ʑa-ma ~ bɹa-ma	ʑa+ma	ʑ a + m a		186 185	186 185	ʑ - a + m a	i n + i n	186 185
-579	Khoina	buckwheat, bitter	buckwheat, bitter	dza-m	dza+m	d z a + m		186 185	186 185	d z a + m -	i m n + i	186 185
+579	Khoina	buckwheat, bitter	buckwheat, bitter	dza-m	dza+m	dz a + m		186 185	186 185	dz a + m -	i n + i	186 185
 580	Jerigaon	buckwheat, bitter	buckwheat, bitter	ʥə-muː	ʥə+muː	dʑ ə + m uː		186 185	186 185	dʑ - ə + m uː	i n + i n	186 185
 581	Khoitam	buckwheat, bitter	buckwheat, bitter	ʥu-m	ʥu+m	dʑ u + m		186 185	186 185	dʑ - u + m -	i n + i	186 185
 582	Rahung	buckwheat, bitter	buckwheat, bitter	ʥə-muː	ʥə+muː	dʑ ə + m uː		186 185	186 185	dʑ - ə + m uː	i n + i n	186 185
-583	Rupa	buckwheat, bitter	buckwheat, bitter	dzə-muː	dzə+muː	d z ə + m uː		186 185	186 185	d z ə + m uː	i m n + i n	186 185
+583	Rupa	buckwheat, bitter	buckwheat, bitter	dzə-muː	dzə+muː	dz ə + m uː		186 185	186 185	dz ə + m uː	i n + i n	186 185
 584	Shergaon	buckwheat, bitter	buckwheat, bitter	ʥə-muː	ʥə+muː	dʑ ə + m uː		186 185	186 185	dʑ - ə + m uː	i n + i n	186 185
 585	Khispi	buckwheat, sweet	buckwheat, sweet	gun-ʦun	gun+ʦun	g u n + ts u n		188 189	188 189	g u n + ts u n	i n c + i n c	188 189
 586	Duhumbi	buckwheat, sweet	buckwheat, sweet	gun-ʦun	gun+ʦun	g u n + ts u n		188 189	188 189	g u n + ts u n	i n c + i n c	188 189
@@ -1193,7 +1193,7 @@ ID	DOCULECT	CONCEPT	CONCEPT_IN_SOURCE	VALUE	FORM	TOKENS	NOTE	COGIDS	AUTOCOGS	ALI
 1396	Jerigaon	fast	fast	a-ʥɔk	a+ʥɔk	a + dʑ ɔ k		393 392	393 392	a + dʑ - ɔ k	n + i n c	56 392
 1397	Khoitam	fast	fast	a-ʥɔk	a+ʥɔk	a + dʑ ɔ k		393 392	393 392	a + dʑ - ɔ k	n + i n c	56 392
 1398	Rahung	fast	fast	a-ʥɔk	a+ʥɔk	a + dʑ ɔ k		393 392	393 392	a + dʑ - ɔ k	n + i n c	56 392
-1399	Rupa	fast	fast	a-dzuk ~ a-dzɔk	a+dzuk	a + d z u k		393 392	393 392	a + d z u k	n + i m n c	56 392
+1399	Rupa	fast	fast	a-dzuk ~ a-dzɔk	a+dzuk	a + dz u k		393 392	393 392	a + dz u k	n + i n c	56 392
 1400	Shergaon	fast	fast	a-ʥɔk	a+ʥɔk	a + dʑ ɔ k		393 392	393 392	a + dʑ - ɔ k	n + i n c	56 392
 1401	Khispi	fat (n)	fat (n)	ɔ-ju ~ u-ju	ɔ+ju	ɔ + j u		395 396	395 396	ɔ + j u -	n + i n	137 396
 1402	Duhumbi	fat (n)	fat (n)	ɔ-jɔw	ɔ+jɔw	ɔ + j ɔ w		395 396	395 396	ɔ + j ɔ w	n + i n c	137 396
