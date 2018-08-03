@@ -1,0 +1,604 @@
+NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	SIMILARITY	NOTE	Nat’s note	Nat’s note and Macy’s note
+1	1sg	1209	I	2			
+2	2pl.excl	1213	YOU				
+3	2pl.incl	1131	WE (INCLUSIVE)			?	
+4	2sg	1215	THOU	2			
+5	3sg	262	HE OR SHE OR IT	2			
+6	ablative					?	
+#<<<							
+7	above, top	1591	UP	4		location	
+7	above, top	1741	ABOVE	4			
+7	above, top	1753	TOP	4			
+7	above, top	2379	UP OR ABOVE	4			
+#>>>							
+8	achieve, obtain	694	GET	4			
+9	aconite					no concept yet	
+10	after	1685	AFTERWARDS	2			
+11	afternoon	1807	AFTERNOON	2			
+12	agent					no concept yet	issue
+#<<<							
+13	alive, healthy	1364	HEALTHY	4		hyponym	
+13	alive, healthy	1422	BE ALIVE	4			
+#>>>							
+14	all	98	ALL	2			
+15	allative					?	
+16	amaranth					no concept yet	
+17	angry (vi)	2223	BE ANGRY	4			
+18	ant	587	ANT	2			
+20	arrow	977	ARROW	2			
+21	ascend	705	GO UP (ASCEND)	2			
+22	ash	646	ASH	2			
+23	ask	1309	ASK (INQUIRE)	2			
+24	associative					no concept yet	
+25	attic					no concept yet	
+26	axe	677	AXE	2			
+27	back (n)	1291	BACK	4			
+28	back (wards)	2910	BACK (DIRECTION)	4			
+29	bad	1292	BAD	2			
+30	bamboo	1927	BAMBOO	2			
+31	banana	868	BANANA	2			
+32	barley	932	BARLEY	2			
+33	bastard	1947	BASTARD	2			
+34	bat	1793	BAT	2			
+35	beans	832	BEAN	2			
+36	bear	1820	BEAR	2			
+37	beat, hit	1433	HIT	4		probably	definitions need refinement
+38	beautiful	1427	BEAUTIFUL	2			
+39	bee	665	BEE	2			
+40	beer filter					no concept yet	
+41	beer strainer					no concept yet	
+42	behind	1686	BEHIND	2			
+43	belly, abdomen	2114	BELLY OR STOMACH	4			
+44	belt	772	BELT	2			
+45	big	1202	BIG	2			
+46	bind (v)	1917	TIE	3			
+47	bird	937	BIRD	2			
+48	bite	1403	BITE	2			
+49	bitter (vi)	887	BITTER	4			
+50	black	163	BLACK	2			
+51	blood	946	BLOOD	2			
+52	blow	176	BLOW (WITH MOUTH)	2			
+53	blow (wind)	175	BLOW (OF WIND)	2			
+54	boar, wild	1348	BOAR	4			
+55	boil  (water)	792	BOIL (OF LIQUID)	4			
+56	boil (n)	793	BOIL (OF SKIN)	4			
+57	bone	1394	BONE	2			
+58	borrow	1823	BORROW	2			
+59	bow	994	BOW	2			
+60	brain	1583	BRAIN	2			
+61	branch	1531	BRANCH	2			
+62	break	2558	BREAK (CLEAVE)	2			
+63	breast, milk	2129	BREAST OR MILK	2			
+64	breath	870	BREATH	2			
+65	bridge	1011	BRIDGE	2			
+66	bridge, hanging	1011	BRIDGE	4		no concept yet	
+67	bring	692	BRING	2			
+68	brother (elder)	1759	OLDER BROTHER	2			
+69	brother-in-law	2314	BROTHER-IN-LAW	2			
+70	brother, younger	1760	YOUNGER BROTHER	4			
+71	buckwheat, bitter	2040	BUCKWHEAT	4		hyperonym missing	
+72	buckwheat, sweet	2040	BUCKWHEAT	4		hyperonym missing	
+73	buffalo	934	BUFFALO	2			
+74	Bugun					no concept yet	
+75	burn (vi)	1428	BURNING	4			
+76	burn, roast (vt)	1962	ROAST (SOMETHING)	4			
+77	butter	1245	BUTTER	2			
+78	butterfly	1791	BUTTERFLY	2			
+79	buy	1869	BUY	2			
+80	call for	1084	CALL				
+81	cane	146	SUGAR CANE	2		no concept yet (cane grass)	
+82	cap, hat	2130	HEADGEAR	4			
+83	carry	465	CARRY ON BACK	2			
+84	cat	1208	CAT	2			
+85	cattle, cow	1153	CATTLE	4			
+86	cave	1155	CAVE	2			
+87	charcoal	1188	CHARCOAL	2			
+88	chest	1592	CHEST	2			
+89	chew	321	CHEW	2			
+90	chicken	1318	CHICKEN	2			
+91	child	1801	CHILD (DESCENDANT)	2			
+92	chili	919	CHILI PEPPER	2			
+93	chin	1510	CHIN	2			
+94	civet or spotted wild cat	3157	CIVET	4			
+95	civet, palm	3157	CIVET	4		no concept yet	
+96	clean	704	CLEAN	2			
+97	cliff, ravine	618	PRECIPICE	4		no hyponym	
+97	cliff, ravine	1930	RAVINE	4			
+98	clitoris					no concept yet	
+99	clothing	1895	CLOTHES	2			
+100	cloud, mist, fog	249	FOG	4		no hyponym	
+100	cloud, mist, fog	1489	CLOUD	4			
+101	cockroach	1575	COCKROACH	2			
+102	cold	1287	COLD	2			
+103	cold (vi)	102	COMMON COLD (DISEASE)	4		to have a cold, no concept yet	
+104	comb	1475	COMB	2			
+105	come	1446	COME	2			
+106	comparative degree						
+107	cook	1100	COOK (SOMETHING)	2			
+108	copula, existential	1579	BE	4			
+109	copula, negative	1240	NOT	4		no concept yet	
+110	corpse	767	CORPSE	2			
+111	cotton	1850	COTTON	2			
+112	cough (vi)	879	COUGH	4			
+113	count	1420	COUNT	2			
+114	cover (v)	761	COVER	3			
+115	creeper, vine	2388	LIANA	4		?	
+116	crow	913	CROW	2			
+117	cry	1839	CRY	2			
+118	cucumber	496	CUCUMBER	2			
+119	curcuma sp.					not turmeric but related, name unknown	
+120	cure (vi)	499	CURE	4		become cured, no concept yet	
+121	cut	2156	CUT (WITH KNIFE)	2			
+122	dance	1879	DANCE	2			
+123	daughter	1357	DAUGHTER	2			
+124	daughter-in-law	1057	DAUGHTER-IN-LAW	2			
+125	day after tomorrow	1179	DAY AFTER TOMORROW	2			
+126	day after two days					no concept yet	
+127	day before two days					no concept yet	
+128	day before yesterday	1180	DAY BEFORE YESTERDAY	2			
+129	deaf	996	DEAF	2			
+130	deep	1593	DEEP	2			
+131	deer, barking	3152	MUNTJACS	4			
+132	deer, sambar	1936	DEER	4		no concept yet	
+133	defeat (vi)	1660	LOSE	4			
+134	deity, ghost	1944	GOD	4			definitions of SPIRIT, GHOST and GOD need refinement
+135	descend	2014	GO DOWN (DESCEND)	2			
+136	die	1494	DIE	2			
+137	dig	1418	DIG	2			
+138	dirty	1230	DIRTY	2			
+139	disease	1986	DISEASE	2			
+140	do	813	DO	2			
+141	dog	2009	DOG	2			
+142	dog, wild	2009	DOG	4		no concept yet	
+143	door	1567	DOOR	2			
+144	down	1326	DOWN	2		location (invisible), no concept yet	
+#<<<							
+145	down (visible)	2094	DOWN OR BELOW	4		location (visible), no concept yet	
+145	down (visible)	1326	DOWN	4			
+145	down (visible)	1280	FALL	4			
+145	down (visible)	2014	GO DOWN (DESCEND)	4			
+#>>>							
+#<<<							
+146	dragon, thunder, lightning	1150	THUNDER	4		no hyponym, includes bolt	
+146	dragon, thunder, lightning	2038	DRAGON	4			
+146	dragon, thunder, lightning	2007	BOLT (OF LIGHTNING)	4			
+146	dragon, thunder, lightning	1654	LIGHTNING	4			
+#>>>							
+147	dream (n)	2374	DREAM	2			
+148	drink	1401	DRINK	2			
+149	dry (adj.)	1398	DRY	2			
+150	dry, dry up (v.i.)	1786	DRY UP	4			
+151	dual						
+#<<<							
+152	eagle, buzzard	2683	EAGLE OR HAWK	4		no hyponym	
+152	eagle, buzzard	1905	EAGLE	4			
+152	eagle, buzzard	1865	BUZZARD	4			
+#>>>							
+153	ear	1247	EAR	2			
+154	earthworm	2350	EARTHWORM	2			
+155	eat	1336	EAT	2			
+156	egg	744	EGG	2			
+157	eggplant	1146	AUBERGINE	2			
+158	eight	1705	EIGHT	2			
+159	elbow	981	ELBOW	2			
+160	elephant	1290	ELEPHANT	2			
+161	empty	1624	EMPTY	2			
+162	excrement	675	FAECES (EXCREMENT)	2			
+163	excrete	676	SHIT (DEFECATE)				
+164	exit	1107	GO OUT	2			
+165	eye	1248	EYE	2			
+166	face	1560	FACE	2			
+167	falcon					no concept yet	
+168	fall	1280	FALL	2			
+169	far	1406	FAR	2			
+170	fast	1631	FAST	2			
+171	fat (n)	1282	FAT (FROM ANIMALS)	2			
+172	father	1217	FATHER	2			
+173	fear (vi)	1419	FEAR (BE AFRAID)	4			
+174	female	1551	FEMALE	2			
+175	fence	1690	FENCE	2			
+176	fern, fiddlehead					?	
+177	fetch					no concept yet	
+178	few, little	1242	FEW	4			FEW and A LITTLE should probably be merged
+179	field	212	FIELD	2			
+180	finger	1303	FINGER	2			
+181	fire	221	FIRE	2			
+182	fire prefix					?	
+183	fish	227	FISH	2			
+184	five	493	FIVE	2			
+185	flame	889	FLAME	2			
+186	flee	956	FLEE	2			
+187	float	1574	FLOAT	2			
+188	flour	1594	FLOUR	2			
+189	flow	2003	FLOW	2			
+190	fly (n)	1504	FLY (INSECT)	2			
+191	fly (vi)	1441	FLY (MOVE THROUGH AIR)	4			
+192	fodder	3046	FODDER	4			
+193	food	256	FOOD	2			
+194	forehead	123	FOREHEAD	2			
+195	forest	420	FOREST	2			
+196	forget	1523	FORGET	2			
+197	four	1500	FOUR	2			
+198	friend	1325	FRIEND	2			
+199	frog	503	FROG	2			
+200	frost	2034	FROST	2			
+201	fruit	1507	FRUIT	2			
+202	frying pan	31	PAN	2			
+203	full	1429	FULL	2			
+204	gall, bile	1780	BILE	4			
+205	garden	586	GARDEN	2			
+206	garlic	2368	GARLIC	2			
+207	give	1447	GIVE	2			DONATE definition?
+208	go	695	GO	2			
+209	goat	1502	GOAT	2			
+210	goitre	1957	GOITER	4			
+211	gold	1369	GOLD	2			
+212	good	1035	GOOD	2			
+213	goral					no concept yet	
+214	gourd	411	GOURD	2			
+215	grandfather	1383	GRANDFATHER	2			
+216	grandmother	1496	GRANDMOTHER	2			
+217	green	1425	GREEN	2			
+218	grind, pound	1033	GRIND	4			
+219	gum	139	GUMS				
+220	hail	609	HAIL	2			
+221	hair (body): feather	2381	FEATHER OR FUR OR HAIR	4			
+222	hair (head)	2648	HAIR (HEAD)	2			
+223	halt, stop	2880	HALT (STOP)	4			
+224	hand, arm	2121	ARM OR HAND	2			
+225	hard	1884	HARD	2			
+226	hatch	3116	HATCH (OUT)	2			
+227	head	1256	HEAD	2			
+228	heart	1223	HEART	2			
+229	hearth, fireplace	185	FIREPLACE	4			hearth: change definition
+230	heavy	1210	HEAVY	2			
+231	here	136	HERE	2			
+232	hide	2486	HIDE	2			
+233	hold	1448	HOLD	2			
+234	honey	942	HONEY	2			
+235	horn	1393	HORN (ANATOMY)	2			
+236	hornbill					no concept yet	
+237	hornet					no concept yet	
+238	horse	615	HORSE	2			
+239	horsefly					no concept yet	
+240	house	1252	HOUSE	2			
+241	how many	822	HOW MANY	2			
+242	human being	683	PERSON	4			
+243	human being prefix					?	
+244	hungry (vi)	1533	BE HUNGRY	4			
+245	hunter	1053	HUNTER	2			
+246	husband	1200	HUSBAND	2			
+247	ice	617	ICE	2			
+248	imperative						
+249	in	1460	IN	2			
+250	Indo-Aryan person					no concept yet	
+251	insect	620	INSECT	2			
+252	intestines	1991	INTESTINES	2			
+253	iron	621	IRON	2		?	
+254	itch	148	ITCH	2			
+255	jackal					no concept yet	
+256	Jerigaon people					no concept yet	
+257	jump	1829	JUMP	2			
+258	keep, remain	987	REMAIN	4			
+259	Khoitam people					no concept yet	
+260	kick (v)	1135	KICK	3			
+261	kill	1417	KILL	2			
+262	kiss (n)	578	KISS	4		no concept yet	
+263	knee	1371	KNEE	2			
+264	know	1410	KNOW (SOMETHING)	2			
+265	ladder	1464	LADDER	2			
+266	language	1307	LANGUAGE	2			
+267	langur					grey langur, no concept yet	
+268	lap						
+269	late (vi)	425	BE LATE	4			
+270	laugh	1355	LAUGH	2			
+271	leaf	628	LEAF	2			
+272	leaf litter					no concept yet, fallen leaves collected	
+273	leech, land	2273	LEECH	4		no concept yet	
+274	leech, water	949	WATER LEECH	4			
+275	left (side)	244	LEFT	2			
+276	leg	1297	LEG	2			
+277	lick	319	LICK	2			
+278	lie (n)	475	UNTRUTH	4			
+279	lift completely, carry	501	LIFT	4			
+280	light	1052	LIGHT (WEIGHT)	2			
+281	lightning	1654	LIGHTNING	2		no hyponym	
+282	like, love	1117	LIKE	4		no hyponym	
+283	liquor	842	LIQUOR	2			
+284	listen, heed	1635	OBEY	4			
+285	live, stay	363	DWELL (LIVE, RESIDE)	4			
+286	liver	1224	LIVER	2			
+287	load (n)	1679	LOAD	4			
+288	locative						
+289	long	1203	LONG	2			
+290	look	1819	LOOK	2			
+291	louse	1392	LOUSE	2			
+292	lungs	688	LUNG	2			
+293	macaque					no concept yet	
+294	machete	2680	MACHETE	2			
+295	maize	506	MAIZE	2			
+296	make	734	MAKE	2			
+297	male	1553	MALE	2			
+298	man	1554	MAN	2			
+299	manure	2057	DUNG (ANIMAL FAECES)	4			
+300	marrow	1835	MARROW	2			
+301	marten					no concept yet	
+302	meat, animal	2096	ANIMAL OR MEAT	2			
+303	medicine	1372	MEDICINE	2			
+304	meet	1831	MEET	2			
+305	melt	2334	MELT	2			
+306	middle / centre	1093	MIDDLE	4			
+307	Miji people					no concept yet	
+308	millet, broomcorn	931	MILLET	4		proso millet? no concept yet	
+309	millet, finger	931	MILLET	4		no concept yet	
+310	millet, foxtail	931	MILLET	4		no concept yet	
+311	mithun					Gayal? no concept yet	
+312	Monpa					no concept yet	
+313	moon, month	2463	MOON OR MONTH	4			
+314	morning	1339	MORNING	2			
+315	mortar (wood)			4		big mortar, no concept yet	
+316	mother	1216	MOTHER	2			
+317	mountain	639	MOUNTAIN	2			
+318	mountain peak	1614	SUMMIT				
+319	mouse, rat	2139	MUROID (MOUSE OR RAT)	2			
+320	mouth	674	MOUTH	2			
+321	much	1198	MANY	2			
+322	mud	640	MUD	2			
+323	mushroom	641	MUSHROOM	2			
+324	naga, serpent deity					no concept yet	
+325	nail	1896	FINGERNAIL OR TOENAIL	2			
+326	name	1405	NAME	2			
+327	Namshu people					no concept yet	
+328	navel	1838	NAVEL	2			
+329	neck	1333	NECK	2			
+330	need to, have to	971	MUST				
+331	needle	1382	NEEDLE (FOR SEWING)	2			
+332	negative prefix						
+#<<<							
+333	nest, hive, womb	539	NEST	4		no hyponym	
+333	nest, hive, womb	804	WOMB	4			
+#>>>							
+334	net for fishing	388	FISHNET				
+335	new	1231	NEW	2			
+336	night	1233	NIGHT	2			
+337	nine	1483	NINE	2			
+338	nomen agentis						
+339	nominaliser						
+340	noon	12	MIDDAY	2			
+341	nose	1221	NOSE	2			
+342	oil	2556	OIL (HYDROPHOBIC LIQUID)	2			
+343	okay						
+344	old	2113	OLD (USED)	2			
+345	one	1493	ONE	2			
+346	other	197	OTHER	2			
+347	otter	15	OTTER	2			
+348	outside	762	OUTSIDE	2			
+349	palm, sole						
+350	pangolin	2508	PANGOLIN	2			
+351	partridge						
+352	path, road	2457	PATH OR ROAD	4			
+353	patient marker						
+354	peas	2574	BEAN OR PEA	4			
+355	penis	1222	PENIS	2			
+356	pheasant, kalij	3060	PHEASANT	4			
+357	pheasant, tragopan	3060	PHEASANT	4			
+358	pig	1337	PIG	2			
+359	pillow	1044	PILLOW	2			
+360	pinch	378	PINCH	2			
+361	pine kindle						
+362	plait	333	PLAIT	2			
+363	plant  (vt)	1486	PLANT (SOMETHING)	4			
+364	play	1413	PLAY	2			
+365	plough (v)	1921	PLOUGH	3			
+366	plural						
+367	poison	655	POISON	2			
+368	porcupine	2510	PORCUPINE	2			
+369	potato-bean						
+370	pour	1487	POUR	2			
+371	present	2982	GIFT	4			
+372	prohibitive prefix						
+373	pull	1455	PULL	2			
+374	pulse						
+375	pumpkin	864	PUMPKIN	2			
+376	Puroik						
+377	pus	1808	PUS	2			
+378	push	1452	PUSH	2			
+379	put	998	PUT	2			
+380	quarrel (v)	1848	QUARREL	3			
+381	question						
+382	quiver	52	SHIVER	2			
+383	radish	2365	RADISH	4			
+384	Rahung, people of						
+385	rain (n)	658	RAIN (PRECIPITATION)	2			
+386	rainbow	1733	RAINBOW	2			
+387	reap	1827	HARVEST CROPS	2			
+388	recognise	2248	KNOW (SOMEBODY)				
+389	red	156	RED	2			
+390	reflexive marker						
+391	rest (n)			4			
+392	rib	801	RIB	2			
+393	rice, husked	926	RICE	4			
+394	rice, unhusked, paddy	2749	UNHUSKED RICE	4			
+395	ride, mount	705	GO UP (ASCEND)	4			
+395	ride, mount	367	RIDE	4			
+396	right	1019	RIGHT	2			
+397	ripe	178	RIPE	2			
+398	roof	769	ROOF	2			
+399	root	670	ROOT	2			
+400	rope	1218	ROPE	2			
+401	rot (vi)	569	SPOIL (BECOME SPOILED)	4	* SPOIL OR ROT		Definition : body rotten or food goes bad
+402	round, small object			4			
+403	rub	1449	RUB	2			
+404	rub; sharpen	251	SHARPEN (SOMETHING)	4			
+405	run	1519	RUN	2			
+406	sago	2270	SAGO	2			
+407	saliva	1503	SALIVA	2			
+408	salt	1274	SALT	2			
+409	same, equal	200	SAME	4			
+410	sand	671	SAND	2			
+411	say	1458	SAY	2			
+412	scratch	1436	SCRATCH	2			
+413	search	1468	LOOK FOR	2			
+414	see	1409	SEE	2			
+415	seed	714	SEED	2			
+416	serow						
+417	settle						
+418	seven	1704	SEVEN	2			
+419	sew	1457	SEW	2			
+420	shade	1388	SHADE	2			
+421	shake	1909	SHAKE	2			
+422	sharp	1396	SHARP	2			
+423	sheep	1331	SHEEP	2			
+424	shelf	745	SHELF	2			
+425	Sherdukpen						
+426	Shergaon, people of						
+427	shoe, footwear	1381	SHOE	4			
+428	shoot	1172	SHOOT	2			
+429	short	1645	SHORT	2			
+430	shoulder	1482	SHOULDER	2			
+431	shy, ashamed (vi)	1894	ASHAMED	4			
+432	sick (vi)	2103	PAINFUL OR SICK	4			
+433	silver	759	SILVER	2			
+434	sing	1261	SING	2			
+435	sister-in-law	2317	SISTER-IN-LAW	2			
+436	sister, elder	1758	OLDER SISTER	4			
+437	sister, younger	1761	YOUNGER SISTER	4			
+438	sit	1416	SIT	2			
+439	six	1703	SIX	2			
+440	skin, bark	2127	BARK OR SKIN	2			
+441	sky	1732	SKY	2			
+442	sleep	1585	SLEEP	2			
+443	slowly	2165	SLOWLY	2			
+444	small	1246	SMALL	2			
+445	smell (n)			4			
+446	smell1 (vi)	2124	SMELL		smell1 and smell2 should be merged. 		
+447	smell2 (vi)						
+448	smoke	778	SMOKE (EXHAUST)	2			
+449	snake	730	SNAKE	2			
+450	snatch away						
+451	snow	784	SNOW	2			
+452	soda ash						
+453	soft / smooth			4	*SOFT OR SMOOTH		definition: fluffy or not rough
+454	soil, earth	1228	EARTH (SOIL)	2			
+455	son	1620	SON	2			
+456	son-in-law	1056	SON-IN-LAW	2			
+457	song	1096	SONG	2			
+458	soup, liquid, broth, juice			4	* LIQUID FOR DRINK		definition: any type of liquid that is consumed
+459	sour	1906	SOUR	2			
+460	sow, broadcast	748	SOW SEEDS	4			
+461	soybean	2027	SOYA	2			
+462	sparrow	1854	SPARROW	2			
+463	speak	1623	SPEAK	2			
+464	spear	945	SPEAR	2			
+465	spicy, pungent	544	SPICY	4			
+466	spider	843	SPIDER	2			
+467	spirit, soul, shadow			4	*SPIRIT OR SHADOW OF A PERSON??		NOTE : Their culture believes that a man’s shadow is the person’s spirit
+468	spit	1440	SPIT	2			
+469	spittle, spit	1503	SALIVA	4			
+470	split	1437	SPLIT	2			
+471	squirrel	1628	SQUIRREL	2			
+472	squirrel, flying			4	It meant “flying squirrel”		
+473	stab	1434	STAB	2			
+474	stand (up)	1442	STAND	4			
+475	star	1430	STAR	2			
+476	steal	713	STEAL	2			
+477	steam	1193	STEAM	2			
+478	stich						
+479	stick	1295	STICK	2			
+480	stone	2125	STONE OR ROCK	2			
+481	story	2060	STORY	2			
+482	straight	1404	STRAIGHT	2			
+483	stump (tree)	241	TREE STUMP	4			
+484	suck	1421	SUCK	2			
+485	sugarcane	146	SUGAR CANE	2			
+486	sun, day	2140	DAY OR SUN	4			
+487	swallow	897	SWALLOW	2			
+488	sweet	717	SWEET	2			
+489	swell	1573	SWELL	2			
+490	tail	1220	TAIL	2			
+491	take	1749	TAKE	2			
+492	takin						
+493	taro	351	TARO	2			
+494	tasty	1813	TASTY	2			
+495	tear (vt)	1735	TEAR (SHRED)	4			
+496	tell	1711	TELL	2			
+497	ten	1515	TEN	2			
+498	that	78	THAT	2			
+499	that side						
+500	Thembang people						
+501	thick	1244	THICK	2			
+502	thief	1160	THIEF	2			
+503	thigh	800	THIGH	2			
+504	thin	2249	THIN (OF SHAPE OF OBJECT)	2			
+505	thing	738	THING	2			
+506	think	2271	THINK	2			
+507	thirsty (vi)	847	THIRSTY	4			
+508	this	1214	THIS	2			
+509	thorn	124	THORN	2			
+510	thousand	1843	THOUSAND	2			
+511	thread	1161	THREAD	2			
+512	three	492	THREE	2			
+513	throw	1456	THROW	2			
+514	thunder (vi)	2378	THUNDER (VERB)	4			
+515	tie (vt)	1917	TIE	4			
+516	tiger	846	TIGER	2			
+517	till (hoe)			4	*DIG WITH HOE		
+518	tired (vi)	1757	TIRED	4			
+519	today	1283	TODAY	2			
+520	together with						
+521	tomorrow	1329	TOMORROW	2			
+522	tongue	1205	TONGUE	2			
+523	tooth	1380	TOOTH	2			
+524	trivet						
+525	trunk (tree)	344	TREE TRUNK	4			
+526	tuber	670	ROOT	4			
+527	tusk	2495	ELEPHANT TUSK	2			
+528	twenty	1710	TWENTY	2			
+529	twist	430	TWIST	2			
+530	two	1498	TWO	2			
+531	under, below	1485	BELOW OR UNDER	4			
+532	up there						
+533	up; ascend	705	GO UP (ASCEND)	4			
+534	uproot						
+535	urine	1142	URINE	2			
+536	vagina	1836	VAGINA	2			
+537	vegetable, leafy	924	VEGETABLES	4			
+538	veranda						
+539	village	930	VILLAGE	2			
+540	vomit	1278	VOMIT	2			
+541	waist	1681	WAIST	2			
+542	wait	1590	WAIT (FOR)	2			
+543	wake up	1602	WAKE UP	2			
+544	walk, move, go	695	GO	4			
+545	walking stick	1296	WALKING STICK	2			
+546	walnut	2042	WALNUT	2			
+547	warm, hot (adj.)	2272	HOT OR WARM	4			
+548	warm, hot (vi)	2032	WARM UP	4			
+549	wash	1453	WASH	2			
+550	water	948	WATER	2			
+551	wealthy						
+552	wear	976	WEAR	2			
+553	weave	133	WEAVE	2			
+554	weed, grass	606	GRASS	4			
+555	wet	1726	WET	2			
+556	wheat	1077	WHEAT	2			
+557	when	1238	WHEN	2			
+558	where	1237	WHERE	2			
+559	white	1335	WHITE	2			
+560	who	1235	WHO	2			
+561	wife	1199	WIFE	2			
+562	wind	960	WIND	2			
+563	window	1375	WINDOW	2			
+564	wing	1257	WING	2			
+565	wipe	1454	WIPE	2			
+566	woman	962	WOMAN	2			
+567	wood	1803	WOOD	2			
+568	wool	964	WOOL	2			
+569	word	1599	WORD	2			
+570	work	2525	LABOUR (EFFORT)	2	work without salary 		
+571	wring, squeeze	1414	SQUEEZE	4			
+572	year	1226	YEAR	2			
+573	year, next	515	NEXT YEAR	2			
+574	year, this	513	THIS YEAR	2			
+575	yellow	1424	YELLOW	2			
+576	yesterday	1174	YESTERDAY	2			
