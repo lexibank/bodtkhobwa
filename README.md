@@ -13,15 +13,15 @@ This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 85%](https://img.shields.io/badge/Concepticon-85%25-yellowgreen.svg "Concepticon: 85%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
+![BIPA: 12%](https://img.shields.io/badge/BIPA-12%25-red.svg "BIPA: 12%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 8
 - **Concepts:** 652
 - **Lexemes:** 3,958
 - **Synonymy:** 1.02
-- **Cognacy:** 0 cognates in 0 cognate sets
-- **Invalid lexemes:** 0
-- **Tokens:** 16,356
-- **Segments:** 232 (0 BIPA errors, 0 CTLS sound class errors, 232 CLTS modified)
-- **Inventory size (avg):** 82.88
+- **Cognacy:** 5,990 cognates in 916 cognate sets
+- **Invalid lexemes:** 5
+- **Tokens:** 6,253
+- **Segments:** 1,527 (1346 BIPA errors, 0 CTLS sound class errors, 115 CLTS modified)
+- **Inventory size (avg):** 426.12

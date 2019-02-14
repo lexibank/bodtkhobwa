@@ -6,6 +6,7 @@
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "dc:source": "sources.bib",
     "dc:title": "castrosui",
+    "dcat:accessURL": "https://github.com/lexibank/bodtkhobwa",
     "rdf:ID": "bodtkhobwa",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
@@ -15,8 +16,8 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "pyglottolog-1.2.1-77-g24ddcfb",
-                "concepticon_version": "pyconcepticon-1.4.0-63-g85acb1f"
+                "glottolog_version": "v3.3.2",
+                "concepticon_version": "pyconcepticon-1.4.0-59-gee7867b"
             }
         }
     ],
@@ -61,9 +62,12 @@
                         "name": "Form"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "([\\S]+)( [\\S]+)*"
+                        },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#segments",
-                        "separator": " ",
+                        "separator": " + ",
                         "name": "Segments"
                     },
                     {
@@ -196,7 +200,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 0,
+            "dc:extent": 6261,
             "tableSchema": {
                 "columns": [
                     {
@@ -247,6 +251,10 @@
                     {
                         "datatype": "string",
                         "name": "Alignment_Source"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Segment_Slice"
                     }
                 ],
                 "foreignKeys": [
