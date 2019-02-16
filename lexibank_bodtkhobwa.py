@@ -1,30 +1,23 @@
 from __future__ import unicode_literals, print_function
-from collections import OrderedDict, defaultdict
 
 import attr
-from clldutils.misc import slug
 from clldutils.path import Path
-from clldutils.text import split_text, strip_brackets
-from pylexibank.dataset import Dataset as BaseDataset
-from pylexibank.dataset import Concept, Language
+from csvw import Datatype
+from pylexibank.dataset import NonSplittingDataset, Cognate
 
 from lingpy import *
 from tqdm import tqdm
 
 
+@attr.s
+class KhobwaCognate(Cognate):
+    Segment_Slice = attr.ib(default=None)
 
-class Dataset(BaseDataset):
+
+class Dataset(NonSplittingDataset):
     id = 'bodtkhobwa'
     dir = Path(__file__).parent
-    concept_class = Concept
-    language_class = Language
-    
-
-    def split_forms(self, item, value):
-        """Override custom behavior: no splitting into multiple values.
-        This is done explicitly in the code"""
-        value = self.lexemes.get(value, value)
-        return [self.clean_form(item, form) for form in [value]]
+    cognate_class = KhobwaCognate
 
     def cmd_download(self, **kw):
         pass
@@ -37,7 +30,6 @@ class Dataset(BaseDataset):
         concepts = {}
 
         with self.cldf as ds:
-
             for concept in self.concepts:
                 ds.add_concept(
                         ID=concept['NUMBER'],
@@ -126,19 +118,29 @@ class Dataset(BaseDataset):
                     }
 
             # add data to cldf
+            ds['FormTable', 'Segments'].separator = ' + '
+            ds['FormTable', 'Segments'].datatype = Datatype.fromvalue({
+                "base": "string",
+                "format": "([\\S]+)( [\\S]+)*"
+            })
             for idx in tqdm(data, desc='cldf the data'):
-                segments = [mapper.get(x, x) for x in data[idx, 'tokens']]
-                segments = ' '.join(segments).split()
+                segments = ' '.join([mapper.get(x, x) for x in data[idx, 'tokens']])
+                morphemes = segments.split(' + ')
                 concept = concepts.get(data[idx, 'concept'], '')
-                ds.add_lexemes(
+                for lex in ds.add_lexemes(
                     Language_ID=data[idx, 'doculect'].lower(),
                     Parameter_ID=concept,
                     Form=data[idx, 'form'],
                     Value=data[idx, 'value'],
-                    Segments=segments,
+                    Segments=morphemes,
                     Source=['Bodt2019'],
                     #PhoneticValue=vals['phonetic']
-                    )
-
-
-
+                ):
+                    for morpheme_index, cogid in enumerate(data[idx, 'crossids']):
+                        if int(cogid):
+                            ds.add_cognate(
+                                lexeme=lex,
+                                Cognateset_ID=cogid,
+                                Segment_Slice=morpheme_index + 1,
+                                Alignment=data[idx, 'alignment'].split(' + ')[morpheme_index].split(),
+                            )

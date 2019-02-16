@@ -20,8 +20,8 @@ This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/
 - **Concepts:** 652
 - **Lexemes:** 3,958
 - **Synonymy:** 1.02
-- **Cognacy:** 0 cognates in 0 cognate sets
+- **Cognacy:** 5,990 cognates in 916 cognate sets
 - **Invalid lexemes:** 0
-- **Tokens:** 16,356
-- **Segments:** 232 (0 BIPA errors, 0 CTLS sound class errors, 232 CLTS modified)
-- **Inventory size (avg):** 82.88
+- **Tokens:** 14,052
+- **Segments:** 231 (0 BIPA errors, 0 CTLS sound class errors, 231 CLTS modified)
+- **Inventory size (avg):** 81.88
