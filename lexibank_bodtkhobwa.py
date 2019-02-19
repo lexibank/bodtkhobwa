@@ -137,10 +137,12 @@ class Dataset(NonSplittingDataset):
                     #PhoneticValue=vals['phonetic']
                 ):
                     for morpheme_index, cogid in enumerate(data[idx, 'crossids']):
+                        alignment = data[idx, 'alignment'].split(' + ')[morpheme_index].split()
+                        alignment = ' '.join([mapper.get(x, x) for x in alignment]).split()
                         if int(cogid):
                             ds.add_cognate(
                                 lexeme=lex,
                                 Cognateset_ID=cogid,
                                 Segment_Slice=morpheme_index + 1,
-                                Alignment=data[idx, 'alignment'].split(' + ')[morpheme_index].split(),
+                                Alignment=alignment,
                             )

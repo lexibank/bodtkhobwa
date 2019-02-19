@@ -14,9 +14,9 @@ duhumbi-2-1-2,duhumbi-2-1,na-ɹ,2,false,expert,,ɹ -,,,2
 rahung-2-1-1,rahung-2-1,na-ryː,5,false,expert,,n a,,,1
 rahung-2-1-2,rahung-2-1,na-ryː,2,false,expert,,r yː,,,2
 rupa-2-1-1,rupa-2-1,naː-bluŋ,5,false,expert,,n aː,,,1
-rupa-2-1-2,rupa-2-1,naː-bluŋ,1285,false,expert,,bl u ŋ,,,2
+rupa-2-1-2,rupa-2-1,naː-bluŋ,1285,false,expert,,b l u ŋ,,,2
 shergaon-2-1-1,shergaon-2-1,naː-bluŋ,5,false,expert,,n aː,,,1
-shergaon-2-1-2,shergaon-2-1,naː-bluŋ,1285,false,expert,,bl u ŋ,,,2
+shergaon-2-1-2,shergaon-2-1,naː-bluŋ,1285,false,expert,,b l u ŋ,,,2
 khispi-3-1-1,khispi-3-1,nal-tʰe,5,false,expert,,n a,,,1
 khispi-3-1-2,khispi-3-1,nal-tʰe,3,false,expert,,l,,,2
 khispi-3-1-3,khispi-3-1,nal-tʰe,4,false,expert,,tʰ e -,,,3
@@ -43,8 +43,8 @@ khoitam-4-1-1,khoitam-4-1,naŋ,6,false,expert,,n a ŋ,,,1
 rahung-4-1-1,rahung-4-1,naŋ,6,false,expert,,n a ŋ,,,1
 rupa-4-1-1,rupa-4-1,naŋ,6,false,expert,,n a ŋ,,,1
 shergaon-4-1-1,shergaon-4-1,naŋ,6,false,expert,,n a ŋ,,,1
-khispi-5-1-1,khispi-5-1,wuj,7,false,expert,,w uj,,,1
-duhumbi-5-1-1,duhumbi-5-1,wɔj,7,false,expert,,w ɔj,,,1
+khispi-5-1-1,khispi-5-1,wuj,7,false,expert,,w ui,,,1
+duhumbi-5-1-1,duhumbi-5-1,wɔj,7,false,expert,,w ɔi,,,1
 khoina-5-1-1,khoina-5-1,laŋ-waː,1191,false,expert,,l a ŋ,,,1
 khoina-5-1-2,khoina-5-1,laŋ-waː,7,false,expert,,w aː,,,2
 jerigaon-5-1-1,jerigaon-5-1,waː,7,false,expert,,w aː,,,1
@@ -103,8 +103,8 @@ khoitam-11-1-1,khoitam-11-1,ny-jɔ,64,false,expert,,n y,,,1
 khoitam-11-1-2,khoitam-11-1,ny-jɔ,48,false,expert,,j ɔ,,,2
 rahung-11-1-1,rahung-11-1,ny-jɔ,64,false,expert,,n y,,,1
 rahung-11-1-2,rahung-11-1,ny-jɔ,48,false,expert,,j ɔ,,,2
-rupa-11-1-1,rupa-11-1,ɲaw,518,false,expert,,ɲ aw,,,1
-shergaon-11-1-1,shergaon-11-1,ɲaw,518,false,expert,,ɲ aw,,,1
+rupa-11-1-1,rupa-11-1,ɲaw,518,false,expert,,ɲ au,,,1
+shergaon-11-1-1,shergaon-11-1,ɲaw,518,false,expert,,ɲ au,,,1
 khispi-12-1-1,khispi-12-1,-ɔ,67,false,expert,,ɔ,,,1
 duhumbi-12-1-1,duhumbi-12-1,-ɔˀ,67,false,expert,,ɔˀ,,,1
 khoitam-12-1-1,khoitam-12-1,-ɔ,67,false,expert,,ɔ,,,1
@@ -203,17 +203,17 @@ khispi-21-1-2,khispi-21-1,ʨʰu-pʰa,86,false,expert,,pʰ a,,,2
 duhumbi-21-1-1,duhumbi-21-1,ʨʰu-pʰaˀ,87,false,expert,,tɕʰ u,,,1
 duhumbi-21-1-2,duhumbi-21-1,ʨʰu-pʰaˀ,86,false,expert,,pʰ aˀ,,,2
 khoina-21-1-1,khoina-21-1,ʥɐ-pʰlu,87,false,expert,,dʑ ɐ,,,1
-khoina-21-1-2,khoina-21-1,ʥɐ-pʰlu,86,false,expert,,pʰl u,,,2
+khoina-21-1-2,khoina-21-1,ʥɐ-pʰlu,86,false,expert,,pʰ l u,,,2
 jerigaon-21-1-1,jerigaon-21-1,ʨʰɐ-pʰlu,87,false,expert,,tɕʰ ɐ,,,1
-jerigaon-21-1-2,jerigaon-21-1,ʨʰɐ-pʰlu,86,false,expert,,pʰl u,,,2
+jerigaon-21-1-2,jerigaon-21-1,ʨʰɐ-pʰlu,86,false,expert,,pʰ l u,,,2
 khoitam-21-1-1,khoitam-21-1,ʨʰa-pʰlu,87,false,expert,,tɕʰ a,,,1
-khoitam-21-1-2,khoitam-21-1,ʨʰa-pʰlu,86,false,expert,,pʰl u,,,2
+khoitam-21-1-2,khoitam-21-1,ʨʰa-pʰlu,86,false,expert,,pʰ l u,,,2
 rahung-21-1-1,rahung-21-1,ʨʰa-pʰru ~ ʨʰa-pʰlu,87,false,expert,,tɕʰ a,,,1
-rahung-21-1-2,rahung-21-1,ʨʰa-pʰru ~ ʨʰa-pʰlu,86,false,expert,,pʰr~pʰl/pʰr u,,,2
+rahung-21-1-2,rahung-21-1,ʨʰa-pʰru ~ ʨʰa-pʰlu,86,false,expert,,pʰr~pʰl/pʰ r u,,,2
 rupa-21-1-1,rupa-21-1,ʨʰa-pʰlu,87,false,expert,,tɕʰ a,,,1
-rupa-21-1-2,rupa-21-1,ʨʰa-pʰlu,86,false,expert,,pʰl u,,,2
+rupa-21-1-2,rupa-21-1,ʨʰa-pʰlu,86,false,expert,,pʰ l u,,,2
 shergaon-21-1-1,shergaon-21-1,ʨʰa-plu,87,false,expert,,tɕʰ a,,,1
-shergaon-21-1-2,shergaon-21-1,ʨʰa-plu,86,false,expert,,pl u,,,2
+shergaon-21-1-2,shergaon-21-1,ʨʰa-plu,86,false,expert,,p l u,,,2
 khispi-22-1-1,khispi-22-1,ʥik,88,false,expert,,dʑ i k,,,1
 duhumbi-22-1-1,duhumbi-22-1,ʥik,88,false,expert,,dʑ i k,,,1
 khoina-22-1-1,khoina-22-1,ʐik,88,false,expert,,ʐ i k,,,1
@@ -236,12 +236,12 @@ rupa-24-1-1,rupa-24-1,zoː,90,false,expert,,z oː -,,,1
 shergaon-24-1-1,shergaon-24-1,zoː,90,false,expert,,z oː -,,,1
 khispi-25-1-1,khispi-25-1,pʰa,92,false,expert,,pʰ a,,,1
 duhumbi-25-1-1,duhumbi-25-1,pʰa,92,false,expert,,pʰ a,,,1
-khoina-25-1-1,khoina-25-1,pʰu-luˀ,92,false,expert,,pʰl uˀ,,,1
-jerigaon-25-1-1,jerigaon-25-1,pʰluˀ,92,false,expert,,pʰl uˀ,,,1
-khoitam-25-1-1,khoitam-25-1,pʰluˀ,92,false,expert,,pʰl uˀ,,,1
-rahung-25-1-1,rahung-25-1,pʰɹuˀ,92,false,expert,,pʰɹ uˀ,,,1
-rupa-25-1-1,rupa-25-1,pʰluˀ,92,false,expert,,pʰl uˀ,,,1
-shergaon-25-1-1,shergaon-25-1,pʰluˀ,92,false,expert,,pʰl uˀ,,,1
+khoina-25-1-1,khoina-25-1,pʰu-luˀ,92,false,expert,,pʰ l uˀ,,,1
+jerigaon-25-1-1,jerigaon-25-1,pʰluˀ,92,false,expert,,pʰ l uˀ,,,1
+khoitam-25-1-1,khoitam-25-1,pʰluˀ,92,false,expert,,pʰ l uˀ,,,1
+rahung-25-1-1,rahung-25-1,pʰɹuˀ,92,false,expert,,pʰ ɹ uˀ,,,1
+rupa-25-1-1,rupa-25-1,pʰluˀ,92,false,expert,,pʰ l uˀ,,,1
+shergaon-25-1-1,shergaon-25-1,pʰluˀ,92,false,expert,,pʰ l uˀ,,,1
 khoina-26-1-1,khoina-26-1,na-guŋ,95,false,expert,,n a,,,1
 khoina-26-1-2,khoina-26-1,na-guŋ,94,false,expert,,g u ŋ,,,2
 jerigaon-26-1-1,jerigaon-26-1,na-kuŋ,95,false,expert,,n a,,,1
@@ -281,8 +281,8 @@ rahung-28-2-1,rahung-28-2,a-nu,56,false,expert,,a,,,1
 rahung-28-2-2,rahung-28-2,a-nu,239,false,expert,,n u,,,2
 rupa-28-2-1,rupa-28-2,a-ɲu,56,false,expert,,a,,,1
 rupa-28-2-2,rupa-28-2,a-ɲu,239,false,expert,,ɲ u,,,2
-khispi-29-1-1,khispi-29-1,mej,102,false,expert,,m ej,,,1
-duhumbi-29-1-1,duhumbi-29-1,mɛj,102,false,expert,,m ɛj,,,1
+khispi-29-1-1,khispi-29-1,mej,102,false,expert,,m ei,,,1
+duhumbi-29-1-1,duhumbi-29-1,mɛj,102,false,expert,,m ɛi,,,1
 khoina-29-1-1,khoina-29-1,maː,102,false,expert,,m aː,,,1
 jerigaon-29-1-1,jerigaon-29-1,mɛˀ,102,false,expert,,m ɛˀ,,,1
 khoitam-29-1-1,khoitam-29-1,mɛˀ,102,false,expert,,m ɛˀ,,,1
@@ -305,34 +305,34 @@ khispi-31-1-1,khispi-31-1,pʰɔk,106,false,expert,,pʰ ɔ k,,,1
 duhumbi-31-1-1,duhumbi-31-1,pʰɔk,106,false,expert,,pʰ ɔ k,,,1
 khoina-31-1-1,khoina-31-1,pʰuk (dakløː),106,false,expert,,pʰ u k,,,1
 khoina-31-1-2,khoina-31-1,pʰuk (dakløː),556,false,expert,,d a,,,2
-khoina-31-1-3,khoina-31-1,pʰuk (dakløː),563,false,expert,,kl øː,,,3
+khoina-31-1-3,khoina-31-1,pʰuk (dakløː),563,false,expert,,k l øː,,,3
 jerigaon-31-1-1,jerigaon-31-1,pʰuk,106,false,expert,,pʰ u k,,,1
 khoitam-31-1-1,khoitam-31-1,pʰuk,106,false,expert,,pʰ u k,,,1
 rahung-31-1-1,rahung-31-1,pʰuk,106,false,expert,,pʰ u k,,,1
 rupa-31-1-1,rupa-31-1,pʰuk,106,false,expert,,pʰ u k,,,1
 shergaon-31-1-1,shergaon-31-1,pʰuk,106,false,expert,,pʰ u k,,,1
-khispi-32-1-1,khispi-32-1,daw-la,108,false,expert,,d aw,,,1
+khispi-32-1-1,khispi-32-1,daw-la,108,false,expert,,d au,,,1
 khispi-32-1-2,khispi-32-1,daw-la,107,false,expert,,l a,,,2
-duhumbi-32-1-1,duhumbi-32-1,dow-la,108,false,expert,,d ɔw,,,1
+duhumbi-32-1-1,duhumbi-32-1,dow-la,108,false,expert,,d ɔu,,,1
 duhumbi-32-1-2,duhumbi-32-1,dow-la,107,false,expert,,l a,,,2
 khoina-32-1-1,khoina-32-1,də-pʰlɐːʰ,108,false,expert,,d ə,,,1
-khoina-32-1-2,khoina-32-1,də-pʰlɐːʰ,107,false,expert,,pʰl ɐːʰ,,,2
+khoina-32-1-2,khoina-32-1,də-pʰlɐːʰ,107,false,expert,,pʰ l ɐːʰ/ɐ,,,2
 jerigaon-32-1-1,jerigaon-32-1,du-flɐːʰ,108,false,expert,,d u,,,1
-jerigaon-32-1-2,jerigaon-32-1,du-flɐːʰ,107,false,expert,,fl ɐːʰ,,,2
+jerigaon-32-1-2,jerigaon-32-1,du-flɐːʰ,107,false,expert,,f l ɐːʰ/ɐ,,,2
 khoitam-32-1-1,khoitam-32-1,du-pʰlɔːʰ,108,false,expert,,d u,,,1
-khoitam-32-1-2,khoitam-32-1,du-pʰlɔːʰ,107,false,expert,,pʰl ɔːʰ,,,2
+khoitam-32-1-2,khoitam-32-1,du-pʰlɔːʰ,107,false,expert,,pʰ l ɔːʰ/ɔː,,,2
 rahung-32-1-1,rahung-32-1,da-pʰlɔːʰ,108,false,expert,,d a,,,1
-rahung-32-1-2,rahung-32-1,da-pʰlɔːʰ,107,false,expert,,pʰl ɔːʰ,,,2
+rahung-32-1-2,rahung-32-1,da-pʰlɔːʰ,107,false,expert,,pʰ l ɔːʰ/ɔː,,,2
 rupa-32-1-1,rupa-32-1,də-pʰlɔːʰ,108,false,expert,,d ə,,,1
-rupa-32-1-2,rupa-32-1,də-pʰlɔːʰ,107,false,expert,,pʰl ɔːʰ,,,2
+rupa-32-1-2,rupa-32-1,də-pʰlɔːʰ,107,false,expert,,pʰ l ɔːʰ/ɔː,,,2
 shergaon-32-1-1,shergaon-32-1,də-pʰlɔː,108,false,expert,,d ə,,,1
-shergaon-32-1-2,shergaon-32-1,də-pʰlɔː,107,false,expert,,pʰl ɔː,,,2
+shergaon-32-1-2,shergaon-32-1,də-pʰlɔː,107,false,expert,,pʰ l ɔː,,,2
 khispi-33-1-1,khispi-33-1,pʰa-baŋ,111,false,expert,,pʰ a,,,1
 khispi-33-1-2,khispi-33-1,pʰa-baŋ,573,false,expert,,b a ŋ,,,2
 duhumbi-33-1-1,duhumbi-33-1,pʰa-waŋ,111,false,expert,,pʰ a,,,1
 duhumbi-33-1-2,duhumbi-33-1,pʰa-waŋ,573,false,expert,,w a ŋ,,,2
 khoina-33-1-1,khoina-33-1,ʥə-pʰlɔ̃ː,110,false,expert,,dʑ ə -,,,1
-khoina-33-1-2,khoina-33-1,ʥə-pʰlɔ̃ː,109,false,expert,,pʰl ɔ̃ː -,,,2
+khoina-33-1-2,khoina-33-1,ʥə-pʰlɔ̃ː,109,false,expert,,pʰ l ɔ̃ː -,,,2
 jerigaon-33-1-1,jerigaon-33-1,ʨʰa-pʰɔ̃ː,110,false,expert,,tɕʰ a -,,,1
 jerigaon-33-1-2,jerigaon-33-1,ʨʰa-pʰɔ̃ː,109,false,expert,,pʰ ɔ̃ː -,,,2
 khoitam-33-1-1,khoitam-33-1,pʰɔː-waŋ,111,false,expert,,pʰ ɔː,,,1
@@ -340,7 +340,7 @@ khoitam-33-1-2,khoitam-33-1,pʰɔː-waŋ,573,false,expert,,w a ŋ,,,2
 rahung-33-1-1,rahung-33-1,ʨʰam-pʰɔm,110,false,expert,,tɕʰ a m,,,1
 rahung-33-1-2,rahung-33-1,ʨʰam-pʰɔm,109,false,expert,,pʰ ɔ m,,,2
 rupa-33-1-1,rupa-33-1,ʨʰam-pʰlaː ~ ʦʰam-pʰlɔ̃ː,110,false,expert,,ʦʰ~tɕʰ/tɕʰ a m,,,1
-rupa-33-1-2,rupa-33-1,ʨʰam-pʰlaː ~ ʦʰam-pʰlɔ̃ː,109,false,expert,,pʰl aː~ɔ̃ː/ɔ̃ː -,,,2
+rupa-33-1-2,rupa-33-1,ʨʰam-pʰlaː ~ ʦʰam-pʰlɔ̃ː,109,false,expert,,pʰ l aː~ɔ̃ː/ɔ̃ː -,,,2
 shergaon-33-1-1,shergaon-33-1,paŋ-paŋ,573,false,expert,,p a ŋ,,,1
 shergaon-33-1-2,shergaon-33-1,paŋ-paŋ,10000,false,expert,,p a ŋ,,,2
 khispi-34-1-1,khispi-34-1,pʰo-bin,112,false,expert,,pʰ o -,,,1
@@ -354,7 +354,7 @@ khoitam-34-1-2,khoitam-34-1,pʰɔm-bɛ,113,false,expert,,b ɛ -,,,2
 rahung-34-1-1,rahung-34-1,pʰam-bɛ,112,false,expert,,pʰ a m,,,1
 rahung-34-1-2,rahung-34-1,pʰam-bɛ,113,false,expert,,b ɛ -,,,2
 rupa-34-1-1,rupa-34-1,pʰam-pʰla,112,false,expert,,pʰ a m,,,1
-rupa-34-1-2,rupa-34-1,pʰam-pʰla,113,false,expert,,pʰl a -,,,2
+rupa-34-1-2,rupa-34-1,pʰam-pʰla,113,false,expert,,pʰ l a -,,,2
 khispi-35-1-1,khispi-35-1,ɕa-tʰɔm,115,false,expert,,ɕ a,,,1
 khispi-35-1-2,khispi-35-1,ɕa-tʰɔm,114,false,expert,,tʰ ɔ m,,,2
 duhumbi-35-1-1,duhumbi-35-1,ɕa-tʰɔm,115,false,expert,,ɕ a,,,1
@@ -398,7 +398,7 @@ duhumbi-38-1-3,duhumbi-38-1,ʨʰi-kʰus a-ma,124,false,expert,,a,,,3
 duhumbi-38-1-4,duhumbi-38-1,ʨʰi-kʰus a-ma,121,false,expert,,m a -,,,4
 khoina-38-1-1,khoina-38-1,ʨʰə-xø-mɐːʰ,123,false,expert,,tɕʰ ə -,,,1
 khoina-38-1-2,khoina-38-1,ʨʰə-xø-mɐːʰ,122,false,expert,,x ø -,,,2
-khoina-38-1-3,khoina-38-1,ʨʰə-xø-mɐːʰ,121,false,expert,,m ɐːʰ -,,,3
+khoina-38-1-3,khoina-38-1,ʨʰə-xø-mɐːʰ,121,false,expert,,m ɐːʰ/ɐ -,,,3
 jerigaon-38-1-1,jerigaon-38-1,ʨʰə-kʰø-muː,123,false,expert,,tɕʰ ə -,,,1
 jerigaon-38-1-2,jerigaon-38-1,ʨʰə-kʰø-muː,122,false,expert,,kʰ ø -,,,2
 jerigaon-38-1-3,jerigaon-38-1,ʨʰə-kʰø-muː,121,false,expert,,m uː -,,,3
@@ -418,7 +418,7 @@ khoina-39-1-1,khoina-39-1,tʰɔk,125,false,expert,,tʰ ɔ k,,,1
 jerigaon-39-1-1,jerigaon-39-1,tʰɔk,125,false,expert,,tʰ ɔ k,,,1
 khoitam-39-1-1,khoitam-39-1,tʰɔk,125,false,expert,,tʰ ɔ k,,,1
 rahung-39-1-1,rahung-39-1,tʰɔk(-bɹoː),125,false,expert,,tʰ ɔ k,,,1
-rahung-39-1-2,rahung-39-1,tʰɔk(-bɹoː),604,false,expert,,bɹ oː,,,2
+rahung-39-1-2,rahung-39-1,tʰɔk(-bɹoː),604,false,expert,,b ɹ oː,,,2
 rupa-39-1-1,rupa-39-1,tʰɔk,125,false,expert,,tʰ ɔ k,,,1
 shergaon-39-1-1,shergaon-39-1,(kʰi-)tʰɔk,590,false,expert,,kʰ i,,,1
 shergaon-39-1-2,shergaon-39-1,(kʰi-)tʰɔk,125,false,expert,,tʰ ɔ k,,,2
@@ -490,8 +490,8 @@ shergaon-44-1-2,shergaon-44-1,a-dɔk,138,false,expert,,d ɔ k,,,2
 khispi-45-1-1,khispi-45-1,dɔŋ,139,false,expert,,d ɔ ŋ,,,1
 duhumbi-45-1-1,duhumbi-45-1,dɔŋ,139,false,expert,,d ɔ ŋ,,,1
 khoina-45-1-1,khoina-45-1,ruŋ,139,false,expert,,r u ŋ,,,1
-khispi-46-1-1,khispi-46-1,hwa,140,false,expert,,hw a,,,1
-duhumbi-46-1-1,duhumbi-46-1,hwa,140,false,expert,,hw a,,,1
+khispi-46-1-1,khispi-46-1,hwa,140,false,expert,,h w a,,,1
+duhumbi-46-1-1,duhumbi-46-1,hwa,140,false,expert,,h w a,,,1
 khoina-46-1-1,khoina-46-1,fuː,140,false,expert,,f uː,,,1
 jerigaon-46-1-1,jerigaon-46-1,huː,140,false,expert,,h uː,,,1
 khoitam-46-1-1,khoitam-46-1,huː,140,false,expert,,h uː,,,1
@@ -499,7 +499,7 @@ rahung-46-1-1,rahung-46-1,huː,140,false,expert,,h uː,,,1
 rupa-46-1-1,rupa-46-1,huː,140,false,expert,,h uː,,,1
 shergaon-46-1-1,shergaon-46-1,huː,140,false,expert,,h uː,,,1
 khispi-47-1-1,khispi-47-1,zɛk,142,false,expert,,z ɛ k,,,1
-duhumbi-47-1-1,duhumbi-47-1,zjɛk,142,false,expert,,zj ɛ k,,,1
+duhumbi-47-1-1,duhumbi-47-1,zjɛk,142,false,expert,,z j ɛ k,,,1
 khoitam-47-1-1,khoitam-47-1,zɛk,142,false,expert,,z ɛ k,,,1
 rahung-47-1-1,rahung-47-1,zɛk,142,false,expert,,z ɛ k,,,1
 rupa-47-1-1,rupa-47-1,zɛk,142,false,expert,,z ɛ k,,,1
@@ -530,13 +530,13 @@ rupa-49-1-1,rupa-49-1,a-ʨʰũː,56,false,expert,,a,,,1
 rupa-49-1-2,rupa-49-1,a-ʨʰũː,145,false,expert,,tɕʰ ũː -,,,2
 shergaon-49-1-1,shergaon-49-1,a-ʨʰɔ̃ː,56,false,expert,,a,,,1
 shergaon-49-1-2,shergaon-49-1,a-ʨʰɔ̃ː,145,false,expert,,tɕʰ ɔ̃ː -,,,2
-khispi-50-1-1,khispi-50-1,huj,147,false,expert,,h uj,,,1
-duhumbi-50-1-1,duhumbi-50-1,hɔj,147,false,expert,,h ɔj,,,1
+khispi-50-1-1,khispi-50-1,huj,147,false,expert,,h ui,,,1
+duhumbi-50-1-1,duhumbi-50-1,hɔj,147,false,expert,,h ɔi,,,1
 khoina-50-1-1,khoina-50-1,xaː,147,false,expert,,x aː,,,1
-jerigaon-50-1-1,jerigaon-50-1,hɛːʰ,147,false,expert,,h ɛːʰ,,,1
-khoitam-50-1-1,khoitam-50-1,hɛːʰ,147,false,expert,,h ɛːʰ,,,1
-rahung-50-1-1,rahung-50-1,hɛːʰ,147,false,expert,,h ɛːʰ,,,1
-rupa-50-1-1,rupa-50-1,haːʰ,147,false,expert,,h aːʰ,,,1
+jerigaon-50-1-1,jerigaon-50-1,hɛːʰ,147,false,expert,,h ɛːʰ/ɛː,,,1
+khoitam-50-1-1,khoitam-50-1,hɛːʰ,147,false,expert,,h ɛːʰ/ɛː,,,1
+rahung-50-1-1,rahung-50-1,hɛːʰ,147,false,expert,,h ɛːʰ/ɛː,,,1
+rupa-50-1-1,rupa-50-1,haːʰ,147,false,expert,,h aːʰ/aː,,,1
 shergaon-50-1-1,shergaon-50-1,haː,147,false,expert,,h aː,,,1
 khispi-51-1-1,khispi-51-1,hut,149,false,expert,,h u t,,,1
 duhumbi-51-1-1,duhumbi-51-1,hut,149,false,expert,,h u t,,,1
@@ -565,16 +565,16 @@ rupa-53-1-1,rupa-53-1,s-kan,153,false,expert,,s -,,,1
 rupa-53-1-2,rupa-53-1,s-kan,152,false,expert,,k a n,,,2
 shergaon-53-1-1,shergaon-53-1,s-kan,153,false,expert,,s -,,,1
 shergaon-53-1-2,shergaon-53-1,s-kan,152,false,expert,,k a n,,,2
-khispi-54-1-1,khispi-54-1,ʨʰɔw,154,false,expert,,tɕʰ ɔw,,,1
-duhumbi-54-1-1,duhumbi-54-1,ʨʰɔw,154,false,expert,,tɕʰ ɔw,,,1
+khispi-54-1-1,khispi-54-1,ʨʰɔw,154,false,expert,,tɕʰ ɔu,,,1
+duhumbi-54-1-1,duhumbi-54-1,ʨʰɔw,154,false,expert,,tɕʰ ɔu,,,1
 jerigaon-54-1-1,jerigaon-54-1,ʨʰɔ,154,false,expert,,tɕʰ ɔ,,,1
 khoitam-54-1-1,khoitam-54-1,ʨʰɔ,154,false,expert,,tɕʰ ɔ,,,1
 rahung-54-1-1,rahung-54-1,ʨʰo,154,false,expert,,tɕʰ o,,,1
-rupa-54-1-1,rupa-54-1,ʦʰaw ~ ʨʰaw,154,false,expert,,ʦʰ~ʨʰ/ʨʰ aw,,,1
-shergaon-54-1-1,shergaon-54-1,ʨʰaw,154,false,expert,,tɕʰ aw,,,1
+rupa-54-1-1,rupa-54-1,ʦʰaw ~ ʨʰaw,154,false,expert,,ʦʰ~ʨʰ/ʨʰ au,,,1
+shergaon-54-1-1,shergaon-54-1,ʨʰaw,154,false,expert,,tɕʰ au,,,1
 khispi-55-1-1,khispi-55-1,kʰaŋ-pa ~ kʰlaŋ-pa,155,false,expert,,kʰ~kʰl/kʰ a ŋ,,,1
 khispi-55-1-2,khispi-55-1,kʰaŋ-pa ~ kʰlaŋ-pa,28,false,expert,,p a,,,2
-duhumbi-55-1-1,duhumbi-55-1,kʰɹaŋ-pa,155,false,expert,,kʰɹ a ŋ,,,1
+duhumbi-55-1-1,duhumbi-55-1,kʰɹaŋ-pa,155,false,expert,,kʰ ɹ a ŋ,,,1
 duhumbi-55-1-2,duhumbi-55-1,kʰɹaŋ-pa,28,false,expert,,p a,,,2
 khoina-55-1-1,khoina-55-1,gə-kʰaŋ,27,false,expert,,g ə -,,,1
 khoina-55-1-2,khoina-55-1,gə-kʰaŋ,155,false,expert,,kʰ a ŋ,,,2
@@ -600,9 +600,9 @@ rupa-56-1-1,rupa-56-1,s-kik,159,false,expert,,s -,,,1
 rupa-56-1-2,rupa-56-1,s-kik,158,false,expert,,k i k,,,2
 shergaon-56-1-1,shergaon-56-1,s-kit,159,false,expert,,s -,,,1
 shergaon-56-1-2,shergaon-56-1,s-kit,158,false,expert,,k i t,,,2
-khispi-57-1-1,khispi-57-1,luj,162,false,expert,,l uj,,,1
-duhumbi-57-1-1,duhumbi-57-1,lɔj,162,false,expert,,l ɔj,,,1
-khoitam-57-1-1,khoitam-57-1,lɛːʰ,162,false,expert,,l ɛːʰ,,,1
+khispi-57-1-1,khispi-57-1,luj,162,false,expert,,l ui,,,1
+duhumbi-57-1-1,duhumbi-57-1,lɔj,162,false,expert,,l ɔi,,,1
+khoitam-57-1-1,khoitam-57-1,lɛːʰ,162,false,expert,,l ɛːʰ/ɛː,,,1
 rupa-57-1-1,rupa-57-1,laː,162,false,expert,,l aː,,,1
 khispi-57-2-1,khispi-57-2,kʰi,161,false,expert,,kʰ i,,,1
 duhumbi-57-2-1,duhumbi-57-2,kʰi,161,false,expert,,kʰ i,,,1
@@ -714,9 +714,9 @@ rupa-67-1-2,rupa-67-1,a-bu,177,false,expert,,b u,,,2
 shergaon-67-1-1,shergaon-67-1,a-bu,124,false,expert,,a,,,1
 shergaon-67-1-2,shergaon-67-1,a-bu,177,false,expert,,b u,,,2
 khispi-68-1-1,khispi-68-1,a-lej ~ a-li,124,false,expert,,a,,,1
-khispi-68-1-2,khispi-68-1,a-lej ~ a-li,183,false,expert,,l ej~i/ej,,,2
+khispi-68-1-2,khispi-68-1,a-lej ~ a-li,183,false,expert,,l ej~i/ei,,,2
 duhumbi-68-1-1,duhumbi-68-1,a-lɛj,124,false,expert,,a,,,1
-duhumbi-68-1-2,duhumbi-68-1,a-lɛj,183,false,expert,,l ɛj,,,2
+duhumbi-68-1-2,duhumbi-68-1,a-lɛj,183,false,expert,,l ɛi,,,2
 khoina-68-1-1,khoina-68-1,a-raː,124,false,expert,,a,,,1
 khoina-68-1-2,khoina-68-1,a-raː,183,false,expert,,r aː,,,2
 jerigaon-68-1-1,jerigaon-68-1,a-rɛː,124,false,expert,,a,,,1
@@ -730,9 +730,9 @@ rupa-68-1-2,rupa-68-1,a-raː,183,false,expert,,r aː,,,2
 shergaon-68-1-1,shergaon-68-1,a-raː,124,false,expert,,a,,,1
 shergaon-68-1-2,shergaon-68-1,a-raː,183,false,expert,,r aː,,,2
 khispi-69-1-1,khispi-69-1,ɔ-nɔw,91,false,expert,,ɔ,,,1
-khispi-69-1-2,khispi-69-1,ɔ-nɔw,181,false,expert,,n ɔw,,,2
+khispi-69-1-2,khispi-69-1,ɔ-nɔw,181,false,expert,,n ɔu,,,2
 duhumbi-69-1-1,duhumbi-69-1,ɔ-nɔw,91,false,expert,,ɔ,,,1
-duhumbi-69-1-2,duhumbi-69-1,ɔ-nɔw,181,false,expert,,n ɔw,,,2
+duhumbi-69-1-2,duhumbi-69-1,ɔ-nɔw,181,false,expert,,n ɔu,,,2
 jerigaon-69-1-1,jerigaon-69-1,a-nuː,91,false,expert,,a,,,1
 jerigaon-69-1-2,jerigaon-69-1,a-nuː,181,false,expert,,n uː,,,2
 khoitam-69-1-1,khoitam-69-1,a-nuː,91,false,expert,,a,,,1
@@ -795,8 +795,8 @@ rupa-73-1-1,rupa-73-1,sə-luŋ,11,false,expert,,s ə,,,1
 rupa-73-1-2,rupa-73-1,sə-luŋ,12,false,expert,,l u ŋ,,,2
 shergaon-73-1-1,shergaon-73-1,su-luŋ,11,false,expert,,s u,,,1
 shergaon-73-1-2,shergaon-73-1,su-luŋ,12,false,expert,,l u ŋ,,,2
-khispi-74-1-1,khispi-74-1,haj,193,false,expert,,h aj,,,1
-duhumbi-74-1-1,duhumbi-74-1,haj,193,false,expert,,h aj,,,1
+khispi-74-1-1,khispi-74-1,haj,193,false,expert,,h ai,,,1
+duhumbi-74-1-1,duhumbi-74-1,haj,193,false,expert,,h ai,,,1
 khoina-74-1-1,khoina-74-1,ha,193,false,expert,,h a,,,1
 jerigaon-74-1-1,jerigaon-74-1,hɛ,193,false,expert,,h ɛ,,,1
 khoitam-74-1-1,khoitam-74-1,hɛ,193,false,expert,,h ɛ,,,1
@@ -820,19 +820,19 @@ duhumbi-77-1-1,duhumbi-77-1,(pɛm-)pi-liŋ,627,false,expert,,p ɛ m,,,1
 duhumbi-77-1-2,duhumbi-77-1,(pɛm-)pi-liŋ,197,false,expert,,p i -,,,2
 duhumbi-77-1-3,duhumbi-77-1,(pɛm-)pi-liŋ,93,false,expert,,l i ŋ,,,3
 khoina-77-1-1,khoina-77-1,ʦʰam-pʰlɔ̃ː,198,false,expert,,tsʰ a m,,,1
-khoina-77-1-2,khoina-77-1,ʦʰam-pʰlɔ̃ː,628,false,expert,,pʰl ɔ̃ː,,,2
+khoina-77-1-2,khoina-77-1,ʦʰam-pʰlɔ̃ː,628,false,expert,,pʰ l ɔ̃ː,,,2
 jerigaon-77-1-1,jerigaon-77-1,ʨʰam-blɔ̃ː ~ ʨʰam-pʰlɔ̃ː,198,false,expert,,tɕʰ a m,,,1
-jerigaon-77-1-2,jerigaon-77-1,ʨʰam-blɔ̃ː ~ ʨʰam-pʰlɔ̃ː,628,false,expert,,pʰl~bl/pʰl ɔ̃ː,,,2
+jerigaon-77-1-2,jerigaon-77-1,ʨʰam-blɔ̃ː ~ ʨʰam-pʰlɔ̃ː,628,false,expert,,pʰl~bl/pʰ l ɔ̃ː,,,2
 khoitam-77-1-1,khoitam-77-1,ʨʰam-pʰlɔː,198,false,expert,,tɕʰ a m,,,1
-khoitam-77-1-2,khoitam-77-1,ʨʰam-pʰlɔː,628,false,expert,,pʰl ɔː,,,2
+khoitam-77-1-2,khoitam-77-1,ʨʰam-pʰlɔː,628,false,expert,,pʰ l ɔː,,,2
 rahung-77-1-1,rahung-77-1,ʨʰam-pʰɔɹ,198,false,expert,,tɕʰ a m,,,1
 rahung-77-1-2,rahung-77-1,ʨʰam-pʰɔɹ,630,false,expert,,pʰ ɔ ɹ,,,2
 rupa-77-1-1,rupa-77-1,ʦam-pyŋ ~ ʨam-pyŋ,198,false,expert,,ts~ʨ/ʨ a m,,,1
 rupa-77-1-2,rupa-77-1,ʦam-pyŋ ~ ʨam-pyŋ,197,false,expert,,p y ŋ,,,2
 shergaon-77-1-1,shergaon-77-1,ʨʰam-pliŋ,198,false,expert,,tɕʰ a m,,,1
-shergaon-77-1-2,shergaon-77-1,ʨʰam-pliŋ,197,false,expert,,pl i ŋ,,,2
-khispi-78-1-1,khispi-78-1,ɕej,199,false,expert,,ɕ ej,,,1
-duhumbi-78-1-1,duhumbi-78-1,ɕɛj,199,false,expert,,ɕ ɛj,,,1
+shergaon-77-1-2,shergaon-77-1,ʨʰam-pliŋ,197,false,expert,,p l i ŋ,,,2
+khispi-78-1-1,khispi-78-1,ɕej,199,false,expert,,ɕ ei,,,1
+duhumbi-78-1-1,duhumbi-78-1,ɕɛj,199,false,expert,,ɕ ɛi,,,1
 khoina-78-1-1,khoina-78-1,ʦʰaː,199,false,expert,,tsʰ aː,,,1
 jerigaon-78-1-1,jerigaon-78-1,ʨʰɛː ~ ʨʰaː,199,false,expert,,tɕʰ ɛː~aː/aː,,,1
 khoitam-78-1-1,khoitam-78-1,ʨʰɛː,199,false,expert,,tɕʰ ɛː,,,1
@@ -928,14 +928,14 @@ rupa-86-1-1,rupa-86-1,ba-kʰɔ̃ː,211,false,expert,,b a -,,,1
 rupa-86-1-2,rupa-86-1,ba-kʰɔ̃ː,210,false,expert,,kʰ ɔ̃ː -,,,2
 shergaon-86-1-1,shergaon-86-1,ba-kʰɔ̃ː,211,false,expert,,b a -,,,1
 shergaon-86-1-2,shergaon-86-1,ba-kʰɔ̃ː,210,false,expert,,kʰ ɔ̃ː -,,,2
-duhumbi-87-1-1,duhumbi-87-1,mɔw,214,false,expert,,m ɔw,,,1
+duhumbi-87-1-1,duhumbi-87-1,mɔw,214,false,expert,,m ɔu,,,1
 khoina-87-1-1,khoina-87-1,ma-wɔ,214,false,expert,,m a,,,1
 khoina-87-1-2,khoina-87-1,ma-wɔ,215,false,expert,,w ɔ,,,2
 khoitam-87-1-1,khoitam-87-1,mu-wɔ,214,false,expert,,m u,,,1
 khoitam-87-1-2,khoitam-87-1,mu-wɔ,215,false,expert,,w ɔ,,,2
-rahung-87-1-1,rahung-87-1,mow  ~ mo,214,false,expert,,m ow,,,1
+rahung-87-1-1,rahung-87-1,mow  ~ mo,214,false,expert,,m ou,,,1
 rupa-87-1-1,rupa-87-1,mə-jaw,214,false,expert,,m ə,,,1
-rupa-87-1-2,rupa-87-1,mə-jaw,215,false,expert,,j aw,,,2
+rupa-87-1-2,rupa-87-1,mə-jaw,215,false,expert,,j au,,,2
 khispi-88-1-1,khispi-88-1,ka,217,false,expert,,k a,,,1
 duhumbi-88-1-1,duhumbi-88-1,ka,217,false,expert,,k a,,,1
 khoina-88-1-1,khoina-88-1,kaˀ,217,false,expert,,k aˀ,,,1
@@ -943,7 +943,7 @@ jerigaon-88-1-1,jerigaon-88-1,kaˀ,217,false,expert,,k aˀ,,,1
 khoitam-88-1-1,khoitam-88-1,ka,217,false,expert,,k a,,,1
 rahung-88-1-1,rahung-88-1,ka,217,false,expert,,k a,,,1
 rupa-88-1-1,rupa-88-1,ku ~ kuː,217,false,expert,,k u,,,1
-khispi-89-1-1,khispi-89-1,hwa-kʰi,219,false,expert,,hw a,,,1
+khispi-89-1-1,khispi-89-1,hwa-kʰi,219,false,expert,,h w a,,,1
 khispi-89-1-2,khispi-89-1,hwa-kʰi,218,false,expert,,kʰ i,,,2
 duhumbi-89-1-1,duhumbi-89-1,hɔː-ki ~ hu-ki,219,false,expert,,h ɔː~u/ɔː,,,1
 duhumbi-89-1-2,duhumbi-89-1,hɔː-ki ~ hu-ki,218,false,expert,,k i,,,2
@@ -1154,22 +1154,22 @@ khoina-110-1-1,khoina-110-1,(i-i-)rɔː,263,false,expert,,r ɔː,,,1
 jerigaon-110-1-1,jerigaon-110-1,rɔː,263,false,expert,,r ɔː,,,1
 khoitam-110-1-1,khoitam-110-1,rɔː,263,false,expert,,r ɔː,,,1
 rahung-110-1-1,rahung-110-1,roː,263,false,expert,,r oː,,,1
-rupa-110-1-1,rupa-110-1,raw,263,false,expert,,r aw,,,1
-shergaon-110-1-1,shergaon-110-1,raw,263,false,expert,,r aw,,,1
+rupa-110-1-1,rupa-110-1,raw,263,false,expert,,r au,,,1
+shergaon-110-1-1,shergaon-110-1,raw,263,false,expert,,r au,,,1
 duhumbi-111-1-1,duhumbi-111-1,kam-bɛj bu,133,false,expert,,k a m,,,1
-duhumbi-111-1-2,duhumbi-111-1,kam-bɛj bu,571,false,expert,,b ɛj,,,2
+duhumbi-111-1-2,duhumbi-111-1,kam-bɛj bu,571,false,expert,,b ɛi,,,2
 duhumbi-111-1-3,duhumbi-111-1,kam-bɛj bu,487,false,expert,,b u,,,3
 khoina-111-1-1,khoina-111-1,xɐm-pʰɐ,266,false,expert,,x ɐ m,,,1
 khoina-111-1-2,khoina-111-1,xɐm-pʰɐ,265,false,expert,,pʰ ɐ,,,2
 jerigaon-111-1-1,jerigaon-111-1,hɐm-pʰɐ,266,false,expert,,h ɐ m,,,1
 jerigaon-111-1-2,jerigaon-111-1,hɐm-pʰɐ,265,false,expert,,pʰ ɐ,,,2
 khoitam-111-1-1,khoitam-111-1,ham-pʰlɔ,266,false,expert,,h a m,,,1
-khoitam-111-1-2,khoitam-111-1,ham-pʰlɔ,265,false,expert,,pʰl ɔ,,,2
+khoitam-111-1-2,khoitam-111-1,ham-pʰlɔ,265,false,expert,,pʰ l ɔ,,,2
 rahung-111-1-1,rahung-111-1,haŋ-pʰ-gɔ,266,false,expert,,h a ŋ,,,1
 rahung-111-1-2,rahung-111-1,haŋ-pʰ-gɔ,265,false,expert,,pʰ -,,,2
 rahung-111-1-3,rahung-111-1,haŋ-pʰ-gɔ,267,false,expert,,g ɔ,,,3
 rupa-111-1-1,rupa-111-1,hɐŋ-pʰwɔ,266,false,expert,,h ɐ ŋ,,,1
-rupa-111-1-2,rupa-111-1,hɐŋ-pʰwɔ,265,false,expert,,pʰw ɔ,,,2
+rupa-111-1-2,rupa-111-1,hɐŋ-pʰwɔ,265,false,expert,,pʰ w ɔ,,,2
 shergaon-111-1-1,shergaon-111-1,kam-ba,133,false,expert,,k a m,,,1
 shergaon-111-1-2,shergaon-111-1,kam-ba,571,false,expert,,b a,,,2
 khispi-112-1-1,khispi-112-1,ʦʰu,268,false,expert,,tsʰ u,,,1
@@ -1179,14 +1179,14 @@ khoitam-112-1-1,khoitam-112-1,ʨʰyː,268,false,expert,,tɕʰ yː,,,1
 rahung-112-1-1,rahung-112-1,ʨʰyː,268,false,expert,,tɕʰ yː,,,1
 rupa-112-1-1,rupa-112-1,ʨʰyː,268,false,expert,,tɕʰ yː,,,1
 khispi-113-1-1,khispi-113-1,gaŋ,269,false,expert,,g a ŋ,,,1
-duhumbi-113-1-1,duhumbi-113-1,gɹaŋ,269,false,expert,,gɹ a ŋ,,,1
+duhumbi-113-1-1,duhumbi-113-1,gɹaŋ,269,false,expert,,g ɹ a ŋ,,,1
 khoina-113-1-1,khoina-113-1,dʐajk,269,false,expert,,ɖʐ aj/ai k,,,1
 jerigaon-113-1-1,jerigaon-113-1,ʥɛk,269,false,expert,,dʑ ɛ k,,,1
 khoitam-113-1-1,khoitam-113-1,ʥɛk,269,false,expert,,dʑ ɛ k,,,1
 rahung-113-1-1,rahung-113-1,ʥɛk,269,false,expert,,dʑ ɛ k,,,1
 rupa-113-1-1,rupa-113-1,gɛk,269,false,expert,,g ɛ k,,,1
 shergaon-113-1-1,shergaon-113-1,gɛk,269,false,expert,,g ɛ k,,,1
-duhumbi-114-1-1,duhumbi-114-1,tʰjɛŋ,270,false,expert,,tʰj ɛ ŋ,,,1
+duhumbi-114-1-1,duhumbi-114-1,tʰjɛŋ,270,false,expert,,tʰ j ɛ ŋ,,,1
 rupa-114-1-1,rupa-114-1,tʰɛŋ,270,false,expert,,tʰ ɛ ŋ,,,1
 khispi-115-1-1,khispi-115-1,(mɛn-)tʰak,691,false,expert,,m ɛ n,,,1
 khispi-115-1-2,khispi-115-1,(mɛn-)tʰak,271,false,expert,,tʰ a k,,,2
@@ -1242,8 +1242,8 @@ duhumbi-119-1-1,duhumbi-119-1,bɔs,279,false,expert,,b ɔ s,,,1
 khoina-119-1-1,khoina-119-1,bøˀ,279,false,expert,,b øˀ -,,,1
 khoitam-119-1-1,khoitam-119-1,beˀ,279,false,expert,,b eˀ -,,,1
 rahung-119-1-1,rahung-119-1,bøˀ,279,false,expert,,b øˀ -,,,1
-khispi-120-1-1,khispi-120-1,ʥamp,280,false,expert,,dʑ a mp,,,1
-duhumbi-120-1-1,duhumbi-120-1,ʥamp,280,false,expert,,dʑ a mp,,,1
+khispi-120-1-1,khispi-120-1,ʥamp,280,false,expert,,dʑ a m p,,,1
+duhumbi-120-1-1,duhumbi-120-1,ʥamp,280,false,expert,,dʑ a m p,,,1
 khoina-120-1-1,khoina-120-1,ʥa,280,false,expert,,dʑ a -,,,1
 khoitam-120-1-1,khoitam-120-1,ʥap,280,false,expert,,dʑ a p,,,1
 rahung-120-1-1,rahung-120-1,ʥap,280,false,expert,,dʑ a p,,,1
@@ -1289,7 +1289,7 @@ rahung-124-1-1,rahung-124-1,a-ʨʰam,797,false,expert,,a,,,1
 rahung-124-1-2,rahung-124-1,a-ʨʰam,285,false,expert,,tɕʰ a m,,,2
 rupa-124-1-1,rupa-124-1,a-ʨʰam,797,false,expert,,a,,,1
 rupa-124-1-2,rupa-124-1,a-ʨʰam,285,false,expert,,tɕʰ a m,,,2
-duhumbi-125-1-1,duhumbi-125-1,lɔw-la,287,false,expert,,l ɔw -,,,1
+duhumbi-125-1-1,duhumbi-125-1,lɔw-la,287,false,expert,,l ɔu -,,,1
 duhumbi-125-1-2,duhumbi-125-1,lɔw-la,288,false,expert,,l a,,,2
 khoina-125-1-1,khoina-125-1,lə-luː,287,false,expert,,l ə -,,,1
 khoina-125-1-2,khoina-125-1,lə-luː,288,false,expert,,l uː,,,2
@@ -1303,9 +1303,9 @@ rupa-125-1-1,rupa-125-1,li-luː,287,false,expert,,l i -,,,1
 rupa-125-1-2,rupa-125-1,li-luː,288,false,expert,,l uː,,,2
 shergaon-125-1-1,shergaon-125-1,ly-luː,287,false,expert,,l y -,,,1
 shergaon-125-1-2,shergaon-125-1,ly-luː,288,false,expert,,l uː,,,2
-khispi-126-1-1,khispi-126-1,lɔw-ki,290,false,expert,,l ɔw -,,,1
+khispi-126-1-1,khispi-126-1,lɔw-ki,290,false,expert,,l ɔu -,,,1
 khispi-126-1-2,khispi-126-1,lɔw-ki,289,false,expert,,k i -,,,2
-duhumbi-126-1-1,duhumbi-126-1,lɔw-kiˀ,290,false,expert,,l ɔw -,,,1
+duhumbi-126-1-1,duhumbi-126-1,lɔw-kiˀ,290,false,expert,,l ɔu -,,,1
 duhumbi-126-1-2,duhumbi-126-1,lɔw-kiˀ,289,false,expert,,k iˀ -,,,2
 khoina-126-1-1,khoina-126-1,lə-ʨik,290,false,expert,,l ə -,,,1
 khoina-126-1-2,khoina-126-1,lə-ʨik,289,false,expert,,tɕ i k,,,2
@@ -1319,7 +1319,7 @@ rupa-126-1-1,rupa-126-1,liŋ-kit,290,false,expert,,l i ŋ,,,1
 rupa-126-1-2,rupa-126-1,liŋ-kit,289,false,expert,,k i t,,,2
 shergaon-126-1-1,shergaon-126-1,liŋ-kʰit,290,false,expert,,l i ŋ,,,1
 shergaon-126-1-2,shergaon-126-1,liŋ-kʰit,289,false,expert,,kʰ i t,,,2
-duhumbi-127-1-1,duhumbi-127-1,dɛj-kiˀ-ni,292,false,expert,,d ɛj -,,,1
+duhumbi-127-1-1,duhumbi-127-1,dɛj-kiˀ-ni,292,false,expert,,d ɛi -,,,1
 duhumbi-127-1-2,duhumbi-127-1,dɛj-kiˀ-ni,289,false,expert,,k iˀ -,,,2
 duhumbi-127-1-3,duhumbi-127-1,dɛj-kiˀ-ni,296,false,expert,,n i,,,3
 khoina-127-1-1,khoina-127-1,di-ʨik-ri,292,false,expert,,d i -,,,1
@@ -1359,7 +1359,7 @@ shergaon-128-1-2,shergaon-128-1,tʰo-kʰok-ni,297,false,expert,,kʰ o k,,,2
 shergaon-128-1-3,shergaon-128-1,tʰo-kʰok-ni,296,false,expert,,n i,,,3
 khispi-129-1-1,khispi-129-1,bɛŋ-zar,302,false,expert,,b ɛ ŋ,,,1
 khispi-129-1-2,khispi-129-1,bɛŋ-zar,304,false,expert,,z a r,,,2
-duhumbi-129-1-1,duhumbi-129-1,bjɛŋ-ka,302,false,expert,,bj ɛ ŋ,,,1
+duhumbi-129-1-1,duhumbi-129-1,bjɛŋ-ka,302,false,expert,,b j ɛ ŋ,,,1
 duhumbi-129-1-2,duhumbi-129-1,bjɛŋ-ka,305,false,expert,,k a,,,2
 khoitam-129-1-1,khoitam-129-1,(kʰɔm-)pʰaŋ,291,false,expert,,kʰ ɔ m,,,1
 khoitam-129-1-2,khoitam-129-1,(kʰɔm-)pʰaŋ,302,false,expert,,pʰ a ŋ,,,2
@@ -1368,10 +1368,10 @@ rupa-129-1-2,rupa-129-1,bɛŋ-ŋɔ,303,false,expert,,ŋ ɔ,,,2
 khoina-130-1-1,khoina-130-1,a-dʐyː,56,false,expert,,a,,,1
 khoina-130-1-2,khoina-130-1,a-dʐyː,306,false,expert,,ɖʐ yː,,,2
 jerigaon-130-1-1,jerigaon-130-1,a-ʥə-ryː,56,false,expert,,a,,,1
-jerigaon-130-1-2,jerigaon-130-1,a-ʥə-ryː,306,false,expert,,dʑr yː,,,2
+jerigaon-130-1-2,jerigaon-130-1,a-ʥə-ryː,306,false,expert,,dʑ r yː,,,2
 khoitam-130-1-1,khoitam-130-1,a-ʥə-ryː,56,false,expert,,a,,,1
-khoitam-130-1-2,khoitam-130-1,a-ʥə-ryː,306,false,expert,,dʑr yː,,,2
-rahung-130-1-1,rahung-130-1,ʥə-ryː,306,false,expert,,dʑr yː,,,1
+khoitam-130-1-2,khoitam-130-1,a-ʥə-ryː,306,false,expert,,dʑ r yː,,,2
+rahung-130-1-1,rahung-130-1,ʥə-ryː,306,false,expert,,dʑ r yː,,,1
 rupa-130-1-1,rupa-130-1,a-gyː,56,false,expert,,a,,,1
 rupa-130-1-2,rupa-130-1,a-gyː,306,false,expert,,g yː,,,2
 shergaon-130-1-1,shergaon-130-1,a-giː,56,false,expert,,a,,,1
@@ -1478,16 +1478,16 @@ khoina-142-1-2,khoina-142-1,(də-)ʦʰɔ̃ː,330,false,expert,,tsʰ ɔ̃ː -,,,2
 jerigaon-142-1-1,jerigaon-142-1,sɔː,330,false,expert,,s ɔː -,,,1
 rahung-142-1-1,rahung-142-1,ʦə-sɔm,641,false,expert,,ts ə,,,1
 rahung-142-1-2,rahung-142-1,ʦə-sɔm,330,false,expert,,s ɔ m,,,2
-rupa-142-1-1,rupa-142-1,saw,330,false,expert,,s aw -,,,1
-shergaon-142-1-1,shergaon-142-1,saw,330,false,expert,,s aw -,,,1
+rupa-142-1-1,rupa-142-1,saw,330,false,expert,,s au -,,,1
+shergaon-142-1-1,shergaon-142-1,saw,330,false,expert,,s au -,,,1
 khispi-143-1-1,khispi-143-1,ku,331,false,expert,,k u,,,1
 duhumbi-143-1-1,duhumbi-143-1,kɔː,331,false,expert,,k ɔː,,,1
 khoina-143-1-1,khoina-143-1,kɔː,331,false,expert,,k ɔː,,,1
 jerigaon-143-1-1,jerigaon-143-1,kɔː,331,false,expert,,k ɔː,,,1
 khoitam-143-1-1,khoitam-143-1,kɔː,331,false,expert,,k ɔː,,,1
 rahung-143-1-1,rahung-143-1,koː,331,false,expert,,k oː,,,1
-rupa-143-1-1,rupa-143-1,kaw,331,false,expert,,k aw,,,1
-shergaon-143-1-1,shergaon-143-1,kaw,331,false,expert,,k aw,,,1
+rupa-143-1-1,rupa-143-1,kaw,331,false,expert,,k au,,,1
+shergaon-143-1-1,shergaon-143-1,kaw,331,false,expert,,k au,,,1
 khispi-144-1-1,khispi-144-1,be,332,false,expert,,b e,,,1
 duhumbi-144-1-1,duhumbi-144-1,be,332,false,expert,,b e,,,1
 khoina-144-1-1,khoina-144-1,buː(-rɔ),332,false,expert,,b uː,,,1
@@ -1500,9 +1500,9 @@ rupa-144-1-1,rupa-144-1,buː(-tɔ),332,false,expert,,b uː,,,1
 rupa-144-1-2,rupa-144-1,buː(-tɔ),642,false,expert,,t ɔ -,,,2
 shergaon-144-1-1,shergaon-144-1,buː(-tɔ),332,false,expert,,b uː,,,1
 shergaon-144-1-2,shergaon-144-1,buː(-tɔ),642,false,expert,,t ɔ -,,,2
-khispi-145-1-1,khispi-145-1,kʰaj,333,false,expert,,kʰ aj,,,1
+khispi-145-1-1,khispi-145-1,kʰaj,333,false,expert,,kʰ ai,,,1
 duhumbi-145-1-1,duhumbi-145-1,kʰe,333,false,expert,,kʰ e,,,1
-khoitam-145-1-1,khoitam-145-1,kʰwa(-ʥi),333,false,expert,,kʰw a,,,1
+khoitam-145-1-1,khoitam-145-1,kʰwa(-ʥi),333,false,expert,,kʰ w a,,,1
 rahung-145-1-1,rahung-145-1,kʰa,333,false,expert,,kʰ a,,,1
 khoina-577-1-1,khoina-577-1,nə-ʦʰaː,335,false,expert,,n ə -,,,1
 khoina-577-1-2,khoina-577-1,nə-ʦʰaː,334,false,expert,,tsʰ aː,,,2
@@ -1511,7 +1511,7 @@ rahung-577-1-2,rahung-577-1,nam-ʨʰə-rɛː,334,false,expert,,tɕʰ ə,,,2
 rahung-577-1-3,rahung-577-1,nam-ʨʰə-rɛː,336,false,expert,,r ɛː,,,3
 khispi-147-1-1,khispi-147-1,bɛŋ(-kʰan),337,false,expert,,b ɛ ŋ,,,1
 khispi-147-1-2,khispi-147-1,bɛŋ(-kʰan),653,false,expert,,kʰ a n,,,2
-duhumbi-147-1-1,duhumbi-147-1,bjɛŋ(-kʰan),337,false,expert,,bj ɛ ŋ,,,1
+duhumbi-147-1-1,duhumbi-147-1,bjɛŋ(-kʰan),337,false,expert,,b j ɛ ŋ,,,1
 duhumbi-147-1-2,duhumbi-147-1,bjɛŋ(-kʰan),653,false,expert,,kʰ a n,,,2
 khoina-147-1-1,khoina-147-1,bɛn,337,false,expert,,b ɛ n,,,1
 jerigaon-147-1-1,jerigaon-147-1,bɛn,337,false,expert,,b ɛ n,,,1
@@ -1586,10 +1586,10 @@ khispi-154-1-2,khispi-154-1,(ɕala) pʰu-tʰin,662,false,expert,,l a,,,2
 khispi-154-1-3,khispi-154-1,(ɕala) pʰu-tʰin,353,false,expert,,pʰ u,,,3
 khispi-154-1-4,khispi-154-1,(ɕala) pʰu-tʰin,352,false,expert,,tʰ i n,,,4
 khoina-154-1-1,khoina-154-1,tʰa-kʰ-laː,352,false,expert,,tʰ a -,,,1
-khoina-154-1-2,khoina-154-1,tʰa-kʰ-laː,356,false,expert,,kʰl aː,,,2
+khoina-154-1-2,khoina-154-1,tʰa-kʰ-laː,356,false,expert,,kʰ l aː,,,2
 jerigaon-154-1-1,jerigaon-154-1,tʰlak-kʰlaː,352,false,expert,,tʰ - -,,,1
 jerigaon-154-1-2,jerigaon-154-1,tʰlak-kʰlaː,341,false,expert,,l a k,,,2
-jerigaon-154-1-3,jerigaon-154-1,tʰlak-kʰlaː,356,false,expert,,kʰl aː,,,3
+jerigaon-154-1-3,jerigaon-154-1,tʰlak-kʰlaː,356,false,expert,,kʰ l aː,,,3
 khoitam-154-1-1,khoitam-154-1,pʰ-tʰaŋ-hɔ̃ː ~ pi-taŋ-hɔ̃ː,353,false,expert,,pʰ -,,,1
 khoitam-154-1-2,khoitam-154-1,pʰ-tʰaŋ-hɔ̃ː ~ pi-taŋ-hɔ̃ː,352,false,expert,,tʰ~t/tʰ a ŋ,,,2
 khoitam-154-1-3,khoitam-154-1,pʰ-tʰaŋ-hɔ̃ː ~ pi-taŋ-hɔ̃ː,354,false,expert,,h ɔ̃ː,,,3
@@ -1608,7 +1608,7 @@ rupa-155-1-1,rupa-155-1,ʦʰu ~ ʨʰu,357,false,expert,,tsʰ~ʨʰ/ʨʰ u,,,1
 shergaon-155-1-1,shergaon-155-1,ʨʰu,357,false,expert,,tɕʰ u,,,1
 khispi-156-1-1,khispi-156-1,ɔ-gɔŋ,355,false,expert,,ɔ,,,1
 khispi-156-1-2,khispi-156-1,ɔ-gɔŋ,358,false,expert,,g ɔ ŋ,,,2
-duhumbi-156-1-1,duhumbi-156-1,hɔj-ʥɔŋ,360,false,expert,,h ɔj,,,1
+duhumbi-156-1-1,duhumbi-156-1,hɔj-ʥɔŋ,360,false,expert,,h ɔi,,,1
 duhumbi-156-1-2,duhumbi-156-1,hɔj-ʥɔŋ,358,false,expert,,dʑ ɔ ŋ,,,2
 khoina-156-1-1,khoina-156-1,a-juŋ,355,false,expert,,a,,,1
 khoina-156-1-2,khoina-156-1,a-juŋ,358,false,expert,,j u ŋ,,,2
@@ -1623,7 +1623,7 @@ rupa-156-1-2,rupa-156-1,a-juŋ,358,false,expert,,j u ŋ,,,2
 khispi-157-1-1,khispi-157-1,ban-tʰu,363,false,expert,,b a n,,,1
 khispi-157-1-2,khispi-157-1,ban-tʰu,361,false,expert,,tʰ u,,,2
 duhumbi-157-1-1,duhumbi-157-1,ban-tʰɔw,363,false,expert,,b a n,,,1
-duhumbi-157-1-2,duhumbi-157-1,ban-tʰɔw,361,false,expert,,tʰ ɔw,,,2
+duhumbi-157-1-2,duhumbi-157-1,ban-tʰɔw,361,false,expert,,tʰ ɔu,,,2
 khoina-157-1-1,khoina-157-1,ma-tʰɔː,363,false,expert,,m a -,,,1
 khoina-157-1-2,khoina-157-1,ma-tʰɔː,361,false,expert,,tʰ ɔː,,,2
 jerigaon-157-1-1,jerigaon-157-1,mə-tʰɔː,363,false,expert,,m ə -,,,1
@@ -1744,17 +1744,17 @@ khoina-166-1-1,khoina-166-1,zyk,383,false,expert,,z y k,,,1
 khoitam-166-1-1,khoitam-166-1,zyk,383,false,expert,,z y k,,,1
 rahung-166-1-1,rahung-166-1,zyk,383,false,expert,,z y k,,,1
 rupa-166-1-1,rupa-166-1,zyk,383,false,expert,,z y k,,,1
-khispi-166-1-1,khispi-166-1,muj,382,false,expert,,m uj,,,1
-duhumbi-166-2-1,duhumbi-166-2,mɛj,382,false,expert,,m ɛj,,,1
+khispi-166-1-1,khispi-166-1,muj,382,false,expert,,m ui,,,1
+duhumbi-166-2-1,duhumbi-166-2,mɛj,382,false,expert,,m ɛi,,,1
 khoina-166-2-1,khoina-166-2,miː,382,false,expert,,m iː,,,1
 jerigaon-166-1-1,jerigaon-166-1,miː,382,false,expert,,m iː,,,1
 khoitam-166-2-1,khoitam-166-2,miː,382,false,expert,,m iː,,,1
 rahung-166-2-1,rahung-166-2,miː,382,false,expert,,m iː,,,1
 rupa-166-2-1,rupa-166-2,myː,382,false,expert,,m yː,,,1
-khispi-167-1-1,khispi-167-1,hwa-ʨɔŋ-ki,140,false,expert,,hw a,,,1
+khispi-167-1-1,khispi-167-1,hwa-ʨɔŋ-ki,140,false,expert,,h w a,,,1
 khispi-167-1-2,khispi-167-1,hwa-ʨɔŋ-ki,384,false,expert,,tɕ ɔ ŋ,,,2
 khispi-167-1-3,khispi-167-1,hwa-ʨɔŋ-ki,386,false,expert,,k i,,,3
-duhumbi-167-1-1,duhumbi-167-1,hwa-ʨɔŋ-ki,140,false,expert,,hw a,,,1
+duhumbi-167-1-1,duhumbi-167-1,hwa-ʨɔŋ-ki,140,false,expert,,h w a,,,1
 duhumbi-167-1-2,duhumbi-167-1,hwa-ʨɔŋ-ki,384,false,expert,,tɕ ɔ ŋ,,,2
 duhumbi-167-1-3,duhumbi-167-1,hwa-ʨɔŋ-ki,386,false,expert,,k i,,,3
 khoina-167-1-1,khoina-167-1,ʣa-kyː,384,false,expert,,dz a -,,,1
@@ -1800,7 +1800,7 @@ shergaon-170-1-2,shergaon-170-1,a-ʥɔk,392,false,expert,,dʑ ɔ k,,,2
 khispi-171-1-1,khispi-171-1,ɔ-ju ~ u-ju,355,false,expert,,ɔ~u/ɔ,,,1
 khispi-171-1-2,khispi-171-1,ɔ-ju ~ u-ju,396,false,expert,,j u,,,2
 duhumbi-171-1-1,duhumbi-171-1,ɔ-jɔw,355,false,expert,,ɔ,,,1
-duhumbi-171-1-2,duhumbi-171-1,ɔ-jɔw,396,false,expert,,j ɔw,,,2
+duhumbi-171-1-2,duhumbi-171-1,ɔ-jɔw,396,false,expert,,j ɔu,,,2
 khoina-171-1-1,khoina-171-1,a-jɔː,355,false,expert,,a,,,1
 khoina-171-1-2,khoina-171-1,a-jɔː,396,false,expert,,j ɔː,,,2
 jerigaon-171-1-1,jerigaon-171-1,a-jɔː,355,false,expert,,a,,,1
@@ -1884,7 +1884,7 @@ khoitam-178-1-2,khoitam-178-1,a-ʨʰɛː,328,false,expert,,tɕʰ ɛː,,,2
 rahung-178-1-1,rahung-178-1,a-ʨʰɛː,56,false,expert,,a,,,1
 rahung-178-1-2,rahung-178-1,a-ʨʰɛː,328,false,expert,,tɕʰ ɛː,,,2
 khispi-179-1-1,khispi-179-1,lɛk,409,false,expert,,l ɛ k,,,1
-duhumbi-179-1-1,duhumbi-179-1,ljɛk,409,false,expert,,lj ɛ k,,,1
+duhumbi-179-1-1,duhumbi-179-1,ljɛk,409,false,expert,,l j ɛ k,,,1
 khoina-179-1-1,khoina-179-1,rajk,409,false,expert,,r aj/ai k,,,1
 jerigaon-179-1-1,jerigaon-179-1,rɛˀ,409,false,expert,,r ɛˀ -,,,1
 khoitam-179-1-1,khoitam-179-1,rɛk(-zĩː),409,false,expert,,r ɛ k,,,1
@@ -1898,7 +1898,7 @@ khispi-180-1-1,khispi-180-1,hut ɕa-da,410,false,expert,,h u t,,,1
 khispi-180-1-2,khispi-180-1,hut ɕa-da,412,false,expert,,ɕ a,,,2
 khispi-180-1-3,khispi-180-1,hut ɕa-da,233,false,expert,,d a,,,3
 duhumbi-180-1-1,duhumbi-180-1,hut bɹa-ma,410,false,expert,,h u t,,,1
-duhumbi-180-1-2,duhumbi-180-1,hut bɹa-ma,413,false,expert,,bɹ a,,,2
+duhumbi-180-1-2,duhumbi-180-1,hut bɹa-ma,413,false,expert,,b ɹ a,,,2
 duhumbi-180-1-3,duhumbi-180-1,hut bɹa-ma,822,false,expert,,m a -,,,3
 khoina-180-1-1,khoina-180-1,ik a-du,410,false,expert,,- i k,,,1
 khoina-180-1-2,khoina-180-1,ik a-du,412,false,expert,,- a,,,2
@@ -1907,15 +1907,15 @@ jerigaon-180-1-1,jerigaon-180-1,ik a-du,410,false,expert,,- i k,,,1
 jerigaon-180-1-2,jerigaon-180-1,ik a-du,412,false,expert,,- a,,,2
 jerigaon-180-1-3,jerigaon-180-1,ik a-du,233,false,expert,,d u,,,3
 khoitam-180-1-1,khoitam-180-1,ik bɹɔm,410,false,expert,,- i k,,,1
-khoitam-180-1-2,khoitam-180-1,ik bɹɔm,413,false,expert,,bɹ ɔ,,,2
+khoitam-180-1-2,khoitam-180-1,ik bɹɔm,413,false,expert,,b ɹ ɔ,,,2
 khoitam-180-1-3,khoitam-180-1,ik bɹɔm,822,false,expert,,m - -,,,3
 rahung-180-1-1,rahung-180-1,ik pɹø-muŋ,410,false,expert,,- i k,,,1
-rahung-180-1-2,rahung-180-1,ik pɹø-muŋ,413,false,expert,,pɹ ø,,,2
+rahung-180-1-2,rahung-180-1,ik pɹø-muŋ,413,false,expert,,p ɹ ø,,,2
 rahung-180-1-3,rahung-180-1,ik pɹø-muŋ,822,false,expert,,m u ŋ,,,3
 rupa-180-1-1,rupa-180-1,ik ʦʰik ~ ik-ʨʰik,410,false,expert,,- i k,,,1
 rupa-180-1-2,rupa-180-1,ik ʦʰik ~ ik-ʨʰik,63,false,expert,,tsʰ~ʨʰ/ʨʰ i k,,,2
-khispi-181-1-1,khispi-181-1,bej,415,false,expert,,b ej,,,1
-duhumbi-181-1-1,duhumbi-181-1,bɛj,415,false,expert,,b ɛj,,,1
+khispi-181-1-1,khispi-181-1,bej,415,false,expert,,b ei,,,1
+duhumbi-181-1-1,duhumbi-181-1,bɛj,415,false,expert,,b ɛi,,,1
 khoina-181-1-1,khoina-181-1,baː,415,false,expert,,b aː,,,1
 jerigaon-181-1-1,jerigaon-181-1,bɛˀ,415,false,expert,,b ɛˀ,,,1
 khoitam-181-1-1,khoitam-181-1,bɛˀ,415,false,expert,,b ɛˀ,,,1
@@ -1946,7 +1946,7 @@ khoitam-184-1-1,khoitam-184-1,kʰuː,37,false,expert,,kʰ uː,,,1
 rahung-184-1-1,rahung-184-1,kʰuː,37,false,expert,,kʰ uː,,,1
 rupa-184-1-1,rupa-184-1,kʰuː,37,false,expert,,kʰ uː,,,1
 shergaon-184-1-1,shergaon-184-1,kʰuː,37,false,expert,,kʰ uː,,,1
-duhumbi-185-1-1,duhumbi-185-1,(bɛj) ɬap,415,false,expert,,b ɛj,,,1
+duhumbi-185-1-1,duhumbi-185-1,(bɛj) ɬap,415,false,expert,,b ɛi,,,1
 duhumbi-185-1-2,duhumbi-185-1,(bɛj) ɬap,419,false,expert,,ɬ a p,,,2
 khoitam-185-1-1,khoitam-185-1,(bɛ-) lap ~ (ba-) lap,415,false,expert,,b ɛ~a/a,,,1
 khoitam-185-1-2,khoitam-185-1,(bɛ-) lap ~ (ba-) lap,419,false,expert,,l a p,,,2
@@ -1965,16 +1965,16 @@ khoitam-187-1-1,khoitam-187-1,rɛː (-tʰĩː),422,false,expert,,r ɛː,,,1
 khoitam-187-1-2,khoitam-187-1,rɛː (-tʰĩː),420,false,expert,,tʰ ĩː -,,,2
 rahung-187-1-1,rahung-187-1,rɛː (-tʰyː),422,false,expert,,r ɛː,,,1
 rahung-187-1-2,rahung-187-1,rɛː (-tʰyː),420,false,expert,,tʰ yː -,,,2
-khispi-188-1-1,khispi-188-1,pʰuj,424,false,expert,,pʰ uj,,,1
-duhumbi-188-1-1,duhumbi-188-1,pʰɔj,424,false,expert,,pʰ ɔj,,,1
+khispi-188-1-1,khispi-188-1,pʰuj,424,false,expert,,pʰ ui,,,1
+duhumbi-188-1-1,duhumbi-188-1,pʰɔj,424,false,expert,,pʰ ɔi,,,1
 khoina-188-1-1,khoina-188-1,nə-faː,223,false,expert,,n ə,,,1
 khoina-188-1-2,khoina-188-1,nə-faː,424,false,expert,,f aː,,,2
 jerigaon-188-1-1,jerigaon-188-1,nə-hɛːʰ,223,false,expert,,n ə,,,1
-jerigaon-188-1-2,jerigaon-188-1,nə-hɛːʰ,424,false,expert,,h ɛːʰ,,,2
+jerigaon-188-1-2,jerigaon-188-1,nə-hɛːʰ,424,false,expert,,h ɛːʰ/ɛː,,,2
 khoitam-188-1-1,khoitam-188-1,nə-pʰɛːʰ,223,false,expert,,n ə,,,1
-khoitam-188-1-2,khoitam-188-1,nə-pʰɛːʰ,424,false,expert,,pʰ ɛːʰ,,,2
+khoitam-188-1-2,khoitam-188-1,nə-pʰɛːʰ,424,false,expert,,pʰ ɛːʰ/ɛː,,,2
 rahung-188-1-1,rahung-188-1,mə-hɛːʰ,826,false,expert,,m ə,,,1
-rahung-188-1-2,rahung-188-1,mə-hɛːʰ,424,false,expert,,h ɛːʰ,,,2
+rahung-188-1-2,rahung-188-1,mə-hɛːʰ,424,false,expert,,h ɛːʰ/ɛː,,,2
 rupa-188-1-1,rupa-188-1,nə-pʰaː,223,false,expert,,n ə,,,1
 rupa-188-1-2,rupa-188-1,nə-pʰaː,424,false,expert,,pʰ aː,,,2
 shergaon-188-1-1,shergaon-188-1,nə-pʰaː,223,false,expert,,n ə,,,1
@@ -1983,8 +1983,8 @@ duhumbi-189-1-1,duhumbi-189-1,wa,430,false,expert,,w a,,,1
 khoina-189-1-1,khoina-189-1,xyj(ŋ),428,false,expert,,x y j,,,1
 jerigaon-189-1-1,jerigaon-189-1,hyŋ,428,false,expert,,h y ŋ,,,1
 khoitam-189-1-1,khoitam-189-1,hyŋ,428,false,expert,,h y ŋ,,,1
-rupa-189-1-1,rupa-189-1,haw,430,false,expert,,h aw,,,1
-shergaon-189-1-1,shergaon-189-1,haw,430,false,expert,,h aw,,,1
+rupa-189-1-1,rupa-189-1,haw,430,false,expert,,h au,,,1
+shergaon-189-1-1,shergaon-189-1,haw,430,false,expert,,h au,,,1
 khoina-190-1-1,khoina-190-1,bə-ʨiŋ-ʨɔŋ,432,false,expert,,b ə -,,,1
 khoina-190-1-2,khoina-190-1,bə-ʨiŋ-ʨɔŋ,431,false,expert,,tɕ i ŋ,,,2
 khoina-190-1-3,khoina-190-1,bə-ʨiŋ-ʨɔŋ,433,false,expert,,tɕ ɔ ŋ,,,3
@@ -2015,7 +2015,7 @@ khoitam-192-1-1,khoitam-192-1,ʨiː,436,false,expert,,tɕ iː,,,1
 rahung-192-1-1,rahung-192-1,ʨiː,436,false,expert,,tɕ iː,,,1
 rupa-192-1-1,rupa-192-1,də-sɛː ~ siː,436,false,expert,,d ə,,,1
 rupa-192-1-2,rupa-192-1,də-sɛː ~ siː,10003,false,expert,,s iː~ɛː/iː,,,2
-khispi-193-1-1,khispi-193-1,hɔj,437,false,expert,,h ɔj,,,1
+khispi-193-1-1,khispi-193-1,hɔj,437,false,expert,,h ɔi,,,1
 khoina-193-1-1,khoina-193-1,haː,437,false,expert,,h aː,,,1
 jerigaon-193-1-1,jerigaon-193-1,hɛ̃ː,437,false,expert,,h ɛ̃ː,,,1
 khoitam-193-1-1,khoitam-193-1,hɛ̃ˀ,437,false,expert,,h ɛ̃ˀ,,,1
@@ -2031,9 +2031,9 @@ khoitam-194-1-2,khoitam-194-1,mu-kɔː,331,false,expert,,k ɔː,,,2
 rahung-194-1-1,rahung-194-1,mə-koː,438,false,expert,,m ə,,,1
 rahung-194-1-2,rahung-194-1,mə-koː,331,false,expert,,k oː,,,2
 rupa-194-1-1,rupa-194-1,mə-kaw,438,false,expert,,m ə,,,1
-rupa-194-1-2,rupa-194-1,mə-kaw,331,false,expert,,k aw,,,2
+rupa-194-1-2,rupa-194-1,mə-kaw,331,false,expert,,k au,,,2
 shergaon-194-1-1,shergaon-194-1,mə-kaw,438,false,expert,,m ə,,,1
-shergaon-194-1-2,shergaon-194-1,mə-kaw,331,false,expert,,k aw,,,2
+shergaon-194-1-2,shergaon-194-1,mə-kaw,331,false,expert,,k au,,,2
 khoina-195-1-1,khoina-195-1,ri-ʂɛˀ,443,false,expert,,r i,,,1
 khoina-195-1-2,khoina-195-1,ri-ʂɛˀ,440,false,expert,,ʂ ɛˀ -,,,2
 jerigaon-195-1-1,jerigaon-195-1,rə-sɛˀ,443,false,expert,,r ə,,,1
@@ -2051,12 +2051,12 @@ duhumbi-195-1-1,duhumbi-195-1,ʥaŋ,441,false,expert,,dʑ a ŋ,,,1
 khispi-196-1-1,khispi-196-1,(ganʥi) pʰak,679,false,expert,,g a n,,,1
 khispi-196-1-2,khispi-196-1,(ganʥi) pʰak,681,false,expert,,ʥ i,,,2
 khispi-196-1-3,khispi-196-1,(ganʥi) pʰak,444,false,expert,,pʰ a k,,,3
-khoina-196-1-1,khoina-196-1,pʰlɐk,444,false,expert,,pʰl ɐ k,,,1
-jerigaon-196-1-1,jerigaon-196-1,pʰlɐk,444,false,expert,,pʰl ɐ k,,,1
-khoitam-196-1-1,khoitam-196-1,pʰlak,444,false,expert,,pʰl a k,,,1
-rahung-196-1-1,rahung-196-1,pʰrak,444,false,expert,,pʰr a k,,,1
-rupa-196-1-1,rupa-196-1,pʰlak,444,false,expert,,pʰl a k,,,1
-shergaon-196-1-1,shergaon-196-1,pʰlak,444,false,expert,,pʰl a k,,,1
+khoina-196-1-1,khoina-196-1,pʰlɐk,444,false,expert,,pʰ l ɐ k,,,1
+jerigaon-196-1-1,jerigaon-196-1,pʰlɐk,444,false,expert,,pʰ l ɐ k,,,1
+khoitam-196-1-1,khoitam-196-1,pʰlak,444,false,expert,,pʰ l a k,,,1
+rahung-196-1-1,rahung-196-1,pʰrak,444,false,expert,,pʰ r a k,,,1
+rupa-196-1-1,rupa-196-1,pʰlak,444,false,expert,,pʰ l a k,,,1
+shergaon-196-1-1,shergaon-196-1,pʰlak,444,false,expert,,pʰ l a k,,,1
 khispi-197-1-1,khispi-197-1,p-ɕi,445,false,expert,,p -,,,1
 khispi-197-1-2,khispi-197-1,p-ɕi,446,false,expert,,ɕ i,,,2
 duhumbi-197-1-1,duhumbi-197-1,p-ɕi,445,false,expert,,p -,,,1
@@ -2105,13 +2105,13 @@ rupa-199-1-3,rupa-199-1,riː-gə-tu,451,false,expert,,t u,,,3
 khispi-200-1-1,khispi-200-1,nam-ba,457,false,expert,,n a m,,,1
 khispi-200-1-2,khispi-200-1,nam-ba,456,false,expert,,b a,,,2
 khoitam-200-1-1,khoitam-200-1,nam-bluː,457,false,expert,,n a m,,,1
-khoitam-200-1-2,khoitam-200-1,nam-bluː,456,false,expert,,bl uː,,,2
+khoitam-200-1-2,khoitam-200-1,nam-bluː,456,false,expert,,b l uː,,,2
 rahung-200-1-1,rahung-200-1,nam-bruː,457,false,expert,,n a m,,,1
-rahung-200-1-2,rahung-200-1,nam-bruː,456,false,expert,,br uː,,,2
+rahung-200-1-2,rahung-200-1,nam-bruː,456,false,expert,,b r uː,,,2
 rupa-200-1-1,rupa-200-1,nam-bluː,457,false,expert,,n a m,,,1
-rupa-200-1-2,rupa-200-1,nam-bluː,456,false,expert,,bl uː,,,2
+rupa-200-1-2,rupa-200-1,nam-bluː,456,false,expert,,b l uː,,,2
 shergaon-200-1-1,shergaon-200-1,nam-bluː,457,false,expert,,n a m,,,1
-shergaon-200-1-2,shergaon-200-1,nam-bluː,456,false,expert,,bl uː,,,2
+shergaon-200-1-2,shergaon-200-1,nam-bluː,456,false,expert,,b l uː,,,2
 khoitam-201-1-1,khoitam-201-1,mə-laŋ,136,false,expert,,m ə,,,1
 khoitam-201-1-2,khoitam-201-1,mə-laŋ,466,false,expert,,l a ŋ,,,2
 rahung-201-1-1,rahung-201-1,mə-laŋ,136,false,expert,,m ə,,,1
@@ -2211,9 +2211,9 @@ khoitam-210-1-2,khoitam-210-1,d-rɔː,478,false,expert,,r ɔː,,,2
 rahung-210-1-1,rahung-210-1,d-roː,477,false,expert,,d -,,,1
 rahung-210-1-2,rahung-210-1,d-roː,478,false,expert,,r oː,,,2
 rupa-210-1-1,rupa-210-1,də-raw,477,false,expert,,d ə,,,1
-rupa-210-1-2,rupa-210-1,də-raw,478,false,expert,,r aw,,,2
+rupa-210-1-2,rupa-210-1,də-raw,478,false,expert,,r au,,,2
 shergaon-210-1-1,shergaon-210-1,də-raw,477,false,expert,,d ə,,,1
-shergaon-210-1-2,shergaon-210-1,də-raw,478,false,expert,,r aw,,,2
+shergaon-210-1-2,shergaon-210-1,də-raw,478,false,expert,,r au,,,2
 khispi-211-1-1,khispi-211-1,sɛl,479,false,expert,,s ɛ l,,,1
 duhumbi-211-1-1,duhumbi-211-1,sɛɹ,479,false,expert,,s ɛ ɹ,,,1
 khoina-211-1-1,khoina-211-1,siŋ,479,false,expert,,s i ŋ,,,1
@@ -2264,15 +2264,15 @@ khispi-216-1-2,khispi-216-1,a-ji,489,false,expert,,j i,,,2
 duhumbi-216-1-1,duhumbi-216-1,a-ji,124,false,expert,,a,,,1
 duhumbi-216-1-2,duhumbi-216-1,a-ji,489,false,expert,,j i,,,2
 khoina-216-1-1,khoina-216-1,a-jɐʰ,124,false,expert,,a,,,1
-khoina-216-1-2,khoina-216-1,a-jɐʰ,489,false,expert,,j ɐʰ,,,2
+khoina-216-1-2,khoina-216-1,a-jɐʰ,489,false,expert,,j ɐʰ/ɐ,,,2
 jerigaon-216-1-1,jerigaon-216-1,a-jɐʰ,124,false,expert,,a,,,1
-jerigaon-216-1-2,jerigaon-216-1,a-jɐʰ,489,false,expert,,j ɐʰ,,,2
+jerigaon-216-1-2,jerigaon-216-1,a-jɐʰ,489,false,expert,,j ɐʰ/ɐ,,,2
 khoitam-216-1-1,khoitam-216-1,a-jɔʰ,124,false,expert,,a,,,1
-khoitam-216-1-2,khoitam-216-1,a-jɔʰ,489,false,expert,,j ɔʰ,,,2
+khoitam-216-1-2,khoitam-216-1,a-jɔʰ,489,false,expert,,j ɔʰ/ɔ,,,2
 rahung-216-1-1,rahung-216-1,a-jɔʰ,124,false,expert,,a,,,1
-rahung-216-1-2,rahung-216-1,a-jɔʰ,489,false,expert,,j ɔʰ,,,2
+rahung-216-1-2,rahung-216-1,a-jɔʰ,489,false,expert,,j ɔʰ/ɔ,,,2
 rupa-216-1-1,rupa-216-1,a-jɔʰ,124,false,expert,,a,,,1
-rupa-216-1-2,rupa-216-1,a-jɔʰ,489,false,expert,,j ɔʰ,,,2
+rupa-216-1-2,rupa-216-1,a-jɔʰ,489,false,expert,,j ɔʰ/ɔ,,,2
 shergaon-216-1-1,shergaon-216-1,a-jiː,124,false,expert,,a,,,1
 shergaon-216-1-2,shergaon-216-1,a-jiː,489,false,expert,,j iː,,,2
 khispi-217-1-1,khispi-217-1,jaŋ,490,false,expert,,j a ŋ,,,1
@@ -2461,7 +2461,7 @@ khoitam-234-1-2,khoitam-234-1,ʦʰə-siː ~ ʦʰ-siː,525,false,expert,,s iː,,,
 rupa-234-1-1,rupa-234-1,ʨʰiː,525,false,expert,,tɕʰ iː,,,1
 shergaon-234-1-1,shergaon-234-1,ʨʰiː,525,false,expert,,tɕʰ iː,,,1
 khispi-235-1-1,khispi-235-1,kʰɛŋ,527,false,expert,,kʰ ɛ ŋ,,,1
-duhumbi-235-1-1,duhumbi-235-1,kʰjɛŋ,527,false,expert,,kʰj ɛ ŋ,,,1
+duhumbi-235-1-1,duhumbi-235-1,kʰjɛŋ,527,false,expert,,kʰ j ɛ ŋ,,,1
 khoina-235-1-1,khoina-235-1,tʂʰajŋ,527,false,expert,,ʈʂʰ aj/ai ŋ,,,1
 jerigaon-235-1-1,jerigaon-235-1,ʨʰɛŋ,527,false,expert,,tɕʰ ɛ ŋ,,,1
 khoitam-235-1-1,khoitam-235-1,ʨʰɛŋ,527,false,expert,,tɕʰ ɛ ŋ,,,1
@@ -2600,11 +2600,11 @@ duhumbi-246-1-2,duhumbi-246-1,ɔj,564,false,expert,,j -,,,2
 khoina-246-1-1,khoina-246-1,a-jaː,56,false,expert,,a,,,1
 khoina-246-1-2,khoina-246-1,a-jaː,564,false,expert,,j aː,,,2
 jerigaon-246-1-1,jerigaon-246-1,a-jɛːʰ,56,false,expert,,a,,,1
-jerigaon-246-1-2,jerigaon-246-1,a-jɛːʰ,564,false,expert,,j ɛːʰ,,,2
+jerigaon-246-1-2,jerigaon-246-1,a-jɛːʰ,564,false,expert,,j ɛːʰ/ɛː,,,2
 khoitam-246-1-1,khoitam-246-1,a-jɛːʰ,56,false,expert,,a,,,1
-khoitam-246-1-2,khoitam-246-1,a-jɛːʰ,564,false,expert,,j ɛːʰ,,,2
+khoitam-246-1-2,khoitam-246-1,a-jɛːʰ,564,false,expert,,j ɛːʰ/ɛː,,,2
 rahung-246-1-1,rahung-246-1,a-jɛːʰ,56,false,expert,,a,,,1
-rahung-246-1-2,rahung-246-1,a-jɛːʰ,564,false,expert,,j ɛːʰ,,,2
+rahung-246-1-2,rahung-246-1,a-jɛːʰ,564,false,expert,,j ɛːʰ/ɛː,,,2
 rupa-246-1-1,rupa-246-1,a-jaː,56,false,expert,,a,,,1
 rupa-246-1-2,rupa-246-1,a-jaː,564,false,expert,,j aː,,,2
 shergaon-246-1-1,shergaon-246-1,a-jaː,56,false,expert,,a,,,1
@@ -2660,11 +2660,11 @@ shergaon-251-1-1,shergaon-251-1,pʰiː,570,false,expert,,pʰ iː,,,1
 khoina-252-1-1,khoina-252-1,a-haː,56,false,expert,,a,,,1
 khoina-252-1-2,khoina-252-1,a-haː,572,false,expert,,h aː,,,2
 jerigaon-252-1-1,jerigaon-252-1,a-lɛːʰ,56,false,expert,,a,,,1
-jerigaon-252-1-2,jerigaon-252-1,a-lɛːʰ,572,false,expert,,l ɛːʰ,,,2
+jerigaon-252-1-2,jerigaon-252-1,a-lɛːʰ,572,false,expert,,l ɛːʰ/ɛː,,,2
 khoitam-252-1-1,khoitam-252-1,a-lɛːʰ ~ a-rɛːʰ,56,false,expert,,a,,,1
-khoitam-252-1-2,khoitam-252-1,a-lɛːʰ ~ a-rɛːʰ,572,false,expert,,l~r/l ɛːʰ,,,2
+khoitam-252-1-2,khoitam-252-1,a-lɛːʰ ~ a-rɛːʰ,572,false,expert,,l~r/l ɛːʰ/ɛː,,,2
 rahung-252-1-1,rahung-252-1,a-lɛːʰ,56,false,expert,,a,,,1
-rahung-252-1-2,rahung-252-1,a-lɛːʰ,572,false,expert,,l ɛːʰ,,,2
+rahung-252-1-2,rahung-252-1,a-lɛːʰ,572,false,expert,,l ɛːʰ/ɛː,,,2
 rupa-252-1-1,rupa-252-1,a-laː,56,false,expert,,a,,,1
 rupa-252-1-2,rupa-252-1,a-laː,572,false,expert,,l aː,,,2
 shergaon-252-1-1,shergaon-252-1,a-laː,56,false,expert,,a,,,1
@@ -2675,23 +2675,23 @@ khoitam-253-1-1,khoitam-253-1,ʨĩˀ,574,false,expert,,tɕ ĩˀ,,,1
 rahung-253-1-1,rahung-253-1,ʨĩˀ,574,false,expert,,tɕ ĩˀ,,,1
 rupa-253-1-1,rupa-253-1,sɛ̃ːˀ,574,false,expert,,s ɛ̃ˀː,,,1
 shergaon-253-1-1,shergaon-253-1,sɛ̃ː,574,false,expert,,s ɛ̃ː,,,1
-khispi-254-1-1,khispi-254-1,aw,575,false,expert,,aw,,,1
-duhumbi-254-1-1,duhumbi-254-1,aw,575,false,expert,,aw,,,1
+khispi-254-1-1,khispi-254-1,aw,575,false,expert,,au,,,1
+duhumbi-254-1-1,duhumbi-254-1,aw,575,false,expert,,au,,,1
 khoina-254-1-1,khoina-254-1,ɔː,575,false,expert,,ɔː,,,1
 jerigaon-254-1-1,jerigaon-254-1,ɔː,575,false,expert,,ɔː,,,1
 khoitam-254-1-1,khoitam-254-1,oː,575,false,expert,,oː,,,1
 rahung-254-1-1,rahung-254-1,oː,575,false,expert,,oː,,,1
 rupa-254-1-1,rupa-254-1,oː,575,false,expert,,oː,,,1
 shergaon-254-1-1,shergaon-254-1,oː,575,false,expert,,oː,,,1
-khispi-255-1-1,khispi-255-1,mej-lɔŋ,578,false,expert,,m ej,,,1
+khispi-255-1-1,khispi-255-1,mej-lɔŋ,578,false,expert,,m ei,,,1
 khispi-255-1-2,khispi-255-1,mej-lɔŋ,577,false,expert,,l ɔ ŋ,,,2
-duhumbi-255-1-1,duhumbi-255-1,mɛj-rɔŋ,578,false,expert,,m ɛj,,,1
+duhumbi-255-1-1,duhumbi-255-1,mɛj-rɔŋ,578,false,expert,,m ɛi,,,1
 duhumbi-255-1-2,duhumbi-255-1,mɛj-rɔŋ,577,false,expert,,r ɔ ŋ,,,2
 jerigaon-255-1-1,jerigaon-255-1,mɛ-rɔŋ,578,false,expert,,m ɛ,,,1
 jerigaon-255-1-2,jerigaon-255-1,mɛ-rɔŋ,577,false,expert,,r ɔ ŋ,,,2
 rupa-255-1-1,rupa-255-1,mə-ryŋ,578,false,expert,,m ə,,,1
 rupa-255-1-2,rupa-255-1,mə-ryŋ,577,false,expert,,r y ŋ,,,2
-shergaon-255-1-1,shergaon-255-1,maj-rɔŋ,578,false,expert,,m aj,,,1
+shergaon-255-1-1,shergaon-255-1,maj-rɔŋ,578,false,expert,,m ai,,,1
 shergaon-255-1-2,shergaon-255-1,maj-rɔŋ,577,false,expert,,r ɔ ŋ,,,2
 khoina-256-1-1,khoina-256-1,də-ʨĩː-ʥi,19,false,expert,,d ə,,,1
 khoina-256-1-2,khoina-256-1,də-ʨĩː-ʥi,17,false,expert,,tɕ ĩː,,,2
@@ -2707,7 +2707,7 @@ duhumbi-257-1-1,duhumbi-257-1,ʥɔŋ,579,false,expert,,dʑ ɔ ŋ,,,1
 khoina-257-1-1,khoina-257-1,ʦʰɛː,579,false,expert,,tsʰ ɛː -,,,1
 khoitam-257-1-1,khoitam-257-1,ʨʰɔː,579,false,expert,,tɕʰ ɔː -,,,1
 rahung-257-1-1,rahung-257-1,ʨʰoː,579,false,expert,,tɕʰ oː -,,,1
-rupa-257-1-1,rupa-257-1,ʦʰaw,579,false,expert,,tsʰ aw -,,,1
+rupa-257-1-1,rupa-257-1,ʦʰaw,579,false,expert,,tsʰ au -,,,1
 khispi-258-1-1,khispi-258-1,da,475,false,expert,,d a,,,1
 duhumbi-258-1-1,duhumbi-258-1,da,475,false,expert,,d a,,,1
 jerigaon-258-1-1,jerigaon-258-1,ruː,475,false,expert,,r uː,,,1
@@ -2727,9 +2727,9 @@ rupa-259-1-3,rupa-259-1,gə-tam-ʥi,18,false,expert,,dʑ i,,,3
 shergaon-259-1-1,shergaon-259-1,ka-tam-ʥi,21,false,expert,,k a -,,,1
 shergaon-259-1-2,shergaon-259-1,ka-tam-ʥi,23,false,expert,,t a m,,,2
 shergaon-259-1-3,shergaon-259-1,ka-tam-ʥi,18,false,expert,,dʑ i,,,3
-khispi-260-1-1,khispi-260-1,lɛj tɔm,582,false,expert,,l ɛj,,,1
+khispi-260-1-1,khispi-260-1,lɛj tɔm,582,false,expert,,l ɛi,,,1
 khispi-260-1-2,khispi-260-1,lɛj tɔm,157,false,expert,,t ɔ m,,,2
-duhumbi-260-1-1,duhumbi-260-1,lɛj tɔm,582,false,expert,,l ɛj,,,1
+duhumbi-260-1-1,duhumbi-260-1,lɛj tɔm,582,false,expert,,l ɛi,,,1
 duhumbi-260-1-2,duhumbi-260-1,lɛj tɔm,157,false,expert,,t ɔ m,,,2
 khoina-260-1-1,khoina-260-1,la-tʂʰyː tuŋ,582,false,expert,,l a,,,1
 khoina-260-1-2,khoina-260-1,la-tʂʰyː tuŋ,583,false,expert,,ʈʂʰ yː,,,2
@@ -2771,10 +2771,10 @@ duhumbi-263-1-2,duhumbi-263-1,kɔː-lɔk-pa,375,false,expert,,l ɔ k,,,2
 duhumbi-263-1-3,duhumbi-263-1,kɔː-lɔk-pa,28,false,expert,,p a,,,3
 khoina-263-1-1,khoina-263-1,ja-pʰyk kɹaː,592,false,expert,,j a,,,1
 khoina-263-1-2,khoina-263-1,ja-pʰyk kɹaː,588,false,expert,,pʰ y k,,,2
-khoina-263-1-3,khoina-263-1,ja-pʰyk kɹaː,169,false,expert,,kɹ aː,,,3
+khoina-263-1-3,khoina-263-1,ja-pʰyk kɹaː,169,false,expert,,k ɹ aː,,,3
 jerigaon-263-1-1,jerigaon-263-1,la-pʰyk kɹiː,156,false,expert,,l a,,,1
 jerigaon-263-1-2,jerigaon-263-1,la-pʰyk kɹiː,588,false,expert,,pʰ y k,,,2
-jerigaon-263-1-3,jerigaon-263-1,la-pʰyk kɹiː,169,false,expert,,kɹ iː,,,3
+jerigaon-263-1-3,jerigaon-263-1,la-pʰyk kɹiː,169,false,expert,,k ɹ iː,,,3
 khoitam-263-1-1,khoitam-263-1,lə-pʰik-kʰɔm,156,false,expert,,l ə,,,1
 khoitam-263-1-2,khoitam-263-1,lə-pʰik-kʰɔm,588,false,expert,,pʰ i k,,,2
 khoitam-263-1-3,khoitam-263-1,lə-pʰik-kʰɔm,589,false,expert,,kʰ ɔ m,,,3
@@ -2847,7 +2847,7 @@ khoitam-269-1-1,khoitam-269-1,jeˀ,601,false,expert,,j eˀ -,,,1
 rahung-269-1-1,rahung-269-1,jeˀ,601,false,expert,,j eˀ -,,,1
 rupa-269-1-1,rupa-269-1,jeˀ,601,false,expert,,j eˀ -,,,1
 khispi-270-1-1,khispi-270-1,ʑej ~ ʑe,602,false,expert,,ʑ ej~e/e,,,1
-duhumbi-270-1-1,duhumbi-270-1,ʑɛj,602,false,expert,,ʑ ɛj,,,1
+duhumbi-270-1-1,duhumbi-270-1,ʑɛj,602,false,expert,,ʑ ɛi,,,1
 khoina-270-1-1,khoina-270-1,ʐaː,602,false,expert,,ʐ aː,,,1
 jerigaon-270-1-1,jerigaon-270-1,zɛ ~ zaː,602,false,expert,,z ɛː~aː/ɛː,,,1
 khoitam-270-1-1,khoitam-270-1,zɛː,602,false,expert,,z ɛː,,,1
@@ -2914,7 +2914,7 @@ khoitam-274-1-2,khoitam-274-1,pʰ-ʨʰik,609,false,expert,,tɕʰ i k,,,2
 rahung-274-1-1,rahung-274-1,pʰ-ʨʰik,216,false,expert,,pʰ,,,1
 rahung-274-1-2,rahung-274-1,pʰ-ʨʰik,609,false,expert,,tɕʰ i k,,,2
 shergaon-274-1-1,shergaon-274-1,ʨʰin-ʨʰɹik,611,false,expert,,tɕʰ i n,,,1
-shergaon-274-1-2,shergaon-274-1,ʨʰin-ʨʰɹik,609,false,expert,,tɕʰɹ i k,,,2
+shergaon-274-1-2,shergaon-274-1,ʨʰin-ʨʰɹik,609,false,expert,,tɕʰ ɹ i k,,,2
 khispi-275-1-1,khispi-275-1,ɲim-lak-pa ~ ɲim-dak-pa,618,false,expert,,ɲ i m,,,1
 khispi-275-1-2,khispi-275-1,ɲim-lak-pa ~ ɲim-dak-pa,165,false,expert,,l~d/l a k,,,2
 khispi-275-1-3,khispi-275-1,ɲim-lak-pa ~ ɲim-dak-pa,28,false,expert,,p a,,,3
@@ -2934,8 +2934,8 @@ rupa-275-1-1,rupa-275-1,bə-kʰe,501,false,expert,,b ə,,,1
 rupa-275-1-2,rupa-275-1,bə-kʰe,612,false,expert,,kʰ e,,,2
 shergaon-275-1-1,shergaon-275-1,bə-kʰe,501,false,expert,,b ə,,,1
 shergaon-275-1-2,shergaon-275-1,bə-kʰe,612,false,expert,,kʰ e,,,2
-khispi-276-1-1,khispi-276-1,lej,620,false,expert,,l ej,,,1
-duhumbi-276-1-1,duhumbi-276-1,lɛj,620,false,expert,,l ɛj,,,1
+khispi-276-1-1,khispi-276-1,lej,620,false,expert,,l ei,,,1
+duhumbi-276-1-1,duhumbi-276-1,lɛj,620,false,expert,,l ɛi,,,1
 khoina-276-1-1,khoina-276-1,laː,620,false,expert,,l aː,,,1
 jerigaon-276-1-1,jerigaon-276-1,lɛˀ,620,false,expert,,l ɛˀ,,,1
 khoitam-276-1-1,khoitam-276-1,lɛˀ,620,false,expert,,l ɛˀ,,,1
@@ -2991,7 +2991,7 @@ khispi-281-1-2,khispi-281-1,nam-liŋ,226,false,expert,,l i ŋ,,,2
 khoina-281-1-1,khoina-281-1,nə-ʦʰaː,335,false,expert,,n ə -,,,1
 khoina-281-1-2,khoina-281-1,nə-ʦʰaː,334,false,expert,,tsʰ aː,,,2
 jerigaon-281-1-1,jerigaon-281-1,nam-bla kʰɛː,402,false,expert,,n a m,,,1
-jerigaon-281-1-2,jerigaon-281-1,nam-bla kʰɛː,227,false,expert,,bl a,,,2
+jerigaon-281-1-2,jerigaon-281-1,nam-bla kʰɛː,227,false,expert,,b l a,,,2
 jerigaon-281-1-3,jerigaon-281-1,nam-bla kʰɛː,230,false,expert,,kʰ ɛː,,,3
 khoitam-281-1-1,khoitam-281-1,nam tap,402,false,expert,,n a m,,,1
 khoitam-281-1-2,khoitam-281-1,nam tap,633,false,expert,,t a p,,,2
@@ -3033,8 +3033,8 @@ khoina-285-1-1,khoina-285-1,ʣɔː,639,false,expert,,dz ɔː,,,1
 jerigaon-285-1-1,jerigaon-285-1,ʥɔː,639,false,expert,,dʑ ɔː,,,1
 khoitam-285-1-1,khoitam-285-1,ʥɔː,639,false,expert,,dʑ ɔː,,,1
 rahung-285-1-1,rahung-285-1,ʥoː,639,false,expert,,dʑ oː,,,1
-rupa-285-1-1,rupa-285-1,ʥaw,639,false,expert,,dʑ aw,,,1
-shergaon-285-1-1,shergaon-285-1,ʥaw,639,false,expert,,dʑ aw,,,1
+rupa-285-1-1,rupa-285-1,ʥaw,639,false,expert,,dʑ au,,,1
+shergaon-285-1-1,shergaon-285-1,ʥaw,639,false,expert,,dʑ au,,,1
 khispi-286-1-1,khispi-286-1,ɕa-pɕin,115,false,expert,,ɕ a,,,1
 khispi-286-1-2,khispi-286-1,ɕa-pɕin,640,false,expert,,pɕ i n,,,2
 khoina-286-1-1,khoina-286-1,də-ʦʰɛ̃ː,643,false,expert,,d ə,,,1
@@ -3081,7 +3081,7 @@ khoitam-290-1-1,khoitam-290-1,lan,648,false,expert,,l a n,,,1
 rahung-290-1-1,rahung-290-1,lɛn,648,false,expert,,l ɛ n,,,1
 rupa-290-1-1,rupa-290-1,lan,648,false,expert,,l a n,,,1
 khispi-291-1-1,khispi-291-1,hɛk,168,false,expert,,h ɛ k,,,1
-duhumbi-291-1-1,duhumbi-291-1,hjɛk,168,false,expert,,hj ɛ k,,,1
+duhumbi-291-1-1,duhumbi-291-1,hjɛk,168,false,expert,,h j ɛ k,,,1
 khoina-291-1-1,khoina-291-1,xajk,168,false,expert,,x aj/ai k,,,1
 jerigaon-291-1-1,jerigaon-291-1,hɛk ~ hɛʔ-mu,168,false,expert,,h ɛ k,,,1
 khoitam-291-1-1,khoitam-291-1,hɛk,168,false,expert,,h ɛ k,,,1
@@ -3143,7 +3143,7 @@ shergaon-294-1-1,shergaon-294-1,han-duː,658,false,expert,,h a n,,,1
 shergaon-294-1-2,shergaon-294-1,han-duː,659,false,expert,,d uː,,,2
 khispi-295-1-1,khispi-295-1,mɔː-ɕɔ,104,false,expert,,m ɔː,,,1
 khispi-295-1-2,khispi-295-1,mɔː-ɕɔ,695,false,expert,,ɕ ɔ,,,2
-duhumbi-295-1-1,duhumbi-295-1,mɛj-ɕiŋ,245,false,expert,,m ɛj,,,1
+duhumbi-295-1-1,duhumbi-295-1,mɛj-ɕiŋ,245,false,expert,,m ɛi,,,1
 duhumbi-295-1-2,duhumbi-295-1,mɛj-ɕiŋ,661,false,expert,,ɕ i ŋ,,,2
 khoina-295-1-1,khoina-295-1,ma-ʦɛ̃ː,104,false,expert,,m a,,,1
 khoina-295-1-2,khoina-295-1,ma-ʦɛ̃ː,661,false,expert,,ts ɛ̃ː -,,,2
@@ -3338,17 +3338,17 @@ khispi-313-1-2,khispi-313-1,nam-ba,456,false,expert,,b a,,,2
 duhumbi-313-1-1,duhumbi-313-1,nam-ba,457,false,expert,,n a m,,,1
 duhumbi-313-1-2,duhumbi-313-1,nam-ba,456,false,expert,,b a,,,2
 khoina-313-1-1,khoina-313-1,nam-bluː,457,false,expert,,n a m,,,1
-khoina-313-1-2,khoina-313-1,nam-bluː,456,false,expert,,bl uː,,,2
+khoina-313-1-2,khoina-313-1,nam-bluː,456,false,expert,,b l uː,,,2
 jerigaon-313-1-1,jerigaon-313-1,nam-bluː,457,false,expert,,n a m,,,1
-jerigaon-313-1-2,jerigaon-313-1,nam-bluː,456,false,expert,,bl uː,,,2
+jerigaon-313-1-2,jerigaon-313-1,nam-bluː,456,false,expert,,b l uː,,,2
 khoitam-313-1-1,khoitam-313-1,nam-bluː,457,false,expert,,n a m,,,1
-khoitam-313-1-2,khoitam-313-1,nam-bluː,456,false,expert,,bl uː,,,2
+khoitam-313-1-2,khoitam-313-1,nam-bluː,456,false,expert,,b l uː,,,2
 rahung-313-1-1,rahung-313-1,nam-bruː,457,false,expert,,n a m,,,1
-rahung-313-1-2,rahung-313-1,nam-bruː,456,false,expert,,br uː,,,2
+rahung-313-1-2,rahung-313-1,nam-bruː,456,false,expert,,b r uː,,,2
 rupa-313-1-1,rupa-313-1,nam-bluː,457,false,expert,,n a m,,,1
-rupa-313-1-2,rupa-313-1,nam-bluː,456,false,expert,,bl uː,,,2
+rupa-313-1-2,rupa-313-1,nam-bluː,456,false,expert,,b l uː,,,2
 shergaon-313-1-1,shergaon-313-1,nam-bluː,457,false,expert,,n a m,,,1
-shergaon-313-1-2,shergaon-313-1,nam-bluː,456,false,expert,,bl uː,,,2
+shergaon-313-1-2,shergaon-313-1,nam-bluː,456,false,expert,,b l uː,,,2
 jerigaon-314-1-1,jerigaon-314-1,s(ə)-ruː s(ə)-ri,701,false,expert,,s ə,,,1
 jerigaon-314-1-2,jerigaon-314-1,s(ə)-ruː s(ə)-ri,581,false,expert,,r uː,,,2
 jerigaon-314-1-3,jerigaon-314-1,s(ə)-ruː s(ə)-ri,700,false,expert,,s ə,,,3
@@ -3429,12 +3429,12 @@ khoitam-320-1-2,khoitam-320-1,sə-sɔː ~ ʨʰə-sɔː,711,false,expert,,s ɔː,
 rahung-320-1-1,rahung-320-1,ʨʰə-ʨʰoː,712,false,expert,,tɕʰ ə,,,1
 rahung-320-1-2,rahung-320-1,ʨʰə-ʨʰoː,711,false,expert,,tɕʰ oː,,,2
 rupa-320-1-1,rupa-320-1,nə-ʦʰaw ~ də-ʦʰaw,359,false,expert,,n~d/n ə,,,1
-rupa-320-1-2,rupa-320-1,nə-ʦʰaw ~ də-ʦʰaw,711,false,expert,,tsʰ aw,,,2
+rupa-320-1-2,rupa-320-1,nə-ʦʰaw ~ də-ʦʰaw,711,false,expert,,tsʰ au,,,2
 shergaon-320-1-1,shergaon-320-1,nə-ʨʰaw,359,false,expert,,n ə,,,1
-shergaon-320-1-2,shergaon-320-1,nə-ʨʰaw,711,false,expert,,tɕʰ aw,,,2
+shergaon-320-1-2,shergaon-320-1,nə-ʨʰaw,711,false,expert,,tɕʰ au,,,2
 khispi-321-1-1,khispi-321-1,me-ka,714,false,expert,,m e -,,,1
 khispi-321-1-2,khispi-321-1,me-ka,463,false,expert,,k a,,,2
-duhumbi-321-1-1,duhumbi-321-1,mjɛ-ka,714,false,expert,,mj ɛ -,,,1
+duhumbi-321-1-1,duhumbi-321-1,mjɛ-ka,714,false,expert,,m j ɛ -,,,1
 duhumbi-321-1-2,duhumbi-321-1,mjɛ-ka,463,false,expert,,k a,,,2
 khoina-321-1-1,khoina-321-1,a-mɛ,56,false,expert,,a,,,1
 khoina-321-1-2,khoina-321-1,a-mɛ,714,false,expert,,m ɛ -,,,2
@@ -3566,12 +3566,12 @@ rahung-330-1-1,rahung-330-1,ʨʰeˀ,738,false,expert,,tɕʰ eˀ -,,,1
 rupa-330-1-1,rupa-330-1,ʨʰeˀ,738,false,expert,,tɕʰ eˀ -,,,1
 khispi-331-1-1,khispi-331-1,pɕi,739,false,expert,,pɕ i,,,1
 duhumbi-331-1-1,duhumbi-331-1,pɕi,739,false,expert,,pɕ i,,,1
-khoina-331-1-1,khoina-331-1,pʰliː,739,false,expert,,pʰl iː,,,1
-jerigaon-331-1-1,jerigaon-331-1,pʰliː,739,false,expert,,pʰl iː,,,1
-khoitam-331-1-1,khoitam-331-1,pʰliː,739,false,expert,,pʰl iː,,,1
-rahung-331-1-1,rahung-331-1,pʰliː,739,false,expert,,pʰl iː,,,1
-rupa-331-1-1,rupa-331-1,pʰliː,739,false,expert,,pʰl iː,,,1
-shergaon-331-1-1,shergaon-331-1,pʰliː,739,false,expert,,pʰl iː,,,1
+khoina-331-1-1,khoina-331-1,pʰliː,739,false,expert,,pʰ l iː,,,1
+jerigaon-331-1-1,jerigaon-331-1,pʰliː,739,false,expert,,pʰ l iː,,,1
+khoitam-331-1-1,khoitam-331-1,pʰliː,739,false,expert,,pʰ l iː,,,1
+rahung-331-1-1,rahung-331-1,pʰliː,739,false,expert,,pʰ l iː,,,1
+rupa-331-1-1,rupa-331-1,pʰliː,739,false,expert,,pʰ l iː,,,1
+shergaon-331-1-1,shergaon-331-1,pʰliː,739,false,expert,,pʰ l iː,,,1
 khispi-332-1-1,khispi-332-1,ba-,740,false,expert,,b a,,,1
 duhumbi-332-1-1,duhumbi-332-1,ba-,740,false,expert,,b a,,,1
 khoina-332-1-1,khoina-332-1,bə- ~ by-,740,false,expert,,b y~ə/ə,,,1
@@ -3686,8 +3686,8 @@ khoitam-342-1-1,khoitam-342-1,tʰoː,759,false,expert,,tʰ oː,,,1
 rahung-342-1-1,rahung-342-1,tʰoː,759,false,expert,,tʰ oː,,,1
 rupa-342-1-1,rupa-342-1,tʰoː,759,false,expert,,tʰ oː,,,1
 shergaon-342-1-1,shergaon-342-1,tʰoː,759,false,expert,,tʰ oː,,,1
-khispi-343-1-1,khispi-343-1,aj ~ e,454,false,expert,,aj~e/aj,,,1
-duhumbi-343-1-1,duhumbi-343-1,aj,454,false,expert,,aj,,,1
+khispi-343-1-1,khispi-343-1,aj ~ e,454,false,expert,,aj~e/ai,,,1
+duhumbi-343-1-1,duhumbi-343-1,aj,454,false,expert,,ai,,,1
 jerigaon-343-1-1,jerigaon-343-1,ɐː,454,false,expert,,ɐː,,,1
 khoitam-343-1-1,khoitam-343-1,ɔː,454,false,expert,,ɔː,,,1
 rahung-343-1-1,rahung-343-1,ɔː,454,false,expert,,ɔː,,,1
@@ -3781,19 +3781,19 @@ rupa-349-2-2,rupa-349-2,ik-tʰũː(ŋ),776,false,expert,,tʰ ũː (ŋ)/ŋ,,,2
 khoina-350-1-1,khoina-350-1,ry-wøː,780,false,expert,,r y,,,1
 khoina-350-1-2,khoina-350-1,ry-wøː,778,false,expert,,w øː,,,2
 khoitam-350-1-1,khoitam-350-1,sy-wɛːʰ,779,false,expert,,s y,,,1
-khoitam-350-1-2,khoitam-350-1,sy-wɛːʰ,778,false,expert,,w ɛːʰ,,,2
+khoitam-350-1-2,khoitam-350-1,sy-wɛːʰ,778,false,expert,,w ɛːʰ/ɛː,,,2
 rahung-350-1-1,rahung-350-1,su-wɛːʰ,779,false,expert,,s u,,,1
-rahung-350-1-2,rahung-350-1,su-wɛːʰ,778,false,expert,,w ɛːʰ,,,2
+rahung-350-1-2,rahung-350-1,su-wɛːʰ,778,false,expert,,w ɛːʰ/ɛː,,,2
 duhumbi-351-1-1,duhumbi-351-1,kam-kɔw,782,false,expert,,k a m,,,1
-duhumbi-351-1-2,duhumbi-351-1,kam-kɔw,781,false,expert,,k ɔw,,,2
+duhumbi-351-1-2,duhumbi-351-1,kam-kɔw,781,false,expert,,k ɔu,,,2
 jerigaon-351-1-1,jerigaon-351-1,hu-kʰøː,786,false,expert,,h u,,,1
 jerigaon-351-1-2,jerigaon-351-1,hu-kʰøː,781,false,expert,,kʰ øː,,,2
 khoitam-351-1-1,khoitam-351-1,f-kʰøː,786,false,expert,,f -,,,1
 khoitam-351-1-2,khoitam-351-1,f-kʰøː,781,false,expert,,kʰ øː,,,2
 rahung-351-1-1,rahung-351-1,mɔ-kʰøː,784,false,expert,,m ɔ,,,1
 rahung-351-1-2,rahung-351-1,mɔ-kʰøː,781,false,expert,,kʰ øː,,,2
-shergaon-351-1-1,shergaon-351-1,kʰɔj-kʰɔj-ma,299,false,expert,,kʰ ɔj,,,1
-shergaon-351-1-2,shergaon-351-1,kʰɔj-kʰɔj-ma,781,false,expert,,kʰ ɔj,,,2
+shergaon-351-1-1,shergaon-351-1,kʰɔj-kʰɔj-ma,299,false,expert,,kʰ ɔi,,,1
+shergaon-351-1-2,shergaon-351-1,kʰɔj-kʰɔj-ma,781,false,expert,,kʰ ɔi,,,2
 shergaon-351-1-3,shergaon-351-1,kʰɔj-kʰɔj-ma,783,false,expert,,m a,,,3
 khispi-352-1-1,khispi-352-1,hu-ma,788,false,expert,,h u -,,,1
 khispi-352-1-2,khispi-352-1,hu-ma,787,false,expert,,m a,,,2
@@ -3834,10 +3834,10 @@ rahung-354-1-2,rahung-354-1,(pʰuk) pʰam-bɛ,112,false,expert,,pʰ a m,,,2
 rahung-354-1-3,rahung-354-1,(pʰuk) pʰam-bɛ,794,false,expert,,b ɛ,,,3
 rupa-354-1-1,rupa-354-1,(pʰuk) pʰam-pʰla,715,false,expert,,pʰ u k,,,1
 rupa-354-1-2,rupa-354-1,(pʰuk) pʰam-pʰla,112,false,expert,,pʰ a m,,,2
-rupa-354-1-3,rupa-354-1,(pʰuk) pʰam-pʰla,794,false,expert,,pʰl a,,,3
+rupa-354-1-3,rupa-354-1,(pʰuk) pʰam-pʰla,794,false,expert,,pʰ l a,,,3
 shergaon-354-1-1,shergaon-354-1,(suk) pʰam-pʰla,736,false,expert,,s u k,,,1
 shergaon-354-1-2,shergaon-354-1,(suk) pʰam-pʰla,112,false,expert,,pʰ a m,,,2
-shergaon-354-1-3,shergaon-354-1,(suk) pʰam-pʰla,794,false,expert,,pʰl a,,,3
+shergaon-354-1-3,shergaon-354-1,(suk) pʰam-pʰla,794,false,expert,,pʰ l a,,,3
 khispi-355-1-1,khispi-355-1,lak,615,false,expert,,l a k,,,1
 duhumbi-355-1-1,duhumbi-355-1,lak,615,false,expert,,l a k,,,1
 khoina-355-1-1,khoina-355-1,lɐk,615,false,expert,,l ɐ k,,,1
@@ -3906,7 +3906,7 @@ rahung-360-1-1,rahung-360-1,ʨik,807,false,expert,,tɕ i k,,,1
 rupa-360-1-1,rupa-360-1,ʦik,807,false,expert,,ts i k,,,1
 khispi-361-1-1,khispi-361-1,bi-ʦi,808,false,expert,,b i,,,1
 khispi-361-1-2,khispi-361-1,bi-ʦi,809,false,expert,,ts i,,,2
-duhumbi-361-1-1,duhumbi-361-1,bɛj-ʦi,808,false,expert,,b ɛj,,,1
+duhumbi-361-1-1,duhumbi-361-1,bɛj-ʦi,808,false,expert,,b ɛi,,,1
 duhumbi-361-1-2,duhumbi-361-1,bɛj-ʦi,809,false,expert,,ts i,,,2
 khoina-361-1-1,khoina-361-1,ba-ʦi,808,false,expert,,b a,,,1
 khoina-361-1-2,khoina-361-1,ba-ʦi,809,false,expert,,ts i,,,2
@@ -3924,26 +3924,26 @@ shergaon-361-1-2,shergaon-361-1,bap-ʨi,991,false,expert,,p,,,2
 shergaon-361-1-3,shergaon-361-1,bap-ʨi,809,false,expert,,tɕ i,,,3
 khispi-362-1-1,khispi-362-1,pʰa,812,false,expert,,pʰ a,,,1
 duhumbi-362-1-1,duhumbi-362-1,pʰa,812,false,expert,,pʰ a,,,1
-khoina-362-1-1,khoina-362-1,pʰla (kam-ziŋ),812,false,expert,,pʰl a,,,1
+khoina-362-1-1,khoina-362-1,pʰla (kam-ziŋ),812,false,expert,,pʰ l a,,,1
 jerigaon-362-1-1,jerigaon-362-1,pʰɛˀ,812,false,expert,,pʰ ɛˀ,,,1
 khoitam-362-1-1,khoitam-362-1,pʰuː,812,false,expert,,pʰ uː,,,1
 rupa-362-1-1,rupa-362-1,pʰuː,812,false,expert,,pʰ uː,,,1
-khispi-363-1-1,khispi-363-1,haj,814,false,expert,,h aj,,,1
-duhumbi-363-1-1,duhumbi-363-1,haj,814,false,expert,,h aj,,,1
+khispi-363-1-1,khispi-363-1,haj,814,false,expert,,h ai,,,1
+duhumbi-363-1-1,duhumbi-363-1,haj,814,false,expert,,h ai,,,1
 khoina-363-1-1,khoina-363-1,hɐː,814,false,expert,,h ɐː,,,1
 khoitam-363-1-1,khoitam-363-1,lɔː,814,false,expert,,l ɔː,,,1
 rahung-363-1-1,rahung-363-1,lɔː,814,false,expert,,l ɔː,,,1
 rupa-363-1-1,rupa-363-1,lɔ,814,false,expert,,l ɔ,,,1
-khispi-364-1-1,khispi-364-1,lej,815,false,expert,,l ej,,,1
-duhumbi-364-1-1,duhumbi-364-1,lɛj,815,false,expert,,l ɛj,,,1
+khispi-364-1-1,khispi-364-1,lej,815,false,expert,,l ei,,,1
+duhumbi-364-1-1,duhumbi-364-1,lɛj,815,false,expert,,l ɛi,,,1
 khoina-364-1-1,khoina-364-1,lɐː,815,false,expert,,l ɐː,,,1
 jerigaon-364-1-1,jerigaon-364-1,mɛŋ,816,false,expert,,m ɛ ŋ,,,1
 khoitam-364-1-1,khoitam-364-1,jɛŋ,816,false,expert,,j ɛ ŋ,,,1
 rahung-364-1-1,rahung-364-1,jɛŋ,816,false,expert,,j ɛ ŋ,,,1
 rupa-364-1-1,rupa-364-1,loː,815,false,expert,,l oː,,,1
 shergaon-364-1-1,shergaon-364-1,loː,815,false,expert,,l oː,,,1
-khispi-365-1-1,khispi-365-1,wuj,817,false,expert,,w uj,,,1
-duhumbi-365-1-1,duhumbi-365-1,wɔj,817,false,expert,,w ɔj,,,1
+khispi-365-1-1,khispi-365-1,wuj,817,false,expert,,w ui,,,1
+duhumbi-365-1-1,duhumbi-365-1,wɔj,817,false,expert,,w ɔi,,,1
 khoina-365-1-1,khoina-365-1,wɐː,817,false,expert,,w ɐː,,,1
 khoitam-365-1-1,khoitam-365-1,wɔː,817,false,expert,,w ɔː,,,1
 rahung-365-1-1,rahung-365-1,wɔː,817,false,expert,,w ɔː,,,1
@@ -3966,15 +3966,15 @@ shergaon-367-1-1,shergaon-367-1,duk,819,false,expert,,d u k,,,1
 khispi-368-1-1,khispi-368-1,ɕa-bi,821,false,expert,,ɕ a,,,1
 khispi-368-1-2,khispi-368-1,ɕa-bi,820,false,expert,,b i,,,2
 duhumbi-368-1-1,duhumbi-368-1,ɕa-bɛj,821,false,expert,,ɕ a,,,1
-duhumbi-368-1-2,duhumbi-368-1,ɕa-bɛj,820,false,expert,,b ɛj,,,2
+duhumbi-368-1-2,duhumbi-368-1,ɕa-bɛj,820,false,expert,,b ɛi,,,2
 khoina-368-1-1,khoina-368-1,ʂu-bɐʰ,821,false,expert,,ʂ u,,,1
-khoina-368-1-2,khoina-368-1,ʂu-bɐʰ,820,false,expert,,b ɐʰ,,,2
+khoina-368-1-2,khoina-368-1,ʂu-bɐʰ,820,false,expert,,b ɐʰ/ɐ,,,2
 jerigaon-368-1-1,jerigaon-368-1,su-bɐʰ,821,false,expert,,s u,,,1
-jerigaon-368-1-2,jerigaon-368-1,su-bɐʰ,820,false,expert,,b ɐʰ,,,2
+jerigaon-368-1-2,jerigaon-368-1,su-bɐʰ,820,false,expert,,b ɐʰ/ɐ,,,2
 khoitam-368-1-1,khoitam-368-1,zu-bɔʰ,821,false,expert,,z u,,,1
-khoitam-368-1-2,khoitam-368-1,zu-bɔʰ,820,false,expert,,b ɔʰ,,,2
+khoitam-368-1-2,khoitam-368-1,zu-bɔʰ,820,false,expert,,b ɔʰ/ɔ,,,2
 rahung-368-1-1,rahung-368-1,sə-bɔʰ ~ su-bɔʰ,821,false,expert,,s ə~u/ə,,,1
-rahung-368-1-2,rahung-368-1,sə-bɔʰ ~ su-bɔʰ,820,false,expert,,b ɔʰ,,,2
+rahung-368-1-2,rahung-368-1,sə-bɔʰ ~ su-bɔʰ,820,false,expert,,b ɔʰ/ɔ,,,2
 rupa-368-1-1,rupa-368-1,sə-bɔ,821,false,expert,,s ə,,,1
 rupa-368-1-2,rupa-368-1,sə-bɔ,820,false,expert,,b ɔ,,,2
 shergaon-368-1-1,shergaon-368-1,sə-bɔ,821,false,expert,,s ə,,,1
@@ -3997,7 +3997,7 @@ rahung-372-1-1,rahung-372-1,tʰə-,825,false,expert,,tʰ ə,,,1
 rupa-372-1-1,rupa-372-1,də-,825,false,expert,,d ə,,,1
 shergaon-372-1-1,shergaon-372-1,də-,825,false,expert,,d ə,,,1
 khispi-373-1-1,khispi-373-1,kʰɛŋ,286,false,expert,,kʰ ɛ ŋ,,,1
-duhumbi-373-1-1,duhumbi-373-1,kʰjɛŋ,286,false,expert,,kʰj ɛ ŋ,,,1
+duhumbi-373-1-1,duhumbi-373-1,kʰjɛŋ,286,false,expert,,kʰ j ɛ ŋ,,,1
 rahung-373-1-1,rahung-373-1,ʨʰɛŋ,286,false,expert,,tɕʰ ɛ ŋ,,,1
 rupa-373-1-1,rupa-373-1,kʰɛŋ,286,false,expert,,kʰ ɛ ŋ,,,1
 shergaon-373-1-1,shergaon-373-1,kʰɛŋ,286,false,expert,,kʰ ɛ ŋ,,,1
@@ -4023,19 +4023,19 @@ shergaon-374-1-1,shergaon-374-1,sak-piː,828,false,expert,,s a k,,,1
 shergaon-374-1-2,shergaon-374-1,sak-piː,827,false,expert,,p iː,,,2
 khispi-375-1-1,khispi-375-1,buŋ-ɕa,833,false,expert,,b u ŋ,,,1
 khispi-375-1-2,khispi-375-1,buŋ-ɕa,389,false,expert,,ɕ a,,,2
-duhumbi-375-1-1,duhumbi-375-1,brum-ɕa,833,false,expert,,br u m,,,1
+duhumbi-375-1-1,duhumbi-375-1,brum-ɕa,833,false,expert,,b r u m,,,1
 duhumbi-375-1-2,duhumbi-375-1,brum-ɕa,389,false,expert,,ɕ a,,,2
 khoina-375-1-1,khoina-375-1,ma-pʰluŋ,830,false,expert,,m a,,,1
-khoina-375-1-2,khoina-375-1,ma-pʰluŋ,829,false,expert,,pʰl u ŋ,,,2
+khoina-375-1-2,khoina-375-1,ma-pʰluŋ,829,false,expert,,pʰ l u ŋ,,,2
 jerigaon-375-1-1,jerigaon-375-1,ma-pʰluŋ,830,false,expert,,m a,,,1
-jerigaon-375-1-2,jerigaon-375-1,ma-pʰluŋ,829,false,expert,,pʰl u ŋ,,,2
+jerigaon-375-1-2,jerigaon-375-1,ma-pʰluŋ,829,false,expert,,pʰ l u ŋ,,,2
 khoitam-375-1-1,khoitam-375-1,ma-pʰluŋ,830,false,expert,,m a,,,1
-khoitam-375-1-2,khoitam-375-1,ma-pʰluŋ,829,false,expert,,pʰl u ŋ,,,2
+khoitam-375-1-2,khoitam-375-1,ma-pʰluŋ,829,false,expert,,pʰ l u ŋ,,,2
 rahung-375-1-1,rahung-375-1,ma-pʰluŋ,830,false,expert,,m a,,,1
-rahung-375-1-2,rahung-375-1,ma-pʰluŋ,829,false,expert,,pʰl u ŋ,,,2
+rahung-375-1-2,rahung-375-1,ma-pʰluŋ,829,false,expert,,pʰ l u ŋ,,,2
 rupa-375-1-1,rupa-375-1,buŋ-glɔ̃ ~ buŋ-blɔ̃,833,false,expert,,b u ŋ,,,1
-rupa-375-1-2,rupa-375-1,buŋ-glɔ̃ ~ buŋ-blɔ̃,340,false,expert,,bl~gl/bl ɔ̃,,,2
-shergaon-375-1-1,shergaon-375-1,brum-sɔː,833,false,expert,,br u m,,,1
+rupa-375-1-2,rupa-375-1,buŋ-glɔ̃ ~ buŋ-blɔ̃,340,false,expert,,bl~gl/b l ɔ̃,,,2
+shergaon-375-1-1,shergaon-375-1,brum-sɔː,833,false,expert,,b r u m,,,1
 shergaon-375-1-2,shergaon-375-1,brum-sɔː,389,false,expert,,s ɔː,,,2
 khispi-376-1-1,khispi-376-1,bi-ɕ-taŋ,15,false,expert,,b i,,,1
 khispi-376-1-2,khispi-376-1,bi-ɕ-taŋ,38,false,expert,,ɕ,,,2
@@ -4047,16 +4047,16 @@ khoina-376-1-1,khoina-376-1,ɕ-taŋ,38,false,expert,,ɕ,,,1
 khoina-376-1-2,khoina-376-1,ɕ-taŋ,35,false,expert,,t a ŋ,,,2
 rupa-376-1-1,rupa-376-1,s-taŋ,38,false,expert,,s,,,1
 rupa-376-1-2,rupa-376-1,s-taŋ,35,false,expert,,t a ŋ,,,2
-khispi-377-1-1,khispi-377-1,haj,835,false,expert,,h aj,,,1
-duhumbi-377-1-1,duhumbi-377-1,haj,835,false,expert,,h aj,,,1
+khispi-377-1-1,khispi-377-1,haj,835,false,expert,,h ai,,,1
+duhumbi-377-1-1,duhumbi-377-1,haj,835,false,expert,,h ai,,,1
 khoina-377-1-1,khoina-377-1,a-nɐ̃ʰ,355,false,expert,,a,,,1
-khoina-377-1-2,khoina-377-1,a-nɐ̃ʰ,835,false,expert,,n ɐ̃ʰ,,,2
+khoina-377-1-2,khoina-377-1,a-nɐ̃ʰ,835,false,expert,,n ɐ̃ʰ/ɐ̃,,,2
 jerigaon-377-1-1,jerigaon-377-1,a-nɐ̃ʰ,355,false,expert,,a,,,1
-jerigaon-377-1-2,jerigaon-377-1,a-nɐ̃ʰ,835,false,expert,,n ɐ̃ʰ,,,2
+jerigaon-377-1-2,jerigaon-377-1,a-nɐ̃ʰ,835,false,expert,,n ɐ̃ʰ/ɐ̃,,,2
 khoitam-377-1-1,khoitam-377-1,a-nɔ̃ʰ,355,false,expert,,a,,,1
-khoitam-377-1-2,khoitam-377-1,a-nɔ̃ʰ,835,false,expert,,n ɔ̃ʰ,,,2
+khoitam-377-1-2,khoitam-377-1,a-nɔ̃ʰ,835,false,expert,,n ɔ̃ʰ/ɔ̃,,,2
 rahung-377-1-1,rahung-377-1,a-nɔ̃ʰ,355,false,expert,,a,,,1
-rahung-377-1-2,rahung-377-1,a-nɔ̃ʰ,835,false,expert,,n ɔ̃ʰ,,,2
+rahung-377-1-2,rahung-377-1,a-nɔ̃ʰ,835,false,expert,,n ɔ̃ʰ/ɔ̃,,,2
 rupa-377-1-1,rupa-377-1,a-nɔ ~ ɔ-nɔ,355,false,expert,,a,,,1
 rupa-377-1-2,rupa-377-1,a-nɔ ~ ɔ-nɔ,835,false,expert,,n ɔ,,,2
 shergaon-377-1-1,shergaon-377-1,a-nɔ,355,false,expert,,a,,,1
@@ -4069,16 +4069,16 @@ khoitam-378-1-1,khoitam-378-1,ryː,308,false,expert,,r yː,,,1
 rahung-378-1-1,rahung-378-1,ryː,308,false,expert,,r yː,,,1
 rupa-378-1-1,rupa-378-1,ryː,308,false,expert,,r yː,,,1
 shergaon-378-1-1,shergaon-378-1,ryː,308,false,expert,,r yː,,,1
-duhumbi-379-1-1,duhumbi-379-1,ʨɔj,839,false,expert,,tɕ ɔj,,,1
-khoina-379-1-1,khoina-379-1,ʦʰɐʰ,839,false,expert,,tsʰ ɐʰ,,,1
-jerigaon-379-1-1,jerigaon-379-1,ʨʰɐʰ,839,false,expert,,tɕʰ ɐʰ,,,1
-khoitam-379-1-1,khoitam-379-1,ʨʰɔʰ,839,false,expert,,tɕʰ ɔʰ,,,1
-rahung-379-1-1,rahung-379-1,ʨʰɔʰ,839,false,expert,,tɕʰ ɔʰ,,,1
-rupa-379-1-1,rupa-379-1,ʨʰɔʰ,839,false,expert,,tɕʰ ɔʰ,,,1
-shergaon-379-1-1,shergaon-379-1,ʨʰɔʰ,839,false,expert,,tɕʰ ɔʰ,,,1
-khispi-380-1-1,khispi-380-1,aj ɕɔŋ,841,false,expert,,- aj,,,1
+duhumbi-379-1-1,duhumbi-379-1,ʨɔj,839,false,expert,,tɕ ɔi,,,1
+khoina-379-1-1,khoina-379-1,ʦʰɐʰ,839,false,expert,,tsʰ ɐʰ/ɐ,,,1
+jerigaon-379-1-1,jerigaon-379-1,ʨʰɐʰ,839,false,expert,,tɕʰ ɐʰ/ɐ,,,1
+khoitam-379-1-1,khoitam-379-1,ʨʰɔʰ,839,false,expert,,tɕʰ ɔʰ/ɔ,,,1
+rahung-379-1-1,rahung-379-1,ʨʰɔʰ,839,false,expert,,tɕʰ ɔʰ/ɔ,,,1
+rupa-379-1-1,rupa-379-1,ʨʰɔʰ,839,false,expert,,tɕʰ ɔʰ/ɔ,,,1
+shergaon-379-1-1,shergaon-379-1,ʨʰɔʰ,839,false,expert,,tɕʰ ɔʰ/ɔ,,,1
+khispi-380-1-1,khispi-380-1,aj ɕɔŋ,841,false,expert,,- ai,,,1
 khispi-380-1-2,khispi-380-1,aj ɕɔŋ,347,false,expert,,ɕ ɔ ŋ,,,2
-duhumbi-380-1-1,duhumbi-380-1,aj ɕɔŋ,841,false,expert,,- aj,,,1
+duhumbi-380-1-1,duhumbi-380-1,aj ɕɔŋ,841,false,expert,,- ai,,,1
 duhumbi-380-1-2,duhumbi-380-1,aj ɕɔŋ,347,false,expert,,ɕ ɔ ŋ,,,2
 khoina-380-1-1,khoina-380-1,ja iː,841,false,expert,,j a,,,1
 khoina-380-1-2,khoina-380-1,ja iː,319,false,expert,,iː,,,2
@@ -4178,7 +4178,7 @@ rupa-388-1-1,rupa-388-1,ɛ̃ˀ,857,false,expert,,ɛ̃ˀ -,,,1
 khispi-389-1-1,khispi-389-1,ɔ-hɛk,613,false,expert,,ɔ,,,1
 khispi-389-1-2,khispi-389-1,ɔ-hɛk,649,false,expert,,h ɛ k,,,2
 duhumbi-389-1-1,duhumbi-389-1,ɔ-hjɛk,613,false,expert,,ɔ,,,1
-duhumbi-389-1-2,duhumbi-389-1,ɔ-hjɛk,649,false,expert,,hj ɛ k,,,2
+duhumbi-389-1-2,duhumbi-389-1,ɔ-hjɛk,649,false,expert,,h j ɛ k,,,2
 khoina-389-1-1,khoina-389-1,a-xajk,613,false,expert,,a,,,1
 khoina-389-1-2,khoina-389-1,a-xajk,649,false,expert,,x aj/ai k,,,2
 jerigaon-389-1-1,jerigaon-389-1,ə-hɛk ~ a-hɛk,613,false,expert,,ə~a/ə,,,1
@@ -4276,12 +4276,12 @@ khispi-398-1-2,khispi-398-1,wam-ʨʰa,882,false,expert,,tɕʰ a -,,,2
 duhumbi-398-1-1,duhumbi-398-1,wam-ʨʰa,881,false,expert,,w a m,,,1
 duhumbi-398-1-2,duhumbi-398-1,wam-ʨʰa,882,false,expert,,tɕʰ a -,,,2
 khoina-398-1-1,khoina-398-1,jam ʦʰɔ̃ː(ŋ),881,false,expert,,j a m,,,1
-khoina-398-1-2,khoina-398-1,jam ʦʰɔ̃ː(ŋ),882,false,expert,,tsʰ ɔ̃ː (ŋ),,,2
+khoina-398-1-2,khoina-398-1,jam ʦʰɔ̃ː(ŋ),882,false,expert,,tsʰ ɔ̃ː ŋ,,,2
 khoitam-398-1-1,khoitam-398-1,nam bə-ʨʰũː,881,false,expert,,n a m,,,1
 khoitam-398-1-2,khoitam-398-1,nam bə-ʨʰũː,884,false,expert,,b ə,,,2
-khoitam-398-1-3,khoitam-398-1,nam bə-ʨʰũː,882,false,expert,,tɕʰ ũː (ŋ),,,3
+khoitam-398-1-3,khoitam-398-1,nam bə-ʨʰũː,882,false,expert,,tɕʰ ũː ŋ,,,3
 rahung-398-1-1,rahung-398-1,jam-ʨʰũː(ŋ),881,false,expert,,j a m,,,1
-rahung-398-1-2,rahung-398-1,jam-ʨʰũː(ŋ),882,false,expert,,tɕʰ ũː (ŋ),,,2
+rahung-398-1-2,rahung-398-1,jam-ʨʰũː(ŋ),882,false,expert,,tɕʰ ũː ŋ,,,2
 rupa-398-1-1,rupa-398-1,jam-ʦʰɔŋ,881,false,expert,,j a m,,,1
 rupa-398-1-2,rupa-398-1,jam-ʦʰɔŋ,882,false,expert,,tsʰ ɔ ŋ,,,2
 khoina-399-1-1,khoina-399-1,a-xĩː,160,false,expert,,a,,,1
@@ -4313,20 +4313,20 @@ rahung-401-1-1,rahung-401-1,hũːŋ,889,false,expert,,h ũː ŋ,,,1
 rupa-401-1-1,rupa-401-1,hũː,889,false,expert,,h ũː -,,,1
 shergaon-401-1-1,shergaon-401-1,hɔ̃ː,889,false,expert,,h ɔ̃ː -,,,1
 khispi-402-1-1,khispi-402-1,bu,894,false,expert,,b u,,,1
-duhumbi-402-1-1,duhumbi-402-1,bɹu,894,false,expert,,bɹ u,,,1
+duhumbi-402-1-1,duhumbi-402-1,bɹu,894,false,expert,,b ɹ u,,,1
 khoina-402-1-1,khoina-402-1,lak a-byː,891,false,expert,,l a k,,,1
 khoina-402-1-2,khoina-402-1,lak a-byː,56,false,expert,,a,,,2
 khoina-402-1-3,khoina-402-1,lak a-byː,894,false,expert,,b yː,,,3
-khoitam-402-1-1,khoitam-402-1,bɹɔː,894,false,expert,,bɹ ɔː,,,1
+khoitam-402-1-1,khoitam-402-1,bɹɔː,894,false,expert,,b ɹ ɔː,,,1
 rahung-402-1-1,rahung-402-1,suk a-byː,362,false,expert,,s u k,,,1
 rahung-402-1-2,rahung-402-1,suk a-byː,56,false,expert,,a,,,2
 rahung-402-1-3,rahung-402-1,suk a-byː,894,false,expert,,b yː,,,3
 rupa-402-1-1,rupa-402-1,lak a-bɹyː,891,false,expert,,l a k,,,1
 rupa-402-1-2,rupa-402-1,lak a-bɹyː,56,false,expert,,a,,,2
-rupa-402-1-3,rupa-402-1,lak a-bɹyː,894,false,expert,,bɹ yː,,,3
+rupa-402-1-3,rupa-402-1,lak a-bɹyː,894,false,expert,,b ɹ yː,,,3
 shergaon-402-1-1,shergaon-402-1,lak a-bɹyː,891,false,expert,,l a k,,,1
 shergaon-402-1-2,shergaon-402-1,lak a-bɹyː,56,false,expert,,a,,,2
-shergaon-402-1-3,shergaon-402-1,lak a-bɹyː,894,false,expert,,bɹ yː,,,3
+shergaon-402-1-3,shergaon-402-1,lak a-bɹyː,894,false,expert,,b ɹ yː,,,3
 khoina-403-1-1,khoina-403-1,nyŋ,895,false,expert,,n y ŋ,,,1
 jerigaon-403-1-1,jerigaon-403-1,nyŋ,895,false,expert,,n y ŋ,,,1
 rahung-403-1-1,rahung-403-1,nyŋ,895,false,expert,,n y ŋ,,,1
@@ -4380,13 +4380,13 @@ khoitam-409-1-2,khoitam-409-1,a-tu,144,false,expert,,t u,,,2
 rupa-409-1-1,rupa-409-1,a-tu  ~ a-tu-tu,56,false,expert,,a,,,1
 rupa-409-1-2,rupa-409-1,a-tu  ~ a-tu-tu,144,false,expert,,t u,,,2
 khoina-410-1-1,khoina-410-1,gɔ-pʰɐʰ,448,false,expert,,g ɔ,,,1
-khoina-410-1-2,khoina-410-1,gɔ-pʰɐʰ,908,false,expert,,pʰ ɐʰ,,,2
+khoina-410-1-2,khoina-410-1,gɔ-pʰɐʰ,908,false,expert,,pʰ ɐʰ/ɐ,,,2
 jerigaon-410-1-1,jerigaon-410-1,kʰ-pʰɐʰ ~ kʰ-fɐʰ,448,false,expert,,kʰ -,,,1
-jerigaon-410-1-2,jerigaon-410-1,kʰ-pʰɐʰ ~ kʰ-fɐʰ,908,false,expert,,pʰ ɐʰ,,,2
+jerigaon-410-1-2,jerigaon-410-1,kʰ-pʰɐʰ ~ kʰ-fɐʰ,908,false,expert,,pʰ ɐʰ/ɐ,,,2
 khoitam-410-1-1,khoitam-410-1,kʰə-pʰɔʰ,448,false,expert,,kʰ ə,,,1
-khoitam-410-1-2,khoitam-410-1,kʰə-pʰɔʰ,908,false,expert,,pʰ ɔʰ,,,2
+khoitam-410-1-2,khoitam-410-1,kʰə-pʰɔʰ,908,false,expert,,pʰ ɔʰ/ɔ,,,2
 rahung-410-1-1,rahung-410-1,kʰə-bɔʰ,448,false,expert,,kʰ ə,,,1
-rahung-410-1-2,rahung-410-1,kʰə-bɔʰ,908,false,expert,,b ɔʰ,,,2
+rahung-410-1-2,rahung-410-1,kʰə-bɔʰ,908,false,expert,,b ɔʰ/ɔ,,,2
 khispi-411-1-1,khispi-411-1,in,910,false,expert,,i n,,,1
 duhumbi-411-1-1,duhumbi-411-1,in,910,false,expert,,i n,,,1
 khoina-411-1-1,khoina-411-1,ɛn,910,false,expert,,ɛ n,,,1
@@ -4409,9 +4409,9 @@ duhumbi-413-1-1,duhumbi-413-1,su,913,false,expert,,s u,,,1
 khoina-413-1-1,khoina-413-1,sɔː,913,false,expert,,s ɔː,,,1
 khoitam-413-1-1,khoitam-413-1,sɔː,913,false,expert,,s ɔː,,,1
 rahung-413-1-1,rahung-413-1,soː,913,false,expert,,s oː,,,1
-rupa-413-1-1,rupa-413-1,saw,913,false,expert,,s aw,,,1
-khispi-414-1-1,khispi-414-1,aj,760,false,expert,,aj,,,1
-duhumbi-414-1-1,duhumbi-414-1,aj,760,false,expert,,aj,,,1
+rupa-413-1-1,rupa-413-1,saw,913,false,expert,,s au,,,1
+khispi-414-1-1,khispi-414-1,aj,760,false,expert,,ai,,,1
+duhumbi-414-1-1,duhumbi-414-1,aj,760,false,expert,,ai,,,1
 rahung-414-1-1,rahung-414-1,ɔː,760,false,expert,,ɔː,,,1
 rupa-414-1-1,rupa-414-1,oː,760,false,expert,,oː,,,1
 shergaon-414-1-1,shergaon-414-1,oː,760,false,expert,,oː,,,1
@@ -4448,7 +4448,7 @@ shergaon-416-1-2,shergaon-416-1,sə-raː,919,false,expert,,r aː,,,2
 khispi-417-1-1,khispi-417-1,ʨʰak,688,false,expert,,tɕʰ a k,,,1
 duhumbi-417-1-1,duhumbi-417-1,ʨʰak,688,false,expert,,tɕʰ a k,,,1
 khoina-417-1-1,khoina-417-1,ʐɔ,921,false,expert,,ʐ ɔ,,,1
-jerigaon-417-1-1,jerigaon-417-1,tɹɔk,385,false,expert,,tɹ ɔ k,,,1
+jerigaon-417-1-1,jerigaon-417-1,tɹɔk,385,false,expert,,t ɹ ɔ k,,,1
 khoitam-417-1-1,khoitam-417-1,ʨʰak,688,false,expert,,tɕʰ a k,,,1
 rahung-417-1-1,rahung-417-1,ʨʰak,688,false,expert,,tɕʰ a k,,,1
 rupa-417-1-1,rupa-417-1,ʦʰak ~ ʨʰak,688,false,expert,,tsʰ~ʨʰ/ʨʰ a k,,,1
@@ -4463,9 +4463,9 @@ rupa-418-1-1,rupa-418-1,ɕit,922,false,expert,,ɕ i t,,,1
 shergaon-418-1-1,shergaon-418-1,ɕit,922,false,expert,,ɕ i t,,,1
 khispi-419-1-1,khispi-419-1,ɕiŋ,923,false,expert,,ɕ i ŋ,,,1
 duhumbi-419-1-1,duhumbi-419-1,ɕiŋ,923,false,expert,,ɕ i ŋ,,,1
-jerigaon-419-1-1,jerigaon-419-1,ʨʰɛ̃ː,923,false,expert,,tɕʰ ɛ̃ː (ŋ),,,1
-khoitam-419-1-1,khoitam-419-1,ʨʰĩː(ŋ),923,false,expert,,tɕʰ ĩː (ŋ),,,1
-rahung-419-1-1,rahung-419-1,ʨʰĩː(ŋ),923,false,expert,,tɕʰ ĩː (ŋ),,,1
+jerigaon-419-1-1,jerigaon-419-1,ʨʰɛ̃ː,923,false,expert,,tɕʰ ɛ̃ː ŋ,,,1
+khoitam-419-1-1,khoitam-419-1,ʨʰĩː(ŋ),923,false,expert,,tɕʰ ĩː ŋ,,,1
+rahung-419-1-1,rahung-419-1,ʨʰĩː(ŋ),923,false,expert,,tɕʰ ĩː ŋ,,,1
 khispi-420-1-1,khispi-420-1,ʨʰap,924,false,expert,,tɕʰ a p,,,1
 khoitam-420-1-1,khoitam-420-1,ʨʰap,924,false,expert,,tɕʰ a p,,,1
 rupa-420-1-1,rupa-420-1,ʨʰap,924,false,expert,,tɕʰ a p,,,1
@@ -4481,7 +4481,7 @@ khoina-421-1-1,khoina-421-1,maŋ-kʰi kʰi,425,false,expert,,m a ŋ,,,1
 khoina-421-1-2,khoina-421-1,maŋ-kʰi kʰi,10006,false,expert,,kʰ i,,,2
 khoina-421-1-3,khoina-421-1,maŋ-kʰi kʰi,926,false,expert,,kʰ i -,,,3
 khoitam-421-2-1,khoitam-421-2,nam kɹi,335,false,expert,,n a m,,,1
-khoitam-421-2-2,khoitam-421-2,nam kɹi,414,false,expert,,kɹ i,,,2
+khoitam-421-2-2,khoitam-421-2,nam kɹi,414,false,expert,,k ɹ i,,,2
 rupa-421-2-1,rupa-421-2,nə-myː kʰi,335,false,expert,,n ə -,,,1
 rupa-421-2-2,rupa-421-2,nə-myː kʰi,928,false,expert,,m yː,,,2
 rupa-421-2-3,rupa-421-2,nə-myː kʰi,926,false,expert,,kʰ i -,,,3
@@ -4498,9 +4498,9 @@ khoitam-422-1-2,khoitam-422-1,a-ʨʰɔ̃ː,930,false,expert,,tɕʰ ɔ̃ː -,,,2
 rahung-422-1-1,rahung-422-1,a-ʨʰɔ̃ː,56,false,expert,,a,,,1
 rahung-422-1-2,rahung-422-1,a-ʨʰɔ̃ː,930,false,expert,,tɕʰ ɔ̃ː -,,,2
 rupa-422-1-1,rupa-422-1,a-ʦʰaw ~ a-ʨʰaw,56,false,expert,,a,,,1
-rupa-422-1-2,rupa-422-1,a-ʦʰaw ~ a-ʨʰaw,930,false,expert,,tsʰ~/ʨʰ aw -,,,2
+rupa-422-1-2,rupa-422-1,a-ʦʰaw ~ a-ʨʰaw,930,false,expert,,tsʰ~/ʨʰ au -,,,2
 shergaon-422-1-1,shergaon-422-1,a-ʨʰaw,56,false,expert,,a,,,1
-shergaon-422-1-2,shergaon-422-1,a-ʨʰaw,930,false,expert,,tɕʰ aw -,,,2
+shergaon-422-1-2,shergaon-422-1,a-ʨʰaw,930,false,expert,,tɕʰ au -,,,2
 rahung-422-2-1,rahung-422-2,a-ʨʰoː,56,false,expert,,a,,,1
 rahung-422-2-2,rahung-422-2,a-ʨʰoː,930,false,expert,,tɕʰ oː -,,,2
 rupa-422-2-1,rupa-422-2,a-ʨʰũː,56,false,expert,,a,,,1
@@ -4510,7 +4510,7 @@ shergaon-422-2-2,shergaon-422-2,a-ʨʰaw,930,false,expert,,tɕʰ a w,,,2
 khispi-423-1-1,khispi-423-1,ɕi-ki,932,false,expert,,ɕ i,,,1
 khispi-423-1-2,khispi-423-1,ɕi-ki,933,false,expert,,k i,,,2
 duhumbi-423-1-1,duhumbi-423-1,ɕa-kɛj,932,false,expert,,ɕ a,,,1
-duhumbi-423-1-2,duhumbi-423-1,ɕa-kɛj,933,false,expert,,k ɛj,,,2
+duhumbi-423-1-2,duhumbi-423-1,ɕa-kɛj,933,false,expert,,k ɛi,,,2
 khoina-423-1-1,khoina-423-1,ʂ-kʰaː,932,false,expert,,ʂ -,,,1
 khoina-423-1-2,khoina-423-1,ʂ-kʰaː,933,false,expert,,kʰ aː,,,2
 jerigaon-423-1-1,jerigaon-423-1,s-kʰɛː,932,false,expert,,s -,,,1
@@ -4551,9 +4551,9 @@ khispi-427-1-2,khispi-427-1,le-ham,937,false,expert,,h a m,,,2
 duhumbi-427-1-1,duhumbi-427-1,le-ham,936,false,expert,,l e,,,1
 duhumbi-427-1-2,duhumbi-427-1,le-ham,937,false,expert,,h a m,,,2
 rupa-427-1-1,rupa-427-1,lə-lũː(ŋ),936,false,expert,,l ə,,,1
-rupa-427-1-2,rupa-427-1,lə-lũː(ŋ),937,false,expert,,l ũː (ŋ),,,2
+rupa-427-1-2,rupa-427-1,lə-lũː(ŋ),937,false,expert,,l ũː ŋ,,,2
 khispi-428-1-1,khispi-428-1,dik,939,false,expert,,d i k,,,1
-duhumbi-428-1-1,duhumbi-428-1,djɛk,939,false,expert,,dj ɛ k,,,1
+duhumbi-428-1-1,duhumbi-428-1,djɛk,939,false,expert,,d j ɛ k,,,1
 khoina-428-1-1,khoina-428-1,ruk,939,false,expert,,r u k,,,1
 jerigaon-428-1-1,jerigaon-428-1,rɛk,939,false,expert,,r ɛ k,,,1
 khoitam-428-1-1,khoitam-428-1,rɛk,939,false,expert,,r ɛ k,,,1
@@ -4606,16 +4606,16 @@ khoitam-432-1-1,khoitam-432-1,nuŋ,948,false,expert,,n u ŋ,,,1
 rahung-432-1-1,rahung-432-1,nuŋ,948,false,expert,,n u ŋ,,,1
 rupa-432-1-1,rupa-432-1,nu,948,false,expert,,n u -,,,1
 shergaon-432-1-1,shergaon-432-1,nu,948,false,expert,,n u -,,,1
-khispi-433-1-1,khispi-433-1,ŋɔj ~ ŋuj,951,false,expert,,ŋ ɔj~uj/uj,,,1
-duhumbi-433-1-1,duhumbi-433-1,ŋɔj,951,false,expert,,ŋ ɔj,,,1
+khispi-433-1-1,khispi-433-1,ŋɔj ~ ŋuj,951,false,expert,,ŋ ɔj~uj/ui,,,1
+duhumbi-433-1-1,duhumbi-433-1,ŋɔj,951,false,expert,,ŋ ɔi,,,1
 khoina-433-1-1,khoina-433-1,niŋ,950,false,expert,,n i ŋ,,,1
 jerigaon-433-1-1,jerigaon-433-1,niŋ,950,false,expert,,n i ŋ,,,1
 khoitam-433-1-1,khoitam-433-1,niŋ,950,false,expert,,n i ŋ,,,1
 rahung-433-1-1,rahung-433-1,niŋ,950,false,expert,,n i ŋ,,,1
 rupa-433-1-1,rupa-433-1,ɲin ~ ɲiŋ,950,false,expert,,ɲ i n,,,1
 shergaon-433-1-1,shergaon-433-1,ɲin,950,false,expert,,ɲ i n,,,1
-khispi-434-1-1,khispi-434-1,tej,952,false,expert,,t ej,,,1
-duhumbi-434-1-1,duhumbi-434-1,tɛj,952,false,expert,,t ɛj,,,1
+khispi-434-1-1,khispi-434-1,tej,952,false,expert,,t ei,,,1
+duhumbi-434-1-1,duhumbi-434-1,tɛj,952,false,expert,,t ɛi,,,1
 khoina-434-1-1,khoina-434-1,taː,952,false,expert,,t aː,,,1
 jerigaon-434-1-1,jerigaon-434-1,tɛː,952,false,expert,,t ɛː,,,1
 khoitam-434-1-1,khoitam-434-1,tɛː,952,false,expert,,t ɛː,,,1
@@ -4646,7 +4646,7 @@ khoina-436-1-2,khoina-436-1,a-byː,953,false,expert,,b yː,,,2
 jerigaon-436-1-1,jerigaon-436-1,a-byː,124,false,expert,,a,,,1
 jerigaon-436-1-2,jerigaon-436-1,a-byː,953,false,expert,,b yː,,,2
 khispi-437-1-1,khispi-437-1,ɔ-nɔw-ma,91,false,expert,,ɔ,,,1
-khispi-437-1-2,khispi-437-1,ɔ-nɔw-ma,955,false,expert,,n ɔw,,,2
+khispi-437-1-2,khispi-437-1,ɔ-nɔw-ma,955,false,expert,,n ɔu,,,2
 khispi-437-1-3,khispi-437-1,ɔ-nɔw-ma,958,false,expert,,m a,,,3
 duhumbi-437-1-1,duhumbi-437-1,a-nu,91,false,expert,,a,,,1
 duhumbi-437-1-2,duhumbi-437-1,a-nu,955,false,expert,,n u,,,2
@@ -4811,8 +4811,8 @@ rupa-448-1-1,rupa-448-1,bə-cʰam ~ bə-ʨʰam,219,false,expert,,b ə,,,1
 rupa-448-1-2,rupa-448-1,bə-cʰam ~ bə-ʨʰam,990,false,expert,,ʨʰ~cʰ/ʨʰ a m,,,2
 shergaon-448-1-1,shergaon-448-1,pʰ-ʨʰam,219,false,expert,,pʰ -,,,1
 shergaon-448-1-2,shergaon-448-1,pʰ-ʨʰam,990,false,expert,,tɕʰ a m,,,2
-duhumbi-449-1-1,duhumbi-449-1,kʰɔw,992,false,expert,,kʰ ɔw,,,1
-rupa-449-1-1,rupa-449-1,kʰaw,992,false,expert,,kʰ aw,,,1
+duhumbi-449-1-1,duhumbi-449-1,kʰɔw,992,false,expert,,kʰ ɔu,,,1
+rupa-449-1-1,rupa-449-1,kʰaw,992,false,expert,,kʰ au,,,1
 khispi-450-1-1,khispi-450-1,nam-ʑu,993,false,expert,,n a m,,,1
 khispi-450-1-2,khispi-450-1,nam-ʑu,994,false,expert,,ʑ u,,,2
 duhumbi-450-1-1,duhumbi-450-1,nam-ʑu,993,false,expert,,n a m,,,1
@@ -4901,13 +4901,13 @@ rahung-456-1-1,rahung-456-1,hũ,1008,false,expert,,h ũ,,,1
 rupa-456-1-1,rupa-456-1,hũ,1008,false,expert,,h ũ,,,1
 shergaon-456-1-1,shergaon-456-1,hɔ,1008,false,expert,,h ɔ,,,1
 khispi-456-2-1,khispi-456-2,bɔː,1006,false,expert,,b ɔː,,,1
-duhumbi-456-2-1,duhumbi-456-2,bɹɔː,1006,false,expert,,bɹ ɔː,,,1
-rahung-456-2-1,rahung-456-2,bɹoː,1006,false,expert,,bɹ oː,,,1
-rupa-456-2-1,rupa-456-2,bɹoː,1006,false,expert,,bɹ oː,,,1
+duhumbi-456-2-1,duhumbi-456-2,bɹɔː,1006,false,expert,,b ɹ ɔː,,,1
+rahung-456-2-1,rahung-456-2,bɹoː,1006,false,expert,,b ɹ oː,,,1
+rupa-456-2-1,rupa-456-2,bɹoː,1006,false,expert,,b ɹ oː,,,1
 khispi-457-1-1,khispi-457-1,ɔ-kʰaw,137,false,expert,,ɔ,,,1
-khispi-457-1-2,khispi-457-1,ɔ-kʰaw,1009,false,expert,,kʰ aw,,,2
+khispi-457-1-2,khispi-457-1,ɔ-kʰaw,1009,false,expert,,kʰ au,,,2
 duhumbi-457-1-1,duhumbi-457-1,ɔ-kʰɔw,137,false,expert,,ɔ,,,1
-duhumbi-457-1-2,duhumbi-457-1,ɔ-kʰɔw,1009,false,expert,,kʰ ɔw,,,2
+duhumbi-457-1-2,duhumbi-457-1,ɔ-kʰɔw,1009,false,expert,,kʰ ɔu,,,2
 khoina-457-1-1,khoina-457-1,daŋ a-kʰɔː,1012,false,expert,,d a ŋ,,,1
 khoina-457-1-2,khoina-457-1,daŋ a-kʰɔː,137,false,expert,,a,,,2
 khoina-457-1-3,khoina-457-1,daŋ a-kʰɔː,1009,false,expert,,kʰ ɔː,,,3
@@ -4975,8 +4975,8 @@ rupa-461-1-1,rupa-461-1,bə-ʦə-lɔː,1026,false,expert,,b ə,,,1
 rupa-461-1-2,rupa-461-1,bə-ʦə-lɔː,1023,false,expert,,ts ə,,,2
 rupa-461-1-3,rupa-461-1,bə-ʦə-lɔː,435,false,expert,,l ɔː,,,3
 shergaon-461-1-1,shergaon-461-1,ʨi-plɔː,1023,false,expert,,tɕ i,,,1
-shergaon-461-1-2,shergaon-461-1,ʨi-plɔː,435,false,expert,,pl ɔː,,,2
-duhumbi-462-1-1,duhumbi-462-1,haw,1028,false,expert,,h aw,,,1
+shergaon-461-1-2,shergaon-461-1,ʨi-plɔː,435,false,expert,,p l ɔː,,,2
+duhumbi-462-1-1,duhumbi-462-1,haw,1028,false,expert,,h au,,,1
 khoina-462-1-1,khoina-462-1,gɐ̃ː,1028,false,expert,,g ɐ̃ː,,,1
 jerigaon-462-1-1,jerigaon-462-1,gɐ̃ː,1028,false,expert,,g ɐ̃ː,,,1
 rahung-462-1-1,rahung-462-1,steː gɔ̃ː,307,false,expert,,s,,,1
@@ -4986,16 +4986,16 @@ rupa-462-1-1,rupa-462-1,steː gɔ̃ː,307,false,expert,,s,,,1
 rupa-462-1-2,rupa-462-1,steː gɔ̃ː,1029,false,expert,,t eː,,,2
 rupa-462-1-3,rupa-462-1,steː gɔ̃ː,1028,false,expert,,g ɔ̃ː,,,3
 shergaon-462-1-1,shergaon-462-1,gɔ̃ː,1028,false,expert,,g ɔ̃ː,,,1
-duhumbi-463-1-1,duhumbi-463-1,kʰɛj-ʥɔŋ,1032,false,expert,,kʰ ɛj,,,1
+duhumbi-463-1-1,duhumbi-463-1,kʰɛj-ʥɔŋ,1032,false,expert,,kʰ ɛi,,,1
 duhumbi-463-1-2,duhumbi-463-1,kʰɛj-ʥɔŋ,542,false,expert,,dʑ ɔ ŋ,,,2
 jerigaon-463-1-1,jerigaon-463-1,ʥɔŋ,542,false,expert,,dʑ ɔ ŋ,,,1
 khoitam-463-1-1,khoitam-463-1,ʥɔŋ,542,false,expert,,dʑ ɔ ŋ,,,1
 rahung-463-1-1,rahung-463-1,ʥɔŋ,542,false,expert,,dʑ ɔ ŋ,,,1
 rupa-463-1-1,rupa-463-1,ʥɔŋ,542,false,expert,,dʑ ɔ ŋ,,,1
 shergaon-463-1-1,shergaon-463-1,ʥɔŋ,542,false,expert,,dʑ ɔ ŋ,,,1
-khispi-464-1-1,khispi-464-1,jej-ba,1034,false,expert,,j ej,,,1
+khispi-464-1-1,khispi-464-1,jej-ba,1034,false,expert,,j ei,,,1
 khispi-464-1-2,khispi-464-1,jej-ba,462,false,expert,,b a,,,2
-duhumbi-464-1-1,duhumbi-464-1,jɛj-ba,1034,false,expert,,j ɛj,,,1
+duhumbi-464-1-1,duhumbi-464-1,jɛj-ba,1034,false,expert,,j ɛi,,,1
 duhumbi-464-1-2,duhumbi-464-1,jɛj-ba,462,false,expert,,b a,,,2
 khoina-464-1-1,khoina-464-1,jɐ-di,1034,false,expert,,j ɐ,,,1
 khoina-464-1-2,khoina-464-1,jɐ-di,1036,false,expert,,d i,,,2
@@ -5014,17 +5014,17 @@ duhumbi-465-1-4,duhumbi-465-1,(pʰu) saŋ-gom-bu,1040,false,expert,,b u,,,4
 khoina-465-1-1,khoina-465-1,ga-pøː,1037,false,expert,,g a -,,,1
 khoina-465-1-2,khoina-465-1,ga-pøː,1040,false,expert,,p øː,,,2
 jerigaon-465-1-1,jerigaon-465-1,na-tɹøŋ-zaŋ,1041,false,expert,,n a,,,1
-jerigaon-465-1-2,jerigaon-465-1,na-tɹøŋ-zaŋ,1038,false,expert,,tɹ ø ŋ,,,2
+jerigaon-465-1-2,jerigaon-465-1,na-tɹøŋ-zaŋ,1038,false,expert,,t ɹ ø ŋ,,,2
 jerigaon-465-1-3,jerigaon-465-1,na-tɹøŋ-zaŋ,1039,false,expert,,z a ŋ,,,3
 khoitam-465-1-1,khoitam-465-1,tan-tɹĩ-sũŋ,492,false,expert,,t a n,,,1
-khoitam-465-1-2,khoitam-465-1,tan-tɹĩ-sũŋ,1038,false,expert,,tɹ ĩ -,,,2
+khoitam-465-1-2,khoitam-465-1,tan-tɹĩ-sũŋ,1038,false,expert,,t ɹ ĩ -,,,2
 khoitam-465-1-3,khoitam-465-1,tan-tɹĩ-sũŋ,1039,false,expert,,s ũ ŋ,,,3
 rahung-465-1-1,rahung-465-1,na(ŋ)-tɹyː(ŋ) sɔŋ-sɔŋ,1041,false,expert,,n a,,,1
-rahung-465-1-2,rahung-465-1,na(ŋ)-tɹyː(ŋ) sɔŋ-sɔŋ,1038,false,expert,,tɹ yː (ŋ)/ŋ,,,2
+rahung-465-1-2,rahung-465-1,na(ŋ)-tɹyː(ŋ) sɔŋ-sɔŋ,1038,false,expert,,t ɹ yː (ŋ)/ŋ,,,2
 rahung-465-1-3,rahung-465-1,na(ŋ)-tɹyː(ŋ) sɔŋ-sɔŋ,1039,false,expert,,s ɔ ŋ,,,3
-rupa-465-1-1,rupa-465-1,pɹeː-suŋ,1038,false,expert,,pɹ eː -,,,1
+rupa-465-1-1,rupa-465-1,pɹeː-suŋ,1038,false,expert,,p ɹ eː -,,,1
 rupa-465-1-2,rupa-465-1,pɹeː-suŋ,1039,false,expert,,s u ŋ,,,2
-shergaon-465-1-1,shergaon-465-1,tɹeː-sum,1038,false,expert,,tɹ eː -,,,1
+shergaon-465-1-1,shergaon-465-1,tɹeː-sum,1038,false,expert,,t ɹ eː -,,,1
 shergaon-465-1-2,shergaon-465-1,tɹeː-sum,1039,false,expert,,s u m,,,2
 khispi-466-1-1,khispi-466-1,ɔ-guŋ,1044,false,expert,,ɔ,,,1
 khispi-466-1-2,khispi-466-1,ɔ-guŋ,1043,false,expert,,g u ŋ,,,2
@@ -5074,7 +5074,7 @@ khoitam-469-1-1,khoitam-469-1,jɔ,65,false,expert,,j ɔ,,,1
 shergaon-469-1-1,shergaon-469-1,ho,65,false,expert,,h o,,,1
 duhumbi-470-1-1,duhumbi-470-1,ʦɔː-ʦɔː gɹɔŋ-tʰaŋ,1056,false,expert,,ts ɔː -,,,1
 duhumbi-470-1-2,duhumbi-470-1,ʦɔː-ʦɔː gɹɔŋ-tʰaŋ,1055,false,expert,,ts ɔː,,,2
-duhumbi-470-1-3,duhumbi-470-1,ʦɔː-ʦɔː gɹɔŋ-tʰaŋ,1059,false,expert,,gɹ ɔ ŋ,,,3
+duhumbi-470-1-3,duhumbi-470-1,ʦɔː-ʦɔː gɹɔŋ-tʰaŋ,1059,false,expert,,g ɹ ɔ ŋ,,,3
 duhumbi-470-1-4,duhumbi-470-1,ʦɔː-ʦɔː gɹɔŋ-tʰaŋ,506,false,expert,,tʰ a ŋ,,,4
 khoina-470-1-1,khoina-470-1,ʦaŋ-kʰa,1056,false,expert,,ts a ŋ,,,1
 khoina-470-1-2,khoina-470-1,ʦaŋ-kʰa,1057,false,expert,,kʰ a,,,2
@@ -5099,9 +5099,9 @@ jerigaon-471-1-2,jerigaon-471-1,ʨʰy-jɔ̃ː,1062,false,expert,,j ɔ̃ː,,,2
 khoitam-471-1-1,khoitam-471-1,ʨʰy-jɔ̃ː,1060,false,expert,,tɕʰ y -,,,1
 khoitam-471-1-2,khoitam-471-1,ʨʰy-jɔ̃ː,1062,false,expert,,j ɔ̃ː,,,2
 rahung-471-1-1,rahung-471-1,ʨʰə-ʨʰow ~ ʨʰə-ʨʰoː,1060,false,expert,,tɕʰ ə -,,,1
-rahung-471-1-2,rahung-471-1,ʨʰə-ʨʰow ~ ʨʰə-ʨʰoː,1063,false,expert,,tɕʰ ow,,,2
-rupa-471-1-1,rupa-471-1,kʰjaw,1063,false,expert,,kʰj aw,,,1
-shergaon-471-1-1,shergaon-471-1,kʰlɛː,530,false,expert,,kʰl ɛː,,,1
+rahung-471-1-2,rahung-471-1,ʨʰə-ʨʰow ~ ʨʰə-ʨʰoː,1063,false,expert,,tɕʰ ou,,,2
+rupa-471-1-1,rupa-471-1,kʰjaw,1063,false,expert,,kʰ j au,,,1
+shergaon-471-1-1,shergaon-471-1,kʰlɛː,530,false,expert,,kʰ l ɛː,,,1
 khispi-472-1-1,khispi-472-1,ʥɔk,1064,false,expert,,dʑ ɔ k,,,1
 duhumbi-472-1-1,duhumbi-472-1,ʥɔk,1064,false,expert,,dʑ ɔ k,,,1
 khoina-472-1-1,khoina-472-1,dʐuk,1064,false,expert,,ɖʐ u k,,,1
@@ -5133,8 +5133,8 @@ khoina-475-1-1,khoina-475-1,jɔː,1068,false,expert,,j ɔː,,,1
 jerigaon-475-1-1,jerigaon-475-1,jɔː,1068,false,expert,,j ɔː,,,1
 khoitam-475-1-1,khoitam-475-1,jɔː,1068,false,expert,,j ɔː,,,1
 rahung-475-1-1,rahung-475-1,joː,1068,false,expert,,j oː,,,1
-rupa-475-1-1,rupa-475-1,jaw,1068,false,expert,,j aw,,,1
-shergaon-475-1-1,shergaon-475-1,jaw,1068,false,expert,,j aw,,,1
+rupa-475-1-1,rupa-475-1,jaw,1068,false,expert,,j au,,,1
+shergaon-475-1-1,shergaon-475-1,jaw,1068,false,expert,,j au,,,1
 duhumbi-476-1-1,duhumbi-476-1,haŋ-pa ~ ɬaŋ-pa,1070,false,expert,,h~ɬ/h a ŋ,,,1
 duhumbi-476-1-2,duhumbi-476-1,haŋ-pa ~ ɬaŋ-pa,1071,false,expert,,p a,,,2
 khoina-476-1-1,khoina-476-1,kɔ-hɔ̃ː,1074,false,expert,,k ɔ,,,1
@@ -5146,8 +5146,8 @@ rahung-476-1-2,rahung-476-1,laŋ-poː,1071,false,expert,,p oː,,,2
 khoina-477-1-1,khoina-477-1,ʦɐk,1075,false,expert,,ts ɐ k,,,1
 rupa-477-1-1,rupa-477-1,ʦak ~ ʨak,1075,false,expert,,ts~ʨ/ʨ a k,,,1
 shergaon-477-1-1,shergaon-477-1,ʨak,1075,false,expert,,tɕ a k,,,1
-khispi-478-1-1,khispi-478-1,kʰaj,1076,false,expert,,kʰ aj,,,1
-duhumbi-478-1-1,duhumbi-478-1,kʰɛj,1076,false,expert,,kʰ ɛj,,,1
+khispi-478-1-1,khispi-478-1,kʰaj,1076,false,expert,,kʰ ai,,,1
+duhumbi-478-1-1,duhumbi-478-1,kʰɛj,1076,false,expert,,kʰ ɛi,,,1
 khoina-478-1-1,khoina-478-1,kʰɐ,1076,false,expert,,kʰ ɐ,,,1
 jerigaon-478-1-1,jerigaon-478-1,kʰɐ,1076,false,expert,,kʰ ɐ,,,1
 khoitam-478-1-1,khoitam-478-1,kʰɔ,1076,false,expert,,kʰ ɔ,,,1
@@ -5190,9 +5190,9 @@ khispi-482-1-2,khispi-482-1,dum-ba,462,false,expert,,b a,,,2
 duhumbi-482-1-1,duhumbi-482-1,tʰum-ba,1087,false,expert,,tʰ u m,,,1
 duhumbi-482-1-2,duhumbi-482-1,tʰum-ba,462,false,expert,,b a,,,2
 rahung-482-1-1,rahung-482-1,hiŋ tɔ-rɔm,1084,false,expert,,h i ŋ,,,1
-rahung-482-1-2,rahung-482-1,hiŋ tɔ-rɔm,1085,false,expert,,tr ɔ m,,,2
+rahung-482-1-2,rahung-482-1,hiŋ tɔ-rɔm,1085,false,expert,,t r ɔ m,,,2
 rupa-482-1-1,rupa-482-1,hiŋ tʰrɔm,1084,false,expert,,h i ŋ,,,1
-rupa-482-1-2,rupa-482-1,hiŋ tʰrɔm,1085,false,expert,,tʰr ɔ m,,,2
+rupa-482-1-2,rupa-482-1,hiŋ tʰrɔm,1085,false,expert,,tʰ r ɔ m,,,2
 khoina-483-1-1,khoina-483-1,tʂʰajŋ,1090,false,expert,,ʈʂʰ aj/ai ŋ,,,1
 jerigaon-483-1-1,jerigaon-483-1,ʨʰɛŋ,1090,false,expert,,tɕʰ ɛ ŋ,,,1
 rahung-483-1-1,rahung-483-1,ʨʰɛŋ,1090,false,expert,,tɕʰ ɛ ŋ,,,1
@@ -5203,9 +5203,9 @@ jerigaon-483-2-1,jerigaon-483-2,zyː,1089,false,expert,,z yː -,,,1
 khoitam-483-1-1,khoitam-483-1,zyː,1089,false,expert,,z yː -,,,1
 rahung-483-2-1,rahung-483-2,zyː,1089,false,expert,,z yː -,,,1
 shergaon-483-1-1,shergaon-483-1,ziː,1089,false,expert,,z iː -,,,1
-khispi-484-1-1,khispi-484-1,(ʨʰula) mej-ʥu,1092,false,expert,,m ej,,,1
+khispi-484-1-1,khispi-484-1,(ʨʰula) mej-ʥu,1092,false,expert,,m ei,,,1
 khispi-484-1-2,khispi-484-1,(ʨʰula) mej-ʥu,1091,false,expert,,dʑ u,,,2
-duhumbi-484-1-1,duhumbi-484-1,mɛj-ʥu,1092,false,expert,,m ɛj,,,1
+duhumbi-484-1-1,duhumbi-484-1,mɛj-ʥu,1092,false,expert,,m ɛi,,,1
 duhumbi-484-1-2,duhumbi-484-1,mɛj-ʥu,1091,false,expert,,dʑ u,,,2
 khoina-484-1-1,khoina-484-1,ma-ʦʰiː,1092,false,expert,,m a,,,1
 khoina-484-1-2,khoina-484-1,ma-ʦʰiː,1091,false,expert,,tsʰ iː,,,2
@@ -5260,16 +5260,16 @@ khoitam-488-1-1,khoitam-488-1,pʰiŋ,464,false,expert,,pʰ i ŋ,,,1
 rahung-488-1-1,rahung-488-1,pʰiŋ,464,false,expert,,pʰ i ŋ,,,1
 rupa-488-1-1,rupa-488-1,pʰiŋ,464,false,expert,,pʰ i ŋ,,,1
 shergaon-488-1-1,shergaon-488-1,pʰiŋ,464,false,expert,,pʰ i ŋ,,,1
-khispi-489-1-1,khispi-489-1,ɲuj,1102,false,expert,,ɲ uj,,,1
-duhumbi-489-1-1,duhumbi-489-1,ɲɔj,1102,false,expert,,ɲ ɔj,,,1
+khispi-489-1-1,khispi-489-1,ɲuj,1102,false,expert,,ɲ ui,,,1
+duhumbi-489-1-1,duhumbi-489-1,ɲɔj,1102,false,expert,,ɲ ɔi,,,1
 khoina-489-1-1,khoina-489-1,a-naː,355,false,expert,,a,,,1
 khoina-489-1-2,khoina-489-1,a-naː,1102,false,expert,,n aː,,,2
 jerigaon-489-1-1,jerigaon-489-1,a-nɛːʰ,355,false,expert,,a,,,1
-jerigaon-489-1-2,jerigaon-489-1,a-nɛːʰ,1102,false,expert,,n ɛːʰ,,,2
+jerigaon-489-1-2,jerigaon-489-1,a-nɛːʰ,1102,false,expert,,n ɛːʰ/ɛː,,,2
 khoitam-489-1-1,khoitam-489-1,a-nɛːʰ,355,false,expert,,a,,,1
-khoitam-489-1-2,khoitam-489-1,a-nɛːʰ,1102,false,expert,,n ɛːʰ,,,2
+khoitam-489-1-2,khoitam-489-1,a-nɛːʰ,1102,false,expert,,n ɛːʰ/ɛː,,,2
 rahung-489-1-1,rahung-489-1,a-nɛːʰ,355,false,expert,,a,,,1
-rahung-489-1-2,rahung-489-1,a-nɛːʰ,1102,false,expert,,n ɛːʰ,,,2
+rahung-489-1-2,rahung-489-1,a-nɛːʰ,1102,false,expert,,n ɛːʰ/ɛː,,,2
 rupa-489-1-1,rupa-489-1,a-ɲaː,355,false,expert,,a,,,1
 rupa-489-1-2,rupa-489-1,a-ɲaː,1102,false,expert,,ɲ aː,,,2
 shergaon-489-1-1,shergaon-489-1,a-ɲaː,355,false,expert,,a,,,1
@@ -5297,23 +5297,23 @@ rupa-492-1-2,rupa-492-1,ʥuː-ʦʰak ~ ʥuː-ʨʰak,1108,false,expert,,ʨʰ~tsʰ
 shergaon-492-1-1,shergaon-492-1,ʥuː-ʨʰak,552,false,expert,,dʑ uː,,,1
 shergaon-492-1-2,shergaon-492-1,ʥuː-ʨʰak,1108,false,expert,,tɕʰ a k,,,2
 khispi-493-1-1,khispi-493-1,ɔ-bej-da,137,false,expert,,ɔ,,,1
-khispi-493-1-2,khispi-493-1,ɔ-bej-da,1111,false,expert,,b ej,,,2
+khispi-493-1-2,khispi-493-1,ɔ-bej-da,1111,false,expert,,b ei,,,2
 khispi-493-1-3,khispi-493-1,ɔ-bej-da,981,false,expert,,d a,,,3
 duhumbi-493-1-1,duhumbi-493-1,ɔ-bɛj,137,false,expert,,ɔ,,,1
-duhumbi-493-1-2,duhumbi-493-1,ɔ-bɛj,1111,false,expert,,b ɛj,,,2
+duhumbi-493-1-2,duhumbi-493-1,ɔ-bɛj,1111,false,expert,,b ɛi,,,2
 khoina-493-1-1,khoina-493-1,a-blɐːʰ,137,false,expert,,a,,,1
-khoina-493-1-2,khoina-493-1,a-blɐːʰ,1111,false,expert,,bl ɐːʰ,,,2
+khoina-493-1-2,khoina-493-1,a-blɐːʰ,1111,false,expert,,b l ɐːʰ/ɐ,,,2
 jerigaon-493-1-1,jerigaon-493-1,a-blɐːʰ,137,false,expert,,a,,,1
-jerigaon-493-1-2,jerigaon-493-1,a-blɐːʰ,1111,false,expert,,bl ɐːʰ,,,2
+jerigaon-493-1-2,jerigaon-493-1,a-blɐːʰ,1111,false,expert,,b l ɐːʰ/ɐ,,,2
 khoitam-493-1-1,khoitam-493-1,a-blɔːʰ-du,137,false,expert,,a,,,1
-khoitam-493-1-2,khoitam-493-1,a-blɔːʰ-du,1111,false,expert,,bl ɔːʰ,,,2
+khoitam-493-1-2,khoitam-493-1,a-blɔːʰ-du,1111,false,expert,,b l ɔːʰ/ɔː,,,2
 khoitam-493-1-3,khoitam-493-1,a-blɔːʰ-du,981,false,expert,,d u,,,3
 rahung-493-1-1,rahung-493-1,a-bɹɔːʰ,137,false,expert,,a,,,1
-rahung-493-1-2,rahung-493-1,a-bɹɔːʰ,1111,false,expert,,bɹ ɔːʰ,,,2
+rahung-493-1-2,rahung-493-1,a-bɹɔːʰ,1111,false,expert,,b ɹ ɔːʰ/ɔː,,,2
 rupa-493-1-1,rupa-493-1,a-blɔːʰ,137,false,expert,,a,,,1
-rupa-493-1-2,rupa-493-1,a-blɔːʰ,1111,false,expert,,bl ɔːʰ,,,2
+rupa-493-1-2,rupa-493-1,a-blɔːʰ,1111,false,expert,,b l ɔːʰ/ɔː,,,2
 shergaon-493-1-1,shergaon-493-1,a-blɔː,137,false,expert,,a,,,1
-shergaon-493-1-2,shergaon-493-1,a-blɔː,1111,false,expert,,bl ɔː,,,2
+shergaon-493-1-2,shergaon-493-1,a-blɔː,1111,false,expert,,b l ɔː,,,2
 khispi-494-1-1,khispi-494-1,ʑɛt,1114,false,expert,,ʑ ɛ t,,,1
 duhumbi-494-1-1,duhumbi-494-1,ʑɛt,1114,false,expert,,ʑ ɛ t,,,1
 khoina-494-1-1,khoina-494-1,zɛˀ,1114,false,expert,,z ɛˀ -,,,1
@@ -5342,7 +5342,7 @@ rahung-497-1-2,rahung-497-1,s-tʰyː,1117,false,expert,,tʰ yː,,,2
 rupa-497-1-1,rupa-497-1,tʰyː,1117,false,expert,,tʰ yː,,,1
 shergaon-497-1-1,shergaon-497-1,tʰuː,1117,false,expert,,tʰ uː,,,1
 khispi-498-1-1,khispi-498-1,ɔ-tʰja,461,false,expert,,ɔ,,,1
-khispi-498-1-2,khispi-498-1,ɔ-tʰja,1119,false,expert,,tʰj a,,,2
+khispi-498-1-2,khispi-498-1,ɔ-tʰja,1119,false,expert,,tʰ j a,,,2
 duhumbi-498-1-1,duhumbi-498-1,tʰe ~ tʰɛj,1119,false,expert,,tʰ e,,,1
 khoina-498-1-1,khoina-498-1,kʰaː,1120,false,expert,,kʰ aː -,,,1
 jerigaon-498-1-1,jerigaon-498-1,tʰiː-tʰɛː-lɔ,1117,false,expert,,tʰ iː,,,1
@@ -5352,15 +5352,15 @@ khoitam-498-1-1,khoitam-498-1,ɔ-tʰɛː-lɔ,461,false,expert,,ɔ,,,1
 khoitam-498-1-2,khoitam-498-1,ɔ-tʰɛː-lɔ,1119,false,expert,,tʰ ɛː,,,2
 khoitam-498-1-3,khoitam-498-1,ɔ-tʰɛː-lɔ,55,false,expert,,l ɔ,,,3
 rahung-498-1-1,rahung-498-1,tʰɛː,1119,false,expert,,tʰ ɛː,,,1
-rupa-498-1-1,rupa-498-1,kʰlaː,1120,false,expert,,kʰl aː -,,,1
+rupa-498-1-1,rupa-498-1,kʰlaː,1120,false,expert,,kʰ l aː -,,,1
 shergaon-498-1-1,shergaon-498-1,kʰaː,1120,false,expert,,kʰ aː -,,,1
-khispi-498-2-1,khispi-498-2,tʰej  ~ tʰaj,1119,false,expert,,tʰ aj~ej/ej,,,1
+khispi-498-2-1,khispi-498-2,tʰej  ~ tʰaj,1119,false,expert,,tʰ aj~ej/ei,,,1
 duhumbi-498-2-1,duhumbi-498-2,ɔw-tʰja,1124,false,expert,,ɔ,,,1
-duhumbi-498-2-2,duhumbi-498-2,ɔw-tʰja,1119,false,expert,,tʰj a,,,2
-rahung-498-2-1,rahung-498-2,kʰlaŋ,1120,false,expert,,kʰl a ŋ,,,1
+duhumbi-498-2-2,duhumbi-498-2,ɔw-tʰja,1119,false,expert,,tʰ j a,,,2
+rahung-498-2-1,rahung-498-2,kʰlaŋ,1120,false,expert,,kʰ l a ŋ,,,1
 rupa-498-2-1,rupa-498-2,kʰɔː,1120,false,expert,,kʰ ɔː -,,,1
 shergaon-498-2-1,shergaon-498-2,kʰaː,1120,false,expert,,kʰ aː -,,,1
-khispi-499-1-1,khispi-499-1,tʰje-maŋ-bi,50,false,expert,,tʰj e -,,,1
+khispi-499-1-1,khispi-499-1,tʰje-maŋ-bi,50,false,expert,,tʰ j e -,,,1
 khispi-499-1-2,khispi-499-1,tʰje-maŋ-bi,51,false,expert,,m a ŋ,,,2
 khispi-499-1-3,khispi-499-1,tʰje-maŋ-bi,18,false,expert,,b i,,,3
 duhumbi-499-1-1,duhumbi-499-1,tʰɛm-baŋ-pa,50,false,expert,,tʰ ɛ m,,,1
@@ -5399,15 +5399,15 @@ khoitam-501-1-1,khoitam-501-1,ʥy-wjɔː,1129,false,expert,,dʑ y,,,1
 khoitam-501-1-2,khoitam-501-1,ʥy-wjɔː,724,false,expert,,w,,,2
 khoitam-501-1-3,khoitam-501-1,ʥy-wjɔː,1127,false,expert,,j ɔː,,,3
 rupa-501-1-1,rupa-501-1,ʥi-jaw,1129,false,expert,,dʑ i,,,1
-rupa-501-1-2,rupa-501-1,ʥi-jaw,1127,false,expert,,j aw,,,2
+rupa-501-1-2,rupa-501-1,ʥi-jaw,1127,false,expert,,j au,,,2
 khispi-502-1-1,khispi-502-1,le-pʰa,936,false,expert,,l e,,,1
 khispi-502-1-2,khispi-502-1,le-pʰa,1131,false,expert,,pʰ a,,,2
 duhumbi-502-1-1,duhumbi-502-1,le-pʰa,936,false,expert,,l e,,,1
 duhumbi-502-1-2,duhumbi-502-1,le-pʰa,1131,false,expert,,pʰ a,,,2
 jerigaon-502-1-1,jerigaon-502-1,la-pʰluː,936,false,expert,,l a,,,1
-jerigaon-502-1-2,jerigaon-502-1,la-pʰluː,1131,false,expert,,pʰl uː,,,2
+jerigaon-502-1-2,jerigaon-502-1,la-pʰluː,1131,false,expert,,pʰ l uː,,,2
 khoitam-502-1-1,khoitam-502-1,la-pʰluː,936,false,expert,,l a,,,1
-khoitam-502-1-2,khoitam-502-1,la-pʰluː,1131,false,expert,,pʰl uː,,,2
+khoitam-502-1-2,khoitam-502-1,la-pʰluː,1131,false,expert,,pʰ l uː,,,2
 rahung-502-1-1,rahung-502-1,la-pʰuː,936,false,expert,,l a,,,1
 rahung-502-1-2,rahung-502-1,la-pʰuː,1131,false,expert,,pʰ uː,,,2
 rupa-502-1-1,rupa-502-1,lə-pʰuː,936,false,expert,,l ə,,,1
@@ -5448,9 +5448,9 @@ khoitam-505-1-1,khoitam-505-1,tʰiŋ,1140,false,expert,,tʰ i ŋ,,,1
 rahung-505-1-1,rahung-505-1,tʰiŋ,1140,false,expert,,tʰ i ŋ,,,1
 rupa-505-1-1,rupa-505-1,tʰin,1140,false,expert,,tʰ i n,,,1
 shergaon-505-1-1,shergaon-505-1,tʰin,1140,false,expert,,tʰ i n,,,1
-khispi-506-1-1,khispi-506-1,(kʰaw) jaŋ,722,false,expert,,kʰ aw,,,1
+khispi-506-1-1,khispi-506-1,(kʰaw) jaŋ,722,false,expert,,kʰ au,,,1
 khispi-506-1-2,khispi-506-1,(kʰaw) jaŋ,1141,false,expert,,j a ŋ,,,2
-duhumbi-506-1-1,duhumbi-506-1,(kʰow) jaŋ,722,false,expert,,kʰ ow,,,1
+duhumbi-506-1-1,duhumbi-506-1,(kʰow) jaŋ,722,false,expert,,kʰ ou,,,1
 duhumbi-506-1-2,duhumbi-506-1,(kʰow) jaŋ,1141,false,expert,,j a ŋ,,,2
 khoina-506-1-1,khoina-506-1,(kʰɔː) jɔ̃ː,722,false,expert,,kʰ ɔː,,,1
 khoina-506-1-2,khoina-506-1,(kʰɔː) jɔ̃ː,1141,false,expert,,j ɔ̃ː -,,,2
@@ -5473,7 +5473,7 @@ khoitam-507-1-1,khoitam-507-1,ɔ-tʰɛː,1145,false,expert,,ɔ,,,1
 khoitam-507-1-2,khoitam-507-1,ɔ-tʰɛː,1143,false,expert,,tʰ ɛː,,,2
 rahung-507-1-1,rahung-507-1,tʰə-ɛː,1143,false,expert,,tʰ ə,,,1
 rahung-507-1-2,rahung-507-1,tʰə-ɛː,557,false,expert,,ɛː,,,2
-rupa-507-1-1,rupa-507-1,tʰwaː ~ tʰu-waː ~ tʰaː,1143,false,expert,,tʰw aː,,,1
+rupa-507-1-1,rupa-507-1,tʰwaː ~ tʰu-waː ~ tʰaː,1143,false,expert,,tʰ w aː,,,1
 shergaon-507-1-1,shergaon-507-1,tʰaː-ji,1143,false,expert,,tʰ aː,,,1
 shergaon-507-1-2,shergaon-507-1,tʰaː-ji,555,false,expert,,j i,,,2
 khispi-508-1-1,khispi-508-1,pʰe-zɔ ~ pʰe-ʥɔ,1147,false,expert,,pʰ e,,,1
@@ -5489,9 +5489,9 @@ khoitam-508-1-2,khoitam-508-1,bə-zɔː,1146,false,expert,,z ɔː,,,2
 rahung-508-1-1,rahung-508-1,bə-zoː,1147,false,expert,,b ə,,,1
 rahung-508-1-2,rahung-508-1,bə-zoː,1146,false,expert,,z oː,,,2
 rupa-508-1-1,rupa-508-1,bə-zaw,1147,false,expert,,b ə,,,1
-rupa-508-1-2,rupa-508-1,bə-zaw,1146,false,expert,,z aw,,,2
+rupa-508-1-2,rupa-508-1,bə-zaw,1146,false,expert,,z au,,,2
 shergaon-508-1-1,shergaon-508-1,bə-zaw,1147,false,expert,,b ə,,,1
-shergaon-508-1-2,shergaon-508-1,bə-zaw,1146,false,expert,,z aw,,,2
+shergaon-508-1-2,shergaon-508-1,bə-zaw,1146,false,expert,,z au,,,2
 khispi-509-1-1,khispi-509-1,tɔŋ-ta,1149,false,expert,,t ɔ ŋ,,,1
 khispi-509-1-2,khispi-509-1,tɔŋ-ta,1148,false,expert,,t a,,,2
 duhumbi-509-1-1,duhumbi-509-1,tɔŋ-ta ~ tɔŋ-ʈa,1149,false,expert,,t ɔ ŋ,,,1
@@ -5504,8 +5504,8 @@ khoitam-509-1-1,khoitam-509-1,tɔŋ-tʰɔ,1149,false,expert,,t ɔ ŋ,,,1
 khoitam-509-1-2,khoitam-509-1,tɔŋ-tʰɔ,1148,false,expert,,tʰ ɔ,,,2
 rahung-509-1-1,rahung-509-1,tɔŋ-tʰɔ,1149,false,expert,,t ɔ ŋ,,,1
 rahung-509-1-2,rahung-509-1,tɔŋ-tʰɔ,1148,false,expert,,tʰ ɔ,,,2
-khispi-510-1-1,khispi-510-1,hwaŋ,1150,false,expert,,hw a ŋ,,,1
-duhumbi-510-1-1,duhumbi-510-1,hwaŋ,1150,false,expert,,hw a ŋ,,,1
+khispi-510-1-1,khispi-510-1,hwaŋ,1150,false,expert,,h w a ŋ,,,1
+duhumbi-510-1-1,duhumbi-510-1,hwaŋ,1150,false,expert,,h w a ŋ,,,1
 khoina-510-1-1,khoina-510-1,xaŋ,1150,false,expert,,x a ŋ,,,1
 jerigaon-510-1-1,jerigaon-510-1,haŋ,1150,false,expert,,h a ŋ,,,1
 khoitam-510-1-1,khoitam-510-1,haŋ,1150,false,expert,,h a ŋ,,,1
@@ -5559,7 +5559,7 @@ khoitam-516-1-1,khoitam-516-1,ʨʰɔk,1161,false,expert,,tɕʰ ɔ k,,,1
 rahung-516-1-1,rahung-516-1,ʨʰɔk,1161,false,expert,,tɕʰ ɔ k,,,1
 rupa-516-1-1,rupa-516-1,ʨʰɔk,1161,false,expert,,tɕʰ ɔ k,,,1
 shergaon-516-1-1,shergaon-516-1,ʨʰɔk,1161,false,expert,,tɕʰ ɔ k,,,1
-duhumbi-517-1-1,duhumbi-517-1,ʥɛj,1162,false,expert,,dʑ ɛj,,,1
+duhumbi-517-1-1,duhumbi-517-1,ʥɛj,1162,false,expert,,dʑ ɛi,,,1
 khoina-517-1-1,khoina-517-1,ʣeː ~ ʣɛː,1162,false,expert,,dz eː~ɛː/eː,,,1
 jerigaon-517-1-1,jerigaon-517-1,ʥeː,1162,false,expert,,dʑ eː,,,1
 khoitam-517-1-1,khoitam-517-1,ʥeː,1162,false,expert,,dʑ eː,,,1
@@ -5610,8 +5610,8 @@ rupa-520-1-1,rupa-520-1,mə-saŋ,826,false,expert,,m ə,,,1
 rupa-520-1-2,rupa-520-1,mə-saŋ,1167,false,expert,,s a ŋ,,,2
 shergaon-520-1-1,shergaon-520-1,mə-saŋ,826,false,expert,,m ə,,,1
 shergaon-520-1-2,shergaon-520-1,mə-saŋ,1167,false,expert,,s a ŋ,,,2
-khispi-521-1-1,khispi-521-1,luj,1171,false,expert,,l uj,,,1
-duhumbi-521-1-1,duhumbi-521-1,lɔj,1171,false,expert,,l ɔj,,,1
+khispi-521-1-1,khispi-521-1,luj,1171,false,expert,,l ui,,,1
+duhumbi-521-1-1,duhumbi-521-1,lɔj,1171,false,expert,,l ɔi,,,1
 khoina-521-1-1,khoina-521-1,laː,1171,false,expert,,l aː,,,1
 jerigaon-521-1-1,jerigaon-521-1,lɛː,1171,false,expert,,l ɛː,,,1
 khoitam-521-1-1,khoitam-521-1,lɛː,1171,false,expert,,l ɛː,,,1
@@ -5677,13 +5677,13 @@ khoina-526-1-1,khoina-526-1,neˀ,1186,false,expert,,n eˀ,,,1
 khoitam-526-1-1,khoitam-526-1,niˀ,1186,false,expert,,n iˀ,,,1
 rahung-526-1-1,rahung-526-1,niˀ,1186,false,expert,,n iˀ,,,1
 rupa-526-1-1,rupa-526-1,ɲeˀ,1186,false,expert,,ɲ eˀ,,,1
-khispi-527-1-1,khispi-527-1,kʰej ~ kʰaj,1187,false,expert,,kʰ e~a/ej,,,1
-duhumbi-527-1-1,duhumbi-527-1,kʰɛj,1187,false,expert,,kʰ ɛj,,,1
+khispi-527-1-1,khispi-527-1,kʰej ~ kʰaj,1187,false,expert,,kʰ e~a/ei,,,1
+duhumbi-527-1-1,duhumbi-527-1,kʰɛj,1187,false,expert,,kʰ ɛi,,,1
 khoina-527-1-1,khoina-527-1,kʰɐ̃ː,1187,false,expert,,kʰ ɐ̃ː,,,1
 jerigaon-527-1-1,jerigaon-527-1,kʰɐ̃ː,1187,false,expert,,kʰ ɐ̃ː,,,1
 khoitam-527-1-1,khoitam-527-1,kʰaː,1187,false,expert,,kʰ aː,,,1
 rahung-527-1-1,rahung-527-1,kʰɔ̃ː,1187,false,expert,,kʰ ɔ̃ː,,,1
-rupa-527-1-1,rupa-527-1,kʰaːj,1187,false,expert,,kʰ aj,,,1
+rupa-527-1-1,rupa-527-1,kʰaːj,1187,false,expert,,kʰ ai,,,1
 shergaon-527-1-1,shergaon-527-1,kʰaː,1187,false,expert,,kʰ aː,,,1
 duhumbi-528-1-1,duhumbi-528-1,kʰik,1188,false,expert,,kʰ i k,,,1
 khoina-528-1-1,khoina-528-1,tʂʰiˀ,1188,false,expert,,ʈʂʰ iˀ -,,,1
@@ -5706,8 +5706,8 @@ khoitam-530-1-1,khoitam-530-1,kʰuː,52,false,expert,,kʰ uː,,,1
 rahung-530-1-1,rahung-530-1,kʰuː,52,false,expert,,kʰ uː,,,1
 rupa-530-1-1,rupa-530-1,kʰuː,52,false,expert,,kʰ uː,,,1
 shergaon-530-1-1,shergaon-530-1,kʰuː,52,false,expert,,kʰ uː,,,1
-khispi-531-1-1,khispi-531-1,lja ~ ljɛ ~ lɛj,1191,false,expert,,lj a~ɛ/a -,,,1
-duhumbi-531-1-1,duhumbi-531-1,lja ~ lje ~ ljɛ ~ lɛj,1191,false,expert,,lj a~e~ɛ/a -,,,1
+khispi-531-1-1,khispi-531-1,lja ~ ljɛ ~ lɛj,1191,false,expert,,l j a~ɛ/a -,,,1
+duhumbi-531-1-1,duhumbi-531-1,lja ~ lje ~ ljɛ ~ lɛj,1191,false,expert,,l j a~e~ɛ/a -,,,1
 khoina-531-1-1,khoina-531-1,laŋ,1191,false,expert,,l a ŋ,,,1
 jerigaon-531-1-1,jerigaon-531-1,laŋ,1191,false,expert,,l a ŋ,,,1
 khoitam-531-1-1,khoitam-531-1,laŋ,1191,false,expert,,l a ŋ,,,1
@@ -5740,8 +5740,8 @@ rupa-534-1-1,rupa-534-1,ziː,1195,false,expert,,z iː,,,1
 shergaon-534-1-1,shergaon-534-1,ziː,1195,false,expert,,z iː,,,1
 khispi-535-1-1,khispi-535-1,tʰu,1196,false,expert,,tʰ u,,,1
 duhumbi-535-1-1,duhumbi-535-1,tʰu,1196,false,expert,,tʰ u,,,1
-rupa-535-1-1,rupa-535-1,tʰaw,1196,false,expert,,tʰ aw,,,1
-shergaon-535-1-1,shergaon-535-1,tʰaw,1196,false,expert,,tʰ aw,,,1
+rupa-535-1-1,rupa-535-1,tʰaw,1196,false,expert,,tʰ au,,,1
+shergaon-535-1-1,shergaon-535-1,tʰaw,1196,false,expert,,tʰ au,,,1
 khispi-536-1-1,khispi-536-1,daŋ,1197,false,expert,,d a ŋ,,,1
 duhumbi-536-1-1,duhumbi-536-1,daŋ,1197,false,expert,,d a ŋ,,,1
 khoina-536-1-1,khoina-536-1,daŋ,1197,false,expert,,d a ŋ,,,1
@@ -5765,7 +5765,7 @@ khoitam-537-1-1,khoitam-537-1,ʥũːŋ,1199,false,expert,,dʑ ũː ŋ,,,1
 rahung-537-1-1,rahung-537-1,la-pʰɔŋ,1200,false,expert,,l a,,,1
 rahung-537-1-2,rahung-537-1,la-pʰɔŋ,655,false,expert,,pʰ ɔ ŋ,,,2
 rupa-537-1-1,rupa-537-1,ʥũː(ŋ)-baw,1199,false,expert,,dʑ ũː (ŋ)/ŋ,,,1
-rupa-537-1-2,rupa-537-1,ʥũː(ŋ)-baw,650,false,expert,,b aw,,,2
+rupa-537-1-2,rupa-537-1,ʥũː(ŋ)-baw,650,false,expert,,b au,,,2
 shergaon-537-1-1,shergaon-537-1,ʥɔ̃ː-kʰiŋ,1199,false,expert,,dʑ ɔ̃ː -,,,1
 shergaon-537-1-2,shergaon-537-1,ʥɔ̃ː-kʰiŋ,636,false,expert,,kʰ i ŋ,,,2
 khispi-538-1-1,khispi-538-1,tʰup,1203,false,expert,,tʰ u p,,,1
@@ -5809,14 +5809,14 @@ duhumbi-541-2-1,duhumbi-541-2,naŋ,458,false,expert,,n a ŋ,,,1
 khoina-541-1-1,khoina-541-1,laŋ,458,false,expert,,l a ŋ,,,1
 khoitam-541-2-1,khoitam-541-2,laŋ,458,false,expert,,l a ŋ,,,1
 rupa-541-2-1,rupa-541-2,laŋ,458,false,expert,,l a ŋ,,,1
-khispi-542-1-1,khispi-542-1,jɔw,1211,false,expert,,j ɔw,,,1
-duhumbi-542-1-1,duhumbi-542-1,jɔw,1211,false,expert,,j ɔw,,,1
+khispi-542-1-1,khispi-542-1,jɔw,1211,false,expert,,j ɔu,,,1
+duhumbi-542-1-1,duhumbi-542-1,jɔw,1211,false,expert,,j ɔu,,,1
 khoina-542-1-1,khoina-542-1,jɔ,1211,false,expert,,j ɔ,,,1
 jerigaon-542-1-1,jerigaon-542-1,jɔ,1211,false,expert,,j ɔ,,,1
 khoitam-542-1-1,khoitam-542-1,jɔ,1211,false,expert,,j ɔ,,,1
 rahung-542-1-1,rahung-542-1,jo,1211,false,expert,,j o,,,1
-rupa-542-1-1,rupa-542-1,jaw,1211,false,expert,,j aw,,,1
-shergaon-542-1-1,shergaon-542-1,jaw,1211,false,expert,,j aw,,,1
+rupa-542-1-1,rupa-542-1,jaw,1211,false,expert,,j au,,,1
+shergaon-542-1-1,shergaon-542-1,jaw,1211,false,expert,,j au,,,1
 khispi-543-1-1,khispi-543-1,wa,329,false,expert,,w a,,,1
 duhumbi-543-1-1,duhumbi-543-1,wa,329,false,expert,,w a,,,1
 khoina-543-1-1,khoina-543-1,rɐˀ,329,false,expert,,r ɐˀ,,,1
@@ -5825,7 +5825,7 @@ khoitam-543-1-1,khoitam-543-1,rɔˀ,329,false,expert,,r ɔˀ,,,1
 rahung-543-1-1,rahung-543-1,rɔˀ,329,false,expert,,r ɔˀ,,,1
 rupa-543-1-1,rupa-543-1,rɔˀ,329,false,expert,,r ɔˀ,,,1
 shergaon-543-1-1,shergaon-543-1,rɔ,329,false,expert,,r ɔ,,,1
-duhumbi-544-1-1,duhumbi-544-1,kʰɛj-duŋ,1214,false,expert,,kʰ ɛj,,,1
+duhumbi-544-1-1,duhumbi-544-1,kʰɛj-duŋ,1214,false,expert,,kʰ ɛi,,,1
 duhumbi-544-1-2,duhumbi-544-1,kʰɛj-duŋ,1215,false,expert,,d u ŋ,,,2
 khoitam-544-1-1,khoitam-544-1,gə-ʥyŋ,1214,false,expert,,g ə,,,1
 khoitam-544-1-2,khoitam-544-1,gə-ʥyŋ,1215,false,expert,,dʑ y ŋ,,,2
@@ -5882,8 +5882,8 @@ khispi-548-2-1,khispi-548-2,ʨʰi,1222,false,expert,,tɕʰ i -,,,1
 duhumbi-548-2-1,duhumbi-548-2,ʨʰi,1222,false,expert,,tɕʰ i -,,,1
 khoitam-548-1-1,khoitam-548-1,ʨʰĩː(ŋ),1222,false,expert,,tɕʰ ĩː (ŋ)/ŋ,,,1
 rahung-548-1-1,rahung-548-1,ʨʰyː,1222,false,expert,,tɕʰ yː -,,,1
-khispi-549-1-1,khispi-549-1,kʰaw,1009,false,expert,,kʰ aw,,,1
-duhumbi-549-1-1,duhumbi-549-1,kʰɔw,1009,false,expert,,kʰ ɔw,,,1
+khispi-549-1-1,khispi-549-1,kʰaw,1009,false,expert,,kʰ au,,,1
+duhumbi-549-1-1,duhumbi-549-1,kʰɔw,1009,false,expert,,kʰ ɔu,,,1
 khoina-549-1-1,khoina-549-1,kʰɔː,1009,false,expert,,kʰ ɔː,,,1
 jerigaon-549-1-1,jerigaon-549-1,kʰɔː,1009,false,expert,,kʰ ɔː,,,1
 khoitam-549-1-1,khoitam-549-1,kʰoː,1009,false,expert,,kʰ oː,,,1
@@ -5930,10 +5930,10 @@ rahung-554-1-1,rahung-554-1,a-siŋ,56,false,expert,,a,,,1
 rahung-554-1-2,rahung-554-1,a-siŋ,472,false,expert,,s i ŋ,,,2
 shergaon-554-1-1,shergaon-554-1,a-siŋ,56,false,expert,,a,,,1
 shergaon-554-1-2,shergaon-554-1,a-siŋ,472,false,expert,,s i ŋ,,,2
-khoina-554-1-1,khoina-554-1,kʰa-lɛˀ,1232,false,expert,,kʰl ɛˀ,,,1
-jerigaon-554-1-1,jerigaon-554-1,kʰ-leˀ,1232,false,expert,,kʰl eˀ,,,1
-khoitam-554-2-1,khoitam-554-2,kʰ-leˀ,1232,false,expert,,kʰl eˀ,,,1
-rahung-554-2-1,rahung-554-2,pʰ-lɛˀ,1232,false,expert,,pʰl ɛˀ,,,1
+khoina-554-1-1,khoina-554-1,kʰa-lɛˀ,1232,false,expert,,kʰ l ɛˀ,,,1
+jerigaon-554-1-1,jerigaon-554-1,kʰ-leˀ,1232,false,expert,,kʰ l eˀ,,,1
+khoitam-554-2-1,khoitam-554-2,kʰ-leˀ,1232,false,expert,,kʰ l eˀ,,,1
+rahung-554-2-1,rahung-554-2,pʰ-lɛˀ,1232,false,expert,,pʰ l ɛˀ,,,1
 khoitam-555-1-1,khoitam-555-1,mu-kuː,1237,false,expert,,m u,,,1
 khoitam-555-1-2,khoitam-555-1,mu-kuː,1235,false,expert,,k uː,,,2
 rahung-555-1-1,rahung-555-1,mə-kuː,1237,false,expert,,m ə,,,1
@@ -5957,7 +5957,7 @@ rahung-556-1-2,rahung-556-1,a-dũː(ŋ),1238,false,expert,,d ũː (ŋ)/ŋ,,,2
 rupa-556-1-1,rupa-556-1,a-dũː(ŋ),850,false,expert,,a,,,1
 rupa-556-1-2,rupa-556-1,a-dũː(ŋ),1238,false,expert,,d ũː (ŋ)/ŋ,,,2
 shergaon-556-1-1,shergaon-556-1,a-dɔ̃ː,850,false,expert,,a,,,1
-shergaon-556-1-2,shergaon-556-1,a-dɔ̃ː,1238,false,expert,,d ɔ̃ː (ŋ),,,2
+shergaon-556-1-2,shergaon-556-1,a-dɔ̃ː,1238,false,expert,,d ɔ̃ː ŋ,,,2
 khispi-557-1-1,khispi-557-1,a,1241,false,expert,,- a,,,1
 duhumbi-557-1-1,duhumbi-557-1,ha,1241,false,expert,,h a,,,1
 khoina-557-1-1,khoina-557-1,a-lɔː,1241,false,expert,,- a,,,1
@@ -6033,11 +6033,11 @@ khoitam-562-1-1,khoitam-562-1,kɔː-ʨyŋ,1257,false,expert,,k ɔː -,,,1
 khoitam-562-1-2,khoitam-562-1,kɔː-ʨyŋ,1256,false,expert,,tɕ y ŋ,,,2
 rahung-562-1-1,rahung-562-1,koː-ʨyŋ,1257,false,expert,,k oː -,,,1
 rahung-562-1-2,rahung-562-1,koː-ʨyŋ,1256,false,expert,,tɕ y ŋ,,,2
-rupa-562-1-1,rupa-562-1,kaw-du,1257,false,expert,,k aw -,,,1
+rupa-562-1-1,rupa-562-1,kaw-du,1257,false,expert,,k au -,,,1
 rupa-562-1-2,rupa-562-1,kaw-du,669,false,expert,,d u,,,2
 shergaon-562-1-1,shergaon-562-1,koː-ʨuŋ,1257,false,expert,,k oː -,,,1
 shergaon-562-1-2,shergaon-562-1,koː-ʨuŋ,1256,false,expert,,tɕ u ŋ,,,2
-khispi-563-1-1,khispi-563-1,ɲuj-pʰa,1259,false,expert,,ɲ uj,,,1
+khispi-563-1-1,khispi-563-1,ɲuj-pʰa,1259,false,expert,,ɲ ui,,,1
 khispi-563-1-2,khispi-563-1,ɲuj-pʰa,167,false,expert,,pʰ a -,,,2
 khoina-563-1-1,khoina-563-1,ny-pʰaŋ,1259,false,expert,,n y,,,1
 khoina-563-1-2,khoina-563-1,ny-pʰaŋ,167,false,expert,,pʰ a ŋ,,,2
@@ -6099,9 +6099,9 @@ rahung-568-1-2,rahung-568-1,nuk-ʨʰik,79,false,expert,,tɕʰ i k,,,2
 rupa-568-1-1,rupa-568-1,ɲuk-ʦʰik,1268,false,expert,,ɲ u k,,,1
 rupa-568-1-2,rupa-568-1,ɲuk-ʦʰik,79,false,expert,,tsʰ i k,,,2
 duhumbi-569-1-1,duhumbi-569-1,pat,1269,false,expert,,p a t,,,1
-khoina-569-1-1,khoina-569-1,blɛt,1269,false,expert,,bl ɛ t,,,1
-rupa-569-1-1,rupa-569-1,blat,1269,false,expert,,bl a t,,,1
-shergaon-569-1-1,shergaon-569-1,blat,1269,false,expert,,bl a t,,,1
+khoina-569-1-1,khoina-569-1,blɛt,1269,false,expert,,b l ɛ t,,,1
+rupa-569-1-1,rupa-569-1,blat,1269,false,expert,,b l a t,,,1
+shergaon-569-1-1,shergaon-569-1,blat,1269,false,expert,,b l a t,,,1
 khispi-570-1-1,khispi-570-1,ʨil,1270,false,expert,,tɕ i l,,,1
 duhumbi-570-1-1,duhumbi-570-1,ʨiɹ,1270,false,expert,,tɕ i ɹ,,,1
 jerigaon-570-1-1,jerigaon-570-1,ʨĩˀ,1270,false,expert,,tɕ ĩˀ -,,,1
@@ -6146,18 +6146,18 @@ rupa-573-1-3,rupa-573-1,tʰam-bu tuŋ,584,false,expert,,t u ŋ,,,3
 khoina-574-1-1,khoina-574-1,a-xaː,1280,false,expert,,a,,,1
 khoina-574-1-2,khoina-574-1,a-xaː,1281,false,expert,,x aː,,,2
 jerigaon-574-1-1,jerigaon-574-1,ɛ-hɛːʰ,1280,false,expert,,ɛ,,,1
-jerigaon-574-1-2,jerigaon-574-1,ɛ-hɛːʰ,1281,false,expert,,h ɛːʰ,,,2
+jerigaon-574-1-2,jerigaon-574-1,ɛ-hɛːʰ,1281,false,expert,,h ɛːʰ/ɛː,,,2
 khoitam-574-1-1,khoitam-574-1,ɛ-hɛːʰ,1280,false,expert,,ɛ,,,1
-khoitam-574-1-2,khoitam-574-1,ɛ-hɛːʰ,1281,false,expert,,h ɛːʰ,,,2
+khoitam-574-1-2,khoitam-574-1,ɛ-hɛːʰ,1281,false,expert,,h ɛːʰ/ɛː,,,2
 rahung-574-1-1,rahung-574-1,ɛ-hɛːʰ,1280,false,expert,,ɛ,,,1
-rahung-574-1-2,rahung-574-1,ɛ-hɛːʰ,1281,false,expert,,h ɛːʰ,,,2
+rahung-574-1-2,rahung-574-1,ɛ-hɛːʰ,1281,false,expert,,h ɛːʰ/ɛː,,,2
 rupa-574-1-1,rupa-574-1,a-haːʰ,1280,false,expert,,a,,,1
-rupa-574-1-2,rupa-574-1,a-haːʰ,1281,false,expert,,h aːʰ,,,2
+rupa-574-1-2,rupa-574-1,a-haːʰ,1281,false,expert,,h aːʰ/aː,,,2
 shergaon-574-1-1,shergaon-574-1,a-haː,1280,false,expert,,a,,,1
 shergaon-574-1-2,shergaon-574-1,a-haː,1281,false,expert,,h aː,,,2
 khispi-575-1-1,khispi-575-1,di-ju,1282,false,expert,,d i,,,1
 khispi-575-1-2,khispi-575-1,di-ju,1283,false,expert,,j u,,,2
-duhumbi-575-1-1,duhumbi-575-1,dɛj-ju,1282,false,expert,,d ɛj,,,1
+duhumbi-575-1-1,duhumbi-575-1,dɛj-ju,1282,false,expert,,d ɛi,,,1
 duhumbi-575-1-2,duhumbi-575-1,dɛj-ju,1283,false,expert,,j u,,,2
 khoina-575-1-1,khoina-575-1,dy-jɔː,1282,false,expert,,d y,,,1
 khoina-575-1-2,khoina-575-1,dy-jɔː,1283,false,expert,,j ɔː,,,2
@@ -6168,7 +6168,7 @@ khoitam-575-1-2,khoitam-575-1,ʥy-jɔː,1283,false,expert,,j ɔː,,,2
 rahung-575-1-1,rahung-575-1,ʥoː-hɔː,1282,false,expert,,dʑ oː,,,1
 rahung-575-1-2,rahung-575-1,ʥoː-hɔː,1283,false,expert,,h ɔː,,,2
 rupa-575-1-1,rupa-575-1,dy-jaw,1282,false,expert,,d y,,,1
-rupa-575-1-2,rupa-575-1,dy-jaw,1283,false,expert,,j aw,,,2
+rupa-575-1-2,rupa-575-1,dy-jaw,1283,false,expert,,j au,,,2
 duhumbi-578-1-1,duhumbi-578-1,ʨur,968,false,expert,,ʨ u r,,,1
 duhumbi-579-1-1,duhumbi-579-1,ʨʰur,962,false,expert,,ʨʰ u r,,,1
 duhumbi-601-1-1,duhumbi-601-1,ʨʰur,810,false,expert,,ʨʰ u r,,,1
@@ -6201,8 +6201,8 @@ duhumbi-580-1-1,duhumbi-580-1,dɛr,756,false,expert,,d ɛ r,,,1
 duhumbi-651-1-1,duhumbi-651-1,ɲɛr,954,false,expert,,ɲ ɛ r,,,1
 duhumbi-646-1-1,duhumbi-646-1,ɕɛr,931,false,expert,,ɕ ɛ r,,,1
 duhumbi-590-1-1,duhumbi-590-1,tʰɛr,790,false,expert,,tʰ ɛ r,,,1
-duhumbi-656-1-1,duhumbi-656-1,gɔj,975,false,expert,,g ɔj,,,1
-duhumbi-642-1-1,duhumbi-642-1,kʰrɔj,917,false,expert,,kʰr ɔj,,,1
+duhumbi-656-1-1,duhumbi-656-1,gɔj,975,false,expert,,g ɔi,,,1
+duhumbi-642-1-1,duhumbi-642-1,kʰrɔj,917,false,expert,,kʰ r ɔi,,,1
 duhumbi-583-1-1,duhumbi-583-1,bis,761,false,expert,,b i s,,,1
 duhumbi-630-1-1,duhumbi-630-1,his,885,false,expert,,h i s,,,1
 duhumbi-612-1-1,duhumbi-612-1,kʰis,838,false,expert,,kʰ i s,,,1
@@ -6211,7 +6211,7 @@ duhumbi-638-1-1,duhumbi-638-1,ris,904,false,expert,,r i s,,,1
 duhumbi-589-1-1,duhumbi-589-1,tʰis,789,false,expert,,tʰ i s,,,1
 duhumbi-607-1-1,duhumbi-607-1,dus,832,false,expert,,d u s,,,1
 duhumbi-584-1-1,duhumbi-584-1,bɔs,763,false,expert,,b ɔ s,,,1
-duhumbi-661-1-1,duhumbi-661-1,prɔs,980,false,expert,,pr ɔ s,,,1
+duhumbi-661-1-1,duhumbi-661-1,prɔs,980,false,expert,,p r ɔ s,,,1
 duhumbi-663-1-1,duhumbi-663-1,tɔs,418,false,expert,,t ɔ s,,,1
 duhumbi-645-1-1,duhumbi-645-1,las,927,false,expert,,l a s,,,1
 duhumbi-616-1-1,duhumbi-616-1,nas,858,false,expert,,n a s,,,1
@@ -6234,13 +6234,13 @@ duhumbi-653-1-1,duhumbi-653-1,ɕin,957,false,expert,,ɕ i n,,,1
 duhumbi-618-1-1,duhumbi-618-1,ʥun,860,false,expert,,ʥ u n,,,1
 khispi-615-1-1,khispi-615-1,sɔp,854,false,expert,,s ɔ p,,,1
 duhumbi-615-1-1,duhumbi-615-1,hɔp,854,false,expert,,h ɔ p,,,1
-duhumbi-608-1-1,duhumbi-608-1,kʰrɔp,834,false,expert,,kʰr ɔ p,,,1
+duhumbi-608-1-1,duhumbi-608-1,kʰrɔp,834,false,expert,,kʰ r ɔ p,,,1
 duhumbi-631-1-1,duhumbi-631-1,sɔp,887,false,expert,,s ɔ p,,,1
 duhumbi-593-1-1,duhumbi-593-1,tʰɔp,754,false,expert,,tʰ ɔ p,,,1
 duhumbi-648-1-1,duhumbi-648-1,ʦɔp,938,false,expert,,ʦ ɔ p,,,1
 duhumbi-632-1-1,duhumbi-632-1,dip,890,false,expert,,d i p,,,1
 duhumbi-605-1-1,duhumbi-605-1,gip,831,false,expert,,g i p,,,1
-duhumbi-587-1-1,duhumbi-587-1,kʰrip,785,false,expert,,kʰr i p,,,1
+duhumbi-587-1-1,duhumbi-587-1,kʰrip,785,false,expert,,kʰ r i p,,,1
 duhumbi-585-1-1,duhumbi-585-1,ɕip,773,false,expert,,ɕ i p,,,1
 duhumbi-654-1-1,duhumbi-654-1,ʨʰut,971,false,expert,,ʨʰ u t,,,1
 duhumbi-644-1-1,duhumbi-644-1,dut,925,false,expert,,d u t,,,1
@@ -6249,11 +6249,11 @@ duhumbi-614-1-1,duhumbi-614-1,ɕut,847,false,expert,,ɕ u t,,,1
 duhumbi-598-1-1,duhumbi-598-1,tut,799,false,expert,,t u t,,,1
 duhumbi-650-1-1,duhumbi-650-1,ʨɔt,942,false,expert,,ʨ ɔ t,,,1
 duhumbi-603-1-1,duhumbi-603-1,dɔt,813,false,expert,,d ɔ t,,,1
-khispi-588-1-1,khispi-588-1,ʨʰaw,985,false,expert,,ʨʰ aw,,,1
-duhumbi-588-1-1,duhumbi-588-1,ʨʰɔw,982,false,expert,,ʨʰ ɔw,,,1
-duhumbi-627-1-1,duhumbi-627-1,ʥɔw,879,false,expert,,ʥ ɔw,,,1
-duhumbi-647-1-1,duhumbi-647-1,pʰɔw,934,false,expert,,pʰ ɔw,,,1
-duhumbi-595-1-1,duhumbi-595-1,ʑɔw,381,false,expert,,ʑ ɔw,,,1
+khispi-588-1-1,khispi-588-1,ʨʰaw,985,false,expert,,ʨʰ au,,,1
+duhumbi-588-1-1,duhumbi-588-1,ʨʰɔw,982,false,expert,,ʨʰ ɔu,,,1
+duhumbi-627-1-1,duhumbi-627-1,ʥɔw,879,false,expert,,ʥ ɔu,,,1
+duhumbi-647-1-1,duhumbi-647-1,pʰɔw,934,false,expert,,pʰ ɔu,,,1
+duhumbi-595-1-1,duhumbi-595-1,ʑɔw,381,false,expert,,ʑ ɔu,,,1
 khispi-623-1-1,khispi-623-1,sɔkɔ,870,false,expert,,s ɔ,,,1
 khispi-623-1-2,khispi-623-1,sɔkɔ,645,false,expert,,k ɔ,,,2
 duhumbi-623-1-1,duhumbi-623-1,hɔˀkɔ,870,false,expert,,h ɔˀ,,,1
