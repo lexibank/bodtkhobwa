@@ -5,7 +5,7 @@
     "dc:identifier": "",
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "dc:source": "sources.bib",
-    "dc:title": "castrosui",
+    "dc:title": "bodtkhobwa",
     "dcat:accessURL": "https://github.com/lexibank/bodtkhobwa",
     "rdf:ID": "bodtkhobwa",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
@@ -62,9 +62,12 @@
                         "name": "Form"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "([\\S]+)( [\\S]+)*"
+                        },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#segments",
-                        "separator": " ",
+                        "separator": " + ",
                         "name": "Segments"
                     },
                     {
@@ -197,7 +200,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 0,
+            "dc:extent": 6261,
             "tableSchema": {
                 "columns": [
                     {
@@ -248,6 +251,10 @@
                     {
                         "datatype": "string",
                         "name": "Alignment_Source"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Segment_Slice"
                     }
                 ],
                 "foreignKeys": [
