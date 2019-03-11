@@ -1,7 +1,7 @@
 "NUMBER","ENGLISH","CONCEPTICON_ID","CONCEPTICON_GLOSS"
 "1","1sg","1209","I"
 "2","2pl.excl","1213","YOU"
-"3","2pl.incl","",""
+"3","2pl.incl","1131","WE (INCLUSIVE)"
 "4","2sg","1215","THOU"
 "5","3sg","262","HE OR SHE OR IT"
 "6","ablative","",""
@@ -51,7 +51,7 @@
 "50","blood","946","BLOOD"
 "51","blow","176","BLOW (WITH MOUTH)"
 "52","blow (wind)","175","BLOW (OF WIND)"
-"53","boar, wild","1348","BOAR"
+"53","boar, wild","3154","WILD BOAR"
 "54","boil  (water)","792","BOIL (OF LIQUID)"
 "55","boil (n)","793","BOIL (OF SKIN)"
 "56","bone","1394","BONE"
@@ -68,8 +68,8 @@
 "67","brother (elder)","1759","OLDER BROTHER"
 "68","brother-in-law","2314","BROTHER-IN-LAW"
 "69","brother, younger","1760","YOUNGER BROTHER"
-"70","buckwheat, bitter","",""
-"71","buckwheat, sweet","",""
+"70","buckwheat, bitter","3256","BITTER BUCKWHEAT"
+"71","buckwheat, sweet","2040","BUCKWHEAT"
 "72","buffalo","934","BUFFALO"
 "73","Bugun","",""
 "74","burn (vi)","1428","BURNING"
@@ -78,7 +78,7 @@
 "77","butterfly","1791","BUTTERFLY"
 "78","buy","1869","BUY"
 "79","call for","1084","CALL"
-"80","cane","",""
+"80","cane","146","SUGAR CANE"
 "81","cap, hat","2130","HEADGEAR"
 "82","carry","465","CARRY ON BACK"
 "83","cat","1208","CAT"
@@ -91,14 +91,14 @@
 "90","child","1801","CHILD (DESCENDANT)"
 "91","chili","919","CHILI PEPPER"
 "92","chin","1510","CHIN"
-"93","civet or spotted wild cat","",""
-"94","civet, palm","",""
+"93","civet or spotted wild cat","3157","CIVET"
+"94","civet, palm","3157","CIVET"
 "95","clean","704","CLEAN"
 "96","","",""
 "97","cliff, ravine","1930","RAVINE"
-"98","clitoris","","*CLITORIS"
+"98","clitoris","3257","CLITORIS"
 "99","clothing","1895","CLOTHES"
-"100","cloud, mist, fog","","*CLOUD OR FOG"
+"100","cloud, mist, fog","3275","CLOUD OR FOG"
 "101","cockroach","1575","COCKROACH"
 "102","cold","1287","COLD"
 "103","cold (vi)","",""
@@ -117,15 +117,15 @@
 "116","crow","913","CROW"
 "117","cry","1839","CRY"
 "118","cucumber","496","CUCUMBER"
-"119","curcuma sp.","",""
+"119","curcuma sp.","2842","TURMERIC"
 "120","cure (vi)","",""
 "121","cut","2156","CUT (WITH KNIFE)"
 "122","dance","1879","DANCE"
 "123","daughter","1357","DAUGHTER"
 "124","daughter-in-law","1057","DAUGHTER-IN-LAW"
 "125","day after tomorrow","1179","DAY AFTER TOMORROW"
-"126","day after two days","","*DAY AFTER TWO DAYS"
-"127","day before two days","","*DAY BEFORE TWO DAYS"
+"126","day after two days","2332","THREE DAYS FROM NOW"
+"127","day before two days","2333","THREE DAYS BEFORE NOW"
 "128","day before yesterday","1180","DAY BEFORE YESTERDAY"
 "129","deaf","996","DEAF"
 "130","deep","1593","DEEP"
@@ -144,13 +144,13 @@
 "143","door","1567","DOOR"
 "144","down","1326","DOWN"
 "145","down (visible)","",""
-"146","dragon, thunder, lightning","","*LIGHTNING OR THUNDER"
+"146","dragon, thunder, lightning","",""
 "147","dream (n)","2374","DREAM"
 "148","drink","1401","DRINK"
 "149","dry (adj.)","1398","DRY"
 "150","dry, dry up (v.i.)","1786","DRY UP"
 "151","dual","",""
-"152","eagle, buzzard","","*BUZZARD OR EAGLE"
+"152","eagle, buzzard","2683","EAGLE OR HAWK"
 "153","ear","1247","EAR"
 "154","earthworm","2350","EARTHWORM"
 "155","eat","1336","EAT"
@@ -165,7 +165,7 @@
 "164","exit","1107","GO OUT"
 "165","eye","1248","EYE"
 "166","face","1560","FACE"
-"167","falcon","","*FALCON"
+"167","falcon","3258","FALCON"
 "168","fall","1280","FALL"
 "169","far","1406","FAR"
 "170","fast","1631","FAST"
@@ -211,7 +211,7 @@
 "210","goitre","1957","GOITER"
 "211","gold","1369","GOLD"
 "212","good","1035","GOOD"
-"213","goral","",""
+"213","goral","3259","GORAL"
 "214","gourd","411","GOURD"
 "215","grandfather","1383","GRANDFATHER"
 "216","grandmother","1496","GRANDMOTHER"
@@ -234,10 +234,10 @@
 "233","hold","1448","HOLD"
 "234","honey","942","HONEY"
 "235","horn","1393","HORN (ANATOMY)"
-"236","hornbill","",""
-"237","hornet","","*HORNET"
+"236","hornbill","3260","HORNBILL"
+"237","hornet","3261","HORNET"
 "238","horse","615","HORSE"
-"239","horsefly","",""
+"239","horsefly","3262","HORSEFLY"
 "240","house","1252","HOUSE"
 "241","how many","822","HOW MANY"
 "242","human being","683","PERSON"
@@ -253,7 +253,7 @@
 "252","intestines","1991","INTESTINES"
 "253","iron","621","IRON"
 "254","itch","148","ITCH"
-"255","jackal","","*JACKAL"
+"255","jackal","2461","WOLF-LIKE ANIMAL"
 "256","Jerigaon people","",""
 "257","jump","1829","JUMP"
 "258","keep, remain","987","REMAIN"
@@ -266,7 +266,7 @@
 "265","ladder","1464","LADDER"
 "266","language","1307","LANGUAGE"
 "267","langur","",""
-"268","lap","","*LAP"
+"268","lap","3263","LAP"
 "269","late (vi)","425","BE LATE"
 "270","laugh","1355","LAUGH"
 "271","leaf","628","LEAF"
@@ -307,9 +307,9 @@
 "306","middle / centre","1093","MIDDLE"
 "307","Miji people","",""
 "308","millet, broomcorn","931","MILLET"
-"309","millet, finger","",""
-"310","millet, foxtail","","*FOXTAIL MILLET"
-"311","mithun","",""
+"309","millet, finger","3265","FINGER MILLET"
+"310","millet, foxtail","3266","FOXTAIL MILLET"
+"311","mithun","","GAYAL"
 "312","Monpa","",""
 "313","moon, month","2463","MOON OR MONTH"
 "314","morning","1339","MORNING"
@@ -372,14 +372,14 @@
 "371","present","2982","GIFT"
 "372","prohibitive prefix","",""
 "373","pull","1455","PULL"
-"374","pulse","",""
+"374","pulse","3267","PULSE"
 "375","pumpkin","864","PUMPKIN"
 "376","Puroik","",""
 "377","pus","1808","PUS"
 "378","push","1452","PUSH"
 "379","put","998","PUT"
 "380","quarrel (v)","1848","QUARREL"
-"381","question","","*QUESTION"
+"381","question","3268","QUESTION"
 "382","quiver","52","SHIVER"
 "383","radish","2365","RADISH"
 "384","Rahung, people of","",""
@@ -414,7 +414,7 @@
 "413","search","1468","LOOK FOR"
 "414","see","1409","SEE"
 "415","seed","714","SEED"
-"416","serow","",""
+"416","serow","3270","SEROW"
 "417","settle","",""
 "418","seven","1704","SEVEN"
 "419","sew","1457","SEW"
@@ -469,7 +469,7 @@
 "468","spittle, spit","1503","SALIVA"
 "469","split","1437","SPLIT"
 "470","squirrel","1628","SQUIRREL"
-"471","squirrel, flying","","*FLYING SQUIRREL"
+"471","squirrel, flying","3271","FLYING SQUIRREL"
 "472","stab","1434","STAB"
 "473","stand (up)","1442","STAND"
 "474","star","1430","STAR"
@@ -489,7 +489,7 @@
 "488","swell","1573","SWELL"
 "489","tail","1220","TAIL"
 "490","take","1749","TAKE"
-"491","takin","",""
+"491","takin","3272","TAKIN"
 "492","taro","351","TARO"
 "493","tasty","1813","TASTY"
 "494","tear (vt)","1735","TEAR (SHRED)"
@@ -514,14 +514,14 @@
 "513","thunder (vi)","2378","THUNDER (VERB)"
 "514","tie (vt)","1917","TIE"
 "515","tiger","846","TIGER"
-"516","till (hoe)","","*DIG WITH HOE"
+"516","till (hoe)","3273","TILL"
 "517","tired (vi)","1757","TIRED"
 "518","today","1283","TODAY"
 "519","together with","2482","TOGETHER"
 "520","tomorrow","1329","TOMORROW"
 "521","tongue","1205","TONGUE"
 "522","tooth","1380","TOOTH"
-"523","trivet","",""
+"523","trivet","3264","TRIVET"
 "524","trunk (tree)","344","TREE TRUNK"
 "525","tuber","670","ROOT"
 "526","tusk","2495","ELEPHANT TUSK"
@@ -535,7 +535,7 @@
 "534","urine","1142","URINE"
 "535","vagina","1836","VAGINA"
 "536","vegetable, leafy","924","VEGETABLES"
-"537","veranda","",""
+"537","veranda","3269","PORCH"
 "538","village","930","VILLAGE"
 "539","vomit","1278","VOMIT"
 "540","waist","1681","WAIST"
@@ -576,7 +576,7 @@
 "575","yesterday","1174","YESTERDAY"
 "576","arrive","1387","ARRIVE"
 "577","dragon","2038","DRAGON"
-"578","surround, confine",,
+"578","surround, confine",3274,"ENCIRCLE"
 "579","sulphur",,
 "580","amnion",,
 "581","apply (ointment)",,
@@ -585,7 +585,7 @@
 "584","be overfull",,
 "585","be paired",,
 "586","big boil",,
-"587","blink",,,
+"587","blink",1655,"BLINK",
 "588","boil",792,"BOIL (OF LIQUID)"
 "589","bottom item",,
 "590","cane carry strap",,
@@ -601,10 +601,10 @@
 "600","feel nauseous",,
 "601","feel uneasy because of smoke",,
 "602","fern (not edible)",,
-"603","filter (v)",,
+"603","filter (v)",940,STRAIN
 "604","flatten (dough)",,
 "605","fold (e.g. clothes)",1470,FOLD
-"606","ford",,
+"606","ford",2818,"FORD (CROSSING)"
 "607","gather, collect1",7,GATHER
 "608","gather, collect2",7,GATHER
 "609","gift",2982,GIFT
@@ -626,8 +626,8 @@
 "625","overcook, drench, rot",,
 "626","pack load",,
 "627","parch",,
-"628","perforate",,
-"629","phlegm",,
+"628","perforate",1501,"BORE"
+"629","phlegm",3061,PHLEGM
 "630","plough beam",,
 "631","pound lightly",,
 "632","pound with force",354,POUND
@@ -638,7 +638,7 @@
 "637","quarrel",1848,"QUARREL"
 "638","reciprocal suff.",,
 "639","ripen (fruits)",179,RIPEN
-"640","scatter",,
+"640","scatter",2064,"SCATTER (SEEDS)"
 "641","scold",299,SCOLD
 "642","shell (maize)",598,"SHELL"
 "643","slip",1324,SLIP

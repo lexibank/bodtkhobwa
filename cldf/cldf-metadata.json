@@ -5,7 +5,7 @@
     "dc:identifier": "",
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "dc:source": "sources.bib",
-    "dc:title": "castrosui",
+    "dc:title": "bodtkhobwa",
     "dcat:accessURL": "https://github.com/lexibank/bodtkhobwa",
     "rdf:ID": "bodtkhobwa",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
@@ -16,8 +16,8 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v3.3.2",
-                "concepticon_version": "pyconcepticon-1.4.0-59-gee7867b"
+                "glottolog_version": "pyglottolog-1.2.1-135-gce9d923",
+                "concepticon_version": "pyconcepticon-1.4.0-77-g9525d3d"
             }
         }
     ],
