@@ -124,15 +124,16 @@ class Dataset(NonSplittingDataset):
                 "format": "([\\S]+)( [\\S]+)*"
             })
             for idx in tqdm(data, desc='cldf the data'):
-                segments = ' '.join([mapper.get(x, x) for x in data[idx, 'tokens']])
-                morphemes = segments.split(' + ')
+                segments = [mapper.get(x, x) for x in data[idx, 'tokens']]
+                morphemes = ' '.join(segments).split(' + ')
+
                 concept = concepts.get(data[idx, 'concept'], '')
                 for lex in ds.add_lexemes(
                     Language_ID=data[idx, 'doculect'].lower(),
                     Parameter_ID=concept,
                     Form=data[idx, 'form'],
                     Value=data[idx, 'value'],
-                    Segments=morphemes,
+                    Segments=segments,
                     Source=['Bodt2019'],
                     #PhoneticValue=vals['phonetic']
                 ):
