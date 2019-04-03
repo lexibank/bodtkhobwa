@@ -25,7 +25,8 @@ class Dataset(NonSplittingDataset):
     def cmd_install(self, **kw):
 
         data = Wordlist(self.dir.joinpath('raw',
-            'bodt-khobwa-cleaned.tsv').as_posix())
+            'bodt-khobwa-cleaned.tsv').as_posix(),
+            conf=self.raw.posix('wordlist.rc'))
         langs = {} # need for checking later
         concepts = {}
 
@@ -134,7 +135,6 @@ class Dataset(NonSplittingDataset):
                     Value=data[idx, 'value'],
                     Segments=morphemes,
                     Source=['Bodt2019'],
-                    #PhoneticValue=vals['phonetic']
                 ):
                     for morpheme_index, cogid in enumerate(data[idx, 'crossids']):
                         alignment = data[idx, 'alignment'].split(' + ')[morpheme_index].split()
