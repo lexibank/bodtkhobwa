@@ -6,6 +6,12 @@ Cite the source dataset as
 
 This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
 
+## Notes
+
+This dataset was prepared from a collection of original field work data by TTimotheus A. Bodt, during an intensive week of collaboration with Johann-Matttis List and the [CALC](http://calc.digling.org) project in July 2018. The data comprises 8 varieties of Kho-Bwa in phonetic transcription and with explicit segmentation of morphemes.
+
+
+
 ## Statistics
 
 
@@ -20,7 +26,8 @@ This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/
 - **Concepts:** 652
 - **Lexemes:** 3,958
 - **Synonymy:** 1.02
-- **Cognacy:** 6,261 cognates in 1,187 cognate sets
+- **Cognacy:** 6,261 cognates in 1,187 cognate sets (271 singletons)
+- **Cognate Diversity:** 0.16
 - **Invalid lexemes:** 0
 - **Tokens:** 14,052
 - **Segments:** 231 (0 BIPA errors, 0 CTLS sound class errors, 231 CLTS modified)
