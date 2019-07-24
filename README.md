@@ -1,4 +1,4 @@
-# bodtkhobwa
+# Lexical Cognates in Western Kho-Bwa
 
 Cite the source dataset as
 
@@ -11,14 +11,14 @@ Conceptlists in Concepticon:
 
 ## Notes
 
-This dataset was prepared from a collection of original field work data by TTimotheus A. Bodt, during an intensive week of collaboration with Johann-Matttis List and the [CALC](http://calc.digling.org) project in July 2018. The data comprises 8 varieties of Kho-Bwa in phonetic transcription and with explicit segmentation of morphemes.
+This dataset was prepared from a collection of original field work data by Timotheus A. Bodt, during an intensive week of collaboration with Johann-Matttis List and the [CALC](http://calc.digling.org) project in July 2018. The data comprises 8 varieties of Kho-Bwa in phonetic transcription and with explicit segmentation of morphemes.
 
 
 
 ## Statistics
 
 
-
+[![Build Status](https://travis-ci.org/None.svg?branch=master)](https://travis-ci.org/None)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 89%](https://img.shields.io/badge/Concepticon-89%25-yellowgreen.svg "Concepticon: 89%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
