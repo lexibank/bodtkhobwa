@@ -31,14 +31,14 @@ class Dataset(NonSplittingDataset):
         concepts = {}
 
         with self.cldf as ds:
-            for concept in self.concepts:
+            for concept in self.conceptlist.concepts.values():
                 ds.add_concept(
-                        ID=concept['NUMBER'],
-                        Name=concept['ENGLISH'],
-                        Concepticon_ID=concept['CONCEPTICON_ID'],
-                        Concepticon_Gloss=concept['CONCEPTICON_GLOSS']
+                        ID=concept.number,
+                        Name=concept.english,
+                        Concepticon_ID=concept.concepticon_id,
+                        Concepticon_Gloss=concept.concepticon_gloss
                         )
-                concepts[concept['ENGLISH']] = concept['NUMBER']
+                concepts[concept.english] = concept.number
 
             for language in self.languages:
                 ds.add_language(

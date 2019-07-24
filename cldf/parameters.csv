@@ -8,7 +8,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 7,"above, top",2379,UP OR ABOVE
 8,"achieve, obtain",694,GET
 9,aconite,,
-10,after,1685,AFTERWARDS
+10,after,1685,AFTER
 11,afternoon,1807,AFTERNOON
 12,agent,,
 13,"alive, healthy",1422,BE ALIVE
@@ -307,7 +307,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 308,"millet, broomcorn",931,MILLET
 309,"millet, finger",3265,FINGER MILLET
 310,"millet, foxtail",3266,FOXTAIL MILLET
-311,mithun,,GAYAL
+311,mithun,,
 312,Monpa,,
 313,"moon, month",2463,MOON OR MONTH
 314,morning,1339,MORNING
@@ -345,7 +345,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 346,other,197,OTHER
 347,otter,15,OTTER
 348,outside,762,OUTSIDE
-349,"palm, sole",1181,PALM
+349,"palm, sole",1183,PALM OF HAND
 350,pangolin,2508,PANGOLIN
 351,partridge,,
 352,"path, road",2457,PATH OR ROAD
@@ -442,7 +442,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 443,slowly,2165,SLOWLY
 444,small,1246,SMALL
 445,smell (n),2938,FLAVOR
-446,smell (vi),2124,SMELL (STINK)
+446,smell (vi),1587,SMELL (STINK)
 447,smoke,778,SMOKE (EXHAUST)
 448,snake,730,SNAKE
 449,snatch away,,
