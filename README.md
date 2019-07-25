@@ -1,10 +1,13 @@
-# bodtkhobwa
+# Lexical Cognates in Western Kho-Bwa
 
 Cite the source dataset as
 
-> Bodth, Timothaeus Adrianus and List, Johann-Mattis (2019): Testing the predictive strength of the comparative method: An ongoing experiment on unattested words in Western Kho-Bwa languages. Jena: MPI-SHH.
+> Bodt, T. and J.-M. List (2019): Testing the predictive strength of the comparative method: An ongoing experiment on unattested words in Western Kho-Bwa langauges. Papers in Historical Phonology 4.1. 22-44.
 
 This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
+
+Conceptlists in Concepticon:
+- [Bodt-2019-664](http://concepticon.clld.org/contributions/Bodt-2019-664)
 
 ## Notes
 
