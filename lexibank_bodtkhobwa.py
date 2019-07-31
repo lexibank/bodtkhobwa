@@ -3,7 +3,7 @@ from __future__ import unicode_literals, print_function
 import attr
 from clldutils.path import Path
 from csvw import Datatype
-from pylexibank.dataset import NonSplittingDataset, Cognate
+from pylexibank.dataset import NonSplittingDataset, Cognate, Language
 
 from lingpy import *
 from tqdm import tqdm
@@ -13,11 +13,19 @@ from tqdm import tqdm
 class KhobwaCognate(Cognate):
     Segment_Slice = attr.ib(default=None)
 
+@attr.s
+class HLanguage(Language):
+    Latitude = attr.ib(default=None)
+    Longitude = attr.ib(default=None)
+    ChineseName = attr.ib(default=None)
+    SubGroup = attr.ib(default=None)
+    Family = attr.ib(default=None)
 
 class Dataset(NonSplittingDataset):
     id = 'bodtkhobwa'
     dir = Path(__file__).parent
     cognate_class = KhobwaCognate
+    language_class = HLanguage
 
     def cmd_download(self, **kw):
         pass
@@ -43,8 +51,12 @@ class Dataset(NonSplittingDataset):
             for language in self.languages:
                 ds.add_language(
                         ID=language['ID'],
-                        Glottocode=language['Glottolog'],
+                        Glottocode=language['Glottocode'],
                         Name=language['Name'],
+                        Latitude=language['Latitude'],
+                        Longitude=language['Longitude'],
+                        Family='Sino-Tibetan',
+                        SubGroup=language['SubGroup']
                         )
                 langs[language['ID']] = language
 
@@ -129,7 +141,7 @@ class Dataset(NonSplittingDataset):
                 morphemes = segments.split(' + ')
                 concept = concepts.get(data[idx, 'concept'], '')
                 for lex in ds.add_lexemes(
-                    Language_ID=data[idx, 'doculect'].lower(),
+                    Language_ID=data[idx, 'doculect'],
                     Parameter_ID=concept,
                     Form=data[idx, 'form'],
                     Value=data[idx, 'value'],
