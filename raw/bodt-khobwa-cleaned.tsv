@@ -2732,8 +2732,8 @@ ID	ALIGNMENT	COGIDS	CONCEPT	CONCEPT_IN_SOURCE	CROSSIDS	DOCULECT	FORM	MORPHEMES	N
 2334	a + tɕʰ ĩː -	641 640	liver	liver	10 640	Rahung	a+ʨʰĩː	_a-prf4 LIVER			10 640	n + i n	a + tɕʰ ĩː	a-ʨʰĩː
 2335	a + tsʰ ɛ̃ː~ĩː/ɛ̃ː -	641 640	liver	liver	10 640	Rupa	a+ʦʰɛ̃ː	_a-prf4 LIVER			10 640	n + i n	a + tsʰ ɛ̃ː~ĩː/ɛ̃ː	a-ʦʰɛ̃ː ~ a-ʨʰĩː
 2336	a + tsʰ ɛ̃ː -	641 640	liver	liver	10 640	Shergaon	a+ʦʰɛ̃ː	_a-prf4 LIVER			10 640	n + i n	a + tsʰ ɛ̃ː	a-ʦʰɛ̃ː
-4928	ɕ a + ['t', 'a', 'ŋ']		liver		10112 10113	Duhumbi	ɕa+taŋku	? ?	!new!			i n + i n c	ɕ a + ['t', 'a', 'ŋ']	
-5309	ɕ a + ['t', 'a', 'ŋ']		liver		10822 10823	Duhumbi	ɕa+taŋku	? ?	!new!			i n + i n c	ɕ a + ['t', 'a', 'ŋ']	
+4928	ɕ a + t a ŋ		liver		10112 10113	Duhumbi	ɕa+taŋku	? ?	!new!			i n + i n c	ɕ a + t a ŋ	
+5309	ɕ a + t a ŋ		liver		10822 10823	Duhumbi	ɕa+taŋku	? ?	!new!			i n + i n c	ɕ a + t a ŋ	
 #
 2337	j ɔ ŋ	644	load (n)	load (n)	644	Khispi	jɔŋ	LOADN			644	i n c	j ɔ ŋ	jɔŋ
 2338	j ɔ ŋ	644	load (n)	load (n)	644	Duhumbi	jɔŋ	LOADN			644	i n c	j ɔ ŋ	jɔŋ
@@ -2788,9 +2788,9 @@ ID	ALIGNMENT	COGIDS	CONCEPT	CONCEPT_IN_SOURCE	CROSSIDS	DOCULECT	FORM	MORPHEMES	N
 2382	s u + s ə + r u k	652 654 653	lungs	lungs	692 132 375	Rahung	su_sə+ruk	MEAT1 _sya-prf9 EMPTY4			678 132 375	i n + i n + i n c	s u + s ə + r u k	su sə-ruk
 2383	s ə + l y ŋ + s ə + r u k	652 235 654 653	lungs	lungs	652 235 132 375	Rupa	sə+lyŋ_sə+ruk	_sya-prf10 STONE2 _sya-prf9 EMPTY4			132 1077 132 375	i n + i n c + i n + i n c	s ə + l y ŋ + s ə + r u k	sə-lyŋ sə-ruk
 2384	s ə + l u ŋ + s ə + r u k	652 235 654 653	lungs	lungs	652 235 132 375	Shergaon	sə+luŋ_sə+ruk	_sya-prf10 STONE2 _sya-prf9 EMPTY4			132 1077 132 375	i n + i n c + i n + i n c	s ə + l u ŋ + s ə + r u k	sə-luŋ sə-ruk
-4934	ɕ a + ['b', 'ɔ', 'ŋ']		lungs		10119 10120	Khispi	ɕa+bɔŋbɔŋ	? ?	!new!			i n + i n c	ɕ a + ['b', 'ɔ', 'ŋ']	
+4934	ɕ a + b ɔ ŋ		lungs		10119 10120	Khispi	ɕa+bɔŋbɔŋ	? ?	!new!			i n + i n c	ɕ a + b ɔ ŋ	
 4935	ɕ a + s ɔ m		lungs		10121 10122	Duhumbi	ɕa+sɔm	? ?	!new!			i n + i n c	ɕ a + s ɔ m	
-5315	ɕ a + ['b', 'ɔ', 'ŋ']		lungs		10829 10830	Khispi	ɕa+bɔŋbɔŋ	? ?	!new!			i n + i n c	ɕ a + ['b', 'ɔ', 'ŋ']	
+5315	ɕ a + b ɔ ŋ		lungs		10829 10830	Khispi	ɕa+bɔŋbɔŋ	? ?	!new!			i n + i n c	ɕ a + b ɔ ŋ	
 5316	ɕ a + s ɔ m		lungs		10831 10832	Duhumbi	ɕa+sɔm	? ?	!new!			i n + i n c	ɕ a + s ɔ m	
 #
 2386	ɕ a + d ɔ ŋ	656 657	macaque	macaque	656 657	Duhumbi	ɕa+dɔŋ	_sya-prf16 MACAQUE			81 657	i n + i n c	ɕ a + d ɔ ŋ	ɕa-dɔŋ
@@ -4776,7 +4776,7 @@ ID	ALIGNMENT	COGIDS	CONCEPT	CONCEPT_IN_SOURCE	CROSSIDS	DOCULECT	FORM	MORPHEMES	N
 5167	n a m + tʰ u ŋ + l i m		thunder		10553 10554 10555	Khispi	nam+tʰuŋ_lim	? ? ?	!new!			i n c + i n c + i n c	n a m + tʰ u ŋ + l i m	
 5168	br u k + d i r		thunder		10556 10557	Duhumbi	bruk_dir	? ?	!new!			i n c + i n c	br u k + d i r	
 5169	n ə + m yː + tɾ ɔ ŋ		thunder		10558 10559 10560	Jerigaon	nə+myː+tɾɔŋ	? ? ?	!new!			i n + i n + i n c	n ə + m yː + tɾ ɔ ŋ	
-5170	n ə + m yː + ['d', 'r', 'a'] + ['d', 'r', 'y'] + r a t		thunder		10561 10562 10563 10564 10565	Rahung	nə+myː_draŋ+dryŋ_rat	? ? ? ? ?	!new!			i n + i n + i n c + i n c + i n c	n ə + m yː + ['d', 'r', 'a'] + ['d', 'r', 'y'] + r a t	
+5170	n ə + m yː + d r a + d r y + r a t		thunder		10561 10562 10563 10564 10565	Rahung	nə+myː_draŋ+dryŋ_rat	? ? ? ? ?	!new!			i n + i n + i n c + i n c + i n c	n ə + m yː + d r a + d r y + r a t	
 5447	n a m + tʰ u ŋ + l i m		thunder		11058 11059 11060	Khispi	nam+tʰuŋ_lim	? ? ?	!new!			i n c + i n c + i n c	n a m + tʰ u ŋ + l i m	
 5448	br u k		thunder		11061	Duhumbi	bruk dir	?	!new!			i n c	br u k	
 5449	n ə + m y + tr ɔ ŋ		thunder		11062 11063 11064	Jerigaon	nə+my_trɔŋ	? ? ?	!new!			i n + i n + i n c	n ə + m y + tr ɔ ŋ	
@@ -4784,7 +4784,7 @@ ID	ALIGNMENT	COGIDS	CONCEPT	CONCEPT_IN_SOURCE	CROSSIDS	DOCULECT	FORM	MORPHEMES	N
 5548	n a m + tʰ u ŋ + l i m		thunder		11263 11264 11265	Khispi	nam+tʰuŋ_lim	? ? ?	!new!			i n c + i n c + i n c	n a m + tʰ u ŋ + l i m	
 5549	br u k + d i r		thunder		11266 11267	Duhumbi	bruk_dir	? ?	!new!			i n c + i n c	br u k + d i r	
 5550	n ə + m yː + tɾ ɔ ŋ		thunder		11268 11269 11270	Jerigaon	nə+myː+tɾɔŋ	? ? ?	!new!			i n + i n + i n c	n ə + m yː + tɾ ɔ ŋ	
-5551	n ə + m yː + ['d', 'r', 'a'] + ['d', 'r', 'y'] + r a t		thunder		11271 11272 11273 11274 11275	Rahung	nə+myː_draŋ+dryŋ_rat	? ? ? ? ?	!new!			i n + i n + i n c + i n c + i n c	n ə + m yː + ['d', 'r', 'a'] + ['d', 'r', 'y'] + r a t	
+5551	n ə + m yː + d r a + d r y + r a t		thunder		11271 11272 11273 11274 11275	Rahung	nə+myː_draŋ+dryŋ_rat	? ? ? ? ?	!new!			i n + i n + i n c + i n c + i n c	n ə + m yː + d r a + d r y + r a t	
 #
 4261	n ə + m yː + h y k	1156 1157 1155	thunder (vi)	thunder (vi)	872 720 1155	Khoitam	nəmyː_hyk	_nam-prf13 SKY3 THUNDER			64 731 1155	i n + i n + i n c	n ə + m yː + h y k	nəmyː hyk
 4263	n ə + m yː + h y k~p/k	1156 1157 1155	thunder (vi)	thunder (vi)	872 720 1155	Rupa	nə+myː_hyp	_nam-prf13 SKY3 THUNDER			64 731 1155	i n + i n + i n c	n ə + m yː + h y k~p/k	nə-myː hyp ~ nə-myː hyk (C.)
