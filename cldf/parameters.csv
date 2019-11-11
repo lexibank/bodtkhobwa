@@ -128,9 +128,9 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 128_daybeforeyesterday,day before yesterday,1180,DAY BEFORE YESTERDAY
 129_deaf,deaf,996,DEAF
 130_deep,deep,1593,DEEP
-131_deerbarking,"deer, barking",1936,DEER
+131_deerbarking,"deer, barking",3152,MUNTJACS
 132_deersambar,"deer, sambar",,
-133_defeatvi,defeat (vi),782,DEFEAT
+133_defeatvi,defeat (vi),866,WIN
 134_deityghost,"deity, ghost",1944,GOD
 135_descend,descend,2014,GO DOWN (DESCEND)
 136_die,die,1494,DIE
@@ -173,7 +173,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 174_female,female,1551,FEMALE
 175_fence,fence,1690,FENCE
 176_fernfiddlehead,"fern, fiddlehead",,
-177_fetch,fetch,,
+177_fetch,fetch,3551,FETCH
 178_fewlittle,"few, little",1242,FEW
 179_field,field,212,FIELD
 180_finger,finger,1303,FINGER
@@ -383,7 +383,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 384_rahungpeopleof,"Rahung, people of",,
 385_rainn,rain (n),658,RAIN (PRECIPITATION)
 386_rainbow,rainbow,1733,RAINBOW
-387_reap,reap,1827,HARVEST CROPS
+387_reap,reap,190,MOW
 388_recognise,recognise,2248,KNOW (SOMEBODY)
 389_red,red,156,RED
 390_reflexivemarker,reflexive marker,,

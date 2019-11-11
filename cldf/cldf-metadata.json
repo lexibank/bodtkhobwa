@@ -11,37 +11,37 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "Lexical Cognates in Western Kho-Bwa",
-    "dcat:accessURL": "https://github.com/lingpy/bodtkhobwa/",
+    "dcat:accessURL": "https://github.com/lexibank/bodtkhobwa",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
-            "rdf:about": "https://github.com/lingpy/bodtkhobwa/",
-            "dc:created": "v1.1-11-ge8b1906"
+            "rdf:about": "https://github.com/lexibank/bodtkhobwa",
+            "dc:created": "v1.1-13-g288d281"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
-            "rdf:about": "https://github.com/lingulist/glottolog-data",
+            "rdf:about": "https://github.com/glottolog/glottolog",
             "dc:created": "v4.0"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
-            "rdf:about": "https://github.com/LinguList/concepticon-data",
-            "dc:created": "v2.1.0-86-g556e0e1"
+            "rdf:about": "https://github.com/concepticon/concepticon-data",
+            "dc:created": "v2.2.0"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "CLTS",
-            "rdf:about": "https://github.com/cldf-clts/clts/",
+            "rdf:about": "https://github.com/cldf-clts/clts",
             "dc:created": "v1.4"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.5.2"
+            "dc:description": "3.7.3"
         },
         {
             "dc:title": "python-packages",
