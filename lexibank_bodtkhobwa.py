@@ -20,7 +20,6 @@ class CustomCognate(Cognate):
 class CustomLanguage(Language):
     Latitude = attr.ib(default=None)
     Longitude = attr.ib(default=None)
-    ChineseName = attr.ib(default=None)
     SubGroup = attr.ib(default=None)
     Family = attr.ib(default=None)
 

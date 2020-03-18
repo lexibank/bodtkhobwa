@@ -17,7 +17,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/bodtkhobwa",
-            "dc:created": "v2.0"
+            "dc:created": "v2.0-1-gba8ef38"
         },
         {
             "rdf:type": "prov:Entity",
@@ -210,10 +210,6 @@
                     {
                         "datatype": "string",
                         "name": "Family"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "ChineseName"
                     },
                     {
                         "datatype": "string",
