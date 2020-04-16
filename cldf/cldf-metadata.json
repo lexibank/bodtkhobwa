@@ -17,7 +17,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lingpy/bodtkhobwa/",
-            "dc:created": "v1.1-13-g288d281"
+            "dc:created": "v1.1-14-g130171e"
         },
         {
             "rdf:type": "prov:Entity",
@@ -218,10 +218,6 @@
                     {
                         "datatype": "string",
                         "name": "Family"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "ChineseName"
                     },
                     {
                         "datatype": "string",
