@@ -38,7 +38,7 @@ class Dataset(BaseDataset):
         args.writer.add_sources()
         
         concept_lookup = {}
-        for concept in self.conceptlist.concepts.values():
+        for concept in self.conceptlists[0].concepts.values():
             idx = concept.id.split('-')[-1]+'_'+slug(concept.english)
             args.writer.add_concept(
                     ID=idx,

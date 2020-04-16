@@ -25,7 +25,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 24_attic,attic,,
 25_axe,axe,677,AXE
 26_backn,back (n),1291,BACK
-27_backwards,back (wards),2910,BACK (DIRECTION)
+27_backwards,back (wards),2911,BACKWARD
 28_bad,bad,1292,BAD
 29_bamboo,bamboo,1927,BAMBOO
 30_banana,banana,868,BANANA
@@ -128,9 +128,9 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 128_daybeforeyesterday,day before yesterday,1180,DAY BEFORE YESTERDAY
 129_deaf,deaf,996,DEAF
 130_deep,deep,1593,DEEP
-131_deerbarking,"deer, barking",1936,DEER
+131_deerbarking,"deer, barking",3152,MUNTJACS
 132_deersambar,"deer, sambar",,
-133_defeatvi,defeat (vi),782,DEFEAT
+133_defeatvi,defeat (vi),866,WIN
 134_deityghost,"deity, ghost",1944,GOD
 135_descend,descend,2014,GO DOWN (DESCEND)
 136_die,die,1494,DIE
@@ -173,7 +173,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 174_female,female,1551,FEMALE
 175_fence,fence,1690,FENCE
 176_fernfiddlehead,"fern, fiddlehead",,
-177_fetch,fetch,,
+177_fetch,fetch,3551,FETCH
 178_fewlittle,"few, little",1242,FEW
 179_field,field,212,FIELD
 180_finger,finger,1303,FINGER
@@ -274,7 +274,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 275_leftside,left (side),244,LEFT
 276_leg,leg,1297,LEG
 277_lick,lick,319,LICK
-278_lien,lie (n),475,UNTRUTH
+278_lien,lie (n),2826,LIE (FALSEHOOD)
 279_liftcompletelycarry,"lift completely, carry",501,LIFT
 280_light,light,1052,LIGHT (WEIGHT)
 281_lightning,lightning,1654,LIGHTNING
@@ -297,7 +297,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 298_man,man,1554,MAN
 299_manure,manure,2057,DUNG (ANIMAL FAECES)
 300_marrow,marrow,1835,MARROW
-301_marten,marten,,
+301_marten,marten,3739,MARTEN
 302_meatanimal,"meat, animal",2096,ANIMAL OR MEAT
 303_medicine,medicine,1372,MEDICINE
 304_meet,meet,1831,MEET
@@ -311,7 +311,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 312_monpa,Monpa,,
 313_moonmonth,"moon, month",2463,MOON OR MONTH
 314_morning,morning,1339,MORNING
-315_mortarwood,mortar (wood),224,MORTAR CRUSHER
+315_mortarwood,mortar (wood),224,MORTAR
 316_mother,mother,1216,MOTHER
 317_mountain,mountain,639,MOUNTAIN
 318_mountainpeak,mountain peak,1614,SUMMIT
@@ -347,7 +347,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 348_outside,outside,762,OUTSIDE
 349_palmsole,"palm, sole",1183,PALM OF HAND
 350_pangolin,pangolin,2508,PANGOLIN
-351_partridge,partridge,,
+351_partridge,partridge,3681,PARTRIDGE
 352_pathroad,"path, road",2457,PATH OR ROAD
 353_patientmarker,patient marker,,
 354_peas,peas,2025,PEA
@@ -383,7 +383,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 384_rahungpeopleof,"Rahung, people of",,
 385_rainn,rain (n),658,RAIN (PRECIPITATION)
 386_rainbow,rainbow,1733,RAINBOW
-387_reap,reap,1827,HARVEST CROPS
+387_reap,reap,190,MOW
 388_recognise,recognise,2248,KNOW (SOMEBODY)
 389_red,red,156,RED
 390_reflexivemarker,reflexive marker,,
@@ -577,7 +577,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 578_surroundconfine,"surround, confine",3274,ENCIRCLE
 579_sulphur,sulphur,,
 580_amnion,amnion,,
-581_applyointment,apply (ointment),,
+581_applyointment,apply (ointment),3650,APPLY (OINTMENT)
 582_bamboostick,bamboo stick,,
 583_benumb,be numb,,
 584_beoverfull,be overfull,,
@@ -611,8 +611,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 612_hangaroundneck,hang around neck,,
 613_hate,hate,1607,HATE
 614_heedagree,"heed, agree",,
-615_huskschaff,"husks, chaff",,
-616_landvi,land (vi),,
+615_huskschaff,"husks, chaff",2363,CHAFF (HUSK)
+616_landvi,land (vi),1922,LAND (DESCEND)
 617_leak,leak,,
 618_leatherstrap,leather strap,,
 619_makefence,make fence,,

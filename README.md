@@ -1,8 +1,8 @@
-# Lexical Cognates in Western Kho-Bwa
+# CLDF dataset derived from Bodt's "Lexical Cognates in Western Kho-Bwa" from 2019
 
 Cite the source dataset as
 
-> Bodth, Timothaeus Adrianus and List, Johann-Mattis (2019): Testing the predictive strength of the comparative method: An ongoing experiment on unattested words in Western Kho-Bwa languages. Papers in Historical Phonology 4.1: 22-44.
+> Bodt, Timothaeus Adrianus and List, Johann-Mattis (2019): Testing the predictive strength of the comparative method: An ongoing experiment on unattested words in Western Kho-Bwa languages. Papers in Historical Phonology 4.1: 22-44.
 
 This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
 
@@ -20,7 +20,7 @@ This dataset was prepared from a collection of original field work data by Timot
 
 [![Build Status](https://travis-ci.org/lingpy/bodtkhobwa/.svg?branch=master)](https://travis-ci.org/lingpy/bodtkhobwa/)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 90%](https://img.shields.io/badge/Concepticon-90%25-yellowgreen.svg "Concepticon: 90%")
+![Concepticon: 91%](https://img.shields.io/badge/Concepticon-91%25-green.svg "Concepticon: 91%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
@@ -36,3 +36,13 @@ This dataset was prepared from a collection of original field work data by Timot
 - **Tokens:** 17,446
 - **Segments:** 233 (0 BIPA errors, 0 CTLS sound class errors, 233 CLTS modified)
 - **Inventory size (avg):** 86.00
+
+# Contributors
+
+Name               | GitHub user | | Description |Role
+---                | ---         | --- | ---
+Timotheus A. Bodth |             | maintainer | Author, RightsHolder,DataCurator
+Johann-Mattis List | @LinguList  | maintainer | Author
+
+
+

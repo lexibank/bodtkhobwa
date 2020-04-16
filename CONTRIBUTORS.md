@@ -1,6 +1,7 @@
 # Contributors
 
-Name               | GitHub user | Role
----                | ---         | ---
-Johann-Mattis List | @LinguList  | maintainer
-Timotheus A. Bodth |             | maintainer
+Name               | GitHub user | | Description |Role
+---                | ---         | --- | ---
+Timotheus A. Bodth |             | maintainer | Author, RightsHolder,DataCurator
+Johann-Mattis List | @LinguList  | maintainer | Author
+
