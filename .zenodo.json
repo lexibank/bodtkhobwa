@@ -5,9 +5,28 @@
         "cldf:Wordlist",
         "linguistics"
     ],
-    "creators": [],
-    "contributors": [],
+    "creators": [
+        {
+            "name": "Timotheus A. Bodth"
+        },
+        {
+            "name": "Johann-Mattis List"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Timotheus A. Bodth",
+            "type": "RightsHolder"
+        },
+        {
+            "name": "Timotheus A. Bodth",
+            "type": "DataCurator"
+        }
+    ],
     "communities": [
+        {
+            "identifier": "lexibank"
+        },
         {
             "identifier": "lexibank"
         }
