@@ -17,7 +17,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lingpy/bodtkhobwa/",
-            "dc:created": "v1.1-14-g130171e"
+            "dc:created": "v2.0-4-gbac9ba8"
         },
         {
             "rdf:type": "prov:Entity",
@@ -29,7 +29,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.3.0-53-g324a045"
+            "dc:created": "v2.3.0-59-gc9d83e8"
         },
         {
             "rdf:type": "prov:Entity",
