@@ -39,7 +39,7 @@ This dataset was prepared from a collection of original field work data by Timot
 
 # Contributors
 
-Name               | GitHub user | | Description |Role
+Name               | GitHub user | Description |Role
 ---                | ---         | --- | ---
 Timotheus A. Bodth |             | maintainer | Author, RightsHolder,DataCurator
 Johann-Mattis List | @LinguList  | maintainer | Author
