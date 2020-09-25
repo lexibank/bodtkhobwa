@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.23,
+          27.42
+        ]
+      },
+      "properties": {
+        "Name": "Duhumbi",
+        "Glottocode": "chug1252",
+        "SubGroup": "Western Kho-Bwa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.486595,
+          27.340629
+        ]
+      },
+      "properties": {
+        "Name": "Jerigaon",
+        "Glottocode": "jeri1243",
+        "SubGroup": "Western Kho-Bwa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.23,
+          27.37
+        ]
+      },
+      "properties": {
+        "Name": "Khispi",
+        "Glottocode": "lish1235",
+        "SubGroup": "Western Kho-Bwa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.52994,
+          27.334981
+        ]
+      },
+      "properties": {
+        "Name": "Khoina",
+        "Glottocode": "khoi1253",
+        "SubGroup": "Western Kho-Bwa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.439455,
+          27.327487
+        ]
+      },
+      "properties": {
+        "Name": "Khoitam",
+        "Glottocode": "khoi1252",
+        "SubGroup": "Western Kho-Bwa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.395028,
+          27.310778
+        ]
+      },
+      "properties": {
+        "Name": "Rahung",
+        "Glottocode": "rahu1234",
+        "SubGroup": "Western Kho-Bwa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.398757,
+          27.203065
+        ]
+      },
+      "properties": {
+        "Name": "Rupa",
+        "Glottocode": "rupa1234",
+        "SubGroup": "Western Kho-Bwa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.272133,
+          27.105018
+        ]
+      },
+      "properties": {
+        "Name": "Shergaon",
+        "Glottocode": "sher1261",
+        "SubGroup": "Western Kho-Bwa"
+      }
+    }
+  ]
+}
