@@ -1,9 +1,9 @@
-ID,Name,Glottocode,Latitude,Longitude,SubGroup
-Duhumbi,Duhumbi,chug1252,27.42,92.23,Western Kho-Bwa
-Jerigaon,Jerigaon,jeri1243,27.340629,92.486595,Western Kho-Bwa
-Khispi,Khispi,lish1235,27.37,92.23,Western Kho-Bwa
-Khoina,Khoina,khoi1253,27.334981,92.52994,Western Kho-Bwa
-Khoitam,Khoitam,khoi1252,27.327487,92.439455,Western Kho-Bwa
-Rahung,Rahung,rahu1234,27.310778,92.395028,Western Kho-Bwa
-Rupa,Rupa,rupa1234,27.203065,92.398757,Western Kho-Bwa
-Shergaon,Shergaon,sher1261,27.105018,92.272133,Western Kho-Bwa
+ID,Name,Glottocode,Latitude,Longitude,SubGroup,Family,Macroarea
+Duhumbi,Duhumbi,chug1252,27.42,92.23,Western Kho-Bwa,Sino-Tibetan,Eurasia
+Jerigaon,Jerigaon,jeri1243,27.340629,92.486595,Western Kho-Bwa,Sino-Tibetan,Eurasia
+Khispi,Khispi,lish1235,27.37,92.23,Western Kho-Bwa,Sino-Tibetan,Eurasia
+Khoina,Khoina,khoi1253,27.334981,92.52994,Western Kho-Bwa,Sino-Tibetan,Eurasia
+Khoitam,Khoitam,khoi1252,27.327487,92.439455,Western Kho-Bwa,Sino-Tibetan,Eurasia
+Rahung,Rahung,rahu1234,27.310778,92.395028,Western Kho-Bwa,Sino-Tibetan,Eurasia
+Rupa,Rupa,rupa1234,27.203065,92.398757,Western Kho-Bwa,Sino-Tibetan,Eurasia
+Shergaon,Shergaon,sher1261,27.105018,92.272133,Western Kho-Bwa,Sino-Tibetan,Eurasia

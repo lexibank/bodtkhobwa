@@ -378,7 +378,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 379_put,put,998,PUT
 380_quarrelv,quarrel (v),1848,QUARREL
 381_question,question,3268,QUESTION
-382_quiver,quiver,52,SHIVER
+382_quiver,quiver,995,QUIVER (FOR ARROWS)
 383_radish,radish,2365,RADISH
 384_rahungpeopleof,"Rahung, people of",,
 385_rainn,rain (n),658,RAIN (PRECIPITATION)
@@ -427,7 +427,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 428_shoot,shoot,1172,SHOOT
 429_short,short,1645,SHORT
 430_shoulder,shoulder,1482,SHOULDER
-431_shyashamedvi,"shy, ashamed (vi)",1894,ASHAMED
+431_shyashamedvi,"shy, ashamed (vi)",3805,SHY OR ASHAMED
 432_sickvi,sick (vi),1847,SICK
 433_silver,silver,759,SILVER
 434_sing,sing,1261,SING
@@ -498,7 +498,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 499_thembangpeople,Thembang people,,
 500_thick,thick,1244,THICK
 501_thief,thief,1160,THIEF
-502_thigh,thigh,800,THIGH
+502_thigh,thigh,471,UPPER LEG (THIGH)
 503_thin,thin,2308,THIN
 504_thing,thing,738,THING
 505_think,think,2271,THINK

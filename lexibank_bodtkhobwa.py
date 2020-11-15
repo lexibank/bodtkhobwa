@@ -60,6 +60,8 @@ class Dataset(BaseDataset):
 
         mapper = {
             "pʰl": "pʰ l",
+            "pɕ": "p ɕ",
+            "pɕ~ɕ/pɕ": "p ɕ",
             "aw": "au",
             "ɛj": "ɛi",
             "ɔw": "ɔu",

@@ -33,9 +33,9 @@ This dataset was prepared from a collection of original field work data by Timot
 - **Cognacy:** 7,681 cognates in 2,607 cognate sets (1,691 singletons)
 - **Cognate Diversity:** 0.48
 - **Invalid lexemes:** 0
-- **Tokens:** 17,446
-- **Segments:** 233 (0 BIPA errors, 0 CTLS sound class errors, 233 CLTS modified)
-- **Inventory size (avg):** 86.00
+- **Tokens:** 17,453
+- **Segments:** 231 (0 BIPA errors, 0 CTLS sound class errors, 231 CLTS modified)
+- **Inventory size (avg):** 85.62
 
 # Contributors
 
