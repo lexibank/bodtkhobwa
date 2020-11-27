@@ -13,7 +13,7 @@ from clldutils.misc import slug
 
 @attr.s
 class CustomCognate(Cognate):
-    Segment_Slice = attr.ib(default=None)
+    Morpheme_Index = attr.ib(default=None)
 
 
 @attr.s
@@ -51,12 +51,6 @@ class Dataset(BaseDataset):
             concept_lookup[concept.english] = idx
 
         args.writer.add_languages(lookup_factory="Name")
-
-        # num = 580
-        # for concept in wl.rows:
-        #    if not concept in concepts:
-        #        print('"{0}","{1}",,,'.format(num, concept))
-        #        num += 1
 
         mapper = {
             "pʰl": "pʰ l",
@@ -124,21 +118,15 @@ class Dataset(BaseDataset):
             "ɔj~uj/uj": "ɔj~uj/ui",
         }
 
-        # add data to cldf
-        args.writer["FormTable", "Segments"].separator = " + "
-        args.writer["FormTable", "Segments"].datatype = Datatype.fromvalue(
-            {"base": "string", "format": "([\\S]+)( [\\S]+)*"}
-        )
         for idx in progressbar(wl, desc="cldfify"):
             segments = " ".join([mapper.get(x, x) for x in wl[idx, "tokens"]])
-            morphemes = segments.split(" + ")
             concept = concept_lookup.get(wl[idx, "concept"], "")
             lex = args.writer.add_form_with_segments(
                 Language_ID=wl[idx, "doculect"],
                 Parameter_ID=concept,
                 Value=wl[idx, "form"],
                 Form=wl[idx, "form"],
-                Segments=morphemes,
+                Segments=segments,
                 Source=["Bodt2019"],
             )
             for morpheme_index, cogid in enumerate(wl[idx, "crossids"]):
@@ -148,6 +136,6 @@ class Dataset(BaseDataset):
                     args.writer.add_cognate(
                         lexeme=lex,
                         Cognateset_ID=cogid,
-                        Segment_Slice=morpheme_index + 1,
+                        Morpheme_Index=morpheme_index + 1,
                         Alignment=alignment,
                     )

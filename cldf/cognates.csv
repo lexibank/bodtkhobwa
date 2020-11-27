@@ -1,4 +1,4 @@
-ID,Form_ID,Form,Cognateset_ID,Doubt,Cognate_Detection_Method,Source,Alignment,Alignment_Method,Alignment_Source,Segment_Slice
+ID,Form_ID,Form,Cognateset_ID,Doubt,Cognate_Detection_Method,Source,Alignment,Alignment_Method,Alignment_Source,Morpheme_Index
 Khispi-1_1sg-1-1,Khispi-1_1sg-1,ga,1,false,expert,,g a,,,1
 Duhumbi-1_1sg-1-1,Duhumbi-1_1sg-1,ga,1,false,expert,,g a,,,1
 Khoina-1_1sg-1-1,Khoina-1_1sg-1,guː,1,false,expert,,g uː,,,1

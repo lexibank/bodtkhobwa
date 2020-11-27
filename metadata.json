@@ -1,7 +1,7 @@
 {
     "title": "CLDF dataset derived from Bodt's \"Lexical Cognates in Western Kho-Bwa\" from 2019",
     "url": "",
-    "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "license": "CC-BY-4.0",
     "citation": "Bodt, Timothaeus Adrianus and List, Johann-Mattis (2019): Testing the predictive strength of the comparative method: An ongoing experiment on unattested words in Western Kho-Bwa languages. Papers in Historical Phonology 4.1: 22-44.",
     "conceptlist": "Bodt-2019-664"
 }

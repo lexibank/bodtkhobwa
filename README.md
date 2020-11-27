@@ -4,7 +4,7 @@ Cite the source dataset as
 
 > Bodt, Timothaeus Adrianus and List, Johann-Mattis (2019): Testing the predictive strength of the comparative method: An ongoing experiment on unattested words in Western Kho-Bwa languages. Papers in Historical Phonology 4.1: 22-44.
 
-This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
+This dataset is licensed under a CC-BY-4.0 license
 
 
 Conceptlists in Concepticon:
@@ -33,9 +33,9 @@ This dataset was prepared from a collection of original field work data by Timot
 - **Cognacy:** 7,681 cognates in 2,607 cognate sets (1,691 singletons)
 - **Cognate Diversity:** 0.48
 - **Invalid lexemes:** 0
-- **Tokens:** 17,453
-- **Segments:** 231 (0 BIPA errors, 0 CTLS sound class errors, 231 CLTS modified)
-- **Inventory size (avg):** 85.62
+- **Tokens:** 20,415
+- **Segments:** 232 (0 BIPA errors, 0 CTLS sound class errors, 232 CLTS modified)
+- **Inventory size (avg):** 86.62
 
 # Contributors
 
