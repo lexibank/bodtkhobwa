@@ -2,7 +2,7 @@
 
 Cite the source dataset as
 
-> Bodt, Timothaeus Adrianus and List, Johann-Mattis (2019): Testing the predictive strength of the comparative method: An ongoing experiment on unattested words in Western Kho-Bwa languages. Papers in Historical Phonology 4.1: 22-44.
+> Bodt, Timotheus Adrianus and List, Johann-Mattis (2019): Testing the predictive strength of the comparative method: An ongoing experiment on unattested words in Western Kho-Bwa languages. Papers in Historical Phonology 4.1: 22-44.
 
 This dataset is licensed under a CC-BY-4.0 license
 
@@ -41,7 +41,7 @@ This dataset was prepared from a collection of original field work data by Timot
 
 Name               | GitHub user | Description |Role
 ---                | ---         | --- | ---
-Timotheus A. Bodth |             | maintainer | Author, RightsHolder,DataCurator
+Timotheus A. Bodt |             | maintainer | Author, RightsHolder,DataCurator
 Johann-Mattis List | @LinguList  | maintainer | Author
 
 

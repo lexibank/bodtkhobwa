@@ -126,7 +126,7 @@ class Dataset(BaseDataset):
                 Parameter_ID=concept,
                 Value=wl[idx, "form"],
                 Form=wl[idx, "form"],
-                Segments=segments,
+                Segments=segments.split(),
                 Source=["Bodt2019"],
             )
             for morpheme_index, cogid in enumerate(wl[idx, "crossids"]):
