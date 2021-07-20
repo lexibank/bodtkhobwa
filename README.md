@@ -1,8 +1,16 @@
 # CLDF dataset derived from Bodt's "Lexical Cognates in Western Kho-Bwa" from 2019
 
-Cite the source dataset as
+[![CLDF validation](https://github.com/lexibank/bodtkhobwa/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/bodtkhobwa/actions?query=workflow%3ACLDF-validation)
 
-> Bodt, Timotheus Adrianus and List, Johann-Mattis (2019): Testing the predictive strength of the comparative method: An ongoing experiment on unattested words in Western Kho-Bwa languages. Papers in Historical Phonology 4.1: 22-44.
+## How to cite
+
+If you use these data please cite
+- the original source
+  > Bodt, Timotheus Adrianus and List, Johann-Mattis (2019): Testing the predictive strength of the comparative method: An ongoing experiment on unattested words in Western Kho-Bwa languages. Papers in Historical Phonology 4.1: 22-44.
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a CC-BY-4.0 license
 
@@ -42,9 +50,9 @@ The collection of the data was funded by:
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/lingpy/bodtkhobwa/.svg?branch=master)](https://travis-ci.org/lingpy/bodtkhobwa/)
+[![CLDF validation](https://github.com/lexibank/bodtkhobwa/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/bodtkhobwa/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 91%](https://img.shields.io/badge/Concepticon-91%25-green.svg "Concepticon: 91%")
+![Concepticon: 90%](https://img.shields.io/badge/Concepticon-90%25-green.svg "Concepticon: 90%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
@@ -65,8 +73,15 @@ The collection of the data was funded by:
 
 Name               | GitHub user | Description |Role
 ---                | ---         | --- | ---
-Timotheus A. Bodt |             | maintainer | Author, RightsHolder,DataCurator
+Timotheus A. Bodt |             | maintainer | Author, RightsHolder, DataCurator
 Johann-Mattis List | @LinguList  | maintainer | Other
 
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)

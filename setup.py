@@ -16,6 +16,6 @@ setup(
     include_package_data=True,
     zip_safe=False,
     entry_points={"lexibank.dataset": ["bodtkhobwa=lexibank_bodtkhobwa:Dataset"]},
-    install_requires=["pylexibank>=3"],
+    install_requires=["pylexibank>=3.0"],
     extras_require={"test": ["pytest-cldf"]},
 )

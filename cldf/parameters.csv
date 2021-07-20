@@ -78,7 +78,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 77_butterfly,butterfly,1791,BUTTERFLY
 78_buy,buy,1869,BUY
 79_callfor,call for,1084,CALL
-80_cane,cane,146,SUGAR CANE
+80_cane,cane,,
 81_caphat,"cap, hat",2130,HEADGEAR
 82_carry,carry,465,CARRY ON BACK
 83_cat,cat,1208,CAT
@@ -376,7 +376,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 377_pus,pus,1808,PUS
 378_push,push,1452,PUSH
 379_put,put,998,PUT
-380_quarrelv,quarrel (v),1848,QUARREL
+380_quarrelv,quarrel (v),3302,QUARREL (VERB)
 381_question,question,3268,QUESTION
 382_quiver,quiver,995,QUIVER (FOR ARROWS)
 383_radish,radish,2365,RADISH
@@ -638,7 +638,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 639_ripenfruits,ripen (fruits),179,RIPEN
 640_scatter,scatter,2064,SCATTER (SEEDS)
 641_scold,scold,299,SCOLD
-642_shellmaize,shell (maize),598,SHELL
+642_shellmaize,shell (maize),3686,CORN HUSK
 643_slip,slip,1324,SLIP
 644_smokeouteghornets,smoke out (e.g. hornets),,
 645_soakinwater,soak in water,,
