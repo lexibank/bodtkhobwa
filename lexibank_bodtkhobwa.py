@@ -1,38 +1,34 @@
-import attr
 from pathlib import Path
-from csvw import Datatype
 
-from pylexibank.dataset import Dataset as BaseDataset
-from pylexibank import Cognate, Language
-
-from pylexibank.util import progressbar
-
-from lingpy import *
+import attr
+import lingpy
+import pylexibank
 from clldutils.misc import slug
 
 
 @attr.s
-class CustomCognate(Cognate):
+class CustomCognate(pylexibank.Cognate):
     Morpheme_Index = attr.ib(default=None)
 
 
 @attr.s
-class CustomLanguage(Language):
+class CustomLanguage(pylexibank.Language):
     Latitude = attr.ib(default=None)
     Longitude = attr.ib(default=None)
     SubGroup = attr.ib(default=None)
     Family = attr.ib(default=None)
 
 
-class Dataset(BaseDataset):
+class Dataset(pylexibank.Dataset):
     id = "bodtkhobwa"
     dir = Path(__file__).parent
     cognate_class = CustomCognate
     language_class = CustomLanguage
+    cross_concept_cognates = True
 
     def cmd_makecldf(self, args):
 
-        wl = Wordlist(
+        wl = lingpy.Wordlist(
             self.raw_dir.joinpath("bodt-khobwa-cleaned.tsv").as_posix(),
             conf=self.raw_dir.joinpath("wordlist.rc").as_posix(),
         )
@@ -40,7 +36,6 @@ class Dataset(BaseDataset):
 
         concept_lookup = {}
         for concept in self.conceptlists[0].concepts.values():
-            idx = concept.id.split('-')[-1]+'_'+slug(concept.english)
             idx = concept.id.split("-")[-1] + "_" + slug(concept.english)
             args.writer.add_concept(
                 ID=idx,
@@ -118,7 +113,7 @@ class Dataset(BaseDataset):
             "ɔj~uj/uj": "ɔj~uj/ui",
         }
 
-        for idx in progressbar(wl, desc="cldfify"):
+        for idx in pylexibank.progressbar(wl, desc="cldfify"):
             segments = " ".join([mapper.get(x, x) for x in wl[idx, "tokens"]])
             concept = concept_lookup.get(wl[idx, "concept"], "")
             lex = args.writer.add_form_with_segments(
