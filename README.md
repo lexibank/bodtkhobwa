@@ -1,6 +1,6 @@
 # CLDF dataset derived from Bodt's "Lexical Cognates in Western Kho-Bwa" from 2019
 
-[![CLDF validation](https://github.com/lexibank/bodtkhobwa/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/bodtkhobwa/actions?query=workflow%3ACLDF-validation)
+[![CLDF validation](https://github.com/lingpy/bodtkhobwa//workflows/CLDF-validation/badge.svg)](https://github.com/lingpy/bodtkhobwa//actions?query=workflow%3ACLDF-validation)
 
 ## How to cite
 
@@ -50,7 +50,7 @@ The collection of the data was funded by:
 ## Statistics
 
 
-[![CLDF validation](https://github.com/lexibank/bodtkhobwa/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/bodtkhobwa/actions?query=workflow%3ACLDF-validation)
+[![CLDF validation](https://github.com/lingpy/bodtkhobwa//workflows/CLDF-validation/badge.svg)](https://github.com/lingpy/bodtkhobwa//actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 90%](https://img.shields.io/badge/Concepticon-90%25-green.svg "Concepticon: 90%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")

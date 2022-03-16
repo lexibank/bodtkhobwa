@@ -11,18 +11,18 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Bodt's \"Lexical Cognates in Western Kho-Bwa\" from 2019",
-    "dcat:accessURL": "https://github.com/lexibank/bodtkhobwa",
+    "dcat:accessURL": "https://github.com/lingpy/bodtkhobwa/",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "https://github.com/lexibank/bodtkhobwa",
+            "rdf:about": "https://github.com/lingpy/bodtkhobwa/",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.0-24-g74c1a87",
+            "dc:created": "v3.0.1",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.4",
+            "dc:created": "v4.5",
             "dc:title": "Glottolog"
         },
         {
@@ -32,9 +32,9 @@
             "dc:title": "Concepticon"
         },
         {
-            "rdf:about": "https://github.com/cldf-clts/clts",
+            "rdf:about": "https://github.com/cldf-clts/clts/",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.1.0",
+            "dc:created": "v2.1.0-26-gb12a7df",
             "dc:title": "CLTS"
         }
     ],
@@ -45,7 +45,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.8.10"
+            "dc:description": "3.9.9"
         },
         {
             "dc:title": "python-packages",
@@ -60,7 +60,6 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
             "dc:extent": 4720,
             "tableSchema": {
                 "columns": [
@@ -130,6 +129,10 @@
                     {
                         "datatype": "string",
                         "name": "Profile"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Partial_Cognacy"
                     }
                 ],
                 "foreignKeys": [

@@ -12,6 +12,11 @@ class CustomCognate(pylexibank.Cognate):
 
 
 @attr.s
+class CustomLexeme(pylexibank.Lexeme):
+    Partial_Cognacy = attr.ib(default=None)
+
+
+@attr.s
 class CustomLanguage(pylexibank.Language):
     Latitude = attr.ib(default=None)
     Longitude = attr.ib(default=None)
@@ -25,6 +30,7 @@ class Dataset(pylexibank.Dataset):
     cognate_class = CustomCognate
     language_class = CustomLanguage
     cross_concept_cognates = True
+    lexeme_class = CustomLexeme
 
     def cmd_makecldf(self, args):
 
@@ -122,6 +128,7 @@ class Dataset(pylexibank.Dataset):
                 Value=wl[idx, "form"],
                 Form=wl[idx, "form"],
                 Segments=segments.split(),
+                Partial_Cognacy=" ".join([str(x) for x in wl[idx, "crossids"]]),
                 Source=["Bodt2019"],
             )
             for morpheme_index, cogid in enumerate(wl[idx, "crossids"]):
