@@ -1,6 +1,6 @@
 # CLDF dataset derived from Bodt's "Lexical Cognates in Western Kho-Bwa" from 2019
 
-[![CLDF validation](https://github.com/lingpy/bodtkhobwa//workflows/CLDF-validation/badge.svg)](https://github.com/lingpy/bodtkhobwa//actions?query=workflow%3ACLDF-validation)
+[![CLDF validation](https://github.com/lexibank/bodtkhobwa/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/bodtkhobwa/actions?query=workflow%3ACLDF-validation)
 
 ## How to cite
 
@@ -50,15 +50,15 @@ The collection of the data was funded by:
 ## Statistics
 
 
-[![CLDF validation](https://github.com/lingpy/bodtkhobwa//workflows/CLDF-validation/badge.svg)](https://github.com/lingpy/bodtkhobwa//actions?query=workflow%3ACLDF-validation)
+[![CLDF validation](https://github.com/lexibank/bodtkhobwa/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/bodtkhobwa/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 90%](https://img.shields.io/badge/Concepticon-90%25-green.svg "Concepticon: 90%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 8
-- **Concepts:** 662
+- **Varieties:** 8 (linked to 8 different Glottocodes)
+- **Concepts:** 662 (linked to 542 different Concepticon concept sets)
 - **Lexemes:** 4,720
 - **Sources:** 1
 - **Synonymy:** 1.14
@@ -66,16 +66,15 @@ The collection of the data was funded by:
 - **Cognate Diversity:** 0.48
 - **Invalid lexemes:** 0
 - **Tokens:** 20,415
-- **Segments:** 232 (0 BIPA errors, 0 CTLS sound class errors, 232 CLTS modified)
+- **Segments:** 232 (0 BIPA errors, 0 CLTS sound class errors, 232 CLTS modified)
 - **Inventory size (avg):** 86.62
 
 # Contributors
 
 Name               | GitHub user | Description |Role
 ---                | ---         | --- | ---
-Timotheus A. Bodt |             | maintainer | Author, RightsHolder, DataCurator
-Johann-Mattis List | @LinguList  | maintainer | Other
-
+Timotheus A. Bodt | @monpasang | Data curation | Author, RightsHolder
+Johann-Mattis List | @LinguList  | maintainer | Author
 
 
 

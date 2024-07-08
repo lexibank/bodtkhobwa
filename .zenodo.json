@@ -8,20 +8,15 @@
     "creators": [
         {
             "name": "Timotheus A. Bodt"
+        },
+        {
+            "name": "Johann-Mattis List"
         }
     ],
     "contributors": [
         {
             "name": "Timotheus A. Bodt",
             "type": "RightsHolder"
-        },
-        {
-            "name": "Timotheus A. Bodt",
-            "type": "DataCurator"
-        },
-        {
-            "name": "Johann-Mattis List",
-            "type": "Other"
         }
     ],
     "communities": [
