@@ -74,7 +74,7 @@ The collection of the data was funded by:
 Name               | GitHub user | Description |Role
 ---                | ---         | --- | ---
 Timotheus A. Bodt | @monpasang | Data curation | Author, RightsHolder
-Johann-Mattis List | @LinguList  | maintainer | Author
+Johann-Mattis List | @LinguList  | maintainer | Author, Editor
 
 
 
