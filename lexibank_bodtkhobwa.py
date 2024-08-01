@@ -31,6 +31,7 @@ class Dataset(pylexibank.Dataset):
     language_class = CustomLanguage
     cross_concept_cognates = True
     lexeme_class = CustomLexeme
+    writer_options = dict(keep_languages=False, keep_parameters=False)
 
     def cmd_makecldf(self, args):
 
